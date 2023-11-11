@@ -1,0 +1,100 @@
+Chinese: 他是我们队的第一。
+Pinyin: Tā shì wǒmen duì de dì yī.
+English: He is the first in our team.
+
+Chinese: 她在比赛中获得了第一名。
+Pinyin: Tā zài bǐsài zhōng huòdéle dì yī míng.
+English: She won the first place in the competition.
+
+Chinese: 这是他们家的第一个孩子。
+Pinyin: Zhè shì tāmen jiā de dì yī gè háizi.
+English: This is their first child.
+
+Chinese: 第一节课是数学课。
+Pinyin: Dì yī jié kè shì shùxué kè.
+English: The first class is math class.
+
+Chinese: 我们要在第一时间采取措施。
+Pinyin: Wǒmen yào zài dì yī shíjiān cǎiqǔ cuòshī.
+English: We need to take measures in the first time.
+
+Chinese: 这只苹果有半公斤。
+Pinyin: Zhè zhī píngguǒ yǒu bàn gōngjīn.
+English: This apple weighs half a kilogram.
+
+Chinese: 他每天锻炼身体，已经减了五公斤。
+Pinyin: Tā měitiān duànliàn shēntǐ, yǐjīng jiǎn le wǔ gōngjīn.
+English: He exercises every day and has already lost five kilograms.
+
+Chinese: 请问，这个行李的重量限制是多少公斤？
+Pinyin: Qǐngwèn, zhège xíngli de zhòngliàng xiànzhì shì duōshǎo gōngjīn?
+English: Excuse me, what is the weight limit for this luggage?
+
+Chinese: 每个箱子的运费是三十元每公斤。
+Pinyin: Měi gè xiāngzi de yùnfèi shì sānshí yuán měi gōngjīn.
+English: The shipping fee for each box is thirty yuan per kilogram.
+
+Chinese: 筐装葡萄酒通常以12公斤/箱的重量出售。
+Pinyin: Kuāngzhuāng pútáojiǔ tōngcháng yǐ shí'èr gōngjīn/xiāng de zhòngliàng chūshòu.
+English: Bottled wines are usually sold in packs of twelve kilograms per box.
+
+Chinese: 这本书价值一百元。
+Pinyin: Zhè běn shū jiàzhí yībǎi yuán.
+English: This book is worth one hundred yuan.
+
+Chinese: 我今天花了二十元买了一杯咖啡。
+Pinyin: Wǒ jīntiān huāle èrshí yuán mǎile yī bēi kāfēi.
+English: I spent twenty yuan today to buy a cup of coffee.
+
+Chinese: 那个饭馆的菜很好吃，价格也不贵，才五十元。
+Pinyin: Nàgè fànguǎn de cài hěn hǎo chī, jiàgé yě bù guì, cái wǔshí yuán.
+English: The food at that restaurant is delicious, and the price is not expensive, only fifty yuan.
+
+Chinese: 这件衣服原价是两百元，现在半价出售。
+Pinyin: Zhè jiàn yīfu yuánjià shì liǎngbǎi yuán, xiànzài bànjià chūshòu.
+English: The original price of this clothing is two hundred yuan, but now it is half-price.
+
+Chinese: 我买了一件新衣服。
+Pinyin: Wǒ mǎi le yí jiàn xīn yīfu.
+English: I bought a new piece of clothing.
+
+Chinese: 这是一件好消息。
+Pinyin: Zhè shì yí jiàn hǎo xiāoxi.
+English: This is a piece of good news.
+
+Chinese: 这件事情很复杂。
+Pinyin: Zhè jiàn shìqing hěn fùzá.
+English: This matter is very complicated.
+
+Chinese: 你需要处理一件紧急事件。
+Pinyin: Nǐ xūyào chǔlǐ yī jiàn jǐnjí shìjiàn.
+English: You need to handle an urgent matter.
+
+Chinese: 他穿着一件红色的外套。
+Pinyin: Tā chuānzhe yī jiàn hóngsè de wàitào.
+English: He is wearing a red jacket.
+
+Chinese: 我只带了几件行李。
+Pinyin: Wǒ zhǐ dài le jǐ jiàn xíngli.
+English: I brought only a few pieces of luggage.
+
+Chinese: 别担心，一切都会好起来的。
+Pinyin: Bié dānxīn, yīqiè dōu huì hǎo qǐlái de.
+English: Don't worry, everything will be all right.
+
+Chinese: 别在雨中走，你会淋湿的。
+Pinyin: Bié zài yǔ zhōng zǒu, nǐ huì línshī de.
+English: Don't walk in the rain, you will get wet.
+
+Chinese: 请别忘记关闭门。
+Pinyin: Qǐng bié wàngjì guānbì mén.
+English: Please don't forget to close the door.
+
+Chinese: 别吃太快，细嚼慢咽更健康。
+Pinyin: Bié chī tài kuài, xì jiáo màn yān gèng jiànkāng.
+English: Don't eat too fast; chewing slowly is healthier.
+
+Chinese: 这件事别再提了。
+Pinyin: Zhè jiàn shì bié zài tí le.
+English: Let's not bring up this matter again.
+
