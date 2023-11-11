@@ -5965,3 +5965,347 @@ English: This is where I will sleep from now on.
 Chinese: 以后我们可以一起去旅游。
 Pinyin: Yǐhòu wǒmen kěyǐ yìqǐ qù lǚyóu.
 English: We can travel together in the future.
+
+Chinese: 以前我住在这个城市。
+Pinyin: Yǐqián wǒ zhù zài zhège chéngshì.
+English: I used to live in this city before.
+
+Chinese: 我以前没有看过这部电影。
+Pinyin: Wǒ yǐqián méiyǒu kànguò zhè bù diànyǐng.
+English: I have never seen this movie before.
+
+Chinese: 我以前常常去公园跑步。
+Pinyin: Wǒ yǐqián chángcháng qù gōngyuán pǎobù.
+English: I used to go to the park for a run before.
+
+Chinese: 我以前不懂怎么做。
+Pinyin: Wǒ yǐqián bù dǒng zěnme zuò.
+English: I didn't know how to do it before.
+
+Chinese: 以前我每天都喝咖啡。
+Pinyin: Yǐqián wǒ měitiān dōu hē kāfēi.
+English: I used to drink coffee every day before.
+
+Chinese: 我以前都坐公交车上学。
+Pinyin: Wǒ yǐqián dōu zuò gōngjiāo chē shàngxué.
+English: I used to take the bus to go to school before.
+
+Chinese: 以前他是我的好朋友。
+Pinyin: Yǐqián tā shì wǒ de hǎo péngyǒu.
+English: He used to be my good friend before.
+
+Chinese: 这本书是以前买的。
+Pinyin: Zhè běn shū shì yǐqián mǎi de.
+English: This book was bought before.
+
+Chinese: 以前我家附近有一个公园。
+Pinyin: Yǐqián wǒ jiā fùjìn yǒu yīgè gōngyuán.
+English: There used to be a park near my home before.
+
+Chinese: 我以前常常做家务。
+Pinyin: Wǒ yǐqián chángcháng zuò jiāwù.
+English: I used to do housework often before.
+
+Chinese: 他以为他的钱包在书桌上。
+Pinyin: Tā yǐwéi tā de qiánbāo zài shūzhuō shàng.
+English: He thought his wallet was on the desk.
+
+Chinese: 她以为明天要下雨。
+Pinyin: Tā yǐwéi míngtiān yào xià yǔ.
+English: She thought it would rain tomorrow.
+
+Chinese: 我以为他会来参加聚会。
+Pinyin: Wǒ yǐwéi tā huì lái cānjiā jùhuì.
+English: I thought he would come to the gathering.
+
+Chinese: 他以为这个考试很容易。
+Pinyin: Tā yǐwéi zhège kǎoshì hěn róngyì.
+English: He thought this exam was easy.
+
+Chinese: 她以为他喜欢她。
+Pinyin: Tā yǐwéi tā xǐhuan tā.
+English: She thought he liked her.
+
+Chinese: 我以为我拿到了工作。
+Pinyin: Wǒ yǐwéi wǒ nádàole gōngzuò.
+English: I thought I got the job.
+
+Chinese: 他以为会有很多人参加派对。
+Pinyin: Tā yǐwéi huì yǒu hěnduō rén cānjiā pàiduì.
+English: He thought a lot of people would attend the party.
+
+Chinese: 我以为这个问题很容易回答。
+Pinyin: Wǒ yǐwéi zhège wèntí hěn róngyì huídá.
+English: I thought this question was easy to answer.
+
+Chinese: 他以为这本书很有趣。
+Pinyin: Tā yǐwéi zhè běn shū hěn yǒuqù.
+English: He thought this book was interesting.
+
+Chinese: 她以为他不生气了。
+Pinyin: Tā yǐwéi tā bù shēngqì le.
+English: She thought he was no longer angry.
+
+Chinese: 他的体温一般都是37度。
+Pinyin: Tā de tǐwēn yībān dōu shì 37 dù.
+English: His body temperature is usually 37 degrees.
+
+Chinese: 今天的天气一般般。
+Pinyin: Jīntiān de tiānqì yībān bān.
+English: The weather today is so-so.
+
+Chinese: 这家餐厅的服务一般。
+Pinyin: Zhè jiā cāntīng de fúwù yībān.
+English: The service at this restaurant is average.
+
+Chinese: 在普通日常会话中，我一般使用简体中文。
+Pinyin: Zài pǔtōng rìcháng huìhuà zhōng, wǒ yībān shǐyòng jiǎntǐ zhōngwén.
+English: In everyday conversations, I generally use simplified Chinese.
+
+Chinese: 我的健康状况一般。
+Pinyin: Wǒ de jiànkāng zhuàngkuàng yībān.
+English: My health condition is average.
+
+Chinese: 这个地方的安全状况一般。
+Pinyin: Zhège dìfāng de ānquán zhuàngkuàng yībān.
+English: The safety condition of this place is average.
+
+Chinese: 这个项目的进展一般顺利。
+Pinyin: Zhège xiàngmù de jìnzhǎn yībān shùnlì.
+English: The progress of this project is generally smooth.
+
+Chinese: 他的成绩一般。
+Pinyin: Tā de chéngjì yībān.
+English: His grades are average.
+
+Chinese: 一般来说，人们都会有喜怒哀乐的情绪。
+Pinyin: Yībān lái shuō, rénmen dōu huì yǒu xǐ nù āi lè de qíngxù.
+English: In general, people will have emotions of joy, anger, sorrow, and happiness.
+
+Chinese: 大多数人对这个问题的看法一般。
+Pinyin: Dà duōshù rén duì zhège wèntí de kànfǎ yībān.
+English: Most people have a neutral view towards this issue.
+
+Chinese: 他一直在看电视。
+Pinyin: Tā yīzhí zài kàn diànshì.
+English: He has been watching TV all along.
+
+Chinese: 她一直在等你的电话。
+Pinyin: Tā yīzhí zài děng nǐ de diànhuà.
+English: She has been waiting for your call all along.
+
+Chinese: 这条路直走就到了。
+Pinyin: Zhè tiáo lù zhí zǒu jiù dào le.
+English: Just go straight on this road and you will arrive.
+
+Chinese: 他们一直在为这个项目努力。
+Pinyin: Tāmen yīzhí zài wèi zhège xiàngmù nǔlì.
+English: They have been working hard for this project all along.
+
+Chinese: 她一直对我很好。
+Pinyin: Tā yīzhí duì wǒ hěn hǎo.
+English: She has always been very kind to me.
+
+Chinese: 我一直想去旅行。
+Pinyin: Wǒ yīzhí xiǎng qù lǚxíng.
+English: I have always wanted to travel.
+
+Chinese: 他一直在我身边支持我。
+Pinyin: Tā yīzhí zài wǒ shēnbiān zhīchí wǒ.
+English: He has been by my side supporting me all along.
+
+Chinese: 这个问题一直困扰着我。
+Pinyin: Zhège wèntí yīzhí kùnrǎo zhe wǒ.
+English: This problem has been bothering me all along.
+
+Chinese: 我一直等你回来。
+Pinyin: Wǒ yīzhí děng nǐ huílái.
+English: I have been waiting for you to come back all along.
+
+Chinese: 他一直坚持自己的梦想。
+Pinyin: Tā yīzhí jiānchí zìjǐ de mèngxiǎng.
+English: He has always persisted in pursuing his dreams.
+
+Chinese: 我要去银行取钱。
+Pinyin: Wǒ yào qù yínháng qǔqián.
+English: I want to go to the bank to withdraw money.
+
+Chinese: 明天早上我必须去银行办理手续。
+Pinyin: Míngtiān zǎoshang wǒ bìxū qù yínháng bànlǐ shǒuxù.
+English: Tomorrow morning, I must go to the bank to handle some formalities.
+
+Chinese: 我的妈妈在银行工作。
+Pinyin: Wǒ de māmā zài yínháng gōngzuò.
+English: My mom works at the bank.
+
+Chinese: 银行的柜员对我很友好。
+Pinyin: Yínháng de guìyuán duì wǒ hěn yǒuhǎo.
+English: The bank teller is very friendly to me.
+
+Chinese: 这家银行的服务很好。
+Pinyin: Zhè jiā yínháng de fúwù hěn hǎo.
+English: The service of this bank is very good.
+
+Chinese: 银行的大楼非常高。
+Pinyin: Yínháng de dàlóu fēicháng gāo.
+English: The bank building is very tall.
+
+Chinese: 我们应该每天锻炼身体。
+Pinyin: Wǒmen yīnggāi měitiān duànliàn shēntǐ.
+English: We should exercise every day.
+
+Chinese: 你应该早点睡觉。
+Pinyin: Nǐ yīnggāi zǎodiǎn shuìjiào.
+English: You should sleep earlier.
+
+Chinese: 我们应该尊重老师。
+Pinyin: Wǒmen yīnggāi zūnzhòng lǎoshī.
+English: We should respect the teacher.
+
+Chinese: 他们应该给你一个解释。
+Pinyin: Tāmen yīnggāi gěi nǐ yīgè jiěshì.
+English: They should give you an explanation.
+
+Chinese: 我们应该遵守规定。
+Pinyin: Wǒmen yīnggāi zūnshǒu guīdìng.
+English: We should follow the rules.
+
+Chinese: 他们应该负责任。
+Pinyin: Tāmen yīnggāi fùzérèn.
+English: They should take responsibility.
+
+Chinese: 你应该感谢他们的帮助。
+Pinyin: Nǐ yīnggāi gǎnxiè tāmen de bāngzhù.
+English: You should thank them for their help.
+
+Chinese: 我们应该保护环境。
+Pinyin: Wǒmen yīnggāi bǎohù huánjìng.
+English: We should protect the environment.
+
+Chinese: 你们应该尽快完成这项任务。
+Pinyin: Nǐmen yīnggāi jǐnkuài wánchéng zhè xiàng rènwu.
+English: You all should finish this task as soon as possible.
+
+Chinese: 他们应该按时支付工资。
+Pinyin: Tāmen yīnggāi ànshí zhīfù gōngzī.
+English: They should pay the salary on time.
+
+Chinese: 好的领导对团队有积极的影响。
+Pinyin: Hǎo de lǐngdǎo duì tuánduì yǒu jījí de yǐngxiǎng.
+English: A good leader has a positive influence on the team.
+
+Chinese: 过度使用社交媒体对人的健康有负面影响。
+Pinyin: Guòdù shǐyòng shèjiāo méitǐ duì rén de jiànkāng yǒu fùmiàn yǐngxiǎng.
+English: Excessive use of social media has negative effects on people's health.
+
+Chinese: 政治变革对国家经济产生了巨大的影响。
+Pinyin: Zhèngzhì biàngé duì guójiā jīngjì chǎnshēng le jùdà de yǐngxiǎng.
+English: Political changes have had a huge impact on the country's economy.
+
+Chinese: 父母的行为对孩子的成长具有深远的影响。
+Pinyin: Fùmǔ de xíngwéi duì háizi de chéngzhǎng jùyǒu shēnyuǎn de yǐngxiǎng.
+English: Parents' behavior has a profound influence on their children's growth.
+
+Chinese: 学习外语对个人的职业发展有积极的影响。
+Pinyin: Xuéxí wàiyǔ duì gèrén de zhíyè fāzhǎn yǒu jījí de yǐngxiǎng.
+English: Learning a foreign language has a positive impact on personal career development.
+
+Chinese: 好的音乐可以提高人们的情绪，产生积极的影响。
+Pinyin: Hǎo de yīnyuè kěyǐ tígāo rénmen de qíngxù, chǎnshēng jījí de yǐngxiǎng.
+English: Good music can elevate people's mood and have a positive influence.
+
+Chinese: 全球变暖对环境产生了不可逆转的影响。
+Pinyin: Quánqiú biànnuǎn duì huánjìng chǎnshēng le bùkě nǐzhuǎn de yǐngxiǎng.
+English: Global warming has irreversible effects on the environment.
+
+Chinese: 科技的进步对人类生活方式产生了巨大的影响。
+Pinyin: Kējì de jìnbù duì rénlèi shēnghuó fāngshì chǎnshēng le jùdà de yǐngxiǎng.
+English: Technological advancements have had a tremendous impact on human lifestyles.
+
+Chinese: 好的教育系统可以对社会产生积极的影响。
+Pinyin: Hǎo de jiàoyù xìtǒng kěyǐ duì shèhuì chǎnshēng jījí de yǐngxiǎng.
+English: A good education system can have a positive influence on society.
+
+Chinese: 早睡早起对身体和思维有益处，对人体产生积极的影响。
+Pinyin: Zǎo shuì zǎo qǐ duì shēntǐ hé sīwéi yǒu yìchù, duì réntǐ chǎnshēng jījí de yǐngxiǎng.
+English: Going to bed early and waking up early is beneficial for both the body and mind, and has a positive impact on the human body.
+
+Chinese: 我喜欢玩电子游戏。
+Pinyin: Wǒ xǐhuān wán diànzǐ yóuxì.
+English: I like playing video games.
+
+Chinese: 我经常跟朋友玩游戏。
+Pinyin: Wǒ jīngcháng gēn péngyǒu wán yóuxì.
+English: I often play games with my friends.
+
+Chinese: 昨天晚上我在家玩了很多游戏。
+Pinyin: Zuótiān wǎnshàng wǒ zài jiā wánle hěnduō yóuxì.
+English: I played a lot of games at home last night.
+
+Chinese: 我已经下载了新的手机游戏。
+Pinyin: Wǒ yǐjīng xiàzǎi le xīn de shǒujī yóuxì.
+English: I have downloaded a new mobile game.
+
+Chinese: 这个游戏很容易上手。
+Pinyin: Zhège yóuxì hěn róngyì shàngshǒu.
+English: This game is easy to pick up.
+
+Chinese: 我正在研究这个游戏的攻略。
+Pinyin: Wǒ zhèngzài yánjiū zhège yóuxì de gōnglüè.
+English: I am studying the game's strategy.
+
+Chinese: 他很擅长玩各种类型的游戏。
+Pinyin: Tā hěn shàncháng wán gèzhǒng lèixíng de yóuxì.
+English: He is good at playing games of various genres.
+
+Chinese: 每天放学后，我们一起去网吧玩游戏。
+Pinyin: Měitiān fàngxué hòu, wǒmen yìqǐ qù wǎngbā wán yóuxì.
+English: After school every day, we go to the internet café to play games together.
+
+Chinese: 他花了很多时间修炼游戏中的技能。
+Pinyin: Tā huā le hěnduō shíjiān xiūliàn yóuxì zhōng de jìnéng.
+English: He spent a lot of time honing his skills in the game.
+
+Chinese: 在周末，我喜欢和家人一起玩棋盘游戏。
+Pinyin: Zài zhōumò, wǒ xǐhuān hé jiārén yìqǐ wán qípán yóuxì.
+English: On weekends, I enjoy playing board games with my family.
+
+Chinese: 这个城市有很多有名的景点。
+Pinyin: Zhège chéngshì yǒu hěnduō yǒumíng de jǐngdiǎn.
+English: This city has many famous attractions.
+
+Chinese: 这本书的作者是一位有名的作家。
+Pinyin: Zhè běn shū de zuòzhě shì yī wèi yǒumíng de zuòjiā.
+English: The author of this book is a famous writer.
+
+Chinese: 她在这个领域有名。
+Pinyin: Tā zài zhège lǐngyù yǒumíng.
+English: She is famous in this field.
+
+Chinese: 这家餐厅有名的菜很多。
+Pinyin: Zhè jiā cāntīng yǒumíng de cài hěnduō.
+English: This restaurant has many famous dishes.
+
+Chinese: 这位演员是一位有名的影星。
+Pinyin: Zhè wèi yǎnyuán shì yī wèi yǒumíng de yǐngxīng.
+English: This actor is a famous movie star.
+
+Chinese: 这个品牌的产品在市场上很有名。
+Pinyin: Zhège pǐnpái de chǎnpǐn zài shìchǎng shàng hěn yǒumíng.
+English: The products of this brand are famous in the market.
+
+Chinese: 这栋建筑是一座有名的地标。
+Pinyin: Zhè dòng jiànzhú shì yī zuò yǒumíng de dìbiāo.
+English: This building is a famous landmark.
+
+Chinese: 这个地方的美食很有名。
+Pinyin: Zhège dìfāng de měishí hěn yǒumíng.
+English: The local food in this place is famous.
+
+Chinese: 这本小说是一本有名的经典之作。
+Pinyin: Zhè běn xiǎoshuō shì yī běn yǒumíng de jīngdiǎn zhī zuò.
+English: This novel is a famous classic.
+
+Chinese: 这个乐队是一支有名的摇滚乐队。
+Pinyin: Zhège yuèduì shì yī zhī yǒumíng de yáogǔn yuèduì.
+English: This band is a famous rock band.
