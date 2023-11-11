@@ -1,0 +1,476 @@
+Chinese: 我的阿姨是一位护士。
+Pinyin: Wǒ de āyí shì yí wèi hùshì.
+English: My aunt is a nurse.
+
+Chinese: 那位阿姨正在做饭。
+Pinyin: Nà wèi āyí zhèngzài zuòfàn.
+English: That aunt is cooking.
+
+Chinese: 我去拜访了我的阿姨。
+Pinyin: Wǒ qù bàifǎng le wǒ de āyí.
+English: I visited my aunt.
+
+Chinese: 阿姨给我买了一个礼物。
+Pinyin: Āyí gěi wǒ mǎi le yí ge lǐwù.
+English: Aunt bought me a gift.
+
+Chinese: 那个阿姨很友善。
+Pinyin: Nàge āyí hěn yǒushàn.
+English: That aunt is very friendly.
+
+Chinese: 你好啊！
+Pinyin: Nǐ hǎo a.
+English: Hello!
+
+Chinese: 啊！我明天要去旅行。
+Pinyin: A! Wǒ míngtiān yào qù lǚxíng.
+English: Oh! I'm going on a trip tomorrow.
+
+Chinese: 你喜欢吃啊？
+Pinyin: Nǐ xǐhuān chī a?
+English: Do you like to eat?
+
+Chinese: 啊，我忘了带手机。
+Pinyin: A, wǒ wàngle dài shǒujī.
+English: Oh, I forgot to bring my phone.
+
+Chinese: 啊！你是谁啊？
+Pinyin: A! Nǐ shì shéi a?
+English: Ah! Who are you?
+
+Chinese: 这个男孩很矮。
+Pinyin: Zhège nánhái hěn ǎi.
+English: This boy is short.
+
+Chinese: 她比我矮。
+Pinyin: Tā bǐ wǒ ǎi.
+English: She is shorter than me.
+
+Chinese: 这座山很矮。
+Pinyin: Zhè zuò shān hěn ǎi.
+English: This mountain is low.
+
+Chinese: 这只狗的个子很矮。
+Pinyin: Zhè zhī gǒu de gèzi hěn ǎi.
+English: This dog is small in size.
+
+Chinese: 我喜欢穿矮跟鞋。
+Pinyin: Wǒ xǐhuan chuān ǎigēn xié.
+English: I like to wear low-heeled shoes.
+
+Chinese: 我喜欢打篮球，这是我的爱好。
+Pinyin: Wǒ xǐhuān dǎ lánqiú, zhè shì wǒ de àihào.
+English: I like playing basketball, it is my hobby.
+
+Chinese: 她的爱好是画画，她经常在闲暇时间画画。
+Pinyin: Tā de àihào shì huà huà, tā jīngcháng zài xiánxiá shíjiān huà huà.
+English: Her hobby is drawing, she often draws in her free time.
+
+Chinese: 他对音乐很感兴趣，这是他的爱好之一。
+Pinyin: Tā duì yīnyuè hěn gǎn xìngqù, zhè shì tā de àihào zhī yī.
+English: He is very interested in music, it is one of his hobbies.
+
+Chinese: 我的爱好是读书，我喜欢阅读各种不同的书籍。
+Pinyin: Wǒ de àihào shì dúshū, wǒ xǐhuān yuèdú gèzhǒng bùtóng de shūjí.
+English: My hobby is reading, I enjoy reading various kinds of books.
+
+Chinese: 我有很多爱好，比如画画和跳舞。
+Pinyin: Wǒ yǒu hěn duō àihào, bǐrú huà huà hé tiào wǔ.
+English: I have many hobbies, such as painting and dancing.
+
+Chinese: 她的爱好是读书和旅行。
+Pinyin: Tā de àihào shì dúshū hé lǚxíng.
+English: Her hobbies are reading and traveling.
+
+Chinese: 他的爱好是听音乐和打篮球。
+Pinyin: Tā de àihào shì tīng yīnyuè hé dǎ lánqiú.
+English: His hobbies are listening to music and playing basketball.
+
+Chinese: 孩子们的爱好是玩游戏和看电影。
+Pinyin: Háizimen de àihào shì wán yóuxì hé kàn diànyǐng.
+English: The children's hobbies are playing games and watching movies.
+
+Chinese: 我的爱好是做饭和品尝美食。
+Pinyin: Wǒ de àihào shì zuò fàn hé pǐncháng měishí.
+English: My hobbies are cooking and tasting delicious food.
+
+Chinese: 我喜欢在安静的环境中工作。
+Pinyin: Wǒ xǐhuān zài ānjìng de huánjìng zhōng gōngzuò.
+English: I like to work in a quiet environment.
+
+Chinese: 这个地方非常安静。
+Pinyin: Zhège dìfang fēicháng ānjìng.
+English: This place is very quiet.
+
+Chinese: 她喜欢晚上在家安静地看书。
+Pinyin: Tā xǐhuān wǎnshàng zài jiā ānjìng de kànshū.
+English: She likes to read quietly at home in the evenings.
+
+Chinese: 儿童房间应该保持安静。
+Pinyin: Értóng fángjiān yīnggāi bǎochí ānjìng.
+English: Children's rooms should be kept quiet.
+
+Chinese: 周末的早晨是最安静的时候。
+Pinyin: Zhōumò de zǎochén shì zuì ānjìng de shíhòu.
+English: Weekend mornings are the quietest time.
+
+Chinese: 请把门关上。
+Pinyin: Qǐng bǎ mén guān shàng.
+English: Please close the door.
+
+Chinese: 她把书放在桌子上。
+Pinyin: Tā bǎ shū fàng zài zhuōzi shàng.
+English: She put the book on the table.
+
+Chinese: 他把钥匙丢了。
+Pinyin: Tā bǎ yàoshi diū le.
+English: He lost the keys.
+
+Chinese: 妈妈把菜切好了。
+Pinyin: Māmā bǎ cài qiē hǎo le.
+English: Mom has cut the vegetables.
+
+Chinese: 我把这个问题解决了。
+Pinyin: Wǒ bǎ zhège wèntí jiějué le.
+English: I solved this problem.
+
+Chinese: 这个商店里卖百货。
+Pinyin: Zhège shāngdiàn lǐ mài bǎihuò.
+English: This store sells various goods.
+
+Chinese: 这本书有百页。
+Pinyin: Zhè běn shū yǒu bǎi yè.
+English: This book has one hundred pages.
+
+Chinese: 我们赢得比赛，得分是百分之九十。
+Pinyin: Wǒmen yíngdé bǐsài, défēn shì bǎi fēn zhī jiǔshí.
+English: We won the game with a score of ninety percent.
+
+Chinese: 我们研究了上百篇论文。
+Pinyin: Wǒmen yánjiūle shàng bǎi piān lùnwén.
+English: We studied over one hundred papers.
+
+Chinese: 这个城市有百姓四百万。
+Pinyin: Zhège chéngshì yǒu bǎixìng sìbǎiwàn.
+English: This city has a population of four million people.
+
+Chinese: 我每天上班。
+Pinyin: Wǒ měi tiān shàngbān.
+English: I go to work every day.
+
+Chinese: 他是一个好班长。
+Pinyin: Tā shì yīgè hǎo bānzhǎng.
+English: He is a good class monitor.
+
+Chinese: 我们是同班同学。
+Pinyin: Wǒmen shì tóng bān tóngxué.
+English: We are classmates in the same class.
+
+Chinese: 星期五我有下午班。
+Pinyin: Xīngqíwǔ wǒ yǒu xiàwǔ bān.
+English: I have an afternoon shift on Friday.
+
+Chinese: 我喜欢和我的班级朋友们一起玩。
+Pinyin: Wǒ xǐhuan hé wǒ de bānjí péngyǒumen yīqǐ wán.
+English: I like to play with my classmates.
+
+Chinese: 他搬家了。
+Pinyin: Tā bān jiā le.
+English: He moved (to a new house).
+
+Chinese: 妈妈搬了一张桌子。
+Pinyin: Māmā bān le yī zhāng zhuōzi.
+English: Mom moved a table.
+
+Chinese: 他搬走了我的书。
+Pinyin: Tā bān zǒu le wǒ de shū.
+English: He moved my books away.
+
+Chinese: 我们需要搬一些沙发。
+Pinyin: Wǒmen xūyào bān yīxiē shāfā.
+English: We need to move some sofas.
+
+Chinese: 昨天他们搬了一个花瓶。
+Pinyin: Zuótiān tāmen bān le yī gè huāpíng.
+English: Yesterday they moved a vase.
+
+Chinese: 我等了半个小时。
+Pinyin: Wǒ děng le bàn ge xiǎoshí.
+English: I waited for half an hour.
+
+Chinese: 他半夜才回家。
+Pinyin: Tā bànyè cái huí jiā.
+English: He didn't come home until midnight.
+
+Chinese: 她的生日还有半个月。
+Pinyin: Tā de shēngrì hái yǒu bàn ge yuè.
+English: Her birthday is still half a month away.
+
+Chinese: 我还差半块钱。
+Pinyin: Wǒ hái chà bàn kuài qián.
+English: I am still short half a yuan.
+
+Chinese: 这辆车只剩下半箱油了。
+Pinyin: Zhè liàng chē zhǐ shèng xià bàn xiāng yóu le.
+English: This car only has half a tank of gas left.
+
+Chinese: 我们需要找到解决问题的办法。
+Pinyin: Wǒmen xūyào zhǎodào jiějué wèntí de bànfǎ.
+English: We need to find a solution to the problem.
+
+Chinese: 如果你有什么困难，尽管告诉我，我会帮你想办法。
+Pinyin: Rúguǒ nǐ yǒu shénme kùnnán, jǐnguǎn gàosù wǒ, wǒ huì bāng nǐ xiǎng bànfǎ.
+English: If you have any difficulties, just let me know, I will help you figure out a solution.
+
+Chinese: 我们要想办法增加销售额。
+Pinyin: Wǒmen yào xiǎng bànfǎ zēngjiā xiāoshòu'é.
+English: We need to find a way to increase sales.
+
+Chinese: 我们找了很多办法，可是问题还是没有解决。
+Pinyin: Wǒmen zhǎo le hěnduō bànfǎ, kěshì wèntí háishì méiyǒu jiějué.
+English: We tried many methods, but the problem still hasn't been solved.
+
+Chinese: 在这种情况下，我觉得没有其他办法。
+Pinyin: Zài zhè zhǒng qíngkuàng xià, wǒ juéde méiyǒu qítā bànfǎ.
+English: In this situation, I feel there is no other way.
+
+Chinese: 我在办公室工作。
+Pinyin: Wǒ zài bàngōngshì gōngzuò.
+English: I work in the office.
+
+Chinese: 请到办公室签字。
+Pinyin: Qǐng dào bàngōngshì qiānzì.
+English: Please come to the office and sign.
+
+Chinese: 办公室在二楼。
+Pinyin: Bàngōngshì zài èr lóu.
+English: The office is on the second floor.
+
+Chinese: 请按门铃进入办公室。
+Pinyin: Qǐng àn ménlíng jìnrù bàngōngshì.
+English: Please ring the doorbell to enter the office.
+
+Chinese: 办公室里有很多文件。
+Pinyin: Bàngōngshì lǐ yǒu hěnduō wénjiàn.
+English: There are many documents in the office.
+
+Chinese: 请你帮忙一下。
+Pinyin: Qǐng nǐ bāngmáng yīxià.
+English: Can you help me for a moment?
+
+Chinese: 她经常帮忙做家务。
+Pinyin: Tā jīngcháng bāngmáng zuò jiāwù.
+English: She often helps with housework.
+
+Chinese: 我请他帮忙修电脑。
+Pinyin: Wǒ qǐng tā bāngmáng xiū diànnǎo.
+English: I asked him to help fix the computer.
+
+Chinese: 他不愿意帮忙。
+Pinyin: Tā bù yuànyì bāngmáng.
+English: He doesn't want to help.
+
+Chinese: 老师让我们互相帮忙。
+Pinyin: Lǎoshī ràng wǒmen hùxiāng bāngmáng.
+English: The teacher asked us to help each other.
+
+Chinese: 她帮助我学习汉语。
+Pinyin: Tā bāngzhù wǒ xuéxí hànyǔ.
+English: She helps me learn Chinese.
+
+Chinese: 我很感激你的帮助。
+Pinyin: Wǒ hěn gǎnjī nǐ de bāngzhù.
+English: I am very grateful for your help.
+
+Chinese: 请帮助我找出错误。
+Pinyin: Qǐng bāngzhù wǒ zhǎo chū cuòwù.
+English: Please help me find the mistake.
+
+Chinese: 父母是我们成长道路上最重要的帮助者。
+Pinyin: Fùmǔ shì wǒmen chéngzhǎng dàolù shàng zuì zhòngyào de bāngzhù zhě.
+English: Parents are the most important helpers on our path to growth.
+
+Chinese: 该组织为需要帮助的人提供食物和庇护。
+Pinyin: Gāi zǔzhī wèi xūyào bāngzhù de rén tígōng shíwù hé bìhù.
+English: The organization provides food and shelter for people in need of assistance.
+
+Chinese: 这个包很大。
+Pinyin: Zhège bāo hěn dà.
+English: This bag is big.
+
+Chinese: 我买了一个包。
+Pinyin: Wǒ mǎi le yīgè bāo.
+English: I bought a bag.
+
+Chinese: 她拿着一个红色的包。
+Pinyin: Tā názhe yīgè hóngsè de bāo.
+English: She is holding a red bag.
+
+Chinese: 这个包很贵。
+Pinyin: Zhège bāo hěn guì.
+English: This bag is expensive.
+
+Chinese: 她把钱放在包里。
+Pinyin: Tā bǎ qián fàng zài bāo lǐ.
+English: She put the money in the bag.
+
+Chinese: 我吃得很饱。
+Pinyin: Wǒ chī de hěn bǎo.
+English: I am very full.
+
+Chinese: 孩子们吃得很饱。
+Pinyin: Háizimen chī de hěn bǎo.
+English: The children ate a lot and are very full.
+
+Chinese: 他饭吃得很饱。
+Pinyin: Tā fàn chī de hěn bǎo.
+English: He ate a lot and is very full.
+
+Chinese: 这顿饭吃得很饱。
+Pinyin: Zhè dùn fàn chī de hěn bǎo.
+English: This meal was very filling.
+
+Chinese: 我已经饱了，不想吃了。
+Pinyin: Wǒ yǐjīng bǎo le, bù xiǎng chī le.
+English: I am already full and don't want to eat anymore.
+
+Chinese: 我每天早上都读报纸。
+Pinyin: Wǒ měi tiān zǎoshang dōu dú bàozhǐ.
+English: I read the newspaper every morning.
+
+Chinese: 昨天我买了一份报纸。
+Pinyin: Zuótiān wǒ mǎile yī fèn bàozhǐ.
+English: Yesterday, I bought a newspaper.
+
+Chinese: 这家报纸的内容很有趣。
+Pinyin: Zhè jiā bàozhǐ de nèiróng hěn yǒuqù.
+English: The content of this newspaper is very interesting.
+
+Chinese: 我喜欢读体育新闻的报纸。
+Pinyin: Wǒ xǐhuān dú tǐyù xīnwén de bàozhǐ.
+English: I like to read newspapers that have sports news.
+
+Chinese: 报架上的报纸种类很丰富。
+Pinyin: Bàojià shàng de bàozhǐ zhǒnglèi hěn fēngfù.
+English: The newspapers on the bookshelf have a wide variety.
+
+Chinese: 这是我的杯子。
+Pinyin: Zhè shì wǒ de bēizi.
+English: This is my cup.
+
+Chinese: 这个杯子很漂亮。
+Pinyin: Zhège bēizi hěn piàoliang.
+English: This cup is very beautiful.
+
+Chinese: 我要一杯水。
+Pinyin: Wǒ yào yī bēi shuǐ.
+English: I want a glass of water.
+
+Chinese: 别打翻了杯子。
+Pinyin: Bié dǎ fānle bēizi.
+English: Don't knock over the cup.
+
+Chinese: 她把杯子放在桌子上。
+Pinyin: Tā bǎ bēizi fàng zài zhuōzi shàng.
+English: She put the cup on the table.
+
+Chinese: 北方的冬天很冷。
+Pinyin: Běifāng de dōngtiān hěn lěng.
+English: The winters in the north are very cold.
+
+Chinese: 北方的夏天很炎热。
+Pinyin: Běifāng de xiàtiān hěn yánrè.
+English: The summers in the north are very hot.
+
+Chinese: 北方有很多美丽的雪景。
+Pinyin: Běifāng yǒu hěnduō měilì de xuějǐng.
+English: The north has many beautiful snowscapes.
+
+Chinese: 我的家乡在北方。
+Pinyin: Wǒ de jiāxiāng zài běifāng.
+English: My hometown is in the north.
+
+Chinese: 北方的风比较大。
+Pinyin: Běifāng de fēng bǐjiào dà.
+English: The winds in the north are stronger.
+
+Chinese: 我的书被狗咬破了。
+Pinyin: Wǒ de shū bèi gǒu yǎo pò le.
+English: My book was bitten by a dog and torn.
+
+Chinese: 这个问题被他回答了。
+Pinyin: Zhège wèntí bèi tā huídá le.
+English: This question was answered by him.
+
+Chinese: 这个电脑被我修好了。
+Pinyin: Zhège diànnǎo bèi wǒ xiū hǎo le.
+English: This computer was fixed by me.
+
+Chinese: 她的照片被我欣赏过。
+Pinyin: Tā de zhàopiàn bèi wǒ xīnshǎng guò.
+English: Her photo was appreciated by me.
+
+Chinese: 这本书被很多人喜欢。
+Pinyin: Zhè běn shū bèi hěnduō rén xǐhuān.
+English: This book is liked by many people.
+
+Chinese: 这本书比那本书贵。
+Pinyin: Zhè běn shū bǐ nà běn shū guì.
+English: This book is more expensive than that book.
+
+Chinese: 今天的天气比昨天好。
+Pinyin: Jīntiān de tiānqì bǐ zuótiān hǎo.
+English: The weather today is better than yesterday.
+
+Chinese: 姐姐比我大两岁。
+Pinyin: Jiějie bǐ wǒ dà liǎng suì.
+English: My older sister is two years older than me.
+
+Chinese: 这家饭店比较便宜。
+Pinyin: Zhè jiā fàndiàn bǐjiào piányi.
+English: This restaurant is relatively cheap.
+
+Chinese: 我比较喜欢吃辣的食物。
+Pinyin: Wǒ bǐjiào xǐhuān chī là de shíwù.
+English: I prefer to eat spicy food.
+
+Chinese: 我喜欢看足球比赛。
+Pinyin: Wǒ xǐhuan kàn zúqiú bǐsài.
+English: I enjoy watching football matches.
+
+Chinese: 他正在准备参加明天的篮球比赛。
+Pinyin: Tā zhèngzài zhǔnbèi cānjiā míngtiān de lánqiú bǐsài.
+English: He is preparing to participate in tomorrow's basketball game.
+
+Chinese: 我们班级要进行一场唱歌比赛。
+Pinyin: Wǒmen bānjí yào jìnxíng yīchǎng chànggē bǐsài.
+English: Our class is going to have a singing competition.
+
+Chinese: 足球比赛的结果是平局。
+Pinyin: Zúqiú bǐsài de jiéguǒ shì píngjú.
+English: The outcome of the football match was a draw.
+
+Chinese: 她在高中时参加过很多乒乓球比赛。
+Pinyin: Tā zài gāozhōng shí cānjiāguò hěnduō pīngpāngqiú bǐsài.
+English: She participated in many table tennis competitions during high school.
+
+Chinese: 我必须完成这个任务。
+Pinyin: Wǒ bìxū wánchéng zhège rènwù.
+English: I must complete this task.
+
+Chinese: 你必须准时到达。
+Pinyin: Nǐ bìxū zhǔnshí dàodá.
+English: You must arrive on time.
+
+Chinese: 我们必须采取行动。
+Pinyin: Wǒmen bìxū cǎiqǔ xíngdòng.
+English: We must take action.
+
+Chinese: 她必须学会独立。
+Pinyin: Tā bìxū xuéhuì dúlì.
+English: She must learn to be independent.
+
+Chinese: 这是必须的规定。
+Pinyin: Zhè shì bìxū de guīdìng.
+English: This is a necessary regulation.
+
