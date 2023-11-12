@@ -2928,3 +2928,299 @@ English: Why is it so cold?
 Chinese: 为什么这本书这么有趣？
 Pinyin: Wèishéme zhè běn shū zhème yǒuqù?
 English: Why is this book so interesting?
+
+Chinese: 我有三个手机。
+Pinyin: Wǒ yǒu sān gè shǒujī.
+English: I have three mobile phones.
+
+Chinese: 这本书有三百页。
+Pinyin: Zhè běn shū yǒu sān bǎi yè.
+English: This book has three hundred pages.
+
+Chinese: 今天是三月三号。
+Pinyin: Jīntiān shì sān yuè sān hào.
+English: Today is the third of March.
+
+Chinese: 这个箱子有三层。
+Pinyin: Zhège xiāngzi yǒu sān céng.
+English: This box has three layers.
+
+Chinese: 我每天喝三杯咖啡。
+Pinyin: Wǒ měitiān hē sān bēi kāfēi.
+English: I drink three cups of coffee every day.
+
+Chinese: 他有三个弟弟。
+Pinyin: Tā yǒu sān gè dìdi.
+English: He has three younger brothers.
+
+Chinese: 三岁的孩子可以上幼儿园。
+Pinyin: Sān suì de háizi kěyǐ shàng yòu'éryuán.
+English: A three-year-old child can go to kindergarten.
+
+Chinese: 我是三姐妹中最小的。
+Pinyin: Wǒ shì sān jiěmèi zhōng zuìxiǎo de.
+English: I am the youngest of three sisters.
+
+Chinese: 我每天要练习三个小时的钢琴。
+Pinyin: Wǒ měitiān yào liànxí sān gè xiǎoshí de gāngqín.
+English: I practice the piano for three hours every day.
+
+Chinese: 他花了三分钟解决了这个问题。
+Pinyin: Tā huāle sān fēnzhōng jiějuéle zhège wèntí.
+English: He solved this problem in three minutes.
+
+Chinese: 这本书有四百页。
+Pinyin: Zhè běn shū yǒu sìbǎi yè.
+English: This book has four hundred pages.
+
+Chinese: 这辆汽车有四个轮子。
+Pinyin: Zhè liàng qìchē yǒu sì gè lúnzi.
+English: This car has four wheels.
+
+Chinese: 请给我四件衣服。
+Pinyin: Qǐng gěi wǒ sì jiàn yīfu.
+English: Please give me four pieces of clothing.
+
+Chinese: 这个月有四个周末。
+Pinyin: Zhège yuè yǒu sì gè zhōumò.
+English: This month has four weekends.
+
+Chinese: 今天是四月四号。
+Pinyin: Jīntiān shì sì yuè sì hào.
+English: Today is the fourth of April.
+
+Chinese: 我家有四口人。
+Pinyin: Wǒ jiā yǒu sì kǒu rén.
+English: There are four people in my family.
+
+Chinese: 这份文件有四个部分。
+Pinyin: Zhè fèn wénjiàn yǒu sì gè bùfèn.
+English: This document has four sections.
+
+Chinese: 这套家具有四把椅子。
+Pinyin: Zhè tào jiājù yǒu sì bǎ yǐzi.
+English: This set of furniture has four chairs.
+
+Chinese: 这个箱子有四个拉链。
+Pinyin: Zhège xiāngzi yǒu sì gè lāliàn.
+English: This suitcase has four zippers.
+
+Chinese: 这辆自行车有四个刹车。
+Pinyin: Zhè liàng zìxíngchē yǒu sì gè shāchē.
+English: This bicycle has four brakes.
+
+Chinese: 我有五个苹果。
+Pinyin: Wǒ yǒu wǔ gè píngguǒ.
+English: I have five apples.
+
+Chinese: 她的生日是五月五日。
+Pinyin: Tā de shēngrì shì wǔ yuè wǔ rì.
+English: Her birthday is on May 5th.
+
+Chinese: 这是五本书。
+Pinyin: Zhè shì wǔ běn shū.
+English: These are five books.
+
+Chinese: 我每天睡五个小时。
+Pinyin: Wǒ měitiān shuì wǔ gè xiǎoshí.
+English: I sleep for five hours every day.
+
+Chinese: 这个箱子里有五只猫。
+Pinyin: Zhège xiāngzi lǐ yǒu wǔ zhī māo.
+English: There are five cats in this box.
+
+Chinese: 这是五条裤子。
+Pinyin: Zhè shì wǔ tiáo kùzi.
+English: These are five pairs of pants.
+
+Chinese: 她五岁了。
+Pinyin: Tā wǔ suì le.
+English: She is five years old.
+
+Chinese: 我经常学习五个小时。
+Pinyin: Wǒ jīngcháng xuéxí wǔ gè xiǎoshí.
+English: I often study for five hours.
+
+Chinese: 我每周打五次篮球。
+Pinyin: Wǒ měi zhōu dǎ wǔ cì lánqiú.
+English: I play basketball five times a week.
+
+Chinese: 这个房间有五个人。
+Pinyin: Zhège fángjiān yǒu wǔ gè rén.
+English: There are five people in this room.
+
+Chinese: 我有六个苹果。
+Pinyin: Wǒ yǒu liù gè píngguǒ.
+English: I have six apples.
+
+Chinese: 我们班上有六十个学生。
+Pinyin: Wǒmen bān shàng yǒu liùshí gè xuéshēng.
+English: There are sixty students in our class.
+
+Chinese: 我收到六封电子邮件。
+Pinyin: Wǒ shōudào liù fēng diànzǐ yóujiàn.
+English: I received six emails.
+
+Chinese: 这本课本有六页。
+Pinyin: Zhè běn kèběn yǒu liù yè.
+English: This textbook has six pages.
+
+Chinese: 我每天喝六杯水。
+Pinyin: Wǒ měitiān hē liù bēi shuǐ.
+English: I drink six cups of water every day.
+
+Chinese: 我的房间有六盏灯。
+Pinyin: Wǒ de fángjiān yǒu liù zhǎn dēng.
+English: There are six lights in my room.
+
+Chinese: 我每天睡六小时。
+Pinyin: Wǒ měitiān shuì liù xiǎoshí.
+English: I sleep for six hours every day.
+
+Chinese: 星期六我要去看电影。
+Pinyin: Xīngqíliù wǒ yào qù kàn diànyǐng.
+English: I'm going to watch a movie on Saturday.
+
+Chinese: 我今天买了七个苹果。
+Pinyin: Wǒ jīntiān mǎi le qī gè píngguǒ.
+English: I bought seven apples today.
+
+Chinese: 这个星期有七天。
+Pinyin: Zhège xīngqī yǒu qī tiān.
+English: This week has seven days.
+
+Chinese: 我有七本书。
+Pinyin: Wǒ yǒu qī běn shū.
+English: I have seven books.
+
+Chinese: 我的电话号码有七个数字。
+Pinyin: Wǒ de diànhuà hàomǎ yǒu qī gè shùzì.
+English: My phone number has seven digits.
+
+Chinese: 世界上有七大洲。
+Pinyin: Shìjiè shàng yǒu qī dà zhōu.
+English: There are seven continents in the world.
+
+Chinese: 那个年轻人有七个兄弟姐妹。
+Pinyin: Nàgè niánqīngrén yǒu qī gè xiōngdì jiěmèi.
+English: That young man has seven siblings.
+
+Chinese: 星期天是每周的第七天。
+Pinyin: Xīngqītiān shì měi zhōu de dì qī tiān.
+English: Sunday is the seventh day of each week.
+
+Chinese: 我们这个月的第七天要举行聚会。
+Pinyin: Wǒmen zhège yuè de dì qī tiān yào jǔxíng jùhuì.
+English: We will hold a party on the seventh day of this month.
+
+Chinese: 这个星座代表七月份的出生人。
+Pinyin: Zhège xīngzuò dàibiǎo qī yuèfèn de chūshēng rén.
+English: This constellation represents people born in July.
+
+Chinese: 他家里有八个人。
+Pinyin: Tā jiālǐ yǒu bā gè rén.
+English: There are eight people in his family.
+
+Chinese: 那本书有八十页。
+Pinyin: Nà běn shū yǒu bāshí yè.
+English: That book has eighty pages.
+
+Chinese: 八月是夏天的最后一个月。
+Pinyin: Bā yuè shì xiàtiān de zuìhòu yīgè yuè.
+English: August is the last month of summer.
+
+Chinese: 这个星期的星期日是八月九号。
+Pinyin: Zhège xīngqí de xīngqírì shì bā yuè jiǔ hào.
+English: The Sunday of this week is August 9th.
+
+Chinese: 八点整我们开始开会。
+Pinyin: Bā diǎn zhěng wǒmen kāishǐ kāihuì.
+English: We start the meeting at eight sharp.
+
+Chinese: 我这个月八号生日。
+Pinyin: Wǒ zhège yuè bā hào shēngrì.
+English: My birthday is on the eighth of this month.
+
+Chinese: 明天是八月四号。
+Pinyin: Míngtiān shì bā yuè sì hào.
+English: Tomorrow is August 4th.
+
+Chinese: 刚收到了八封电子邮件。
+Pinyin: Gāng shōudàole bā fēng diànzǐ yóujiàn.
+English: Just received eight emails.
+
+Chinese: 八十加十等于九十。
+Pinyin: Bāshí jiā shí děngyú jiǔshí.
+English: Eighty plus ten equals ninety.
+
+Chinese: 这本书有九页。
+Pinyin: Zhè běn shū yǒu jiǔ yè.
+English: This book has nine pages.
+
+Chinese: 我有九只铅笔。
+Pinyin: Wǒ yǒu jiǔ zhī qiānbǐ.
+English: I have nine pencils.
+
+Chinese: 这个房间有九个椅子。
+Pinyin: Zhège fángjiān yǒu jiǔ gè yǐzi.
+English: This room has nine chairs.
+
+Chinese: 我需要九块钱。
+Pinyin: Wǒ xūyào jiǔ kuài qián.
+English: I need nine yuan.
+
+Chinese: 他们一共写了九条规则。
+Pinyin: Tāmen yīgòng xiěle jiǔ tiáo guīzé.
+English: They wrote a total of nine rules.
+
+Chinese: 九月是我的生日。
+Pinyin: Jiǔ yuè shì wǒ de shēngrì.
+English: September is my birthday month.
+
+Chinese: 我九点钟起床。
+Pinyin: Wǒ jiǔ diǎn zhōng qǐchuáng.
+English: I wake up at nine o'clock.
+
+Chinese: 我已经打了九个电话，还是没人接。
+Pinyin: Wǒ yǐjīng dǎle jiǔ gè diànhuà, háishì méi rén jiē.
+English: I have already made nine calls, but no one answered.
+
+Chinese: 这个餐厅十点关门。
+Pinyin: Zhège cāntīng shí diǎn guān mén.
+English: This restaurant closes at 10 o'clock.
+
+Chinese: 十个学生在教室里学习。
+Pinyin: Shí gè xuéshēng zài jiàoshì lǐ xuéxí.
+English: Ten students are studying in the classroom.
+
+Chinese: 今天是十月十号。
+Pinyin: Jīntiān shì shí yuè shí hào.
+English: Today is the 10th of October.
+
+Chinese: 公交车每十分钟来一班。
+Pinyin: Gōngjiāochē měi shí fēnzhōng lái yī bān.
+English: The bus comes every 10 minutes.
+
+Chinese: 爸爸做了十个蛋糕。
+Pinyin: Bàba zuòle shí gè dàngāo.
+English: Dad made ten cakes.
+
+Chinese: 这个菜谱有十道菜。
+Pinyin: Zhège càipǔ yǒu shí dào cài.
+English: This recipe has ten dishes.
+
+Chinese: 那个旅行团有十个人。
+Pinyin: Nàgè lǚxíngtuán yǒu shí gè rén.
+English: That travel group has ten people.
+
+Chinese: 我们需要十本书来供应图书馆。
+Pinyin: Wǒmen xūyào shí běn shū lái gōngyìng túshūguǎn.
+English: We need ten books to supply the library.
+
+Chinese: 小狗有十个兄弟姐妹。
+Pinyin: Xiǎo gǒu yǒu shí gè xiōngdì jiěmèi.
+English: The puppy has ten siblings.
+
+Chinese: 今晚十点有一个重要会议。
+Pinyin: Jīnwǎn shí diǎn yǒu yīgè zhòngyào huìyì.
+English: There is an important meeting at 10 o'clock tonight.
