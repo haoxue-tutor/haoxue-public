@@ -2638,3 +2638,82 @@ Chinese: 我们星期五一起去购物吧。
 Pinyin: Wǒmen xīngqī wǔ yìqǐ qù gòuwù ba.
 English: Let's go shopping together on Friday.
 
+Chinese: 他的梦想变成现实了。
+Pinyin: Tā de mèngxiǎng biànchéng xiànshí le.
+English: His dream has become a reality.
+
+Chinese: 我希望天气能够变成晴朗的。
+Pinyin: Wǒ xīwàng tiānqì nénggòu biànchéng qínglǎng de.
+English: I hope the weather can become sunny.
+
+Chinese: 时间不知不觉就变成了过去。
+Pinyin: Shíjiān bùzhībùjué jiù biànchéng le guòqù.
+English: Time unknowingly turned into the past.
+
+Chinese: 我们要努力工作，让梦想变成现实。
+Pinyin: Wǒmen yào nǔlì gōngzuò, ràng mèngxiǎng biànchéng xiànshí.
+English: We need to work hard to make our dreams come true.
+
+Chinese: 年轻的人逐渐变成了成熟的大人。
+Pinyin: Niánqīng de rén zhújiàn biànchéng le chéngshú de dàrén.
+English: Young people gradually turn into mature adults.
+
+Chinese: 子女长大后会变成父母的财富。
+Pinyin: Zǐnǚ zhǎngdà hòu huì biànchéng fùmǔ de cáifù.
+English: Children become their parents' wealth when they grow up.
+
+Chinese: 他们的计划最终变成了失败。
+Pinyin: Tāmen de jìhuà zuìzhōng biànchéng le shībài.
+English: Their plan eventually turned into a failure.
+
+Chinese: 这个房间会在一天之内变成垃圾场。
+Pinyin: Zhège fángjiān huì zài yītiān zhīnèi biànchéng lājīchǎng.
+English: This room will become a garbage dump within a day.
+
+Chinese: 希望你的悲伤能够变成力量。
+Pinyin: Xīwàng nǐ de bēishāng nénggòu biànchéng lìliàng.
+English: I hope your sadness can turn into strength.
+
+Chinese: 这个演员在不同角色中变成了不同的人。
+Pinyin: Zhège yǎnyuán zài bùtóng juésè zhōng biànchéng le bùtóng de rén.
+English: This actor becomes different people in different roles.
+
+Chinese: 我想变成一名医生。
+Pinyin: Wǒ xiǎng biàn chéng yī míng yīshēng.
+English: I want to become a doctor.
+
+Chinese: 他的梦想是变成一位作家。
+Pinyin: Tā de mèngxiǎng shì biàn chéng yī wèi zuòjiā.
+English: His dream is to become a writer.
+
+Chinese: 我希望孩子能变成一个有爱心的人。
+Pinyin: Wǒ xīwàng háizi néng biàn chéng yīgè yǒu àixīn de rén.
+English: I hope my child can become a loving person.
+
+Chinese: 时间会改变我们。
+Pinyin: Shíjiān huì gǎibiàn wǒmen.
+English: Time will change us.
+
+Chinese: 她很快就变成了一位优秀的演员。
+Pinyin: Tā hěn kuài jiù biàn chéng le yī wèi yōuxiù de yǎnyuán.
+English: She quickly became an excellent actress.
+
+Chinese: 糖变成了糖浆。
+Pinyin: Táng biàn chéng le tángjiāng.
+English: The sugar turned into syrup.
+
+Chinese: 悲伤逐渐变成了笑声。
+Pinyin: Bēishāng zhújiàn biàn chéng le xiào shēng.
+English: Sadness gradually turned into laughter.
+
+Chinese: 天气突然变成了晴朗。
+Pinyin: Tiānqì túrán biàn chéng le qínglǎng.
+English: The weather suddenly turned sunny.
+
+Chinese: 她的工作让她变成了一个自信的人。
+Pinyin: Tā de gōngzuò ràng tā biàn chéng le yīgè zìxìn de rén.
+English: Her job made her become a confident person.
+
+Chinese: 我们的计划发生了变化。
+Pinyin: Wǒmen de jìhuà fāshēng le biànhuà.
+English: Our plan underwent some changes.
