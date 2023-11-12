@@ -3224,3 +3224,115 @@ English: The puppy has ten siblings.
 Chinese: 今晚十点有一个重要会议。
 Pinyin: Jīnwǎn shí diǎn yǒu yīgè zhòngyào huìyì.
 English: There is an important meeting at 10 o'clock tonight.
+
+Chinese: 今天是十一月十一号。
+Pinyin: Jīntiān shì shíyī yuè shíyī hào.
+English: Today is November 11th.
+
+Chinese: 我的生日是十一月十一号。
+Pinyin: Wǒ de shēngrì shì shíyī yuè shíyī hào.
+English: My birthday is on November 11th.
+
+Chinese: 十一點了，我們該走了。
+Pinyin: Shíyī diǎn le, wǒmen gāi zǒu le.
+English: It's already 11 o'clock, we should leave.
+
+Chinese: 我家住在十一巷。
+Pinyin: Wǒ jiā zhù zài shíyī xiàng.
+English: My house is located in alley number 11.
+
+Chinese: 在十一路拐角处，有一家咖啡店。
+Pinyin: Zài shíyī lù guǎijiǎo chù, yǒu yījiā kāfēi diàn.
+English: There is a coffee shop at the corner of 11th street.
+
+Chinese: 街上有十一个灯柱。
+Pinyin: Jiē shàng yǒu shíyī gè dēngzhù.
+English: There are eleven lamp posts on the street.
+
+Chinese: 这个月底是十一月二十号。
+Pinyin: Zhège yuèdǐ shì shíyī yuè èrshí hào.
+English: The end of this month is November 20th.
+
+Chinese: 我每天都11点睡觉。
+Pinyin: Wǒ měi tiān dōu shíyī diǎn shuìjiào.
+English: I go to bed at 11 o'clock every day.
+
+Chinese: 餐厅11号桌有人预订了。
+Pinyin: Cāntīng shíyī hào zhuō yǒurén yùdìng le.
+English: Table number 11 in the restaurant has been reserved.
+
+Chinese: 这是我十一岁时的照片。
+Pinyin: Zhè shì wǒ shíyī suì shí de zhàopiàn.
+English: This is a photo of me when I was eleven years old.
+
+Chinese: 我有十二本书。
+Pinyin: Wǒ yǒu shí'èr běn shū.
+English: I have twelve books.
+
+Chinese: 这个月有十二个星期。
+Pinyin: Zhège yuè yǒu shí'èr gè xīngqī.
+English: This month has twelve weeks.
+
+Chinese: 她的生日是十二月二十日。
+Pinyin: Tā de shēngrì shì shí'èr yuè èrshí rì.
+English: Her birthday is on December 20th.
+
+Chinese: 公司有十二位员工。
+Pinyin: Gōngsī yǒu shí'èr wèi yuángōng.
+English: The company has twelve employees.
+
+Chinese: 他们是十二年的好朋友了。
+Pinyin: Tāmen shì shí'èr nián de hǎo péngyǒu le.
+English: They have been good friends for twelve years.
+
+Chinese: 我母亲的生日是火星的十二月。
+Pinyin: Wǒ mǔqīn de shēngrì shì huǒxīng de shí'èr yuè.
+English: My mother's birthday is in December on Mars.
+
+Chinese: 已经过去了十二分钟。
+Pinyin: Yǐjīng guòqù le shí'èr fēnzhōng.
+English: Twelve minutes have already passed.
+
+Chinese: 我买了十二个苹果。
+Pinyin: Wǒ mǎi le shí'èr gè píngguǒ.
+English: I bought twelve apples.
+
+Chinese: 请给我两个苹果。
+Pinyin: Qǐng gěi wǒ liǎng gè píngguǒ.
+English: Please give me two apples.
+
+Chinese: 我有两只猫。
+Pinyin: Wǒ yǒu liǎng zhī māo.
+English: I have two cats.
+
+Chinese: 今天有两个会议。
+Pinyin: Jīntiān yǒu liǎng gè huìyì.
+English: There are two meetings today.
+
+Chinese: 这个披萨有两种口味。
+Pinyin: Zhège pīsà yǒu liǎng zhǒng kǒuwèi.
+English: This pizza has two flavors.
+
+Chinese: 我要买两本书。
+Pinyin: Wǒ yào mǎi liǎng běn shū.
+English: I want to buy two books.
+
+Chinese: 请给我两杯水。
+Pinyin: Qǐng gěi wǒ liǎng bēi shuǐ.
+English: Please give me two cups of water.
+
+Chinese: 明天有两个考试。
+Pinyin: Míngtiān yǒu liǎng gè kǎoshì.
+English: There are two exams tomorrow.
+
+Chinese: 这个包里有两种颜色的衣服。
+Pinyin: Zhège bāo lǐ yǒu liǎng zhǒng yánsè de yīfu.
+English: There are two colors of clothes in this bag.
+
+Chinese: 我每天喝两杯咖啡。
+Pinyin: Wǒ měitiān hē liǎng bēi kāfēi.
+English: I drink two cups of coffee every day.
+
+Chinese: 这家商店有两个分店。
+Pinyin: Zhè jiā shāngdiàn yǒu liǎng gè fēndiàn.
+English: This shop has two branches.
