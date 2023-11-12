@@ -6869,3 +6869,203 @@ English: The paper quality of this dictionary is good.
 Chinese: 这个字典有许多有用的例句。
 Pinyin: Zhège zìdiǎn yǒu xǔduō yǒuyòng de lìjù.
 English: This dictionary has many useful example sentences.
+
+Chinese: 他喜欢自己做饭。
+Pinyin: Tā xǐhuān zìjǐ zuòfàn.
+English: He likes to cook by himself.
+
+Chinese: 孩子应该自己穿衣服。
+Pinyin: Háizi yīnggāi zìjǐ chuān yīfu.
+English: Children should dress themselves.
+
+Chinese: 我有自己的房子。
+Pinyin: Wǒ yǒu zìjǐ de fángzi.
+English: I have my own house.
+
+Chinese: 别人说什么你不要太在乎，要相信自己。
+Pinyin: Biérén shuō shénme nǐ bùyào tài zàihu, yào xiāngxìn zìjǐ.
+English: Don't care too much about what others say, believe in yourself.
+
+Chinese: 我自己做的菜非常好吃。
+Pinyin: Wǒ zìjǐ zuò de cài fēicháng hǎochī.
+English: The food I cook myself is very delicious.
+
+Chinese: 我每天都自己开车上班。
+Pinyin: Wǒ měitiān dōu zìjǐ kāichē shàngbān.
+English: I drive to work by myself every day.
+
+Chinese: 他喜欢自己去买东西。
+Pinyin: Tā xǐhuān zìjǐ qù mǎi dōngxi.
+English: He likes to go shopping by himself.
+
+Chinese: 我只相信自己的判断。
+Pinyin: Wǒ zhǐ xiāngxìn zìjǐ de pànduàn.
+English: I only trust my own judgment.
+
+Chinese: 你应该对自己的能力有信心。
+Pinyin: Nǐ yīnggāi duì zìjǐ de nénglì yǒu xìnxīn.
+English: You should have confidence in your own abilities.
+
+Chinese: 她喜欢一个人静静地享受自己的时光。
+Pinyin: Tā xǐhuān yī gè rén jìngjìng de xiǎngshòu zìjǐ de shíguāng.
+English: She enjoys her own time quietly by herself.
+
+Chinese: 我喜欢骑自行车去上班。
+Pinyin: Wǒ xǐhuān qí zìxíngchē qù shàngbān.
+English: I like to ride a bike to work.
+
+Chinese: 我的自行车坏了。
+Pinyin: Wǒ de zìxíngchē huài le.
+English: My bike is broken.
+
+Chinese: 昨天我买了一辆新自行车。
+Pinyin: Zuótiān wǒ mǎi le yī liàng xīn zìxíngchē.
+English: Yesterday I bought a new bicycle.
+
+Chinese: 自行车是一种环保的交通工具。
+Pinyin: Zìxíngchē shì yī zhǒng huánbǎo de jiāotōng gōngjù.
+English: Bicycles are an environmentally friendly mode of transportation.
+
+Chinese: 我的自行车锁丢了。
+Pinyin: Wǒ de zìxíngchē suǒ diū le.
+English: I lost the lock for my bicycle.
+
+Chinese: 我每天都骑自行车锻炼身体。
+Pinyin: Wǒ měitiān dōu qí zìxíngchē duànliàn shēntǐ.
+English: I ride a bike every day to exercise.
+
+Chinese: 她正在修理自行车。
+Pinyin: Tā zhèngzài xiūlǐ zìxíngchē.
+English: She is repairing a bicycle.
+
+Chinese: 在这个城市里，很多人骑自行车上学。
+Pinyin: Zài zhège chéngshì lǐ, hěnduō rén qí zìxíngchē shàngxué.
+English: In this city, many people ride bicycles to school.
+
+Chinese: 我的自行车被偷了。
+Pinyin: Wǒ de zìxíngchē bèi tōu le.
+English: My bicycle was stolen.
+
+Chinese: 我爸爸每周末都会带我去骑自行车。
+Pinyin: Wǒ bàba měi zhōumò dōu huì dài wǒ qù qí zìxíngchē.
+English: My dad takes me cycling every weekend.
+
+Chinese: 最近我很忙。
+Pinyin: Zuìjìn wǒ hěn máng.
+English: I have been very busy lately.
+
+Chinese: 最近天气很热。
+Pinyin: Zuìjìn tiānqì hěn rè.
+English: The weather has been hot recently.
+
+Chinese: 最近我学了一门新的语言。
+Pinyin: Zuìjìn wǒ xué le yī mén xīn de yǔyán.
+English: I learned a new language recently.
+
+Chinese: 最近我没去健身房。
+Pinyin: Zuìjìn wǒ méi qù jiànshēnfáng.
+English: I haven't been to the gym lately.
+
+Chinese: 他最近很开心。
+Pinyin: Tā zuìjìn hěn kāixīn.
+English: He has been very happy lately.
+
+Chinese: 我最近常常失眠。
+Pinyin: Wǒ zuìjìn chángcháng shīmián.
+English: I have been having trouble sleeping a lot recently.
+
+Chinese: 最近我在学习编程。
+Pinyin: Zuìjìn wǒ zài xuéxí biānchéng.
+English: I have been studying programming recently.
+
+Chinese: 最近我没时间去旅行。
+Pinyin: Zuìjìn wǒ méi shíjiān qù lǚxíng.
+English: I haven't had time to travel recently.
+
+Chinese: 最近我在家工作。
+Pinyin: Zuìjìn wǒ zài jiā gōngzuò.
+English: I have been working from home recently.
+
+Chinese: 最近电影院里人很多。
+Pinyin: Zuìjìn diànyǐngyuàn lǐ rén hěn duō.
+English: There are a lot of people in the cinema recently.
+
+Chinese: 我今天有很多作业要完成。
+Pinyin: Wǒ jīntiān yǒu hěnduō zuòyè yào wánchéng.
+English: I have a lot of homework to complete today.
+
+Chinese: 晚饭之后，我会开始写作业。
+Pinyin: Wǎnfàn zhīhòu, wǒ huì kāishǐ xiě zuòyè.
+English: After dinner, I will start doing homework.
+
+Chinese: 我每天花两小时做作业。
+Pinyin: Wǒ měitiān huā liǎng xiǎoshí zuò zuòyè.
+English: I spend two hours on homework every day.
+
+Chinese: 我很认真地完成了一个小时的作业。
+Pinyin: Wǒ hěn rènzhēn de wánchéngle yīgè xiǎoshí de zuòyè.
+English: I completed an hour's worth of homework very seriously.
+
+Chinese: 我今天的作业很简单，很快就做完了。
+Pinyin: Wǒ jīntiān de zuòyè hěn jiǎndān, hěn kuài jiù zuò wánle.
+English: My homework today was very simple and I finished it quickly.
+
+Chinese: 每晚我都要做完所有作业才能休息。
+Pinyin: Měi wǎn wǒ dōu yào zuò wán suǒyǒu zuòyè cáinéng xiūxí.
+English: I have to finish all my homework every night before I can rest.
+
+Chinese: 这个星期末的作业很重，要花很多时间。
+Pinyin: Zhège xīngqīmò de zuòyè hěn zhòng, yào huā hěnduō shíjiān.
+English: The homework for this weekend is heavy, and it will take a lot of time.
+
+Chinese: 老师布置了一份新的作业给我们完成。
+Pinyin: Lǎoshī bùzhìle yī fèn xīn de zuòyè gěi wǒmen wánchéng.
+English: The teacher assigned us a new homework to complete.
+
+Chinese: 昨天我把作业带到学校交了。
+Pinyin: Zuótiān wǒ bǎ zuòyè dài dào xuéxiào jiāole.
+English: I brought my homework to school and handed it in yesterday.
+
+Chinese: 要做好作业，就要认真听讲。
+Pinyin: Yào zuò hǎo zuòyè, jiù yào rènzhēn tīngjiǎng.
+English: To do homework well, you must listen carefully in class.
+
+Chinese: 这种药有镇定的作用。
+Pinyin: Zhè zhǒng yào yǒu zhèndìng de zuòyòng.
+English: This medicine has a calming effect.
+
+Chinese: 这个按钮的作用是打开电视。
+Pinyin: Zhège ànniǔ de zuòyòng shì dǎkāi diànshì.
+English: The function of this button is to turn on the TV.
+
+Chinese: 银行的作用是存储和管理财富。
+Pinyin: Yínháng de zuòyòng shì cúncún hé guǎnlǐ cáifù.
+English: The role of the bank is to store and manage wealth.
+
+Chinese: 这种化妆品能起到保湿的作用。
+Pinyin: Zhè zhǒng huàzhuāngpǐn néng qǐdào bǎoshī de zuòyòng.
+English: This cosmetic can moisturize the skin.
+
+Chinese: 这个按摩椅有舒缓压力的作用。
+Pinyin: Zhège ànmó yǐ yǒu shūhuǎn yālì de zuòyòng.
+English: This massage chair has a stress-relieving effect.
+
+Chinese: 这门课对学生的发展有积极的作用。
+Pinyin: Zhè mén kè duì xuéshēng de fāzhǎn yǒu jījí de zuòyòng.
+English: This course has a positive impact on students' development.
+
+Chinese: 铁锤的作用是敲击物体。
+Pinyin: Tiěchuí de zuòyòng shì qiāojī wùtǐ.
+English: The role of a hammer is to strike objects.
+
+Chinese: 影响力是他的外交作用之一。
+Pinyin: Yǐngxiǎng lì shì tā de wàijiāo zuòyòng zhī yī.
+English: Influence is one of his diplomatic roles.
+
+Chinese: 爱与关心对人际关系的作用是重要的。
+Pinyin: Ài yǔ guānxīn duì rénjì guānxi de zuòyòng shì zhòngyào de.
+English: Love and care play a crucial role in interpersonal relationships.
+
+Chinese: 音乐具有舒缓情绪的作用。
+Pinyin: Yīnyuè jùyǒu shūhuǎn qíngxù de zuòyòng.
+English: Music has a soothing effect on emotions.
