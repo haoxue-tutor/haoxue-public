@@ -1,0 +1,719 @@
+Chinese: 这家商店可以讲价。
+Pinyin: Zhè jiā shāngdiàn kěyǐ jiǎng jià.
+English: You can negotiate the price at this store.
+
+Chinese: 她善于讲价。
+Pinyin: Tā shànyú jiǎng jià.
+English: She is good at bargaining.
+
+Chinese: 讲价是生活中的一部分。
+Pinyin: Jiǎng jià shì shēnghuó zhōng yī bùfèn.
+English: Bargaining is a part of life.
+
+Chinese: 在菜市场上讲价很常见。
+Pinyin: Zài cài shìchǎng shàng jiǎng jià hěn chángjiàn.
+English: Bargaining is very common at the market.
+
+Chinese: 如果你讲价成功了，你可以节省一些钱。
+Pinyin: Rúguǒ nǐ jiǎng jià chénggōng le, nǐ kěyǐ jiéshěng yīxiē qián.
+English: If you successfully bargain, you can save some money.
+
+Chinese: 我们需要学会如何讲价。
+Pinyin: Wǒmen xūyào xuéhuì rúhé jiǎng jià.
+English: We need to learn how to bargain.
+
+Chinese: 讲价需要一些技巧。
+Pinyin: Jiǎng jià xūyào yīxiē jìqiǎo.
+English: Bargaining requires some skills.
+
+Chinese: 不要害怕讲价。
+Pinyin: Bùyào hàipà jiǎng jià.
+English: Don't be afraid to bargain.
+
+Chinese: 讲价是买东西的一种方式。
+Pinyin: Jiǎng jià shì mǎi dōngxi de yī zhǒng fāngshì.
+English: Bargaining is one way to shop.
+
+Chinese: 讲价可以让你买到更便宜的商品。
+Pinyin: Jiǎng jià kěyǐ ràng nǐ mǎi dào gèng piányi de shāngpǐn.
+English: Bargaining can help you buy cheaper goods.
+
+Chinese: 那个老板很有经验。
+Pinyin: Nàge lǎobǎn hěn yǒu jīngyàn.
+English: That boss is very experienced.
+
+Chinese: 我的老板很严厉。
+Pinyin: Wǒ de lǎobǎn hěn yánlì.
+English: My boss is very strict.
+
+Chinese: 那个老板是个女生。
+Pinyin: Nàge lǎobǎn shì gè nǚshēng.
+English: That boss is a girl.
+
+Chinese: 老板正在开会。
+Pinyin: Lǎobǎn zhèngzài kāihuì.
+English: The boss is having a meeting.
+
+Chinese: 请问，老板在吗？
+Pinyin: Qǐngwèn, lǎobǎn zài ma?
+English: Excuse me, is the boss available?
+
+Chinese: 我们的老板很关心员工的福利。
+Pinyin: Wǒmen de lǎobǎn hěn guānxīn yuángōng de fúlì.
+English: Our boss cares about the welfare of employees.
+
+Chinese: 这个老板经常加班。
+Pinyin: Zhège lǎobǎn jīngcháng jiābān.
+English: This boss often works overtime.
+
+Chinese: 老板要求我们按时完成任务。
+Pinyin: Lǎobǎn yāoqiú wǒmen ànshí wánchéng rènwù.
+English: The boss requires us to complete tasks on time.
+
+Chinese: 我和老板的关系很好。
+Pinyin: Wǒ hé lǎobǎn de guānxi hěn hǎo.
+English: I have a good relationship with the boss.
+
+Chinese: 老板给我们加了工资。
+Pinyin: Lǎobǎn gěi wǒmen jiā le gōngzī.
+English: The boss gave us a pay raise.
+
+Chinese: 这件衣服的价格很贵。
+Pinyin: Zhè jiàn yīfu de jiàgé hěn guì.
+English: The price of this piece of clothing is expensive.
+
+Chinese: 这本书的价格非常便宜。
+Pinyin: Zhè běn shū de jiàgé fēicháng piányí.
+English: The price of this book is very cheap.
+
+Chinese: 我们需要优惠的价格。
+Pinyin: Wǒmen xūyào yōuhuì de jiàgé.
+English: We need a discounted price.
+
+Chinese: 请问这个商品的价格是多少？
+Pinyin: Qǐngwèn zhège shāngpǐn de jiàgé shì duōshǎo?
+English: Excuse me, what is the price of this item?
+
+Chinese: 现在是打折季，很多东西的价格都打了折。
+Pinyin: Xiànzài shì dǎzhé jì, hěnduō dōngxi de jiàgé dōu dǎle zhé.
+English: It is sale season now, many things have discounted prices.
+
+Chinese: 他们正在讨论商品的价格。
+Pinyin: Tāmen zhèngzài tǎolùn shāngpǐn de jiàgé.
+English: They are discussing the price of the goods.
+
+Chinese: 购买这个产品需要付出一定的价格。
+Pinyin: Gòumǎi zhège chǎnpǐn xūyào fùchū yīdìng de jiàgé.
+English: Buying this product requires paying a certain price.
+
+Chinese: 高昂的价格使得很多人望而却步。
+Pinyin: Gāo'áng de jiàgé shǐde hěnduō rén wàng'é quèbù.
+English: The high price makes many people hesitate.
+
+Chinese: 我们刚刚已经商定好了价格。
+Pinyin: Wǒmen gānggāng yǐjīng shāngdìnghǎo le jiàgé.
+English: We have just agreed on the price.
+
+Chinese: 你能否便宜些？价格太高了。
+Pinyin: Nǐ néngfǒu piányí xiē? Jiàgé tài gāo le.
+English: Can you make it cheaper? The price is too high.
+
+Chinese: 我正在考虑买一个新手机。
+Pinyin: Wǒ zhèngzài kǎolǜ mǎi yīgè xīn shǒujī.
+English: I am considering buying a new cellphone.
+
+Chinese: 他经过深思熟虑后决定去旅行。
+Pinyin: Tā jīngguò shēnsī shúlǜ hòu juédìng qù lǚxíng.
+English: After careful consideration, he decided to go on a trip.
+
+Chinese: 我需要一些时间来考虑你的建议。
+Pinyin: Wǒ xūyào yīxiē shíjiān lái kǎolǜ nǐ de jiànyì.
+English: I need some time to think about your suggestion.
+
+Chinese: 我已经仔细考虑了所有的选项。
+Pinyin: Wǒ yǐjīng zǐxì kǎolǜle suǒyǒu de xuǎnxiàng.
+English: I have carefully considered all the options.
+
+Chinese: 你应该考虑一下风险和利益。
+Pinyin: Nǐ yīnggāi kǎolǜ yīxià fēngxiǎn hé lìyì.
+English: You should consider the risks and benefits.
+
+Chinese: 考虑到时间紧迫，我们选择了最快的方式。
+Pinyin: Kǎolǜ dào shíjiān jǐnpò, wǒmen xuǎnzéle zuì kuài de fāngshì.
+English: Considering the tight schedule, we chose the fastest method.
+
+Chinese: 在做决定之前，请先考虑所有的后果。
+Pinyin: Zài zuò juédìng zhīqián, qǐng xiān kǎolǜ suǒyǒu de hòuguǒ.
+English: Please consider all the consequences before making a decision.
+
+Chinese: 考虑到经济状况，我们决定暂缓项目。
+Pinyin: Kǎolǜ dào jīngjì zhuàngkuàng, wǒmen juédìng zhǎnhuǎn xiàngmù.
+English: Taking the economic situation into consideration, we decided to postpone the project.
+
+Chinese: 在选购商品时，要考虑品质和价格。
+Pinyin: Zài xuǎngòu shāngpǐn shí, yào kǎolǜ pǐnzhì hé jiàgé.
+English: When purchasing goods, you should consider both quality and price.
+
+Chinese: 他从不考虑别人的感受，只顾自己。
+Pinyin: Tā cóngbù kǎolǜ biéren de gǎnshòu, zhǐ gù zìjǐ.
+English: He never considers other people's feelings and only thinks about himself.
+
+Chinese: 这件衣服的价钱很贵。
+Pinyin: Zhè jiàn yīfu de jiàqián hěn guì.
+English: The price of this clothing is expensive.
+
+Chinese: 这个苹果的价钱多少？
+Pinyin: Zhège píngguǒ de jiàqián duōshǎo?
+English: How much is the price of this apple?
+
+Chinese: 这本书的价钱便宜。
+Pinyin: Zhè běn shū de jiàqián piányí.
+English: The price of this book is cheap.
+
+Chinese: 他们为了降低成本，减少了产品的价钱。
+Pinyin: Tāmen wèile jiàngdī chéngběn, jiǎnshǎo le chǎnpǐn de jiàqián.
+English: In order to reduce costs, they have lowered the price of the product.
+
+Chinese: 这家商店对顾客非常友好，不盲目涨价钱。
+Pinyin: Zhè jiā shāngdiàn duì gùkè fēicháng yǒuhǎo, bù mángmù zhǎng jiàqián.
+English: This store is very customer-friendly and does not arbitrarily raise prices.
+
+Chinese: 昨天买的商品价格一样，没有涨价钱。
+Pinyin: Zuótiān mǎi de shāngpǐn jiàgé yīyàng, méiyǒu zhǎng jiàqián.
+English: The price of the items I bought yesterday is the same, there was no price increase.
+
+Chinese: 他总是过分看重价钱。
+Pinyin: Tā zǒng shì guòfèn kànzhòng jiàqián.
+English: He always places excessive emphasis on price.
+
+Chinese: 好货不便宜，便宜的货不好，价钱还是其次。
+Pinyin: Hǎo huò bù piányí, piányí de huò bù hǎo, jiàqián háishì qícì.
+English: Good products aren't cheap, cheap products aren't good, price is secondary.
+
+Chinese: 我去商场看了一下，这个包包的价钱非常划算。
+Pinyin: Wǒ qù shāngchǎng kàn le yīxià, zhège bāobāo de jiàqián fēicháng huásuàn.
+English: I went to the mall and had a look, the price of this bag is very reasonable.
+
+Chinese: 他为了减轻财务负担，不断压低价钱。
+Pinyin: Tā wèile jiǎnqīng cáiwù fùdān, bùduàn yādī jiàqián.
+English: In order to alleviate the financial burden, he constantly lowers the price.
+
+Chinese: 这件衣服是折扣商品。
+Pinyin: Zhè jiàn yīfu shì zhékòu shāngpǐn.
+English: This item of clothing is a discounted product.
+
+Chinese: 我们今天店里有七折扣的活动。
+Pinyin: Wǒmen jīntiān diàn lǐ yǒu qī zhékòu de huódòng.
+English: We have a 30% discount event in our store today.
+
+Chinese: 明天是双十一，很多商品都会有折扣。
+Pinyin: Míngtiān shì shuāngshíyī, hěnduō shāngpǐn dōu huì yǒu zhékòu.
+English: Tomorrow is Singles' Day, and many products will have discounts.
+
+Chinese: 在这个商场购物可以享受折扣。
+Pinyin: Zài zhège shāngchǎng gòuwù kěyǐ xiǎngshòu zhékòu.
+English: Shopping in this mall allows you to enjoy discounts.
+
+Chinese: 今天我买了一双打折的鞋子。
+Pinyin: Jīntiān wǒ mǎile yī shuāng dǎzhé de xiézi.
+English: Today I bought a pair of discounted shoes.
+
+Chinese: 这个品牌以常年折扣而闻名。
+Pinyin: Zhège pǐnpái yǐ chángnián zhékòu ér wénmíng.
+English: This brand is famous for its year-round discounts.
+
+Chinese: 在这个季节，很多商店都会提供折扣。
+Pinyin: Zài zhège jìjié, hěnduō shāngdiàn dōu huì tígōng zhékòu.
+English: During this season, many stores will offer discounts.
+
+Chinese: 他们正在打折扣，你快去看看吧。
+Pinyin: Tāmen zhèngzài dǎ zhékòu, nǐ kuài qù kànkan ba.
+English: They are having a sale, go and check it out.
+
+Chinese: 这个手机的价格已经打了折扣。
+Pinyin: Zhège shǒujī de jiàgé yǐjīng dǎle zhékòu.
+English: The price of this cellphone has already been discounted.
+
+Chinese: 购买会员卡可以享受额外的折扣。
+Pinyin: Gòumǎi huìyuánkǎ kěyǐ xiǎngshòu éwài de zhékòu.
+English: Purchasing a membership card can provide extra discount benefits.
+
+Chinese: 他的诚心感动了我。
+Pinyin: Tā de chéng xīn gǎn dòng le wǒ.
+English: His sincerity touched me.
+
+Chinese: 我们需要诚心合作。
+Pinyin: Wǒmen xū yào chéng xīn hé zuò.
+English: We need to cooperate sincerely.
+
+Chinese: 她表达了自己的诚心愿望。
+Pinyin: Tā biǎo dá le zì jǐ de chéng xīn yuàn wàng.
+English: She expressed her sincere wishes.
+
+Chinese: 他没有诚心地道歉。
+Pinyin: Tā méiyǒu chéng xīn de dào qiàn.
+English: He didn't apologize sincerely.
+
+Chinese: 他的诚心深深打动了我。
+Pinyin: Tā de chéng xīn shēn shēn dǎ dòng le wǒ.
+English: His sincerity deeply touched me.
+
+Chinese: 我有一个诚心的请求。
+Pinyin: Wǒ yǒu yī gè chéng xīn de qǐng qiú.
+English: I have a sincere request.
+
+Chinese: 他们以诚心和善意对待客户。
+Pinyin: Tāmen yǐ chéng xīn hé shàn yì duì dài kè hù.
+English: They treat customers with sincerity and goodwill.
+
+Chinese: 这封信是我发自内心的诚心之作。
+Pinyin: Zhè fēng xìn shì wǒ fā zì nèi xīn de chéng xīn zhī zuò.
+English: This letter is a heartfelt expression of my sincerity.
+
+Chinese: 我向你表示了最诚心的道歉。
+Pinyin: Wǒ xiàng nǐ biǎo shì le zuì chéng xīn de dào qiàn.
+English: I offer you my most sincere apologies.
+
+Chinese: 他以诚心待人，赢得了大家的信任。
+Pinyin: Tā yǐ chéng xīn dài rén, yíng dé le dà jiā de xìn rèn.
+English: He treats people with sincerity and has earned everyone's trust.
+
+Chinese: 这个城市的交通越来越拥挤。
+Pinyin: Zhège chéngshì de jiāotōng yuè lái yuè yōngjǐ.
+English: The traffic in this city is getting more and more congested.
+
+Chinese: 她的中文水平越来越高。
+Pinyin: Tā de zhōngwén shuǐpíng yuè lái yuè gāo.
+English: Her Chinese proficiency is getting better and better.
+
+Chinese: 这个电影越来越有趣。
+Pinyin: Zhège diànyǐng yuè lái yuè yǒuqù.
+English: This movie is becoming more and more interesting.
+
+Chinese: 学习一门外语需要越来越多的时间和精力。
+Pinyin: Xuéxí yī mén wàiyǔ xūyào yuè lái yuè duō de shíjiān hé jīnglì.
+English: Learning a foreign language requires more and more time and effort.
+
+Chinese: 这家公司的利润越来越高。
+Pinyin: Zhè jiā gōngsī de lìrùn yuè lái yuè gāo.
+English: This company's profit is increasing more and more.
+
+Chinese: 他的健康状况越来越好。
+Pinyin: Tā de jiànkāng zhuàngkuàng yuè lái yuè hǎo.
+English: His health condition is getting better and better.
+
+Chinese: 这本书的销量越来越大。
+Pinyin: Zhè běn shū de xiāoliàng yuè lái yuè dà.
+English: The sales of this book are getting bigger and bigger.
+
+Chinese: 我们的生活质量越来越高。
+Pinyin: Wǒmen de shēnghuó zhìliàng yuè lái yuè gāo.
+English: Our quality of life is getting higher and higher.
+
+Chinese: 旅游的人越来越多。
+Pinyin: Lǚyóu de rén yuè lái yuè duō.
+English: There are more and more people traveling.
+
+Chinese: 这种草地越来越绿。
+Pinyin: Zhè zhǒng cǎodì yuè lái yuè lǜ.
+English: This type of grass is becoming greener and greener.
+
+Chinese: 我有很多爱好，比如篮球和音乐。
+Pinyin: Wǒ yǒu hěnduō àihào, bǐrú lánqiú hé yīnyuè.
+English: I have many hobbies, such as basketball and music.
+
+Chinese: 她有很多技能，比如跳舞和演讲。
+Pinyin: Tā yǒu hěnduō jìnéng, bǐrú tiàowǔ hé yǎnjiǎng.
+English: She has many skills, such as dancing and public speaking.
+
+Chinese: 我正在学习几种外语，比如英语和法语。
+Pinyin: Wǒ zhèngzài xuéxí jǐ zhǒng wàiyǔ, bǐrú yīngyǔ hé fǎyǔ.
+English: I am learning several foreign languages, such as English and French.
+
+Chinese: 我喜欢吃各种水果，比如苹果和橙子。
+Pinyin: Wǒ xǐhuān chī gèzhǒng shuǐguǒ, bǐrú píngguǒ hé chéngzi.
+English: I like to eat various fruits, such as apples and oranges.
+
+Chinese: 我在旅行时喜欢尝试当地的特色菜，比如炸酱面和麻婆豆腐。
+Pinyin: Wǒ zài lǚxíng shí xǐhuān chángshì dāngdì de tèsè cài, bǐrú zhájiàngmiàn hé mápódòufu.
+English: I like to try local specialties when traveling, such as fried sauce noodles and mapo tofu.
+
+Chinese: 我的朋友在我生日时送了我很多礼物，比如一本书和一条围巾。
+Pinyin: Wǒ de péngyǒu zài wǒ shēngrì shí sòngle wǒ hěnduō lǐwù, bǐrú yī běn shū hé yī tiáo wéijīn.
+English: My friend gave me many gifts on my birthday, such as a book and a scarf.
+
+Chinese: 我的家乡有许多著名的景点，比如长城和故宫。
+Pinyin: Wǒ de jiāxiāng yǒu xǔduō zhùmíng de jǐngdiǎn, bǐrú chángchéng hé gùgōng.
+English: My hometown has many famous tourist attractions, such as the Great Wall and the Forbidden City.
+
+Chinese: 这个杂志有很多有趣的文章，比如关于旅行和美食的。
+Pinyin: Zhège zázhì yǒu hěnduō yǒuqù de wénzhāng, bǐrú guānyú lǚxíng hé měishí de.
+English: This magazine has many interesting articles, such as those about travel and food.
+
+Chinese: 我们需要进一步了解公司的需求，比如客户的要求和市场的变化。
+Pinyin: Wǒmen xūyào jìnyībù liǎojiě gōngsī de xūqiú, bǐrú kèhù de yāoqiú hé shìchǎng de biànhuà.
+English: We need to further understand the company's needs, such as customer requirements and market changes.
+
+Chinese: 她喜欢阅读各种类型的书籍，比如小说和传记。
+Pinyin: Tā xǐhuān yuèdú gèzhǒng lèixíng de shūjí, bǐrú xiǎoshuō hé zhuànjì.
+English: She enjoys reading books of various genres, such as novels and biographies.
+
+Chinese: 他故意破坏了我的作业。
+Pinyin: Tā gùyì pòhuài le wǒ de zuòyè.
+English: He intentionally destroyed my homework.
+
+Chinese: 这个小孩爱破坏玩具。
+Pinyin: Zhège xiǎohái ài pòhuài wánjù.
+English: This child loves to destroy toys.
+
+Chinese: 不要破坏公共财物。
+Pinyin: Bùyào pòhuài gōnggòng cáiwù.
+English: Do not damage public property.
+
+Chinese: 这些恶劣的行为会破坏公司形象。
+Pinyin: Zhèxiē èliè de xíngwéi huì pòhuài gōngsī xíngxiàng.
+English: These unethical behaviors will damage the company's image.
+
+Chinese: 暴力破坏是违法行为。
+Pinyin: Bàolì pòhuài shì wéifǎ xíngwéi.
+English: Acts of violent destruction are illegal.
+
+Chinese: 建筑物被破坏得一片狼藉。
+Pinyin: Jiànzhùwù bèi pòhuài de yīpiàn lángjí.
+English: The building was left in ruins after being destroyed.
+
+Chinese: 恶意破坏会遭到法律制裁。
+Pinyin: Èyì pòhuài huì zāodào fǎlǜ zhìcái.
+English: Malicious destruction will face legal consequences.
+
+Chinese: 这个机器已经被破坏得无法修复。
+Pinyin: Zhège jīqì yǐjīng bèi pòhuài de wúfǎ xiūfù.
+English: This machine has been destroyed beyond repair.
+
+Chinese: 破坏环境会给我们带来后果。
+Pinyin: Pòhuài huánjìng huì gěi wǒmen dàilái hòuguǒ.
+English: Damaging the environment will bring consequences to us.
+
+Chinese: 破坏游戏规则是不公平的。
+Pinyin: Pòhuài yóuxì guīzé shì bù gōngpíng de.
+English: Breaking the game rules is unfair.
+
+Chinese: 大多数人喜欢夏天。
+Pinyin: Dà duōshù rén xǐhuān xiàtiān.
+English: Most people like summer.
+
+Chinese: 大多数学生喜欢读书。
+Pinyin: Dà duōshù xuéshēng xǐhuān dúshū.
+English: Most students like reading.
+
+Chinese: 大多数人每天吃三餐。
+Pinyin: Dà duōshù rén měitiān chī sān cān.
+English: Most people eat three meals a day.
+
+Chinese: 大多数人认为健康很重要。
+Pinyin: Dà duōshù rén rènwéi jiànkāng hěn zhòngyào.
+English: Most people believe that health is important.
+
+Chinese: 大多数人每天早上都喝咖啡。
+Pinyin: Dà duōshù rén měitiān zǎoshang dōu hē kāfēi.
+English: Most people drink coffee every morning.
+
+Chinese: 大多数人喜欢运动。
+Pinyin: Dà duōshù rén xǐhuān yùndòng.
+English: Most people enjoy sports.
+
+Chinese: 大多数人喜欢看电影。
+Pinyin: Dà duōshù rén xǐhuān kàn diànyǐng.
+English: Most people enjoy watching movies.
+
+Chinese: 大多数国家都有自己的国旗。
+Pinyin: Dà duōshù guójiā dōu yǒu zìjǐ de guóqí.
+English: Most countries have their own flags.
+
+Chinese: 大多数学生每天会做功课。
+Pinyin: Dà duōshù xuéshēng měitiān huì zuò gōngkè.
+English: Most students do homework every day.
+
+Chinese: 大多数人都喜欢度假。
+Pinyin: Dà duōshù rén dōu xǐhuān dùjià.
+English: Most people enjoy going on vacation.
+
+Chinese: 这个蛋糕只吃了一部分。
+Pinyin: Zhège dàngāo zhǐ chīle yī bùfen.
+English: I only ate a part of this cake.
+
+Chinese: 部分学生参加了校外活动。
+Pinyin: Bùfen xuéshēng cānjiāle xiàowài huódòng.
+English: Some students participated in the off-campus activity.
+
+Chinese: 部分工作已经完成了。
+Pinyin: Bùfen gōngzuò yǐjīng wánchéngle.
+English: Some of the work has already been completed.
+
+Chinese: 她每天只锻炼身体的一部分。
+Pinyin: Tā měitiān zhǐ duànliàn shēntǐ de yī bùfen.
+English: She only exercises a part of her body every day.
+
+Chinese: 自行车的某一部分坏了。
+Pinyin: Zìxíngchē de mǒu yī bùfen huàile.
+English: A certain part of the bicycle is broken.
+
+Chinese: 还有一部分钱需要支付。
+Pinyin: Hái yǒu yī bùfen qián xūyào zhīfù.
+English: There is still a part of the money that needs to be paid.
+
+Chinese: 歌曲的一部分被删掉了。
+Pinyin: Gēqǔ de yī bùfen bèi shāndiàole.
+English: A part of the song was deleted.
+
+Chinese: 他只了解故事的一小部分。
+Pinyin: Tā zhǐ liǎojiě gùshì de yī xiǎo bùfen.
+English: He only understands a small part of the story.
+
+Chinese: 部分书籍已经售罄。
+Pinyin: Bùfen shūjí yǐjīng shòuqìng.
+English: Some books have already been sold out.
+
+Chinese: 我们参观了博物馆的一部分展览。
+Pinyin: Wǒmen cānguānle bówùguǎn de yī bùfen zhǎnlǎn.
+English: We visited a part of the exhibition in the museum.
+
+Chinese: 加拿大是一个北美国家。
+Pinyin: Jiānádà shì yīgè běi měi guójiā.
+English: Canada is a North American country.
+
+Chinese: 加拿大的首都是渥太华。
+Pinyin: Jiānádà de shǒudū shì wò tài huá.
+English: The capital of Canada is Ottawa.
+
+Chinese: 我的朋友来自加拿大。
+Pinyin: Wǒ de péngyǒu láizì jiānádà.
+English: My friend is from Canada.
+
+Chinese: 加拿大有美丽的自然景观。
+Pinyin: Jiānádà yǒu měilì de zìrán jǐngguān.
+English: Canada has beautiful natural landscapes.
+
+Chinese: 加拿大是一个多元文化的国家。
+Pinyin: Jiānádà shì yīgè duōyuán wénhuà de guójiā.
+English: Canada is a multi-cultural country.
+
+Chinese: 加拿大有很多著名的旅游景点。
+Pinyin: Jiānádà yǒu hěnduō zhùmíng de lǚyóu jǐngdiǎn.
+English: Canada has many famous tourist attractions.
+
+Chinese: 加拿大是世界上第二大国土面积的国家。
+Pinyin: Jiānádà shì shìjiè shàng dì èr dà guótǔ miànjī de guójiā.
+English: Canada is the second largest country in the world by land area.
+
+Chinese: 在加拿大可以看到很多野生动物。
+Pinyin: Zài jiānádà kěyǐ kàn dào hěnduō yěshēng dòngwù.
+English: You can see many wildlife animals in Canada.
+
+Chinese: 加拿大夏天的天气很宜人。
+Pinyin: Jiānádà xiàtiān de tiānqì hěn yírén.
+English: The weather in the summer in Canada is very pleasant.
+
+Chinese: 加拿大的冬天非常寒冷。
+Pinyin: Jiānádà de dōngtiān fēicháng hánlěng.
+English: The winter in Canada is extremely cold.
+
+Chinese: 我喜欢继续学习新的东西。
+Pinyin: Wǒ xǐhuan jìxù xuéxí xīn de dōngxi.
+English: I enjoy continuing to learn new things.
+
+Chinese: 他决定继续打篮球，因为他很喜欢这项运动。
+Pinyin: Tā juédìng jìxù dǎ lánqiú, yīnwèi tā hěn xǐhuan zhè xiàng yùndòng.
+English: He decided to continue playing basketball because he really likes the sport.
+
+Chinese: 她坚持继续工作，即使很累。
+Pinyin: Tā jiānchí jìxù gōngzuò, jíshǐ hěn lèi.
+English: She insists on continuing to work, even if she's tired.
+
+Chinese: 这个项目需要你继续努力。
+Pinyin: Zhège xiàngmù xūyào nǐ jìxù nǔlì.
+English: This project requires you to continue working hard.
+
+Chinese: 我会继续帮助你的。
+Pinyin: Wǒ huì jìxù bāngzhù nǐ de.
+English: I will continue to help you.
+
+Chinese: 我们需要继续研究这个问题。
+Pinyin: Wǒmen xūyào jìxù yánjiū zhège wèntí.
+English: We need to continue researching this issue.
+
+Chinese: 她没有中止她的计划，而是选择继续下去。
+Pinyin: Tā méiyǒu zhōngzhǐ tā de jìhuà, érshì xuǎnzé jìxù xiàqù.
+English: She didn't abort her plan, but chose to continue.
+
+Chinese: 请继续闻这个香水的味道。
+Pinyin: Qǐng jìxù wén zhège xiāngshuǐ de wèidao.
+English: Please continue to smell this perfume.
+
+Chinese: 我会继续尽力完成这个任务。
+Pinyin: Wǒ huì jìxù jìnlì wánchéng zhège rènwù.
+English: I will continue to do my best to complete this task.
+
+Chinese: 你应该继续追求你的梦想。
+Pinyin: Nǐ yīnggāi jìxù zhuīqiú nǐ de mèngxiǎng.
+English: You should continue to pursue your dreams.
+
+Chinese: 我期待明天的聚会。
+Pinyin: Wǒ qídài míngtiān de jùhuì.
+English: I am looking forward to tomorrow's gathering.
+
+Chinese: 她期待着终于见到你。
+Pinyin: Tā qídài zhe zhōngyú jiàn dào nǐ.
+English: She is eagerly anticipating finally seeing you.
+
+Chinese: 我们期待着你的到来。
+Pinyin: Wǒmen qídài zhe nǐ de dàolái.
+English: We are looking forward to your arrival.
+
+Chinese: 他在期待一场胜利。
+Pinyin: Tā zài qídài yī chǎng shènglì.
+English: He is anticipating a victory.
+
+Chinese: 她期待着收到你的来信。
+Pinyin: Tā qídài zhe shōudào nǐ de láixìn.
+English: She is looking forward to receiving your letter.
+
+Chinese: 我们怀着期待的心情出发了。
+Pinyin: Wǒmen huái zhe qídài de xīnqíng chūfā le.
+English: We set off with anticipation.
+
+Chinese: 我对未来充满了期待。
+Pinyin: Wǒ duì wèilái chōngmǎn le qídài.
+English: I am full of anticipation for the future.
+
+Chinese: 他一直期待能够出国旅行。
+Pinyin: Tā yīzhí qídài nénggòu chūguó lǚxíng.
+English: He has always been hoping to travel abroad.
+
+Chinese: 学生们怀着期待的心情开始了新学期。
+Pinyin: Xuéshēngmen huái zhe qídài de xīnqíng kāishǐ le xīn xuéqī.
+English: The students started the new semester with anticipation.
+
+Chinese: 我对这部电影很期待。
+Pinyin: Wǒ duì zhè bù diànyǐng hěn qídài.
+English: I have high expectations for this movie.
+
+Chinese: 他是一位博士。
+Pinyin: Tā shì yī wèi bóshì.
+English: He is a doctor.
+
+Chinese: 她正在攻读博士学位。
+Pinyin: Tā zhèngzài gōngdú bóshì xuéwèi.
+English: She is pursuing a doctoral degree.
+
+Chinese: 博士论文需要很多研究。
+Pinyin: Bóshì lùnwén xūyào hěnduō yánjiū.
+English: A doctoral thesis requires a lot of research.
+
+Chinese: 我们今天有一位博士的讲座。
+Pinyin: Wǒmen jīntiān yǒu yī wèi bóshì de jiǎngzuò.
+English: We have a lecture by a doctor today.
+
+Chinese: 她已经拥有了博士学位。
+Pinyin: Tā yǐjīng yǒngyǒu le bóshì xuéwèi.
+English: She already has a doctorate degree.
+
+Chinese: 博士的研究成果引起了广泛关注。
+Pinyin: Bóshì de yánjiū chéngguǒ yǐnqǐ le guǎngfàn guānzhù.
+English: The research achievements of the doctor have attracted widespread attention.
+
+Chinese: 博士学位是高等教育的最高学位。
+Pinyin: Bóshì xuéwèi shì gāoděng jiàoyù de zuìgāo xuéwèi.
+English: A doctorate degree is the highest level of education.
+
+Chinese: 有些学科必须要有博士学位才能从事研究工作。
+Pinyin: Yǒuxiē xuékē bìxū yào yǒu bóshì xuéwèi cáinéng cóngshì yánjiū gōngzuò.
+English: Some disciplines require a doctorate degree in order to engage in research work.
+
+Chinese: 博士毕业后可以选择继续研究或进入企业工作。
+Pinyin: Bóshì bìyè hòu kěyǐ xuǎnzé jìxù yánjiū huò jìnrù qǐyè gōngzuò.
+English: After obtaining a doctorate degree, one can choose to continue research or enter the corporate world.
+
+Chinese: 他专注于自己的博士项目。
+Pinyin: Tā zhuānzhù yú zìjǐ de bóshì xiàngmù.
+English: He focuses on his doctoral project.
+
+Chinese: 他明年将毕业。
+Pinyin: Tā míngnián jiāng bìyè.
+English: He will graduate next year.
+
+Chinese: 她已经毕业了。
+Pinyin: Tā yǐjīng bìyè le.
+English: She has already graduated.
+
+Chinese: 我们将在五月份毕业。
+Pinyin: Wǒmen jiāng zài wǔ yuè fèn bìyè.
+English: We will graduate in May.
+
+Chinese: 你打算什么时候毕业？
+Pinyin: Nǐ dǎsuàn shénme shíhou bìyè?
+English: When do you plan to graduate?
+
+Chinese: 明年我将毕业于大学。
+Pinyin: Míngnián wǒ jiāng bìyè yú dàxué.
+English: I will graduate from university next year.
+
+Chinese: 她正在为毕业论文努力工作。
+Pinyin: Tā zhèngzài wèi bìyè lùnwén nǔlì gōngzuò.
+English: She is working hard on her graduation thesis.
+
+Chinese: 毕业后，我想继续深造。
+Pinyin: Bìyè hòu, wǒ xiǎng jìxù shēnzào.
+English: After graduation, I want to continue my further studies.
+
+Chinese: 妹妹正在为高中毕业考试做准备。
+Pinyin: Mèimei zhèngzài wèi gāozhōng bìyè kǎoshì zuò zhǔnbèi.
+English: My younger sister is preparing for her high school graduation exam.
+
+Chinese: 他的毕业典礼将在明天举行。
+Pinyin: Tā de bìyè diǎnlǐ jiāng zài míngtiān jǔxíng.
+English: His graduation ceremony will be held tomorrow.
+
+Chinese: 毕业的那一天，我感到很自豪。
+Pinyin: Bìyè de nà yītiān, wǒ gǎndào hěn zìháo.
+English: On the day of graduation, I felt very proud.
+
+Chinese: 她听到那个坏消息时，心碎了。
+Pinyin: Tā tīngdào nàgè huài xiāoxi shí, xīnsuìle.
+English: Her heart broke when she heard that bad news.
+
+Chinese: 他的离去让我心碎了。
+Pinyin: Tā de líqù ràng wǒ xīnsuìle.
+English: His departure broke my heart.
+
+Chinese: 看着他伤心的样子，我感到心碎。
+Pinyin: Kànzhe tā shāngxīn de yàngzi, wǒ gǎndào xīnsuì.
+English: Watching his sad expression, I felt my heart break.
+
+Chinese: 她的离开使我感到心碎。
+Pinyin: Tā de líkāi shǐ wǒ gǎndào xīnsuì.
+English: Her departure made me feel heartbroken.
+
+Chinese: 失去亲人的痛苦让我心碎了。
+Pinyin: Shīqù qīnrén de tòngkǔ ràng wǒ xīnsuìle.
+English: The pain of losing a loved one broke my heart.
+
+Chinese: 在他的背叛下，她的心碎了。
+Pinyin: Zài tā de bèipàn xià, tā de xīnsuìle.
+English: Her heart was broken by his betrayal.
+
+Chinese: 她对我说的话让我觉得心碎。
+Pinyin: Tā duì wǒ shuō de huà ràng wǒ juéde xīnsuì.
+English: What she said to me made me feel heartbroken.
+
+Chinese: 心碎是一种难以形容的痛。
+Pinyin: Xīnsuì shì yī zhǒng nányǐ xíngróng de tòng.
+English: Heartbreak is a pain that is hard to describe.
+
+Chinese: 他的离开给我带来心碎的痛苦。
+Pinyin: Tā de líkāi gěi wǒ dàilái xīnsuì de tòngkǔ.
+English: His departure brought me the pain of a broken heart.
+
+Chinese: 看到她悲伤的眼神，我的心碎了。
+Pinyin: Kàn dào tā bēishāng de yǎnshén, wǒ de xīnsuìle.
+English: Seeing her sorrowful eyes, my heart shattered.
