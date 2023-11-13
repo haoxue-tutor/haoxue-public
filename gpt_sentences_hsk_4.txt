@@ -5206,3 +5206,242 @@ Chinese: 老婆是我人生中最幸福的礼物。
 Pinyin: Lǎopó shì wǒ rénshēng zhōng zuì xìngfú de lǐwù.
 English: My wife is the happiest gift in my life.
 
+Chinese: 这本书对我来说非常珍贵。
+Pinyin: Zhè běn shū duì wǒ lái shuō fēicháng zhēnguì.
+English: This book is very precious to me.
+
+Chinese: 他珍贵地保护着自己的秘密。
+Pinyin: Tā zhēnguì dì bǎohùzhe zìjǐ de mìmì.
+English: He guards his secret preciously.
+
+Chinese: 这个礼物对我来说十分珍贵。
+Pinyin: Zhège lǐwù duì wǒ lái shuō shífēn zhēnguì.
+English: This gift is extremely precious to me.
+
+Chinese: 她对这段回忆极其珍贵。
+Pinyin: Tā duì zhè duàn huíyì jíqí zhēnguì.
+English: She treasures this memory greatly.
+
+Chinese: 这把古老的钥匙非常珍贵。
+Pinyin: Zhè bǎ gǔlǎo de yàoshi fēicháng zhēnguì.
+English: This ancient key is very precious.
+
+Chinese: 这件珠宝是一份珍贵的遗产。
+Pinyin: Zhè jiàn zhūbǎo shì yī fèn zhēnguì de yíchǎn.
+English: This piece of jewelry is a precious heirloom.
+
+Chinese: 这幅画是一笔珍贵的投资。
+Pinyin: Zhè fú huà shì yī bǐ zhēnguì de tóuzī.
+English: This painting is a valuable investment.
+
+Chinese: 她用专栏记录了这段珍贵的经历。
+Pinyin: Tā yòng zhuānlán jìlùle zhè duàn zhēnguì de jīnglì.
+English: She documented this precious experience in her column.
+
+Chinese: 这台相机能够捕捉到珍贵的瞬间。
+Pinyin: Zhè tái xiàngjī nénggòu bǔzhuō dào zhēnguì de shùnjiān.
+English: This camera can capture precious moments.
+
+Chinese: 这个文件包含着许多珍贵的信息。
+Pinyin: Zhè gè wénjiàn bāohánzhe xǔduō zhēnguì de xìnxī.
+English: This document contains a lot of valuable information.
+
+Chinese: 这是一本无价的书。
+Pinyin: Zhè shì yī běn wú jià de shū.
+English: This is an invaluable book.
+
+Chinese: 无价的友谊是最珍贵的。
+Pinyin: Wú jià de yǒu yì shì zuì zhēn guì de.
+English: Invaluable friendship is the most precious.
+
+Chinese: 对我来说，家人的爱是无价的。
+Pinyin: Duì wǒ lái shuō, jiā rén de ài shì wú jià de.
+English: For me, the love of family is priceless.
+
+Chinese: 这幅画的价值是无价的。
+Pinyin: Zhè fú huà de jià zhí shì wú jià de.
+English: The value of this painting is priceless.
+
+Chinese: 平安健康是无价的财富。
+Pinyin: Píng ān jiàn kāng shì wú jià de cái fù.
+English: Peace and health are priceless wealth.
+
+Chinese: 时间是我们的无价之宝。
+Pinyin: Shí jiān shì wǒ men de wú jià zhī bǎo.
+English: Time is our priceless treasure.
+
+Chinese: 真诚的表达是无价的。
+Pinyin: Zhēn chéng de biǎo dá shì wú jià de.
+English: Sincere expression is priceless.
+
+Chinese: 无私的奉献是无价的品质。
+Pinyin: Wú sī de fèng xiàn shì wú jià de pǐn zhì.
+English: Selfless dedication is an invaluable quality.
+
+Chinese: 父母的教诲是无价的财富。
+Pinyin: Fù mǔ de jiào huì shì wú jià de cái fù.
+English: The teachings of parents are an invaluable treasure.
+
+Chinese: 善行是无价的力量。
+Pinyin: Shàn xíng shì wú jià de lì liàng.
+English: Good deeds are a priceless power.
+
+Chinese: 请避开人群。
+Pinyin: Qǐng bìkāi rénqún.
+English: Please avoid the crowd.
+
+Chinese: 小心避开摩托车。
+Pinyin: Xiǎoxīn bìkāi mótúchē.
+English: Be careful to avoid motorcycles.
+
+Chinese: 在行人道上避开自行车。
+Pinyin: Zài xíngréndào shàng bìkāi zìxíngchē.
+English: Avoid bicycles on the sidewalk.
+
+Chinese: 我们要避开交通堵塞。
+Pinyin: Wǒmen yào bìkāi jiāotōng dǔsè.
+English: We need to avoid traffic congestion.
+
+Chinese: 他已经成功避开了麻烦。
+Pinyin: Tā yǐjīng chénggōng bìkāi le máfan.
+English: He has successfully avoided trouble.
+
+Chinese: 请避开施工区域。
+Pinyin: Qǐng bìkāi shīgōng qūyù.
+English: Please avoid the construction area.
+
+Chinese: 她不懂得如何避开冲突。
+Pinyin: Tā bù dǒngdé rúhé bìkāi chōngtū.
+English: She doesn't know how to avoid conflicts.
+
+Chinese: 他们急忙避开正在燃烧的房屋。
+Pinyin: Tāmen jímáng bìkāi zhèngzài ránshāo de fángwū.
+English: They hurriedly avoided the burning house.
+
+Chinese: 为了避开麻烦，他选择了离开。
+Pinyin: Wèile bìkāi máfan, tā xuǎnzé le líkāi.
+English: To avoid trouble, he chose to leave.
+
+Chinese: 他们尽量避开陌生人。
+Pinyin: Tāmen jǐnliàng bìkāi mòshēngrén.
+English: They try their best to avoid strangers.
+
+Chinese: 他们之间有一种深厚的友谊。
+Pinyin: Tāmen zhī jiān yǒu yī zhǒng shēnhòu de yǒuyì.
+English: There is a deep friendship between them.
+
+Chinese: 我们的友谊会持续下去。
+Pinyin: Wǒmen de yǒuyì huì chíxù xiàqù.
+English: Our friendship will endure.
+
+Chinese: 他们之间的友谊很牢固。
+Pinyin: Tāmen zhī jiān de yǒuyì hěn láogù.
+English: The friendship between them is strong.
+
+Chinese: 我们彼此之间建立了深厚的友谊。
+Pinyin: Wǒmen bǐcǐ zhī jiān jiànlìle shēnhòu de yǒuyì.
+English: We have established a deep friendship with each other.
+
+Chinese: 他们的友谊经受住了考验。
+Pinyin: Tāmen de yǒuyì jīngshòu zhùle kǎoyàn.
+English: Their friendship stood the test.
+
+Chinese: 她对友谊的看法很理性。
+Pinyin: Tā duì yǒuyì de kànfǎ hěn lǐxìng.
+English: Her view on friendship is very rational.
+
+Chinese: 什么时候建立友谊最容易？
+Pinyin: Shénme shíhou jiànlì yǒuyì zuì róngyì?
+English: When is it easiest to form friendships?
+
+Chinese: 与他的友谊让我受益匪浅。
+Pinyin: Yǔ tā de yǒuyì ràng wǒ shòuyì fěiqiǎn.
+English: His friendship has benefited me greatly.
+
+Chinese: 我们共享着一种真诚的友谊。
+Pinyin: Wǒmen gòngxiǎng zhe yī zhǒng zhēnchéng de yǒuyì.
+English: We share a sincere friendship.
+
+Chinese: 友谊是建立在互相理解的基础上的。
+Pinyin: Yǒuyì shì jiànlì zài hùxiāng lǐjiě de jīchǔ shàng de.
+English: Friendship is built on mutual understanding.
+
+Chinese: 我迷路了，怎么办？
+Pinyin: Wǒ mí lù le, zěnme bàn?
+English: I'm lost, what should I do?
+
+Chinese: 我手机坏了，怎么办？
+Pinyin: Wǒ shǒujī huài le, zěnme bàn?
+English: My phone is broken, what should I do?
+
+Chinese: 他迟到了，怎么办？
+Pinyin: Tā chídào le, zěnme bàn?
+English: He's late, what should we do?
+
+Chinese: 我的作业丢了，怎么办？
+Pinyin: Wǒ de zuòyè diū le, zěnme bàn?
+English: I lost my homework, what should I do?
+
+Chinese: 钱包被偷了，怎么办？
+Pinyin: Qiánbāo bèi tōu le, zěnme bàn?
+English: My wallet got stolen, what should I do?
+
+Chinese: 孩子生病了，怎么办？
+Pinyin: Háizi shēngbìng le, zěnme bàn?
+English: My child is sick, what should I do?
+
+Chinese: 火车晚点了，怎么办？
+Pinyin: Huǒchē wǎndiǎn le, zěnme bàn?
+English: The train is delayed, what should we do?
+
+Chinese: 我的电脑死机了，怎么办？
+Pinyin: Wǒ de diànnǎo sǐjī le, zěnme bàn?
+English: My computer crashed, what should I do?
+
+Chinese: 我的钥匙掉了，怎么办？
+Pinyin: Wǒ de yàoshi diào le, zěnme bàn?
+English: I dropped my keys, what should I do?
+
+Chinese: 我走错了路线，怎么办？
+Pinyin: Wǒ zǒu cuò le lùxiàn, zěnme bàn?
+English: I took the wrong route, what should I do?
+
+Chinese: 他学会了如何驾驶汽车。
+Pinyin: Tā xuéhuì le rúhé jiàshǐ qìchē.
+English: He learned how to drive a car.
+
+Chinese: 她的工作是驾驶飞机。
+Pinyin: Tā de gōngzuò shì jiàshǐ fēijī.
+English: Her job is to pilot an airplane.
+
+Chinese: 我要去学校的路上驾驶摩托车。
+Pinyin: Wǒ yào qù xuéxiào de lùshàng jiàshǐ mótuōchē.
+English: I will drive a motorcycle on the way to school.
+
+Chinese: 在中国，18岁以上的人才能合法驾驶汽车。
+Pinyin: Zài zhōngguó, 18 suì yǐshàng de rén cáinéng héfǎ jiàshǐ qìchē.
+English: In China, only people over 18 years old can legally drive a car.
+
+Chinese: 他正在接受驾驶培训。
+Pinyin: Tā zhèngzài jiēshòu jiàshǐ péixùn.
+English: He is currently undergoing driver training.
+
+Chinese: 这个驾驶员很有经验。
+Pinyin: Zhège jiàshǐ yuán hěn yǒu jīngyàn.
+English: This driver is very experienced.
+
+Chinese: 驾驶飞机需要很多专业知识。
+Pinyin: Jiàshǐ fēijī xūyào hěnduō zhuānyè zhīshì.
+English: Flying an airplane requires a lot of professional knowledge.
+
+Chinese: 我们将会分配一个驾驶员来接您。
+Pinyin: Wǒmen jiāng huì fēnpèi yīgè jiàshǐ yǐlái jiē nín.
+English: We will assign a driver to pick you up.
+
+Chinese: 驾驶大卡车需要特殊许可。
+Pinyin: Jiàshǐ dà kǎchē xūyào tèshū xǔkě.
+English: Driving a big truck requires a special license.
+
+Chinese: 驾驶员在驾驶过程中需要保持专注。
+Pinyin: Jiàshǐ yuán zài jiàshǐ guòchéng zhōng xūyào bǎochí zhuānzhù.
+English: Drivers need to stay focused while driving.
