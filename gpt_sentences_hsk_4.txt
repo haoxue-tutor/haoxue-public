@@ -4557,3 +4557,652 @@ English: There are several contradictory points in his speech.
 Chinese: 他说了些矛盾的话，让我很困惑。
 Pinyin: Tā shuō le xiē máodùn de huà, ràng wǒ hěn kùnhuò.
 English: He said some contradictory things, which confused me.
+
+Chinese: 他每天都按时睡觉。
+Pinyin: Tā měitiān dōu ànshí shuìjiào.
+English: He goes to bed on time every day.
+
+Chinese: 我们上课的时候老师总是很规律。
+Pinyin: Wǒmen shàngkè de shíhou lǎoshī zǒngshì hěn guīlǜ.
+English: Our teacher is always very consistent during class.
+
+Chinese: 她工作的时候总是有条不紊。
+Pinyin: Tā gōngzuò de shíhou zǒngshì yǒutiáobùwěn.
+English: She is always methodical when she works.
+
+Chinese: 孩子们喜欢有规律的作息时间。
+Pinyin: Háizimen xǐhuān yǒu guīlǜ de zuòxī shíjiān.
+English: Children like to have a regular daily routine.
+
+Chinese: 老师让我们养成良好的学习规律。
+Pinyin: Lǎoshī ràng wǒmen yǎngchéng liánghǎo de xuéxí guīlǜ.
+English: The teacher wants us to develop good study habits.
+
+Chinese: 运动对我们的身体健康有好处。
+Pinyin: Yùndòng duì wǒmen de shēntǐ jiànkāng yǒu hǎochù.
+English: Exercise is good for our physical health.
+
+Chinese: 人们都希望生活过得有规律。
+Pinyin: Rénmen dōu xīwàng shēnghuó guò dé yǒu guīlǜ.
+English: People hope to live a regular life.
+
+Chinese: 好的时间管理能帮助提高工作效率。
+Pinyin: Hǎo de shíjiān guǎnlǐ néng bāngzhù tígāo gōngzuò xiàolǜ.
+English: Good time management can help improve work efficiency.
+
+Chinese: 每天按时吃饭有利于身体健康。
+Pinyin: Měitiān ànshí chīfàn yǒulìyú shēntǐ jiànkāng.
+English: Eating meals on time every day is good for your health.
+
+Chinese: 坚持锻炼可以增强体质。
+Pinyin: Jiānchí duànliàn kěyǐ zēngqiáng tǐzhì.
+English: Regular exercise can enhance your physical fitness.
+
+Chinese: 这是一本普通的书。
+Pinyin: Zhè shì yī běn pǔtōng de shū.
+English: This is an ordinary book.
+
+Chinese: 这是一种普通的食物。
+Pinyin: Zhè shì yī zhǒng pǔtōng de shíwù.
+English: This is a common food.
+
+Chinese: 我喜欢穿普通的衣服。
+Pinyin: Wǒ xǐhuān chuān pǔtōng de yīfu.
+English: I like to wear ordinary clothes.
+
+Chinese: 这只是一个普通问题。
+Pinyin: Zhè zhǐshì yī gè pǔtōng wèntí.
+English: This is just a common question.
+
+Chinese: 这个房间很普通。
+Pinyin: Zhège fángjiān hěn pǔtōng.
+English: This room is very ordinary.
+
+Chinese: 他只是一名普通学生。
+Pinyin: Tā zhǐshì yī míng pǔtōng xuéshēng.
+English: He is just an ordinary student.
+
+Chinese: 那只是一种普通的动物。
+Pinyin: Nà zhǐshì yī zhǒng pǔtōng de dòngwù.
+English: That is just a common animal.
+
+Chinese: 这件事对他来说很普通。
+Pinyin: Zhè jiàn shì duì tā lái shuō hěn pǔtōng.
+English: This matter is very ordinary for him.
+
+Chinese: 这只是一次普通的旅行。
+Pinyin: Zhè zhǐshì yī cì pǔtōng de lǚxíng.
+English: This is just an ordinary trip.
+
+Chinese: 他拥有普通的外貌。
+Pinyin: Tā yǒngyǒu pǔtōng de wàimào.
+English: He has an ordinary appearance.
+
+Chinese: 我得到了一份新的职位。
+Pinyin: Wǒ dé dào le yí fèn xīn de zhíwèi.
+English: I got a new job position.
+
+Chinese: 她的职位是销售主管。
+Pinyin: Tā de zhíwèi shì xiāoshòu zhǔguǎn.
+English: Her position is sales manager.
+
+Chinese: 他申请了那个职位。
+Pinyin: Tā shēnqǐng le nàge zhíwèi.
+English: He applied for that position.
+
+Chinese: 这个职位需要一定的工作经验。
+Pinyin: Zhège zhíwèi xūyào yídìng de gōngzuò jīngyàn.
+English: This position requires certain work experience.
+
+Chinese: 我在公司里担任重要职位。
+Pinyin: Wǒ zài gōngsī lǐ dānrèn zhòngyào zhíwèi.
+English: I hold an important position in the company.
+
+Chinese: 这个职位需要具备一定的技能。
+Pinyin: Zhège zhíwèi xūyào jùbèi yídìng de jìnéng.
+English: This position requires certain skills.
+
+Chinese: 她已经升迁到一个高级职位。
+Pinyin: Tā yǐjīng shēngqiān dào yíge gāojí zhíwèi.
+English: She has been promoted to a senior position.
+
+Chinese: 我正在寻找适合的职位。
+Pinyin: Wǒ zhèngzài xúnzhǎo shìhé de zhíwèi.
+English: I am currently looking for a suitable position.
+
+Chinese: 这个职位的薪水很高。
+Pinyin: Zhège zhíwèi de xīnshuǐ hěn gāo.
+English: The salary for this position is high.
+
+Chinese: 他在公司里的职位很稳定。
+Pinyin: Tā zài gōngsī lǐ de zhíwèi hěn wěndìng.
+English: His position in the company is stable.
+
+Chinese: 请用中文进行交流。
+Pinyin: Qǐng yòng zhōngwén jìnxíng jiāoliú.
+English: Please communicate in Chinese.
+
+Chinese: 我们需要加强国际交流。
+Pinyin: Wǒmen xūyào jiāqiáng guójì jiāoliú.
+English: We need to strengthen international exchange.
+
+Chinese: 通过交流可以增进了解。
+Pinyin: Tōngguò jiāoliú kěyǐ zēngjìn liǎojiě.
+English: Communication can enhance understanding.
+
+Chinese: 学习一门新的语言需要与他人交流。
+Pinyin: Xuéxí yī mén xīn de yǔyán xūyào yǔ tārén jiāoliú.
+English: Learning a new language requires communication with others.
+
+Chinese: 他是一个很擅长交流的人。
+Pinyin: Tā shì yī gè hěn shàncháng jiāoliú de rén.
+English: He is a person who is good at communication.
+
+Chinese: 我们应该通过交流深入彼此了解。
+Pinyin: Wǒmen yīnggāi tōngguò jiāoliú shēnrù bǐcǐ liǎojiě.
+English: We should deepen our understanding of each other through communication.
+
+Chinese: 商务交流对于企业发展很重要。
+Pinyin: Shāngwù jiāoliú duìyú qǐyè fāzhǎn hěn zhòngyào.
+English: Business communication is important for the development of enterprises.
+
+Chinese: 交流能够促进文化的传播。
+Pinyin: Jiāoliú nénggòu cùjìn wénhuà de chuánbò.
+English: Communication can promote the dissemination of culture.
+
+Chinese: 这个会议是为了增进各国之间的交流。
+Pinyin: Zhège huìyì shì wèile zēngjìn gè guó zhījiān de jiāoliú.
+English: This meeting is for enhancing communication among countries.
+
+Chinese: 交流是人与人之间相互认识的桥梁。
+Pinyin: Jiāoliú shì rén yǔ rén zhījiān xiānghù rènshi de qiáoliáng.
+English: Communication is a bridge for people to know each other.
+
+Chinese: 我偶尔喜欢去爬山。
+Pinyin: Wǒ ǒuěr xǐhuān qù páshān.
+English: I occasionally like to go mountain climbing.
+
+Chinese: 她偶尔会去看电影。
+Pinyin: Tā ǒuěr huì qù kàn diànyǐng.
+English: She occasionally goes to watch movies.
+
+Chinese: 我们偶尔一起吃饭。
+Pinyin: Wǒmen ǒuěr yīqǐ chīfàn.
+English: We occasionally eat together.
+
+Chinese: 他偶尔会在周末去钓鱼。
+Pinyin: Tā ǒuěr huì zài zhōumò qù diàoyú.
+English: He occasionally goes fishing on weekends.
+
+Chinese: 她偶尔在家煮饭。
+Pinyin: Tā ǒuěr zài jiā zhǔfàn.
+English: She occasionally cooks at home.
+
+Chinese: 我偶尔去逛商场买衣服。
+Pinyin: Wǒ ǒuěr qù guàng shāngchǎng mǎi yīfú.
+English: I occasionally go shopping at the mall to buy clothes.
+
+Chinese: 他们偶尔会一起打篮球。
+Pinyin: Tāmen ǒuěr huì yīqǐ dǎ lánqiú.
+English: They occasionally play basketball together.
+
+Chinese: 她偶尔会去旅行。
+Pinyin: Tā ǒuěr huì qù lǚxíng.
+English: She occasionally goes on trips.
+
+Chinese: 我们偶尔会去咖啡馆喝咖啡。
+Pinyin: Wǒmen ǒuěr huì qù kāfēiguǎn hē kāfēi.
+English: We occasionally go to the café to have coffee.
+
+Chinese: 他偶尔听音乐放松心情。
+Pinyin: Tā ǒuěr tīng yīnyuè fàngsōng xīnqíng.
+English: He occasionally listens to music to relax his mind.
+
+Chinese: 我喜欢吃炒面。
+Pinyin: Wǒ xǐhuān chī chǎo miàn.
+English: I like to eat fried noodles.
+
+Chinese: 他会炒菜。
+Pinyin: Tā huì chǎo cài.
+English: He can stir-fry dishes.
+
+Chinese: 她正在炒鸡蛋。
+Pinyin: Tā zhèngzài chǎo jīdàn.
+English: She is frying eggs.
+
+Chinese: 我今晚要炒青菜。
+Pinyin: Wǒ jīn wǎn yào chǎo qīngcài.
+English: I will stir-fry vegetables tonight.
+
+Chinese: 这道菜是用橄榄油炒的。
+Pinyin: Zhè dào cài shì yòng gǎnlǎnyóu chǎo de.
+English: This dish is fried with olive oil.
+
+Chinese: 他喜欢用高温炒菜。
+Pinyin: Tā xǐhuān yòng gāowēn chǎo cài.
+English: He likes to stir-fry dishes at high temperature.
+
+Chinese: 她教我如何炒饭。
+Pinyin: Tā jiāo wǒ rúhé chǎo fàn.
+English: She taught me how to fry rice.
+
+Chinese: 我的爸爸会炒饺子。
+Pinyin: Wǒ de bàba huì chǎo jiǎozi.
+English: My dad can fry dumplings.
+
+Chinese: 看，他正在炒辣椒。
+Pinyin: Kàn, tā zhèngzài chǎo làjiāo.
+English: Look, he is stir-frying chili peppers.
+
+Chinese: 他加了蒜蓉炒虾仁里。
+Pinyin: Tā jiāle suànróng chǎo xiārén lǐ.
+English: He added garlic while stir-frying the shrimp.
+
+Chinese: 我喜欢吃西红柿。
+Pinyin: Wǒ xǐhuān chī xīhóngshì.
+English: I like to eat tomatoes.
+
+Chinese: 西红柿是一种蔬菜。
+Pinyin: Xīhóngshì shì yī zhǒng shūcài.
+English: Tomatoes are a type of vegetable.
+
+Chinese: 妈妈买了两个西红柿。
+Pinyin: Māmā mǎile liǎng gè xīhóngshì.
+English: Mom bought two tomatoes.
+
+Chinese: 这个西红柿很新鲜。
+Pinyin: Zhège xīhóngshì hěn xīnxiān.
+English: This tomato is very fresh.
+
+Chinese: 饿了，吃个西红柿吧。
+Pinyin: Èle, chī gè xīhóngshì ba.
+English: I'm hungry, let's eat a tomato.
+
+Chinese: 西红柿汁很好喝。
+Pinyin: Xīhóngshì zhī hěn hǎohē.
+English: Tomato juice is very delicious.
+
+Chinese: 我喜欢西红柿色的衣服。
+Pinyin: Wǒ xǐhuān xīhóngshì sè de yīfú.
+English: I like clothes in the color of tomatoes.
+
+Chinese: 老师给了我一个西红柿作为礼物。
+Pinyin: Lǎoshī gěile wǒ yī gè xīhóngshì zuòwéi lǐwù.
+English: The teacher gave me a tomato as a gift.
+
+Chinese: 这个超市有很多不同种类的西红柿。
+Pinyin: Zhège chāoshì yǒu hěnduō bùtóng zhǒnglèi de xīhóngshì.
+English: This supermarket has many different varieties of tomatoes.
+
+Chinese: 今年将举办奥运会。
+Pinyin: Jīnnián jiāng jǔbàn àoyùnhuì.
+English: The Olympic Games will be held this year.
+
+Chinese: 奥运会是一个国际体育赛事。
+Pinyin: Àoyùnhuì shì yīgè guójì tǐyù sàishì.
+English: The Olympic Games is an international sporting event.
+
+Chinese: 这个城市将举办奥运会。
+Pinyin: Zhège chéngshì jiāng jǔbàn àoyùnhuì.
+English: This city will host the Olympic Games.
+
+Chinese: 奥运会吸引了全世界的目光。
+Pinyin: Àoyùnhuì xīyǐnle quán shìjiè de mùguāng.
+English: The Olympic Games attracts attention from all over the world.
+
+Chinese: 奥运会是体育盛会之一。
+Pinyin: Àoyùnhuì shì tǐyù shènghuì zhī yī.
+English: The Olympic Games is one of the grandest sporting events.
+
+Chinese: 奥运会的参赛选手非常优秀。
+Pinyin: Àoyùnhuì de cānsài xuǎnshǒu fēicháng yōuxiù.
+English: The participants of the Olympic Games are very outstanding.
+
+Chinese: 这本书很有意思。
+Pinyin: Zhè běn shū hěn yǒu yìsi.
+English: This book is interesting.
+
+Chinese: 他们的对话非常有意思。
+Pinyin: Tāmen de duìhuà fēicháng yǒu yìsi.
+English: Their conversation is very interesting.
+
+Chinese: 这个电影挺有意思的。
+Pinyin: Zhège diànyǐng tǐng yǒu yìsi de.
+English: This movie is quite interesting.
+
+Chinese: 我觉得这个节目有意思。
+Pinyin: Wǒ juéde zhège jiémù yǒu yìsi.
+English: I think this show is interesting.
+
+Chinese: 她的故事真有意思。
+Pinyin: Tā de gùshì zhēn yǒu yìsi.
+English: Her story is really interesting.
+
+Chinese: 那个问题太有意思了。
+Pinyin: Nà gè wèntí tài yǒu yìsi le.
+English: That question is so interesting.
+
+Chinese: 这个地方有意思吗？
+Pinyin: Zhège dìfāng yǒu yìsi ma?
+English: Is this place interesting?
+
+Chinese: 你有什么有意思的事情要告诉我吗？
+Pinyin: Nǐ yǒu shénme yǒu yìsi de shìqing yào gàosù wǒ ma?
+English: Do you have anything interesting to tell me?
+
+Chinese: 他总是有意思的笑。
+Pinyin: Tā zǒng shì yǒu yìsi de xiào.
+English: He always has a mischievous smile.
+
+Chinese: 这个游戏挺有意思的。
+Pinyin: Zhège yóuxì tǐng yǒu yìsi de.
+English: This game is quite interesting.
+
+Chinese: 新年吉祥。
+Pinyin: Xīnnián jíxiáng.
+English: Happy New Year.
+
+Chinese: 这是一个吉祥的符号。
+Pinyin: Zhè shì yīgè jíxiáng de fúhào.
+English: This is an auspicious symbol.
+
+Chinese: 我们送她一串吉祥的灯笼。
+Pinyin: Wǒmen sòng tā yī chuàn jíxiáng de dēnglong.
+English: We gave her a string of auspicious lanterns.
+
+Chinese: 他们佩戴着吉祥的护身符。
+Pinyin: Tāmen pèidài zhe jíxiáng de hùshēnfú.
+English: They wear auspicious talismans.
+
+Chinese: 我喜欢吉祥的红色。
+Pinyin: Wǒ xǐhuān jíxiáng de hóngsè.
+English: I like the auspicious color red.
+
+Chinese: 这是一个吉祥物。
+Pinyin: Zhè shì yīgè jíxiángwù.
+English: This is a mascot.
+
+Chinese: 制作吉祥包子是传统的习俗。
+Pinyin: Zhìzuò jíxiáng bāozi shì chuántǒng de xísú.
+English: Making auspicious steamed buns is a traditional custom.
+
+Chinese: 阴历年的晚上，人们会贴吉祥的对联。
+Pinyin: Yīnlì nián de wǎnshàng, rénmen huì tiē jíxiáng de duìlián.
+English: On the night of the lunar New Year, people paste auspicious couplets.
+
+Chinese: 她把吉祥的装饰品放在客厅里。
+Pinyin: Tā bǎ jíxiáng de zhuāngshìpǐn fàng zài kètīng lǐ.
+English: She placed auspicious decorations in the living room.
+
+Chinese: 这个符号代表着吉祥和好运。
+Pinyin: Zhège fúhào dàibiǎo zhe jíxiáng hé hǎoyùn.
+English: This symbol represents auspiciousness and good luck.
+
+Chinese: 他和他的伴侣一起去旅行了。
+Pinyin: Tā hé tā de bànlǚ yīqǐ qù lǚxíngle.
+English: He went on a trip with his partner.
+
+Chinese: 她找到了一个理想的伴侣。
+Pinyin: Tā zhǎodàole yīgè lǐxiǎng de bànlǚ.
+English: She found an ideal partner.
+
+Chinese: 他们已经结婚多年，是一对恩爱的伴侣。
+Pinyin: Tāmen yǐjīng jiéhūn duō nián, shì yī duì ēn'ài de bànlǚ.
+English: They have been married for many years and are a loving couple.
+
+Chinese: 长期在一起会变成默契的伴侣。
+Pinyin: Chángqī zài yīqǐ huì biànchéng mòqì de bànlǚ.
+English: Being together for a long time will turn into tacit partners.
+
+Chinese: 他们是事业上的伴侣，共同经营着一家公司。
+Pinyin: Tāmen shì shìyè shàng de bànlǚ, gòngtóng jīngyíngzhe yī jiā gōngsī.
+English: They are business partners, managing a company together.
+
+Chinese: 他们是彼此最好的伴侣。
+Pinyin: Tāmen shì bǐcǐ zuìhǎo de bànlǚ.
+English: They are each other's best companions.
+
+Chinese: 互相尊重是伴侣关系中的重要因素。
+Pinyin: Hù xiāng zūnzhòng shì bànlǚ guānxì zhōng de zhòngyào yīnsù.
+English: Mutual respect is an important factor in a partnership.
+
+Chinese: 她一直梦想找到一个忠诚的伴侣。
+Pinyin: Tā yīzhí mèngxiǎng zhǎodào yīgè zhōngchéng de bànlǚ.
+English: She has always dreamt of finding a loyal partner.
+
+Chinese: 婚姻是伴侣之间的承诺和责任。
+Pinyin: Hūnyīn shì bànlǚ zhījiān de chéngnuò hé zérèn.
+English: Marriage is a commitment and responsibility between partners.
+
+Chinese: 对于他们来说，信任是成功伴侣关系的基石。
+Pinyin: Duìyú tāmen láishuō, xìnrèn shì chénggōng bànlǚ guānxì de jīshí.
+English: For them, trust is the cornerstone of a successful partnership.
+
+Chinese: 古代的文化非常丰富。
+Pinyin: Gǔdài de wénhuà fēicháng fēngfù.
+English: Ancient culture is very rich.
+
+Chinese: 古代的建筑非常壮观。
+Pinyin: Gǔdài de jiànzhù fēicháng zhuàngguān.
+English: Ancient architecture is very magnificent.
+
+Chinese: 我对古代历史非常感兴趣。
+Pinyin: Wǒ duì gǔdài lìshǐ fēicháng gǎn xìngqù.
+English: I am very interested in ancient history.
+
+Chinese: 古代的艺术品非常珍贵。
+Pinyin: Gǔdài de yìshùpǐn fēicháng zhēnguì.
+English: Ancient artworks are very precious.
+
+Chinese: 我常常阅读关于古代文明的书籍。
+Pinyin: Wǒ chángcháng yuèdú guānyú gǔdài wénmíng de shūjí.
+English: I often read books about ancient civilizations.
+
+Chinese: 古代的社会制度与现代有很大不同。
+Pinyin: Gǔdài de shèhuì zhìdù yǔ xiàndài yǒu hěn dà bùtóng.
+English: The social system in ancient times is very different from modern times.
+
+Chinese: 我们可以通过考古学了解古代的生活方式。
+Pinyin: Wǒmen kěyǐ tōngguò kǎogǔxué liǎojiě gǔdài de shēnghuó fāngshì.
+English: We can learn about the lifestyle in ancient times through archaeology.
+
+Chinese: 我喜欢研究古代文明的发展历程。
+Pinyin: Wǒ xǐhuān yánjiū gǔdài wénmíng de fāzhǎn lìchéng.
+English: I enjoy studying the development process of ancient civilization.
+
+Chinese: 古代的人们过着简单而幸福的生活。
+Pinyin: Gǔdài de rénmen guòzhe jiǎndān ér xìngfú de shēnghuó.
+English: People in ancient times lived a simple and happy life.
+
+Chinese: 这座城市保存了许多古代建筑。
+Pinyin: Zhè zuò chéngshì bǎocúnle xǔduō gǔdài jiànzhù.
+English: This city has preserved many ancient buildings.
+
+Chinese: 这个小区住着一位老太太。
+Pinyin: Zhège xiǎoqū zhùzhe yí wèi lǎotàitai.
+English: There is an old lady living in this residential area.
+
+Chinese: 今天公园里有很多老太太在跳广场舞。
+Pinyin: Jīntiān gōngyuán lǐ yǒu hěnduō lǎotàitai zài tiào guǎngchǎng wǔ.
+English: There are many old ladies dancing square dance in the park today.
+
+Chinese: 路上有一位老太太在卖鲜花。
+Pinyin: Lùshàng yǒu yí wèi lǎotàitai zài mài xiānhuā.
+English: There is an old lady selling flowers on the road.
+
+Chinese: 老太太每天都去公园散步。
+Pinyin: Lǎotàitai měitiān dōu qù gōngyuán sànbù.
+English: The old lady goes for a walk in the park every day.
+
+Chinese: 我买了一本给老太太看的书。
+Pinyin: Wǒ mǎile yì běn gěi lǎotàitai kàn de shū.
+English: I bought a book for the old lady to read.
+
+Chinese: 这位老太太是我邻居。
+Pinyin: Zhè wèi lǎotàitai shì wǒ línjū.
+English: This old lady is my neighbor.
+
+Chinese: 某天，一位老太太走进了我的店。
+Pinyin: Mǒu tiān, yí wèi lǎotàitai zǒu jìnle wǒ de diàn.
+English: One day, an old lady walked into my shop.
+
+Chinese: 经过老太太的指导，我学会了织毛衣。
+Pinyin: Jīngguò lǎotàitai de zhǐdǎo, wǒ xuéhuìle zhī máoyī.
+English: With the guidance of the old lady, I learned how to knit sweaters.
+
+Chinese: 老太太把一只流浪猫带回了家。
+Pinyin: Lǎotàitai bǎ yì zhī liúlàngmāo dàihuíle jiā.
+English: The old lady brought a stray cat home.
+
+Chinese: 路边的长椅上坐着一位老太太。
+Pinyin: Lùbiān de chángyǐ shàng zuòzhe yí wèi lǎotàitai.
+English: There is an old lady sitting on the bench by the roadside.
+
+Chinese: 他遭遇了不幸的事故。
+Pinyin: Tā zāoyù le bùxìng de shìgù.
+English: He encountered an unfortunate accident.
+
+Chinese: 她经历了不幸的婚姻。
+Pinyin: Tā jīnglì le bùxìng de hūnyīn.
+English: She went through an unfortunate marriage.
+
+Chinese: 这是一次不幸的事件。
+Pinyin: Zhè shì yīcì bùxìng de shìjiàn.
+English: This is an unfortunate event.
+
+Chinese: 不幸的事情发生在他身上。
+Pinyin: Bùxìng de shìqíng fāshēng zài tā shēnshang.
+English: Unfortunate things happened to him.
+
+Chinese: 这个故事讲述了一个不幸的结局。
+Pinyin: Zhège gùshi jiǎngshù le yīgè bùxìng de jiéjú.
+English: This story tells an unfortunate ending.
+
+Chinese: 每个人都希望不幸不会降临到自己身上。
+Pinyin: Měi gè rén dōu xīwàng bùxìng bù huì jiànglín dào zìjǐ shēnshang.
+English: Everyone hopes that misfortune will not come upon themselves.
+
+Chinese: 我感到非常遗憾和不幸。
+Pinyin: Wǒ gǎndào fēicháng yíhàn hé bùxìng.
+English: I feel very sorry and unfortunate.
+
+Chinese: 他在生活中遭受了许多不幸。
+Pinyin: Tā zài shēnghuó zhōng zāoshòu le xǔduō bùxìng.
+English: He has suffered many misfortunes in life.
+
+Chinese: 这个地区经历了多次不幸的自然灾害。
+Pinyin: Zhège dìqū jīnglì le duōcì bùxìng de zìrán zāihài.
+English: This region has experienced multiple unfortunate natural disasters.
+
+Chinese: 这是一个不幸的误会。
+Pinyin: Zhè shì yīgè bùxìng de wùhuì.
+English: This is an unfortunate misunderstanding.
+
+Chinese: 他的火车出轨了。
+Pinyin: Tā de huǒchē chūguǐ le.
+English: His train derailed.
+
+Chinese: 足球运动员突然出轨了。
+Pinyin: Zúqiú yùndòngyuán tūrán chūguǐ le.
+English: The soccer player suddenly went off track.
+
+Chinese: 火车出轨造成了严重的事故。
+Pinyin: Huǒchē chūguǐ zàochéngle yánzhòng de shìgù.
+English: The train derailing caused a serious accident.
+
+Chinese: 出轨会导致人员伤亡。
+Pinyin: Chūguǐ huì dǎozhì rényuán shāngwáng.
+English: Derailment can result in casualties.
+
+Chinese: 意外导致了这起出轨事件。
+Pinyin: Yìwài dǎozhìle zhè qǐ chūguǐ shìjiàn.
+English: The accident caused this derailment incident.
+
+Chinese: 这次列车出轨事故造成了很多损失。
+Pinyin: Zhè cì lièchē chūguǐ shìgù zàochéngle hěnduō sǔnshī.
+English: This train derailment accident caused a lot of losses.
+
+Chinese: 灰烬铁轨上的列车突然出轨了。
+Pinyin: Huījìn tiěguǐ shàng de lièchē tūrán chūguǐ le.
+English: The train on the ash-covered tracks suddenly derailed.
+
+Chinese: 我的老公很帅。 
+Pinyin: Wǒ de lǎogōng hěn shuài. 
+English: My husband is very handsome.
+
+Chinese: 老公喜欢吃辣的食物。 
+Pinyin: Lǎogōng xǐhuan chī là de shíwù. 
+English: My husband likes to eat spicy food.
+
+Chinese: 我和老公一起去购物。 
+Pinyin: Wǒ hé lǎogōng yìqǐ qù gòuwù. 
+English: I go shopping with my husband.
+
+Chinese: 老公每天晚上回家很晚。 
+Pinyin: Lǎogōng měi tiān wǎnshàng huí jiā hěn wǎn. 
+English: My husband comes home very late every evening.
+
+Chinese: 我爱我的老公。 
+Pinyin: Wǒ ài wǒ de lǎogōng. 
+English: I love my husband.
+
+Chinese: 老公正在修理汽车。 
+Pinyin: Lǎogōng zhèngzài xiūlǐ qìchē. 
+English: My husband is repairing the car.
+
+Chinese: 我的老公是个医生。 
+Pinyin: Wǒ de lǎogōng shì gè yīshēng. 
+English: My husband is a doctor.
+
+Chinese: 老公经常鼓励我。 
+Pinyin: Lǎogōng jīngcháng gǔlì wǒ. 
+English: My husband often encourages me.
+
+Chinese: 我的老公是我的朋友。 
+Pinyin: Wǒ de lǎogōng shì wǒ de péngyǒu. 
+English: My husband is my friend.
+
+Chinese: 老公每天都为我做早饭。 
+Pinyin: Lǎogōng měitiān dōu wèi wǒ zuò zǎofàn. 
+English: My husband makes breakfast for me every day.
+
+Chinese: 我的老婆很漂亮。
+Pinyin: Wǒ de lǎopó hěn piàoliang.
+English: My wife is very beautiful.
+
+Chinese: 老婆做的饭很好吃。
+Pinyin: Lǎopó zuò de fàn hěn hǎochī.
+English: The food my wife cooks is delicious.
+
+Chinese: 老婆是我的最好朋友。
+Pinyin: Lǎopó shì wǒ de zuìhǎo péngyǒu.
+English: My wife is my best friend.
+
+Chinese: 老婆从小就是个才女。
+Pinyin: Lǎopó cóngxiǎo jiù shì gè cáinǔ.
+English: My wife has been a talented woman since childhood.
+
+Chinese: 我非常爱我的老婆。
+Pinyin: Wǒ fēicháng ài wǒ de lǎopó.
+English: I love my wife very much.
+
+Chinese: 老婆是我生命中的一切。
+Pinyin: Lǎopó shì wǒ shēngmìng zhōng de yíqiè.
+English: My wife is everything in my life.
+
+Chinese: 老婆是我们家的支柱。
+Pinyin: Lǎopó shì wǒmen jiā de zhīzhù.
+English: My wife is the pillar of our family.
+
+Chinese: 老婆比我年轻十岁。
+Pinyin: Lǎopó bǐ wǒ niánqīng shí suì.
+English: My wife is ten years younger than me.
+
+Chinese: 我和老婆在一起已经五年了。
+Pinyin: Wǒ hé lǎopó zài yīqǐ yǐjīng wǔ nián le.
+English: My wife and I have been together for five years.
+
+Chinese: 老婆是我人生中最幸福的礼物。
+Pinyin: Lǎopó shì wǒ rénshēng zhōng zuì xìngfú de lǐwù.
+English: My wife is the happiest gift in my life.
+
