@@ -877,3 +877,472 @@ English: The traffic at this intersection is very congested.
 Chinese: 注意看路口的标志，不要错过转弯的地方。
 Pinyin: Zhùyì kàn lùkǒu de biāozhì, bùyào cuòguò zhuǎnwān de dìfāng.
 English: Pay attention to the signs at the intersection and don't miss the turning point.
+
+Chinese: 我家对面有一家超市。
+Pinyin: Wǒ jiā duìmiàn yǒu yī jiā chāoshì.
+English: There is a supermarket opposite my house.
+
+Chinese: 那家餐厅在对面街道上。
+Pinyin: Nà jiā cāntīng zài duìmiàn jiēdào shàng.
+English: That restaurant is on the street across from here.
+
+Chinese: 我在对面楼上上班。
+Pinyin: Wǒ zài duìmiàn lóushàng shàngbān.
+English: I work upstairs across the street.
+
+Chinese: 那家商店在对面的角落里。
+Pinyin: Nà jiā shāngdiàn zài duìmiàn de jiǎoluò lǐ.
+English: That store is in the corner across from here.
+
+Chinese: 我的朋友住在对面的楼下。
+Pinyin: Wǒ de péngyǒu zhù zài duìmiàn de lóuxià.
+English: My friend lives downstairs across the street.
+
+Chinese: 我们的办公室对面有一个咖啡馆。
+Pinyin: Wǒmen de bàngōngshì duìmiàn yǒu yīgè kāfēiguǎn.
+English: There is a coffee shop across from our office.
+
+Chinese: 对面的房子很漂亮。
+Pinyin: Duìmiàn de fángzi hěn piàoliang.
+English: The house across the street is very beautiful.
+
+Chinese: 咖啡店就在我们对面的街上。
+Pinyin: Kāfēi diàn jiù zài wǒmen duìmiàn de jiē shàng.
+English: The coffee shop is on the street across from us.
+
+Chinese: 世纪是指一百年。
+Pinyin: Shìjì shì zhǐ yībǎi nián.
+English: A century refers to one hundred years.
+
+Chinese: 他们庆祝新世纪的到来。
+Pinyin: Tāmen qìngzhù xīn shìjì de dàolái.
+English: They celebrate the arrival of the new century.
+
+Chinese: 这个国家有悠久的历史和文化传承了几个世纪。
+Pinyin: Zhège guójiā yǒu yōujiǔ de lìshǐ hé wénhuà chuánchéngle jǐ gè shìjì.
+English: This country has a long history and cultural heritage spanning several centuries.
+
+Chinese: 在过去的二十世纪，科技取得了巨大的进步。
+Pinyin: Zài guòqù de èrshí shìjì, kējì qǔdéle jùdà de jìnbù.
+English: In the past 20th century, technology made tremendous progress.
+
+Chinese: 这个发明将改变未来世纪的生活方式。
+Pinyin: Zhège fāmíng jiāng gǎibiàn wèilái shìjì de shēnghuó fāngshì.
+English: This invention will change the way of life in future centuries.
+
+Chinese: 他是一位研究历史的教授，专攻十六世纪。
+Pinyin: Tā shì yī wèi yánjiū lìshǐ de jiàoshòu, zhuāngōng shíliù shìjì.
+English: He is a professor who specializes in the study of history, focusing on the sixteenth century.
+
+Chinese: 那位艺术家在二十一世纪留下了深刻的印记。
+Pinyin: Nà wèi yìshùjiā zài èrshíyī shìjì liúxiàle shēnkè de yìnjì.
+English: That artist left a profound imprint in the twenty-first century.
+
+Chinese: 这篇文章描述了十九世纪的文化变革。
+Pinyin: Zhè piān wénzhāng miáoshùle shíjiǔ shìjì de wénhuà biàngé.
+English: This article describes the cultural revolution of the nineteenth century.
+
+Chinese: 我们身处于一个快速发展的世纪。
+Pinyin: Wǒmen shēnchǔ yú yīgè kuàisù fāzhǎn de shìjì.
+English: We are living in a fast-developing century.
+
+Chinese: 在这个世纪里，人类面临着许多挑战和机遇。
+Pinyin: Zài zhège shìjì lǐ, rénlèi miànlínzhe xǔduō tiǎozhàn hé jīyù.
+English: In this century, humanity faces many challenges and opportunities.
+
+Chinese: 这是食品的入口。
+Pinyin: Zhè shì shípǐn de rùkǒu.
+English: This is the entrance to the food.
+
+Chinese: 这个洞是动物的入口。
+Pinyin: Zhège dòng shì dòngwù de rùkǒu.
+English: This hole is the entrance for animals.
+
+Chinese: 这扇门是大楼的入口。
+Pinyin: Zhè shàn mén shì dàlóu de rùkǒu.
+English: This door is the entrance to the building.
+
+Chinese: 请输入您的密码。
+Pinyin: Qǐng shūrù nín de mìmǎ.
+English: Please enter your password.
+
+Chinese: 在香港，公共汽车是入口付费的。
+Pinyin: Zài xiānggǎng, gōnggòng qìchē shì rùkǒu fùfèi de.
+English: In Hong Kong, buses have a pay-on-entry system.
+
+Chinese: 这本书是中文学习的入口。
+Pinyin: Zhè běn shū shì zhōngwén xuéxí de rùkǒu.
+English: This book is the entry point for learning Chinese.
+
+Chinese: 夏天是味觉的入口。
+Pinyin: Xiàtiān shì wèijué de rùkǒu.
+English: Summer is the gateway to taste.
+
+Chinese: 这是乐队成功之路的入口。
+Pinyin: Zhè shì yuèduì chénggōng zhī lù de rùkǒu.
+English: This is the entrance to the road of success for the band.
+
+Chinese: 高等教育是人才培养的一个重要入口。
+Pinyin: Gāoděng jiàoyù shì réncái péiyǎng de yīgè zhòngyào rùkǒu.
+English: Higher education is an important entry point for talent cultivation.
+
+Chinese: 图书馆是获取知识的入口。
+Pinyin: Túshū guǎn shì huòqǔ zhīshì de rùkǒu.
+English: The library is the entry point to acquire knowledge.
+
+Chinese: 小心一点，不要摔倒了。
+Pinyin: Xiǎoxīn yìdiǎn, bùyào shuāidǎo le.
+English: Be careful not to fall.
+
+Chinese: 开车时要小心。
+Pinyin: Kāichē shí yào xiǎoxīn.
+English: Be careful when driving.
+
+Chinese: 妈妈在炒菜时，小心火太大了。
+Pinyin: Māma zài chǎo cài shí, xiǎoxīn huǒ tài dà le.
+English: Mom, be careful the fire is too high while stir-frying.
+
+Chinese: 爬山时要小心脚下。
+Pinyin: Páshān shí yào xiǎoxīn jiǎo xià.
+English: Be mindful of your steps while hiking.
+
+Chinese: 在人多的地方要小心包里的东西。
+Pinyin: Zài rén duō de dìfāng yào xiǎoxīn bāo lǐ de dōngxi.
+English: Be cautious of your belongings in crowded places.
+
+Chinese: 给她捧着点，小心点儿别乱摔了。
+Pinyin: Gěi tā pěngzhe diǎn, xiǎoxīn diǎnr bié luàn shuāi le.
+English: Hold it carefully, don't drop it.
+
+Chinese: 在外面小心别迷路。
+Pinyin: Zài wàimiàn xiǎoxīn bié mílù.
+English: Be careful not to get lost outside.
+
+Chinese: 吃饭的时候小心烫到嘴。
+Pinyin: Chīfàn de shíhou xiǎoxīn tàng dào zuǐ.
+English: Be careful not to burn your mouth while eating.
+
+Chinese: 玩水的时候小心别淹到别人。
+Pinyin: Wán shuǐ de shíhou xiǎoxīn bié yān dào biérén.
+English: Be careful not to splash others while playing in the water.
+
+Chinese: 学习时要小心别丢笔记本。
+Pinyin: Xuéxí shí yào xiǎoxīn bié diū bǐjìběn.
+English: Be careful not to lose your notebook while studying.
+
+Chinese: 请告诉我你的情况。
+Pinyin: Qǐng gàosù wǒ nǐ de qíngkuàng.
+English: Please tell me your situation.
+
+Chinese: 我们需要了解目前的情况。
+Pinyin: Wǒmen xūyào liǎojiě mùqián de qíngkuàng.
+English: We need to understand the current situation.
+
+Chinese: 他的情况很糟糕。
+Pinyin: Tā de qíngkuàng hěn zāogāo.
+English: His situation is very bad.
+
+Chinese: 我正随时了解情况。
+Pinyin: Wǒ zhèng suíshí liǎojiě qíngkuàng.
+English: I am constantly keeping up with the situation.
+
+Chinese: 情况变得非常紧急。
+Pinyin: Qíngkuàng biàn de fēicháng jǐnjí.
+English: The situation has become extremely urgent.
+
+Chinese: 不管情况如何，我们都会尽力帮助你。
+Pinyin: Bùguǎn qíngkuàng rúhé, wǒmen dōu huì jìnlì bāngzhù nǐ.
+English: Regardless of the situation, we will do our best to help you.
+
+Chinese: 请立即向我们报告情况。
+Pinyin: Qǐng lìjí xiàng wǒmen bàogào qíngkuàng.
+English: Please report the situation to us immediately.
+
+Chinese: 我们需要掌握最新的情况。
+Pinyin: Wǒmen xūyào zhǎngwò zuìxīn de qíngkuàng.
+English: We need to have the latest information on the situation.
+
+Chinese: 我无法预测未来的情况。
+Pinyin: Wǒ wúfǎ yùcè wèilái de qíngkuàng.
+English: I am unable to predict the future situation.
+
+Chinese: 我还不清楚具体情况。
+Pinyin: Wǒ hái bù qīngchǔ jùtǐ qíngkuàng.
+English: I am not clear about the specific situation yet.
+
+Chinese: 他们为了送终而聚在一起。
+Pinyin: Tāmen wèile sòngzhōng ér jù zài yīqǐ.
+English: They gathered together to see someone off.
+
+Chinese: 他们向已故的亲人送终。
+Pinyin: Tāmen xiàng yǐgù de qīnrén sòngzhōng.
+English: They held a funeral for their deceased loved one.
+
+Chinese: 葬礼上，人们为逝者送终。
+Pinyin: Zànglǐ shàng, rénmen wèi shìzhě sòngzhōng.
+English: People conducted the final rites for the deceased at the funeral.
+
+Chinese: 家人们用心为老人送终。
+Pinyin: Jiārénmen yònghēn wèi lǎorén sòngzhōng.
+English: The family members devotedly saw their elderly relative off.
+
+Chinese: 在多年的陪伴下，他们终于送终了父亲。
+Pinyin: Zài duō nián de péibàn xià, tāmen zhōngyú sòngzhōng le fùqīn.
+English: After years of companionship, they finally said goodbye to their father.
+
+Chinese: 他决定亲自送终亲人。
+Pinyin: Tā juédìng qīnzì sòngzhōng qīnrén.
+English: He decided to personally accompany his loved one on their final journey.
+
+Chinese: 她的丈夫过世后，她一直为他送终。
+Pinyin: Tā de zhàngfū guòshì hòu, tā yīzhí wèi tā sòngzhōng.
+English: After her husband passed away, she has been there for him until the end.
+
+Chinese: 送终是中华民族的传统习俗之一。
+Pinyin: Sòngzhōng shì Zhōnghuá mínzú de chuántǒng xísú zhī yī.
+English: Seeing someone off at the end is one of the traditional customs of the Chinese nation.
+
+Chinese: 在祭祀活动中，族人会为先人送终。
+Pinyin: Zài jìsì huódòng zhōng, zúrén huì wèi xiānrén sòngzhōng.
+English: During the ancestral worship ceremonies, the clan members perform the final rites for their ancestors.
+
+Chinese: 送终是中国文化中的一个重要环节。
+Pinyin: Sòngzhōng shì Zhōngguó wénhuà zhōng de yīgè zhòngyào huánjié.
+English: Seeing someone off at the end is an important ritual in Chinese culture.
+
+Chinese: 他的祖母去世了。
+Pinyin: Tā de zǔmǔ qùshì le.
+English: His grandmother passed away.
+
+Chinese: 昨天我听说他的狗去世了。
+Pinyin: Zuótiān wǒ tīngshuō tā de gǒu qùshì le.
+English: I heard yesterday that his dog died.
+
+Chinese: 她丈夫去世后，她一个人带着孩子生活。
+Pinyin: Tā zhàngfu qùshì hòu, tā yīgè rén dàizhe háizi shēnghuó.
+English: After her husband passed away, she raised her children alone.
+
+Chinese: 我爷爷去世时，我在国外。
+Pinyin: Wǒ yéye qùshì shí, wǒ zài guówài.
+English: I was abroad when my grandfather died.
+
+Chinese: 我的朋友因病去世了。
+Pinyin: Wǒ de péngyou yīn bìng qùshì le.
+English: My friend passed away due to illness.
+
+Chinese: 他在车祸中去世了。
+Pinyin: Tā zài chēhuò zhōng qùshì le.
+English: He died in a car accident.
+
+Chinese: 我刚刚得知他的父亲去世了。
+Pinyin: Wǒ gānggāng dézhī tā de fùqīn qùshì le.
+English: I just learned that his father passed away.
+
+Chinese: 她的母亲很年轻就去世了。
+Pinyin: Tā de mǔqīn hěn niánqīng jiù qùshì le.
+English: Her mother died at a young age.
+
+Chinese: 我听说那位作家已经去世多年。
+Pinyin: Wǒ tīngshuō nà wèi zuòjiā yǐjīng qùshì duōnián.
+English: I heard that writer passed away many years ago.
+
+Chinese: 他爷爷突然去世了，给他造成了很大的打击。
+Pinyin: Tā yéye tūrán qùshì le, gěi tā zàochéng le hěn dà de dǎjī.
+English: His grandfather passed away suddenly, which deeply affected him.
+
+Chinese: 他是我最亲爱人。
+Pinyin: Tā shì wǒ zuì qīn ài rén.
+English: He is my dearest person.
+
+Chinese: 她是我最爱人。
+Pinyin: Tā shì wǒ zuì ài rén.
+English: She is the person I love the most.
+
+Chinese: 我的爱人是我全世界。
+Pinyin: Wǒ de ài rén shì wǒ quán shìjiè.
+English: My spouse is my whole world.
+
+Chinese: 她是我心中最重要的爱人。
+Pinyin: Tā shì wǒ xīnzhōng zuì zhòngyào de ài rén.
+English: She is the most important person in my heart.
+
+Chinese: 我无法想象生活没有你这个爱人。
+Pinyin: Wǒ wúfǎ xiǎngxiàng shēnghuó méiyǒu nǐ zhège ài rén.
+English: I can't imagine life without you as my spouse.
+
+Chinese: 我真的很感激有你这个爱人。
+Pinyin: Wǒ zhēnde hěn gǎnjī yǒu nǐ zhège ài rén.
+English: I'm truly grateful to have you as my spouse.
+
+Chinese: 我对我的爱人感到无比幸福。
+Pinyin: Wǒ duì wǒ de ài rén gǎndào wúbǐ xìngfú.
+English: I feel incredibly happy with my spouse.
+
+Chinese: 他是我人生中的最爱人。
+Pinyin: Tā shì wǒ rénshēng zhōng de zuì ài rén.
+English: He is the person I love the most in my life.
+
+Chinese: 我的爱人是我最可爱的人。
+Pinyin: Wǒ de ài rén shì wǒ zuì kě'ài de rén.
+English: My spouse is the most adorable person to me.
+
+Chinese: 他背叛了我的信任。
+Pinyin: Tā bèipàn le wǒ de xìnrèn.
+English: He betrayed my trust.
+
+Chinese: 不要背叛你的朋友。
+Pinyin: Bùyào bèipàn nǐ de péngyǒu.
+English: Don't betray your friends.
+
+Chinese: 我无法原谅你的背叛。
+Pinyin: Wǒ wúfǎ yuánliàng nǐ de bèipàn.
+English: I can't forgive your betrayal.
+
+Chinese: 她感到被背叛了。
+Pinyin: Tā gǎndào bèi bèipàn le.
+English: She felt betrayed.
+
+Chinese: 这次背叛会带来后果。
+Pinyin: Zhècì bèipàn huì dàilái hòuguǒ.
+English: This betrayal will have consequences.
+
+Chinese: 背叛是不可原谅的行为。
+Pinyin: Bèipàn shì bùkě yuánliàng de xíngwéi.
+English: Betrayal is an unforgivable act.
+
+Chinese: 我对他的背叛感到震惊。
+Pinyin: Wǒ duì tā de bèipàn gǎndào zhènjīng.
+English: I am shocked by his betrayal.
+
+Chinese: 这是我曾经经历的最大的背叛。
+Pinyin: Zhè shì wǒ céngjīng jīnglì de zuìdà de bèipàn.
+English: This is the biggest betrayal I have ever experienced.
+
+Chinese: 他的背叛让我心如刀绞。
+Pinyin: Tā de bèipàn ràng wǒ xīn rú dāojiǎo.
+English: His betrayal made my heart ache.
+
+Chinese: 我不想再被背叛了。
+Pinyin: Wǒ bùxiǎng zài bèi bèipàn le.
+English: I don't want to be betrayed again.
+
+Chinese: 这朵花是菊花。
+Pinyin: Zhè duǒ huā shì júhuā.
+English: This flower is a chrysanthemum.
+
+Chinese: 我喜欢看菊花。
+Pinyin: Wǒ xǐhuān kàn júhuā.
+English: I like to look at chrysanthemums.
+
+Chinese: 他家的院子里有一棵菊花树。
+Pinyin: Tā jiā de yuànzi li yǒu yī kē júhuā shù.
+English: There is a chrysanthemum tree in his yard.
+
+Chinese: 这个花坛里有很多菊花。
+Pinyin: Zhège huātán li yǒu hěn duō júhuā.
+English: There are many chrysanthemums in this flowerbed.
+
+Chinese: 她用菊花泡水洗脸。
+Pinyin: Tā yòng júhuā pào shuǐ xǐliǎn.
+English: She uses chrysanthemums to make a facial wash.
+
+Chinese: 这朵红色的菊花很漂亮。
+Pinyin: Zhè duǒ hóngsè de júhuā hěn piàoliang.
+English: This red chrysanthemum is very beautiful.
+
+Chinese: 他在花店买了一束菊花。
+Pinyin: Tā zài huādiàn mǎile yī shù júhuā.
+English: He bought a bouquet of chrysanthemums at the flower shop.
+
+Chinese: 明天是菊花展的最后一天。
+Pinyin: Míngtiān shì júhuā zhǎn de zuìhòu yītiān.
+English: Tomorrow is the last day of the chrysanthemum exhibition.
+
+Chinese: 我们家外面有一个菊花庭院。
+Pinyin: Wǒmen jiā wàimiàn yǒu yī gè júhuā tíngyuàn.
+English: There is a chrysanthemum courtyard outside our house.
+
+Chinese: 这个花圃里只有菊花。
+Pinyin: Zhège huāpǔ lǐ zhǐyǒu júhuā.
+English: There are only chrysanthemums in this flower garden.
+
+Chinese: 这个梨子很甜。
+Pinyin: Zhège lízi hěn tián.
+English: This pear is very sweet.
+
+Chinese: 妈妈给我买了几个梨子。
+Pinyin: Māmā gěi wǒ mǎi le jǐ gè lízi.
+English: Mom bought me a few pears.
+
+Chinese: 我喜欢吃梨子。
+Pinyin: Wǒ xǐhuān chī lízi.
+English: I like to eat pears.
+
+Chinese: 他正在吃一个梨子。
+Pinyin: Tā zhèngzài chī yí gè lízi.
+English: He is eating a pear.
+
+Chinese: 我拿了一个梨子给你。
+Pinyin: Wǒ ná le yí gè lízi gěi nǐ.
+English: I took a pear for you.
+
+Chinese: 这些梨子看起来非常新鲜。
+Pinyin: Zhèxiē lízi kàn qǐlái fēicháng xīnxiān.
+English: These pears look very fresh.
+
+Chinese: 这里有很多梨子可以选择。
+Pinyin: Zhèlǐ yǒu hěnduō lízi kěyǐ xuǎnzé.
+English: There are many pears to choose from here.
+
+Chinese: 我从市场上买了一筐梨子。
+Pinyin: Wǒ cóng shìchǎng shàng mǎi le yī kuāng lízi.
+English: I bought a basket of pears from the market.
+
+Chinese: 他把梨子切成小片。
+Pinyin: Tā bǎ lízi qiē chéng xiǎo piàn.
+English: He cut the pear into small slices.
+
+Chinese: 每天早上我吃一个梨子。
+Pinyin: Měitiān zǎoshang wǒ chī yí gè lízi.
+English: I eat a pear every morning.
+
+Chinese: 这个汽车很吉利。
+Pinyin: Zhège qìchē hěn jílì.
+English: This car is lucky.
+
+Chinese: 我希望新年能带来吉利。
+Pinyin: Wǒ xīwàng xīnnián néng dàilái jílì.
+English: I hope the new year brings luck.
+
+Chinese: 她喜欢戴吉利的首饰。
+Pinyin: Tā xǐhuan dài jílì de shǒushì.
+English: She likes to wear lucky jewelry.
+
+Chinese: 这个餐馆里有吉利的装饰品。
+Pinyin: Zhège cānguǎn lǐ yǒu jílì de zhuāngshìpǐn.
+English: This restaurant has lucky decorations.
+
+Chinese: 这是一个吉利的数字。
+Pinyin: Zhè shì yīgè jílì de shùzì.
+English: This is a lucky number.
+
+Chinese: 她相信拥有一只吉利的宠物会给她带来好运。
+Pinyin: Tā xiāngxìn yǒngyǒu yī zhī jílì de chǒngwù huì gěi tā dàilái hǎoyùn.
+English: She believes that having a lucky pet will bring her good luck.
+
+Chinese: 念吉利的咒语可以给人带来好运。
+Pinyin: Niàn jílì de zhòuyǔ kěyǐ gěi rén dàilái hǎoyùn.
+English: Reciting the lucky mantra can bring good luck to people.
+
+Chinese: 吉利的图片挂在了墙上。
+Pinyin: Jílì de túpiàn guà zài le qiáng shàng.
+English: The lucky picture is hanging on the wall.
+
+Chinese: 那盏吉利的灯笼发出了明亮的光芒。
+Pinyin: Nà zhǎn jílì de dēnglong fāchū le míngliàng de guāngmáng.
+English: That lucky lantern emits a bright light.
+
+Chinese: 他每天都戴着吉利的护身符。
+Pinyin: Tā měitiān dōu dàizhe jílì de hùshēnfú.
+English: He wears the lucky talisman every day.
+
