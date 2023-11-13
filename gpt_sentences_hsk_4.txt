@@ -717,3 +717,163 @@ English: His departure brought me the pain of a broken heart.
 Chinese: 看到她悲伤的眼神，我的心碎了。
 Pinyin: Kàn dào tā bēishāng de yǎnshén, wǒ de xīnsuìle.
 English: Seeing her sorrowful eyes, my heart shattered.
+
+Chinese: 不好意思，我迟到了。
+Pinyin: Bù hǎo yìsi, wǒ chídàole.
+English: Sorry, I'm late.
+
+Chinese: 不好意思，我不知道。
+Pinyin: Bù hǎo yìsi, wǒ bù zhīdào.
+English: Sorry, I didn't know.
+
+Chinese: 不好意思，我有点困。
+Pinyin: Bù hǎo yìsi, wǒ yǒudiǎn kùn.
+English: Sorry, I'm a bit tired.
+
+Chinese: 不好意思，我有事不能去。
+Pinyin: Bù hǎo yìsi, wǒ yǒushì bùnéng qù.
+English: Sorry, I can't go, I have something to do.
+
+Chinese: 不好意思，打扰了。
+Pinyin: Bù hǎo yìsi, dǎrǎole.
+English: Sorry to bother you.
+
+Chinese: 不好意思，我没有听清楚。
+Pinyin: Bù hǎo yìsi, wǒ méiyǒu tīng qīngchǔ.
+English: Sorry, I didn't hear clearly.
+
+Chinese: 不好意思，我忘带了钱。
+Pinyin: Bù hǎo yìsi, wǒ wàngdài le qián.
+English: Sorry, I forgot to bring money.
+
+Chinese: 不好意思，我刚刚来过这里。
+Pinyin: Bù hǎo yìsi, wǒ gānggāng lái guò zhèlǐ.
+English: Sorry, I've just been here.
+
+Chinese: 不好意思，能麻烦你帮我一下吗？
+Pinyin: Bù hǎo yìsi, néng máfán nǐ bāng wǒ yīxià ma?
+English: Sorry, can you do me a favor?
+
+Chinese: 不好意思，我不太明白。
+Pinyin: Bù hǎo yìsi, wǒ bù tài míngbai.
+English: Sorry, I don't quite understand.
+
+Chinese: 他们穿过森林去找失散的小狗。
+Pinyin: Tāmen chuānguò sēnlín qù zhǎo shīsàn de xiǎo gǒu.
+English: They passed through the forest to look for the lost puppy.
+
+Chinese: 她穿过大街，走向学校。
+Pinyin: Tā chuānguò dàjiē, zǒuxiàng xuéxiào.
+English: She walked across the street and headed towards the school.
+
+Chinese: 穿过那扇门，你就会看见美丽的花园。
+Pinyin: Chuānguò nà shàn mén, nǐ jiù huì kànjiàn měilì de huāyuán.
+English: If you go through that door, you will see a beautiful garden.
+
+Chinese: 我们穿过山脉，到达目的地。
+Pinyin: Wǒmen chuānguò shānmài, dàodá mùdìdì.
+English: We crossed the mountains and reached our destination.
+
+Chinese: 小溪穿过田野，流向远方。
+Pinyin: Xiǎo xī chuānguò tiányě, liúxiàng yuǎnfāng.
+English: The stream runs through the fields and flows into the distance.
+
+Chinese: 他们穿过河流，进入未知的领域。
+Pinyin: Tāmen chuānguò héliú, jìnrù wèizhī de lǐngyù.
+English: They crossed the river and entered the unknown territory.
+
+Chinese: 轮船穿过大洋，到达新的港口。
+Pinyin: Lúnchuán chuānguò dàyáng, dàodá xīn de gǎngkǒu.
+English: The ship sailed across the ocean and arrived at a new harbor.
+
+Chinese: 风穿过树林，带来阵阵凉爽。
+Pinyin: Fēng chuānguò shùlín, dàilái zhènzhèn liángshuǎng.
+English: The wind passes through the trees, bringing a refreshing breeze.
+
+Chinese: 长城从山脉穿过，绵延数千里。
+Pinyin: Chángchéng cóng shānmài chuānguò, miányán shùqiān lǐ.
+English: The Great Wall traverses through the mountains, extending for thousands of miles.
+
+Chinese: 火车穿过隧道，继续前行。
+Pinyin: Huǒchē chuānguò suìdào, jìxù qiánxíng.
+English: The train goes through the tunnel and continues forward.
+
+Chinese: 他穿过大门走了进去。
+Pinyin: Tā chuānguò dàmén zǒu le jìnqù.
+English: He walked through the main gate and went inside.
+
+Chinese: 她穿过森林来到了湖边。
+Pinyin: Tā chuānguò sēnlín lái dào le hú biān.
+English: She crossed through the forest and arrived at the lakeside.
+
+Chinese: 我穿过人群找到了你。
+Pinyin: Wǒ chuānguò rénqún zhǎodào le nǐ.
+English: I passed through the crowd and found you.
+
+Chinese: 他们穿过田野走到了村庄。
+Pinyin: Tāmen chuānguò tiányě zǒu dào le cūnzhuāng.
+English: They walked through the fields and arrived at the village.
+
+Chinese: 小猫穿过小溪跑到了对岸。
+Pinyin: Xiǎo māo chuānguò xiǎo xī pǎo dào le duì'àn.
+English: The kitten crossed the stream and ran to the other side.
+
+Chinese: 学生们穿过校门进入学校。
+Pinyin: Xuéshēngmen chuānguò xiàomén jìnrù xuéxiào.
+English: The students passed through the school gate and entered the school.
+
+Chinese: 我们穿过隧道到达了目的地。
+Pinyin: Wǒmen chuānguò suìdào dàodá le mùdìdì.
+English: We went through the tunnel and arrived at the destination.
+
+Chinese: 他们穿过河流继续前进。
+Pinyin: Tāmen chuānguò héliú jìxù qiánjìn.
+English: They crossed the river and continued moving forward.
+
+Chinese: 他穿过山脉到达了山顶。
+Pinyin: Tā chuānguò shānmài dào dá le shāndǐng.
+English: He crossed the mountain range and reached the mountaintop.
+
+Chinese: 我们穿过电梯到达了楼上。
+Pinyin: Wǒmen chuānguò diàntī dàodá le lóu shàng.
+English: We took the elevator and arrived upstairs.
+
+Chinese: 我住在一个很繁忙的路口。
+Pinyin: Wǒ zhù zài yīgè hěn fánmáng de lùkǒu.
+English: I live at a very busy intersection.
+
+Chinese: 昨天我在路口遇到了一个朋友。
+Pinyin: Zuótiān wǒ zài lùkǒu yùdào le yīgè péngyou.
+English: Yesterday I met a friend at the intersection.
+
+Chinese: 请你在路口等我五分钟。
+Pinyin: Qǐng nǐ zài lùkǒu děng wǒ wǔ fēnzhōng.
+English: Please wait for me at the intersection for five minutes.
+
+Chinese: 他经常去那个大路口买东西。
+Pinyin: Tā jīngcháng qù nàgè dà lùkǒu mǎi dōngxi.
+English: He often goes to that big intersection to buy things.
+
+Chinese: 路口的红灯亮了。
+Pinyin: Lùkǒu de hóngdēng liàng le.
+English: The traffic light at the intersection is on.
+
+Chinese: 我迷路了，不知道该怎么从这个路口走。
+Pinyin: Wǒ mílù le, bù zhīdào gāi zěnme cóng zhège lùkǒu zǒu.
+English: I'm lost and I don't know how to get out of this intersection.
+
+Chinese: 在路口转左去医院。
+Pinyin: Zài lùkǒu zhuǎn zuǒ qù yīyuàn.
+English: Take a left turn at the intersection to get to the hospital.
+
+Chinese: 请等待在下一个路口。
+Pinyin: Qǐng děngdài zài xià yīgè lùkǒu.
+English: Please wait at the next intersection.
+
+Chinese: 这个路口的交通很拥挤。
+Pinyin: Zhège lùkǒu de jiāotōng hěn yōngjǐ.
+English: The traffic at this intersection is very congested.
+
+Chinese: 注意看路口的标志，不要错过转弯的地方。
+Pinyin: Zhùyì kàn lùkǒu de biāozhì, bùyào cuòguò zhuǎnwān de dìfāng.
+English: Pay attention to the signs at the intersection and don't miss the turning point.
