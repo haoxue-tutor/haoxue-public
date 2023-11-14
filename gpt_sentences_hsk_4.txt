@@ -5445,3 +5445,523 @@ English: Driving a big truck requires a special license.
 Chinese: 驾驶员在驾驶过程中需要保持专注。
 Pinyin: Jiàshǐ yuán zài jiàshǐ guòchéng zhōng xūyào bǎochí zhuānzhù.
 English: Drivers need to stay focused while driving.
+
+Chinese: 我感恩你的帮助。
+Pinyin: Wǒ gǎn'ēn nǐ de bāngzhù.
+English: I am grateful for your help.
+
+Chinese: 你要学会感恩。
+Pinyin: Nǐ yào xuéhuì gǎn'ēn.
+English: You should learn to be grateful.
+
+Chinese: 感恩是一种美德。
+Pinyin: Gǎn'ēn shì yī zhǒng měidé.
+English: Gratitude is a virtue.
+
+Chinese: 感恩节是一个美国的传统节日。
+Pinyin: Gǎn'ēn jié shì yī gè Měiguó de chuántǒng jiérì.
+English: Thanksgiving is a traditional holiday in the United States.
+
+Chinese: 感恩的心情让我感到幸福。
+Pinyin: Gǎn'ēn de xīnqíng ràng wǒ gǎndào xìngfú.
+English: Gratefulness makes me feel happy.
+
+Chinese: 我深深地感恩我的家人。
+Pinyin: Wǒ shēnshēn de gǎn'ēn wǒ de jiārén.
+English: I deeply appreciate my family.
+
+Chinese: 每天都应该怀着感恩的心情生活。
+Pinyin: Měi tiān dōu yīnggāi huáizhe gǎn'ēn de xīnqíng shēnghuó.
+English: Every day should be lived with a grateful heart.
+
+Chinese: 我们应该感恩身边的每一个人。
+Pinyin: Wǒmen yīnggāi gǎn'ēn shēnbiān de měi yī gè rén.
+English: We should be grateful for everyone around us.
+
+Chinese: 他以感恩的态度面对困难。
+Pinyin: Tā yǐ gǎn'ēn de tàidù miàn duì kùnnan.
+English: He faces difficulties with a grateful attitude.
+
+Chinese: 在我们的生活中，我们有太多需要感恩的事情。
+Pinyin: Zài wǒmen de shēnghuó zhōng, wǒmen yǒu tài duō xūyào gǎn'ēn de shìqíng.
+English: In our lives, we have so much to be grateful for.
+
+Chinese: 我不喜欢参加应酬。
+Pinyin: Wǒ bù xǐhuān cānjiā yìngchóu.
+English: I don't like attending social gatherings.
+
+Chinese: 应酬对我来说很累。
+Pinyin: Yìngchóu duì wǒ lái shuō hěn lèi.
+English: Socializing is tiring for me.
+
+Chinese: 他经常应酬到很晚。
+Pinyin: Tā jīngcháng yìngchóu dào hěn wǎn.
+English: He often socializes until late at night.
+
+Chinese: 这个工作需要经常出席应酬。
+Pinyin: Zhège gōngzuò xūyào jīngcháng chūxí yìngchóu.
+English: This job requires frequent attendance at social events.
+
+Chinese: 她因为应酬太多而感到压力很大。
+Pinyin: Tā yīnwèi yìngchóu tài duō ér gǎndào yālì hěn dà.
+English: She feels a lot of pressure because of too many social engagements.
+
+Chinese: 应酬是一种社交活动。
+Pinyin: Yìngchóu shì yì zhǒng shèjiāo huódòng.
+English: Socializing is a form of social activity.
+
+Chinese: 公司的年会是一次应酬的机会。
+Pinyin: Gōngsī de niánhuì shì yìcì yìngchóu de jīhuì.
+English: The company's annual party is an opportunity for socializing.
+
+Chinese: 我因为忙于应酬，没时间做其他事情。
+Pinyin: Wǒ yīnwèi mángyú yìngchóu, méi shíjiān zuò qítā shìqing.
+English: I don't have time to do other things because I'm busy with social engagements.
+
+Chinese: 在一些社交场合，应酬是必需的。
+Pinyin: Zài yìxiē shèjiāo chǎnghé, yìngchóu shì bìxū de.
+English: In certain social occasions, socializing is necessary.
+
+Chinese: 应酬需要一些社交技巧。
+Pinyin: Yìngchóu xūyào yìxiē shèjiāo jìqiǎo.
+English: Socializing requires some social skills.
+
+Chinese: 他是一名大学生。
+Pinyin: Tā shì yī míng dàxuéshēng.
+English: He is a college student.
+
+Chinese: 她希望成为一名大学生。
+Pinyin: Tā xīwàng chéngwéi yī míng dàxuéshēng.
+English: She hopes to become a college student.
+
+Chinese: 大学生需要努力学习。
+Pinyin: Dàxuéshēng xūyào nǔlì xuéxí.
+English: College students need to study hard.
+
+Chinese: 大学生在学校住宿。
+Pinyin: Dàxuéshēng zài xuéxiào zhùsù.
+English: College students live in dormitories.
+
+Chinese: 大学生有许多课程要学。
+Pinyin: Dàxuéshēng yǒu xǔduō kèchéng yào xué.
+English: College students have many courses to study.
+
+Chinese: 大学生正在图书馆学习。
+Pinyin: Dàxuéshēng zhèngzài túshūguǎn xuéxí.
+English: College students are studying in the library.
+
+Chinese: 这个班级里有很多大学生。
+Pinyin: Zhège bānjí lǐ yǒu hěn duō dàxuéshēng.
+English: There are many college students in this class.
+
+Chinese: 大学生们常常有讨论会。
+Pinyin: Dàxuéshēngmen chángcháng yǒu tǎolùn huì.
+English: College students often have discussions.
+
+Chinese: 大学生都在为考试复习。
+Pinyin: Dàxuéshēng dōu zài wèi kǎoshì fùxí.
+English: College students are all reviewing for the exams.
+
+Chinese: 这个大学生学习非常努力。
+Pinyin: Zhège dàxuéshēng xuéxí fēicháng nǔlì.
+English: This college student studies very hard.
+
+Chinese:我只是路过。
+Pinyin: Wǒ zhǐshì lùguò.
+English: I am just passing by.
+
+Chinese:他对我家里的事情没有兴趣，只是路过瞧瞧。
+Pinyin: Tā duì wǒ jiā lǐ de shìqíng méiyǒu xìngqù, zhǐshì lùguò qiáoqiáo.
+English: He is not interested in what's happening in my house, he just came by to take a look.
+
+Chinese:他只是路过这个城市，没打算停留。
+Pinyin: Tā zhǐshì lùguò zhège chéngshì, méi dǎsuàn tíngliú.
+English: He is only passing through this city and has no intention to stay.
+
+Chinese:你可以从这里路过再去哪个地方。
+Pinyin: Nǐ kěyǐ cóng zhèlǐ lùguò zài qù nǎge dìfāng.
+English: You can pass through here and go to which place.
+
+Chinese:我正在路过，所以不能聊天。
+Pinyin: Wǒ zhèngzài lùguò, suǒyǐ bù néng liáotiān.
+English: I am passing by, so I can't chat.
+
+Chinese:他经常路过这条大街。
+Pinyin: Tā jīngcháng lùguò zhè tiáo dàjiē.
+English: He often passes by this street.
+
+Chinese:我看到了他正在路过。
+Pinyin: Wǒ kàndào le tā zhèngzài lùguò.
+English: I saw him passing by.
+
+Chinese:她每天都会路过我家的门口。
+Pinyin: Tā měitiān dūhuì lùguò wǒ jiā de ménkǒu.
+English: She passes by the front door of my house every day.
+
+Chinese:他被邀请参加派对时，只是路过的。
+Pinyin: Tā bèi yāoqǐng cānjiā pàiduì shí, zhǐshì lùguò de.
+English: When he was invited to the party, he was just passing by.
+
+Chinese:路过这里的时候，记得帮我买些水果。
+Pinyin: Lùguò zhèlǐ de shíhou, jìde bāng wǒ mǎi xiē shuǐguǒ.
+English: When you pass by here, remember to buy some fruits for me.
+
+Chinese: 我们需要进行一次谈话。
+Pinyin: Wǒmen xūyào jìnxíng yīcì tánhuà.
+English: We need to have a conversation.
+
+Chinese: 好好谈话可以解决问题。
+Pinyin: Hǎohǎo tánhuà kěyǐ jiějué wèntí.
+English: A good conversation can solve problems.
+
+Chinese: 警察正在与目击者谈话。
+Pinyin: Jǐngchá zhèngzài yǔ mùjīzhě tánhuà.
+English: The police are talking to the witness.
+
+Chinese: 老师和学生正在课堂上谈话。
+Pinyin: Lǎoshī hé xuéshēng zhèngzài kètáng shàng tánhuà.
+English: The teacher and students are having a conversation in the classroom.
+
+Chinese: 我们每天晚上都会进行家庭谈话。
+Pinyin: Wǒmen měitiān wǎnshàng dōu huì jìnxíng jiātíng tánhuà.
+English: We have a family conversation every evening.
+
+Chinese: 请保持安静，别打断我们的谈话。
+Pinyin: Qǐng bǎochí ānjìng, bié dǎduàn wǒmen de tánhuà.
+English: Please keep quiet and don't interrupt our conversation.
+
+Chinese: 这次会谈是关于环境保护的。
+Pinyin: Zhè cì huìtán shì guānyú huánjìng bǎohù de.
+English: This meeting is about environmental protection.
+
+Chinese: 他们在谈话的时候，谈笑风生。
+Pinyin: Tāmen zài tánhuà de shíhòu, tánxiào fēngshēng.
+English: They were in high spirits while talking.
+
+Chinese: 我们需要坐下来认真谈一谈。
+Pinyin: Wǒmen xūyào zuòxiàlái rènzhēn tán yi tán.
+English: We need to sit down and have a serious talk.
+
+Chinese: 父母总是希望与孩子进行开放的谈话。
+Pinyin: Fùmǔ zǒngshì xīwàng yǔ háizi jìnxíng kāifàng de tánhuà.
+English: Parents always wish to have an open conversation with their children.
+
+Chinese: 他不小心把杯子砸碎了。
+Pinyin: Tā bù xiǎoxīn bǎ bēizi zá suì le.
+English: He accidentally smashed the cup.
+
+Chinese: 他生气时喜欢砸东西。
+Pinyin: Tā shēngqì shí xǐhuān zá dōngxi.
+English: He likes to smash things when he's angry.
+
+Chinese: 那个小男孩用石头砸了窗户。
+Pinyin: Nàgè xiǎo nánhái yòng shítou zá le chuānghu.
+English: The little boy smashed the window with a stone.
+
+Chinese: 我差点被一块砖头砸到。
+Pinyin: Wǒ chà diǎn bèi yīkuài zhuāntou zá dào.
+English: I was almost hit by a brick.
+
+Chinese: 别乱砸门，你会弄坏的。
+Pinyin: Bié luàn zá mén, nǐ huì nòng huài de.
+English: Don't randomly hit the door, you'll break it.
+
+Chinese: 他砸开了箱子，发现里面是空的。
+Pinyin: Tā zá kāi le xiāngzi, fāxiàn lǐmiàn shì kōng de.
+English: He smashed open the box and found it empty.
+
+Chinese: 这个人狠心砸碎了我的玻璃花瓶。
+Pinyin: Zhège rén hěnxīn zá suì le wǒ de bōli huāpíng.
+English: This person heartlessly smashed my glass vase.
+
+Chinese: 小孩子顽皮，经常砸彩色球。
+Pinyin: Xiǎo háizi wánpí, jīngcháng zá cǎisè qiú.
+English: Naughty kids often throw colored balls.
+
+Chinese: 风雨中的台风砸毁了许多房子。
+Pinyin: Fēngyǔ zhōng de táifēng zá huǐ le xǔduō fángzi.
+English: The typhoon in the stormy weather destroyed many houses.
+
+Chinese: 最近一起案件中，犯罪嫌疑人砸烂了一家银行的玻璃门。
+Pinyin: Zuìjìn yīqǐ ànjiàn zhōng, fànzuì xiányírén zá làn le yījiā yínháng de bōli mén.
+English: In a recent case, the suspect smashed the glass door of a bank.
+
+Chinese: 常识是每个人应该知道的基本知识。
+Pinyin: Chángshí shì měi ge rén yīnggāi zhīdào de jīběn zhīshi.
+English: Common knowledge is the basic information that every person should know.
+
+Chinese: 这是一本关于常识的书。
+Pinyin: Zhè shì yī běn guānyú chángshí de shū.
+English: This is a book about common knowledge.
+
+Chinese: 学校教给学生很多常识。
+Pinyin: Xuéxiào jiào gěi xuéshēng hěn duō chángshí.
+English: Schools teach students a lot of common knowledge.
+
+Chinese: 他对社会常识有很好的了解。
+Pinyin: Tā duì shèhuì chángshí yǒu hěn hǎo de liǎojiě.
+English: He has a good understanding of common knowledge about society.
+
+Chinese: 常识是社交中的必备技能。
+Pinyin: Chángshí shì shèjiāo zhōng de bìbèi jìnéng.
+English: Common knowledge is a necessary skill in social interactions.
+
+Chinese: 了解常识是一种素质。
+Pinyin: Liǎojiě chángshí shì yī zhǒng sùzhì.
+English: Understanding common knowledge is a kind of quality.
+
+Chinese: 学习常识可以拓宽视野。
+Pinyin: Xuéxí chángshí kěyǐ tuòkuān shìyě.
+English: Learning common knowledge can broaden your horizons.
+
+Chinese: 孩子们在学校学习许多常识。
+Pinyin: Háizimen zài xuéxiào xuéxí xǔduō chángshí.
+English: Children learn a lot of common knowledge in school.
+
+Chinese: 知识本身就是常识。
+Pinyin: Zhīshi běnshēn jiùshì chángshí.
+English: Knowledge itself is common knowledge.
+
+Chinese: 每个人都应该掌握基本的常识。
+Pinyin: Měi ge rén dōu yīnggāi zhǎngwò jīběn de chángshí.
+English: Everyone should master the basic common knowledge.
+
+Chinese: 我喜欢计算数学题。
+Pinyin: Wǒ xǐhuan jìsuàn shùxué tí.
+English: I enjoy solving math problems.
+
+Chinese: 请帮我计算这个数学公式。
+Pinyin: Qǐng bāng wǒ jìsuàn zhège shùxué gōngshì.
+English: Please help me calculate this mathematical equation.
+
+Chinese: 这个程序能够自动计算结果。
+Pinyin: Zhège chéngxù nénggòu zìdòng jìsuàn jiéguǒ.
+English: This program can calculate the result automatically.
+
+Chinese: 他在计算明天的预算。
+Pinyin: Tā zài jìsuàn míngtiān de yùsuàn.
+English: He is calculating the budget for tomorrow.
+
+Chinese: 她擅长计算大量的数据。
+Pinyin: Tā shàncháng jìsuàn dàliàng de shùjù.
+English: She is good at calculating large amounts of data.
+
+Chinese: 计算机是我最喜欢的工具。
+Pinyin: Jìsuànjī shì wǒ zuì xǐhuan de gōngjù.
+English: The computer is my favorite tool.
+
+Chinese: 请你用计算器帮我计算一下。
+Pinyin: Qǐng nǐ yòng jìsuànqì bāng wǒ jìsuàn yīxià.
+English: Could you help me calculate using a calculator?
+
+Chinese: 我没有时间计算这些数字。
+Pinyin: Wǒ méiyǒu shíjiān jìsuàn zhèxiē shùzì.
+English: I don't have time to calculate these numbers.
+
+Chinese: 这个问题需要仔细计算。
+Pinyin: Zhège wèntí xūyào zǐxì jìsuàn.
+English: This problem needs to be calculated carefully.
+
+Chinese: 对不起，我搞错了计算结果。
+Pinyin: Duìbùqǐ, wǒ gǎo cuòle jìsuàn jiéguǒ.
+English: Sorry, I made a mistake in the calculation result.
+
+Chinese: 她经常骂我。
+Pinyin: Tā jīngcháng mà wǒ.
+English: She often scolds me.
+
+Chinese: 我不喜欢被骂。
+Pinyin: Wǒ bù xǐhuān bèi mà.
+English: I don't like being scolded.
+
+Chinese: 这个小孩被爸爸骂了。
+Pinyin: Zhège xiǎohái bèi bàba màle.
+English: This child was scolded by his father.
+
+Chinese: 不要随便骂人。
+Pinyin: Bùyào suíbiàn mà rén.
+English: Don't casually curse at others.
+
+Chinese: 我看了他骂人，很生气。
+Pinyin: Wǒ kànle tā mà rén, hěn shēngqì.
+English: I got angry when I saw him cursing at someone.
+
+Chinese: 他用脏话骂了我。
+Pinyin: Tā yòng zānghuà màle wǒ.
+English: He cursed at me using foul language.
+
+Chinese: 骂人不好听。
+Pinyin: Mà rén bù hǎotīng.
+English: Cursing at others is not pleasant to hear.
+
+Chinese: 骂人不解决问题。
+Pinyin: Mà rén bù jiějué wèntí.
+English: Cursing at others doesn't solve problems.
+
+Chinese: 他生气时会骂人。
+Pinyin: Tā shēngqì shí huì mà rén.
+English: He curses at people when he's angry.
+
+Chinese: 骂人是不礼貌的行为。
+Pinyin: Mà rén shì bù lǐmào de xíngwéi.
+English: Cursing at others is an impolite behavior.
+
+Chinese: 他用一把斧头砍倒了树。
+Pinyin: Tā yòng yī bǎ fǔtou kǎn dǎo le shù.
+English: He used an axe to chop down the tree.
+
+Chinese: 这个斧头非常锋利。
+Pinyin: Zhège fǔtou fēicháng fēnglì.
+English: This axe is very sharp.
+
+Chinese: 这个木匠正在磨斧头。
+Pinyin: Zhège mùjiàng zhèngzài mó fǔtou.
+English: The carpenter is sharpening the axe.
+
+Chinese: 他在借斧头来劈柴。
+Pinyin: Tā zài jiè fǔtou lái pī chái.
+English: He is borrowing an axe to split firewood.
+
+Chinese: 这把斧头很重。
+Pinyin: Zhè bǎ fǔtou hěn zhòng.
+English: This axe is very heavy.
+
+Chinese: 他的斧头是特制的。
+Pinyin: Tā de fǔtou shì tè zhì de.
+English: His axe is specially made.
+
+Chinese: 斧头是伐木的好工具。
+Pinyin: Fǔtou shì fámù de hǎo gōngjù.
+English: An axe is a good tool for chopping wood.
+
+Chinese: 他把斧头放在木工工具箱里。
+Pinyin: Tā bǎ fǔtou fàng zài mùgōng gōngjùxiāng lǐ.
+English: He put the axe in the carpenter's toolbox.
+
+Chinese: 这个斧头的手柄很结实。
+Pinyin: Zhège fǔtou de shǒubǐng hěn jiēshí.
+English: The handle of this axe is very sturdy.
+
+Chinese: 他用斧头敲打着木门。
+Pinyin: Tā yòng fǔtou qiāo dǎzhe mùmén.
+English: He used an axe to hammer on the wooden door.
+
+Chinese: 请你把书放下。
+Pinyin: Qǐng nǐ bǎ shū fàngxià. 
+English: Please put the book down.
+
+Chinese: 她放下了自己的骄傲。
+Pinyin: Tā fàngxià le zìjǐ de jiāo'ào.
+English: She let go of her pride.
+
+Chinese: 孩子们放下了玩具。
+Pinyin: Háizimen fàngxià le wánjù.
+English: The children put down their toys.
+
+Chinese: 他放下心中的负担。
+Pinyin: Tā fàngxià xīnzhōng de fùdān.
+English: He let go of the burden in his heart.
+
+Chinese: 别放下自己的梦想。
+Pinyin: Bié fàngxià zìjǐ de mèngxiǎng. 
+English: Don't give up on your dreams.
+
+Chinese: 安静下来，放下内心的烦乱。
+Pinyin: Ānjìng xiàlai, fàngxià nèixīn de fánluàn.
+English: Calm down and let go of inner turmoil.
+
+Chinese: 她放下了过去的不快乐。
+Pinyin: Tā fàngxià le guòqù de bù kuàilè.
+English: She let go of past unhappiness.
+
+Chinese: 他放下了对别人的嫉妒。
+Pinyin: Tā fàngxià le duì biérén de jídù.
+English: He let go of jealousy towards others.
+
+Chinese: 放下心中的恨意，你会更开心。
+Pinyin: Fàngxià xīnzhōng de hènyì, nǐ huì gèng kāixīn. 
+English: Let go of the resentment in your heart, and you will be happier.
+
+Chinese: 虽然很难，但是你必须放下。
+Pinyin: Suīrán hěn nán, dànshì nǐ bìxū fàngxià.
+English: Although it's difficult, you must let go.
+
+Chinese: 我家后院有一个小池子。
+Pinyin: Wǒ jiā hòuyuàn yǒu yīgè xiǎo chízi.
+English: There is a small pond in my backyard.
+
+Chinese: 看，那个池子里有很多鱼。
+Pinyin: Kàn, nàgè chízi lǐ yǒu hěnduō yú.
+English: Look, there are many fish in that pond.
+
+Chinese: 在公园里有一个人工池子。
+Pinyin: Zài gōngyuán lǐ yǒu yīgè réngōng chízi.
+English: There is an artificial pond in the park.
+
+Chinese: 夏天，我喜欢去游泳池子里游泳。
+Pinyin: Xiàtiān, wǒ xǐhuān qù yóuyǒng chízi lǐ yóuyǒng.
+English: In summer, I like to go swimming in the swimming pool.
+
+Chinese: 孩子们在池子边玩耍。
+Pinyin: Háizi men zài chízi biān wánshuǎ.
+English: The children are playing by the poolside.
+
+Chinese: 我们在后花园修建了一个池子。
+Pinyin: Wǒmen zài hòu huāyuán xiūjiàn le yīgè chízi.
+English: We built a pond in our backyard.
+
+Chinese: 这个公园里的池子很漂亮。
+Pinyin: Zhège gōngyuán lǐ de chízi hěn piàoliang.
+English: The pond in this park is very beautiful.
+
+Chinese: 校园里的池子里有好多鱼。
+Pinyin: Xiàoyuán lǐ de chízi lǐ yǒu hǎoduō yú.
+English: There are many fish in the pond on the campus.
+
+Chinese: 她在尝试养一些鱼放在池子里。
+Pinyin: Tā zài chángshì yǎng yīxiē yú fàng zài chízi lǐ.
+English: She is trying to raise some fish in the pond.
+
+Chinese: 池子里的水很干净。
+Pinyin: Chízi lǐ de shuǐ hěn gānjìng.
+English: The water in the pond is very clean.
+
+Chinese: 这儿有一家超市。
+Pinyin: Zhè'er yǒu yī jiā chāo shì.
+English: There is a supermarket here.
+
+Chinese: 我住在这儿。
+Pinyin: Wǒ zhù zài zhè'er.
+English: I live here.
+
+Chinese: 这儿有很多花。
+Pinyin: Zhè'er yǒu hěn duō huā.
+English: There are many flowers here.
+
+Chinese: 这儿的天气很好。
+Pinyin: Zhè'er de tiān qì hěn hǎo.
+English: The weather here is very nice.
+
+Chinese: 请跟我来这儿。
+Pinyin: Qǐng gēn wǒ lái zhè'er.
+English: Please follow me here.
+
+Chinese: 我正在这儿等你。
+Pinyin: Wǒ zhèng zài zhè'er děng nǐ.
+English: I am waiting for you here.
+
+Chinese: 你可以坐在这儿。
+Pinyin: Nǐ kě yǐ zuò zài zhè'er.
+English: You can sit here.
+
+Chinese: 我找到了这儿的地图。
+Pinyin: Wǒ zhǎo dào le zhè'er de dì tú.
+English: I found the map of here.
+
+Chinese: 这儿的风景很美。
+Pinyin: Zhè'er de fēng jǐng hěn měi.
+English: The scenery here is very beautiful.
+
+Chinese: 在这儿请你签字。
+Pinyin: Zài zhè'er qǐng nǐ qiān zì.
+English: Please sign here.
