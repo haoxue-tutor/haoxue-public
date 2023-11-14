@@ -5965,3 +5965,283 @@ English: The scenery here is very beautiful.
 Chinese: 在这儿请你签字。
 Pinyin: Zài zhè'er qǐng nǐ qiān zì.
 English: Please sign here.
+
+Chinese: 我的弟弟是小学生。
+Pinyin: Wǒ de dìdi shì xiǎo xuéshēng.
+English: My younger brother is an elementary school student.
+
+Chinese: 她是一个活泼可爱的小学生。
+Pinyin: Tā shì yīgè huópō kě'ài de xiǎo xuéshēng.
+English: She is a lively and lovely elementary school student.
+
+Chinese: 我们班有二十个小学生。
+Pinyin: Wǒmen bān yǒu èrshí gè xiǎo xuéshēng.
+English: There are twenty elementary school students in our class.
+
+Chinese: 我经常在操场上看到小学生们玩耍。
+Pinyin: Wǒ jīngcháng zài cāochǎng shàng kàn dào xiǎo xuéshēngmen wánshuǎ.
+English: I often see elementary school students playing on the playground.
+
+Chinese: 这个小学生非常努力学习。
+Pinyin: Zhège xiǎo xuéshēng fēicháng nǔlì xuéxí.
+English: This elementary school student studies very hard.
+
+Chinese: 我的妹妹是一名九岁的小学生。
+Pinyin: Wǒ de mèimei shì yī míng jiǔ suì de xiǎo xuéshēng.
+English: My younger sister is a nine-year-old elementary school student.
+
+Chinese: 爸爸每天都陪我做小学生的作业。
+Pinyin: Bàba měitiān dōu péi wǒ zuò xiǎo xuéshēng de zuòyè.
+English: Dad accompanies me to do elementary school homework every day.
+
+Chinese: 他的小学生生活很充实。
+Pinyin: Tā de xiǎo xuéshēng shēnghuó hěn chōngshí.
+English: His elementary school life is very fulfilling.
+
+Chinese: 他是一位优秀的小学生班长。
+Pinyin: Tā shì yī wèi yōuxiù de xiǎo xuéshēng bānzhǎng.
+English: He is an excellent elementary school class monitor.
+
+Chinese: 我喜欢和小学生们一起玩耍。
+Pinyin: Wǒ xǐhuān hé xiǎo xuéshēngmen yīqǐ wánshuǎ.
+English: I enjoy playing with elementary school students.
+
+Chinese: 他的脾气很坏。
+Pinyin: Tā de píqì hěn huài.
+English: He has a bad temper.
+
+Chinese: 她的脾气很好。
+Pinyin: Tā de píqì hěn hǎo.
+English: She has a good temper.
+
+Chinese: 我的脾气比较急。
+Pinyin: Wǒ de píqì bǐjiào jí.
+English: I have a relatively impatient temper.
+
+Chinese: 他的脾气很激动。
+Pinyin: Tā de píqì hěn jīdòng.
+English: He has a very emotional temper.
+
+Chinese: 她的脾气比较冷淡。
+Pinyin: Tā de píqì bǐjiào lěngdàn.
+English: Her temper is relatively indifferent.
+
+Chinese: 我的脾气很温和。
+Pinyin: Wǒ de píqì hěn wēnhé.
+English: My temper is very gentle.
+
+Chinese: 他的脾气比较暴躁。
+Pinyin: Tā de píqì bǐjiào bàozào.
+English: He has a relatively irritable temper.
+
+Chinese: 她的脾气比较耐心。
+Pinyin: Tā de píqì bǐjiào nàixīn.
+English: She has a relatively patient temper.
+
+Chinese: 我的脾气很开朗。
+Pinyin: Wǒ de píqì hěn kāilǎng.
+English: My temper is very cheerful.
+
+Chinese: 他的脾气比较敏感。
+Pinyin: Tā de píqì bǐjiào mǐngǎn.
+English: He has a relatively sensitive temper.
+
+Chinese: 剩下的食物可以放进冰箱里保存。
+Pinyin: Shèngxià de shíwù kěyǐ fàng jìn bīngxiāng lǐ bǎocún.
+English: The leftover food can be put in the refrigerator to preserve.
+
+Chinese: 剩下的时间我们可以用来休息。
+Pinyin: Shèngxià de shíjiān wǒmen kěyǐ yòng lái xiūxi.
+English: We can use the remaining time to rest.
+
+Chinese: 食物剩下一小块。
+Pinyin: Shíwù shèngxià yī xiǎo kuài.
+English: There is a small piece of food left.
+
+Chinese: 剩下的钱我会存入银行。
+Pinyin: Shèngxià de qián wǒ huì cúnrù yínháng.
+English: I will deposit the remaining money in the bank.
+
+Chinese: 剩下的票已经卖完了。
+Pinyin: Shèngxià de piào yǐjīng mài wán le.
+English: The remaining tickets have already been sold out.
+
+Chinese: 饭店剩下的菜可以打包带走。
+Pinyin: Fàndiàn shèngxià de cài kěyǐ dǎbāo dàizǒu.
+English: The leftover dishes in the restaurant can be packed to take away.
+
+Chinese: 我被留下剩了一个人。
+Pinyin: Wǒ bèi liúxià shèng le yīgè rén.
+English: I was left alone.
+
+Chinese: 剩下的工作请你完成。
+Pinyin: Shèngxià de gōngzuò qǐng nǐ wánchéng.
+English: Please complete the remaining work.
+
+Chinese: 剩下的时间太少了，我们要加快速度。
+Pinyin: Shèngxià de shíjiān tài shǎo le, wǒmen yào jiākuài sùdù.
+English: There is too little time left, we need to speed up.
+
+Chinese: 剩下的蛋糕很好吃。
+Pinyin: Shèngxià de dàngāo hěn hào chī.
+English: The leftover cake is very tasty.
+
+Chinese: 我感觉不舒服，我需要去看病。
+Pinyin: Wǒ gǎnjué bù shūfu, wǒ xūyào qù kànbìng.
+English: I feel unwell, I need to go see a doctor.
+
+Chinese: 看病的时候，医生会给你开药。
+Pinyin: Kànbìng de shíhou, yīshēng huì gěi nǐ kāiyào.
+English: When you see a doctor, they will prescribe medicine for you.
+
+Chinese: 最好不要自己看病，要找医生的帮助。
+Pinyin: Zuìhǎo bùyào zìjǐ kànbìng, yào zhǎo yīshēng de bāngzhù.
+English: It's best not to self-diagnose, seek help from a doctor.
+
+Chinese: 看病的时候，记得带医保卡和身份证。
+Pinyin: Kànbìng de shíhou, jìde dài yībǎo kǎ hé shēnfèn zhèng.
+English: When seeing a doctor, remember to bring your medical insurance card and ID.
+
+Chinese: 感冒的症状通常是头痛、咳嗽和鼻塞。
+Pinyin: Gǎnmào de zhèngzhuàng tōngcháng shì tóutòng, késòu hé bísè.
+English: The symptoms of a cold usually include headache, cough, and nasal congestion.
+
+Chinese: 他有点发烧，所以要去看病。
+Pinyin: Tā yǒudiǎn fāshāo, suǒyǐ yào qù kànbìng.
+English: He has a slight fever, so he needs to see a doctor.
+
+Chinese: 她去看病的时候，医生告诉她要多休息。
+Pinyin: Tā qù kànbìng de shíhou, yīshēng gàosù tā yào duō xiūxi.
+English: When she went to see the doctor, he told her to rest more.
+
+Chinese: 看病的时候要坚持按时吃药。
+Pinyin: Kànbìng de shíhou yào jiānchí ànshí chīyào.
+English: When seeing a doctor, you should stick to taking medicine on time.
+
+Chinese: 孩子感冒了，我们得带她去看病。
+Pinyin: Háizi gǎnmào le, wǒmen děi dài tā qù kànbìng.
+English: Our child caught a cold, we need to take her to see a doctor.
+
+Chinese: 看病的费用可以通过医保报销。
+Pinyin: Kànbìng de fèiyòng kěyǐ tōngguò yībǎo bàoxiāo.
+English: The medical expenses can be reimbursed through medical insurance.
+
+Chinese: 他们是一对情侣。
+Pinyin: Tāmen shì yī duì qínglǚ.
+English: They are a couple.
+
+Chinese: 他们是大学时的情侣。
+Pinyin: Tāmen shì dàxué shí de qínglǚ.
+English: They were college sweethearts.
+
+Chinese: 他们是同事，也是情侣。
+Pinyin: Tāmen shì tóngshì, yě shì qínglǚ.
+English: They are colleagues and also lovers.
+
+Chinese: 很多人认为经营感情很重要，所以他们选择成为情侣。
+Pinyin: Hěn duō rén rènwéi jīngyíng gǎnqíng hěn zhòngyào, suǒyǐ tāmen xuǎnzé chéngwéi qínglǚ.
+English: Many people believe that investing in a relationship is crucial, so they choose to become a couple.
+
+Chinese: 他们经过很多的考验，终于成为了情侣。
+Pinyin: Tāmen jīngguò hěnduō de kǎoyàn, zhōngyú chéngwéile qínglǚ.
+English: They went through many trials and finally became a couple.
+
+Chinese: 这对情侣一起旅行到了很多国家。
+Pinyin: Zhè duì qínglǚ yīqǐ lǚxíng dàole hěnduō guójiā.
+English: This couple has traveled to many countries together.
+
+Chinese: 他们是一对年轻的情侣。
+Pinyin: Tāmen shì yī duì niánqīng de qínglǚ.
+English: They are a young couple.
+
+Chinese: 这对情侣在一起已经五年了。
+Pinyin: Zhè duì qínglǚ zài yīqǐ yǐjīng wǔ niánle.
+English: This couple has been together for five years.
+
+Chinese: 这对情侣在公园里牵着手散步。
+Pinyin: Zhè duì qínglǚ zài gōngyuán lǐ qiānzhe shǒu sànbù.
+English: This couple is walking hand in hand in the park.
+
+Chinese: 他们一起努力，希望有美好的未来作为一对情侣。
+Pinyin: Tāmen yīqǐ nǔlì, xīwàng yǒu měihǎo de wèilái zuòwéi yī duì qínglǚ.
+English: They work hard together, hoping for a bright future as a couple.
+
+Chinese: 他的离去让我感到伤心。
+Pinyin: Tā de líqù ràng wǒ gǎndào shāngxīn.
+English: His departure made me feel sad.
+
+Chinese: 她听到那个坏消息后变得很伤心。
+Pinyin: Tā tīngdào nàgè huài xiāoxī hòu biàn dé hěn shāngxīn.
+English: She became very sad after hearing the bad news.
+
+Chinese: 孩子们看到流浪狗受伤的身体感到伤心。
+Pinyin: Háizimen kàndào liúlàng gǒu shòushāng de shēntǐ gǎndào shāngxīn.
+English: The children feel sad when they see the injured body of the stray dog.
+
+Chinese: 他们分手后，她一直心情伤心。
+Pinyin: Tāmen fēnshǒu hòu, tā yìzhí xīnqíng shāngxīn.
+English: After their breakup, she has been feeling sad all the time.
+
+Chinese: 失恋后，他的心里充满了伤心的情绪。
+Pinyin: Shīliàn hòu, tā de xīnlǐ chōngmǎnle shāngxīn de qíngxù.
+English: After the breakup, his heart is filled with a feeling of sadness.
+
+Chinese: 她的离去让我感到非常伤心。
+Pinyin: Tā de líqù ràng wǒ gǎndào fēicháng shāngxīn.
+English: Her departure makes me feel extremely sad.
+
+Chinese: 他的话让我感到很伤心。
+Pinyin: Tā de huà ràng wǒ gǎndào hěn shāngxīn.
+English: His words made me feel very sad.
+
+Chinese: 爱情的终结使他感到非常伤心。
+Pinyin: Àiqíng de zhōngjié shǐ tā gǎndào fēicháng shāngxīn.
+English: The end of love made him feel extremely sad.
+
+Chinese: 他的离开使我感到极度的伤心。
+Pinyin: Tā de líkāi shǐ wǒ gǎndào jídù de shāngxīn.
+English: His departure made me feel extremely sad.
+
+Chinese: 她听到他的离开消息时眼眶湿润了，伤心地垂下头。
+Pinyin: Tā tīngdào tā de líkāi xiāoxī shí yǎnkuàng shīrùnle, shāngxīn de chuí xià tóu.
+English: When she heard the news of his departure, tears welled up in her eyes as she sadly lowered her head.
+
+Chinese: 这个警察局很大。
+Pinyin: Zhège jǐngchá jú hěn dà.
+English: This police station is big.
+
+Chinese: 我要去警察局报案。
+Pinyin: Wǒ yào qù jǐngchá jú bào'àn.
+English: I want to go to the police station to report a case.
+
+Chinese: 警察局离我家很远。
+Pinyin: Jǐngchá jú lí wǒ jiā hěn yuǎn.
+English: The police station is far from my house.
+
+Chinese: 昨天我看到警察局门口有很多人。
+Pinyin: Zuótiān wǒ kàndào jǐngchá jú ménkǒu yǒu hěn duō rén.
+English: Yesterday I saw many people at the entrance of the police station.
+
+Chinese: 警察局的工作人员非常忙。
+Pinyin: Jǐngchá jú de gōngzuò rényuán fēicháng máng.
+English: The staff at the police station are very busy.
+
+Chinese: 在我国家，每个城市都有警察局。
+Pinyin: Zài wǒ guójiā, měi gè chéngshì dōu yǒu jǐngchá jú.
+English: In my country, every city has a police station.
+
+Chinese: 警察局里有很多警车。
+Pinyin: Jǐngchá jú lǐ yǒu hěn duō jǐngchē.
+English: There are many police cars at the police station.
+
+Chinese: 我在警察局里等了很久。
+Pinyin: Wǒ zài jǐngchá jú lǐ děng le hěn jiǔ.
+English: I waited for a long time at the police station.
+
+Chinese: 请问，附近有没有警察局？
+Pinyin: Qǐngwèn, fùjìn yǒu méiyǒu jǐngchá jú?
+English: Excuse me, is there a police station nearby?
+
+Chinese: 警察局的工作时间是几点到几点？
+Pinyin: Jǐngchá jú de gōngzuò shíjiān shì jǐ diǎn dào jǐ diǎn?
+English: What are the work hours of the police station?
