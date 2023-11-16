@@ -12314,3 +12314,1351 @@ Chinese: 他们共同努力以提高公司的绩效管理。
 Pinyin: Tāmen gòngtóng nǔlì yǐ tígāo gōngsī de jìxiào guǎnlǐ.
 English: They work together to improve the company's performance management.
 
+Chinese: 我喜欢看星星的闪光。
+Pinyin: Wǒ xǐhuān kàn xīngxing de shǎnguāng.
+English: I like to watch the twinkling of the stars.
+
+Chinese: 这个房间太暗了，需要更多的光。
+Pinyin: Zhège fángjiān tài àn le, xūyào gèng duō de guāng.
+English: This room is too dark, it needs more light.
+
+Chinese: 她一笑，整个房间都充满了光。
+Pinyin: Tā yīxiào, zhěnggè fángjiān dōu chōngmǎn le guāng.
+English: With one smile, the whole room filled with light.
+
+Chinese: 这颗宝石散发着美丽的光。
+Pinyin: Zhè kē bǎoshí sànfāzhe měilì de guāng.
+English: This gem emits beautiful light.
+
+Chinese: 天黑了，我看不见前方的光。
+Pinyin: Tiān hēi le, wǒ kàn bùjiàn qiánfāng de guāng.
+English: It's dark, I can't see the light ahead.
+
+Chinese: 他把闪光灯打开，拍了一张照片。
+Pinyin: Tā bǎ shǎnguāngdēng dǎkāi, pāi le yī zhāng zhàopiàn.
+English: He turned on the flashlight and took a picture.
+
+Chinese: 月亮的光照亮了黑夜。
+Pinyin: Yuèliang de guāng zhàoliàng le hēiyè.
+English: The light of the moon illuminates the night.
+
+Chinese: 电灯突然熄灭了，屋子里一片漆黑。
+Pinyin: Diàndēng tūrán xīmiè le, wūzi lǐ yīpiàn qīhēi.
+English: The light suddenly went out, and the room was pitch black.
+
+Chinese: 我希望生活里充满了活力和光明。
+Pinyin: Wǒ xīwàng shēnghuó lǐ chōngmǎn le huólì hé guāngmíng.
+English: I hope life is filled with vitality and brightness.
+
+Chinese: 他从未见过如此闪耀的美丽光线。
+Pinyin: Tā cóngwèi jiànguò rúcǐ shǎnyào de měilì guāngxiàn.
+English: He had never seen such a dazzling beam of beauty.
+
+Chinese: 我每天早上都听广播。
+Pinyin: Wǒ měitiān zǎoshang dōu tīng guǎngbō.
+English: I listen to the radio every morning.
+
+Chinese: 广播可以传播信息。
+Pinyin: Guǎngbō kěyǐ chuánbō xìnxī.
+English: Radio can transmit information.
+
+Chinese: 学校里经常播放广播。
+Pinyin: Xuéxiào lǐ jīngcháng bōfàng guǎngbō.
+English: The radio is often played in school.
+
+Chinese: 广播是一种媒体。
+Pinyin: Guǎngbō shì yī zhǒng méitǐ.
+English: Radio is a form of media.
+
+Chinese: 我们需要一个广播设备。
+Pinyin: Wǒmen xūyào yīgè guǎngbō shèbèi.
+English: We need a radio device.
+
+Chinese: 广播可以带来快乐。
+Pinyin: Guǎngbō kěyǐ dài lái kuàilè.
+English: Radio can bring happiness.
+
+Chinese: 昨晚我听到了一个好节目的广播。
+Pinyin: Zuówǎn wǒ tīng dào le yīgè hǎo jiémù de guǎngbō.
+English: Last night I heard a good program on the radio.
+
+Chinese: 广播可以提供即时新闻。
+Pinyin: Guǎngbō kěyǐ tígōng jíshí xīnwén.
+English: Radio can provide real-time news.
+
+Chinese: 广播可以播放各种类型的音乐。
+Pinyin: Guǎngbō kěyǐ bōfàng gèzhǒng lèixíng de yīnyuè.
+English: The radio can play various types of music.
+
+Chinese: 我们需要一台可以接收广播的收音机。
+Pinyin: Wǒmen xūyào yī tái kěyǐ jiēshōu guǎngbō de shōuyīnjī.
+English: We need a radio that can receive broadcasts.
+
+Chinese: 我们经常看到广告。
+Pinyin: Wǒmen jīngcháng kàn dào guǎnggào.
+English: We often see advertisements.
+
+Chinese: 这个电视上有很多广告。
+Pinyin: Zhège diànshì shàng yǒu hěnduō guǎnggào.
+English: There are many advertisements on this TV.
+
+Chinese: 广告可以帮助人们了解产品。
+Pinyin: Guǎnggào kěyǐ bāngzhù rénmen liǎojiě chǎnpǐn.
+English: Advertisements can help people understand products.
+
+Chinese: 我们应该对广告保持警惕。
+Pinyin: Wǒmen yīnggāi duì guǎnggào bǎochí jǐngtì.
+English: We should be vigilant towards advertisements.
+
+Chinese: 这是一项广告推广活动。
+Pinyin: Zhè shì yī xiàng guǎnggào tuīguǎng huódòng.
+English: This is an advertising promotion campaign.
+
+Chinese: 广告在商业中扮演重要角色。
+Pinyin: Guǎnggào zài shāngyè zhōng bànyǎn zhòngyào juésè.
+English: Advertisements play an important role in business.
+
+Chinese: 广告能够吸引客户注意力。
+Pinyin: Guǎnggào nénggòu xīyǐn kèhù zhùyìlì.
+English: Advertisements can attract customers' attention.
+
+Chinese: 你看过这个广告吗？
+Pinyin: Nǐ kànguò zhège guǎnggào ma?
+English: Have you seen this advertisement?
+
+Chinese: 广告商花费了很多钱制作这个广告。
+Pinyin: Guǎnggào shāng huāfèi le hěnduō qián zhìzuò zhège guǎnggào.
+English: The advertiser spent a lot of money making this advertisement.
+
+Chinese: 这则广告很有创意。
+Pinyin: Zhè zé guǎnggào hěn yǒu chuàngyì.
+English: This advertisement is very creative.
+
+Chinese: 我喜欢逛商场。
+Pinyin: Wǒ xǐhuān guàng shāngchǎng.
+English: I like to go shopping.
+
+Chinese: 他经常逛书店。
+Pinyin: Tā jīngcháng guàng shūdiàn.
+English: He often visits bookstores.
+
+Chinese: 周末的时候，我们喜欢逛公园。
+Pinyin: Zhōumò de shíhòu, wǒmen xǐhuān guàng gōngyuán.
+English: On weekends, we like to walk in the park.
+
+Chinese: 星期天逛菜市场是我的习惯。
+Pinyin: Xīngqītiān guàng cài shìchǎng shì wǒ de xíguàn.
+English: Going to the vegetable market on Sundays is my habit.
+
+Chinese: 我们一起逛街吧！
+Pinyin: Wǒmen yīqǐ guàng jiē ba!
+English: Let's go window shopping together!
+
+Chinese: 他喜欢在网上逛论坛。
+Pinyin: Tā xǐhuān zài wǎngshàng guàng lùntán.
+English: He likes to browse forums online.
+
+Chinese: 我常常下班后逛逛公园。
+Pinyin: Wǒ chángcháng xiàbān hòu guàng guàng gōngyuán.
+English: I often take a stroll in the park after work.
+
+Chinese: 她特别喜欢逛艺术展览。
+Pinyin: Tā tèbié xǐhuān guàng yìshù zhǎnlǎn.
+English: She really enjoys visiting art exhibitions.
+
+Chinese: 周末的时候，我和朋友一起去逛很多地方。
+Pinyin: Zhōumò de shíhòu, wǒ hé péngyǒu yīqǐ qù guàng hěnduō dìfāng.
+English: On weekends, my friends and I go sightseeing in many places.
+
+Chinese: 我在逛街的时候发现了一家新开的餐厅。
+Pinyin: Wǒ zài guàng jiē de shíhòu fāxiàn le yī jiā xīn kāi de cāntīng.
+English: I stumbled upon a newly opened restaurant while shopping.
+
+Chinese: 这个学校有很多规定。
+Pinyin: Zhège xuéxiào yǒu hěnduō guīdìng.
+English: This school has many rules.
+
+Chinese: 我们必须遵守公司的规定。
+Pinyin: Wǒmen bìxū zūnshǒu gōngsī de guīdìng.
+English: We must follow the company's regulations.
+
+Chinese: 根据规定，你不能在图书馆里吃东西。
+Pinyin: Gēnjù guīdìng, nǐ bù néng zài túshū guǎn lǐ chī dōngxi.
+English: According to the rules, you cannot eat in the library.
+
+Chinese: 这个国家有严格的法律规定。
+Pinyin: Zhège guójiā yǒu yángé de fǎlǜ guīdìng.
+English: This country has strict laws and regulations.
+
+Chinese: 我们需要制定一套明确的规定来管理这个项目。
+Pinyin: Wǒmen xūyào zhìdìng yī tào míngquè de guīdìng lái guǎnlǐ zhège xiàngmù.
+English: We need to develop a clear set of regulations to manage this project.
+
+Chinese: 请遵守停车场的规定，不要违规停车。
+Pinyin: Qǐng zūnshǒu tíngchēchǎng de guīdìng, bùyào wéiguī tíngchē.
+English: Please follow the parking lot's rules and do not park illegally.
+
+Chinese: 他被提醒了关于学校考试规定的事情。
+Pinyin: Tā bèi tíxǐngle guānyú xuéxiào kǎoshì guīdìng de shìqing.
+English: He was reminded about the school exam regulations.
+
+Chinese: 请详细阅读并理解会议的规定和安排。
+Pinyin: Qǐng xiángxì yuèdú bìng lǐjiě huìyì de guīdìng hé ānpái.
+English: Please read and understand the rules and arrangements of the meeting in detail.
+
+Chinese: 我们需要遵守公共场所的规定，尊重他人的权益。
+Pinyin: Wǒmen xūyào zūnshǒu gōnggòng chǎngsuǒ de guīdìng, zūnzhòng tārén de quányì.
+English: We need to comply with the regulations of public places and respect others' rights.
+
+Chinese: 这个酒店有严格的入住和退房规定。
+Pinyin: Zhège jiǔdiàn yǒu yángé de rùzhù hé tuìfáng guīdìng.
+English: This hotel has strict check-in and check-out regulations.
+
+Chinese: 我们参加了一个国际会议。
+Pinyin: Wǒmen cānjiāle yīgè guójì huìyì.
+English: We attended an international conference.
+
+Chinese: 这个公司有很多国际合作。
+Pinyin: Zhège gōngsī yǒu hěnduō guójì hézuò.
+English: This company has many international collaborations.
+
+Chinese: 房间里有一张国际地图。
+Pinyin: Fángjiān lǐ yǒu yī zhāng guójì dìtú.
+English: There is an international map in the room.
+
+Chinese: 他们签署了一份国际协议。
+Pinyin: Tāmen qiānshǔle yī fèn guójì xiéyì.
+English: They signed an international agreement.
+
+Chinese: 这次比赛是国际级的。
+Pinyin: Zhè cì bǐsài shì guójì jí de.
+English: This competition is of an international level.
+
+Chinese: 她是一名国际知名的艺术家。
+Pinyin: Tā shì yī míng guójì zhīmíng de yìshùjiā.
+English: She is an internationally renowned artist.
+
+Chinese: 这家酒店是一家豪华的国际连锁店。
+Pinyin: Zhè jiā jiǔdiàn shì yī jiā háohuá de guójì liánsuǒdiàn.
+English: This hotel is a luxurious international chain.
+
+Chinese: 这个活动吸引了很多国际媒体的关注。
+Pinyin: Zhège huódòng xīyǐnle hěnduō guójì méitǐ de guānzhù.
+English: This event attracted the attention of many international media.
+
+Chinese: 这个项目得到了国际组织的支持。
+Pinyin: Zhège xiàngmù dédàole guójì zǔzhī de zhīchí.
+English: This project received support from international organizations.
+
+Chinese: 这座城市是一个国际化的金融中心。
+Pinyin: Zhè zuò chéngshì shì yīgè guójìhuà de jīnróng zhōngxīn.
+English: This city is an internationally-recognized financial center.
+
+Chinese: 他果然来了。
+Pinyin: Tā guǒrán lái le.
+English: He indeed came.
+
+Chinese: 她果然很漂亮。
+Pinyin: Tā guǒrán hěn piàoliang.
+English: She is really beautiful.
+
+Chinese: 他果然没忘记。
+Pinyin: Tā guǒrán méi wàngjì.
+English: He really didn't forget.
+
+Chinese: 这电影果然很好看。
+Pinyin: Zhè diànyǐng guǒrán hěn hǎokàn.
+English: This movie is indeed very good.
+
+Chinese: 他学中文果然很用心。
+Pinyin: Tā xué zhōngwén guǒrán hěn yòngxīn.
+English: He really puts effort into learning Chinese.
+
+Chinese: 这道题果然很难。
+Pinyin: Zhè dào tí guǒrán hěn nán.
+English: This question is indeed difficult.
+
+Chinese: 你果然做到了。
+Pinyin: Nǐ guǒrán zuò dào le.
+English: You really achieved it.
+
+Chinese: 这个工作果然很有挑战性。
+Pinyin: Zhège gōngzuò guǒrán hěn yǒu tiǎozhàn xìng.
+English: This job is really challenging.
+
+Chinese: 他果然是个天才。
+Pinyin: Tā guǒrán shì gè tiāncái.
+English: He is indeed a genius.
+
+Chinese: 他果然回答正确。
+Pinyin: Tā guǒrán huídá zhèngquè.
+English: He really answered correctly.
+
+Chinese: 他去过中国。
+Pinyin: Tā qù guò Zhōngguó.
+English: He has been to China.
+
+Chinese: 昨天我吃过饭了。
+Pinyin: Zuótiān wǒ chī guò fàn le.
+English: I have eaten already yesterday.
+
+Chinese: 这本书我读过。
+Pinyin: Zhè běn shū wǒ dú guò.
+English: I have read this book.
+
+Chinese: 她从来没去过那里。
+Pinyin: Tā cónglái méi qù guò nàlǐ.
+English: She has never been there.
+
+Chinese: 我为你而战过。
+Pinyin: Wǒ wèi nǐ ér zhàn guò.
+English: I have fought for you.
+
+Chinese: 你有没有看过那部电影？
+Pinyin: Nǐ yǒu méiyǒu kàn guò nà bù diànyǐng?
+English: Have you watched that movie?
+
+Chinese: 他给我过生日。
+Pinyin: Tā gěi wǒ guò shēngrì.
+English: He celebrated my birthday.
+
+Chinese: 我们曾经相爱过。
+Pinyin: Wǒmen céngjīng xiāng'ài guò.
+English: We have loved each other before.
+
+Chinese: 明天我不会再做同样的错误了。
+Pinyin: Míngtiān wǒ bú huì zài zuò tóngyàng de cuòwù le.
+English: Tomorrow, I won't make the same mistake again.
+
+Chinese: 这件事我们已经商量过了。
+Pinyin: Zhè jiàn shì wǒmen yǐjīng shāngliáng guò le.
+English: We have already discussed this matter.
+
+Chinese: 做饭的过程很有趣。
+Pinyin: Zuòfàn de guòchéng hěn yǒuqù.
+English: The process of cooking is very interesting.
+
+Chinese: 学习是一个长期的过程。
+Pinyin: Xuéxí shì yīgè chángqī de guòchéng.
+English: Learning is a long process.
+
+Chinese: 成长是一个漫长而有挑战的过程。
+Pinyin: Chéngzhǎng shì yīgè màncháng ér yǒu tiǎozhàn de guòchéng.
+English: Growing up is a long and challenging process.
+
+Chinese: 网上购物的过程非常简便。
+Pinyin: Wǎngshàng gòuwù de guòchéng fēicháng jiǎnbiàn.
+English: The process of online shopping is very convenient.
+
+Chinese: 建立亲密关系需要一个缓慢的过程。
+Pinyin: Jiànlì qīnmì guānxì xūyào yīgè huǎnmàn de guòchéng.
+English: Building intimate relationships takes a slow process.
+
+Chinese: 创作是一个富有想象力的过程。
+Pinyin: Chuàngzuò shì yīgè fùyǒu xiǎngxiànglì de guòchéng.
+English: Creation is an imaginative process.
+
+Chinese: 驾驶飞机是一个高度训练的过程。
+Pinyin: Jiàshǐ fēijī shì yīgè gāodù xùnliàn de guòchéng.
+English: Flying an airplane is a highly trained process.
+
+Chinese: 机器人工作是一个精确而复杂的过程。
+Pinyin: Jīqìrén gōngzuò shì yīgè jīngquè ér fùzá de guòchéng.
+English: Robot work is a precise and complex process.
+
+Chinese: 投资是一个风险与回报相结合的过程。
+Pinyin: Tóuzī shì yīgè fēngxiǎn yǔ huíbào xiāng jiéhé de guòchéng.
+English: Investment is a process that combines risks and returns.
+
+Chinese: 暴露在阳光下会导致肌肤老化的过程加快。
+Pinyin: Bàolù zài yángguāng xià huì dǎozhì jīfū lǎohuà de guòchéng jiākuài.
+English: Exposure to sunlight accelerates the process of skin aging.
+
+Chinese: 海洋非常广阔。
+Pinyin: Hǎiyáng fēicháng guǎngkuò.
+English: The ocean is very vast.
+
+Chinese: 我喜欢在海洋里游泳。
+Pinyin: Wǒ xǐhuān zài hǎiyáng lǐ yóuyǒng.
+English: I enjoy swimming in the ocean.
+
+Chinese: 海洋里有很多美丽的鱼。
+Pinyin: Hǎiyáng lǐ yǒu hěnduō měilì de yú.
+English: There are many beautiful fish in the ocean.
+
+Chinese: 海洋是地球上的主要水体。
+Pinyin: Hǎiyáng shì dìqiú shàng de zhǔyào shuǐtǐ.
+English: The ocean is the main body of water on Earth.
+
+Chinese: 包括太平洋和大西洋在内，世界上有五大洋。
+Pinyin: Bāokuò Tàipíngyáng hé Dàxīyáng zài nèi, shìjiè shàng yǒu wǔ dà yáng.
+English: Including the Pacific Ocean and the Atlantic Ocean, there are five major oceans in the world.
+
+Chinese: 人类还有很多对海洋的未知。
+Pinyin: Rénlèi háiyǒu hěnduō duì hǎiyáng de wèizhī.
+English: There is still a lot about the ocean that humans do not know.
+
+Chinese: 海洋是自然界的宝库。
+Pinyin: Hǎiyáng shì zìrán jiè de bǎokù.
+English: The ocean is a treasure trove in nature.
+
+Chinese: 海洋充满了奇异的生物。
+Pinyin: Hǎiyáng chōngmǎnle qíyì de shēngwù.
+English: The ocean is filled with extraordinary creatures.
+
+Chinese: 海洋给我们提供了丰富的食物资源。
+Pinyin: Hǎiyáng gěi wǒmen tígōngle fēngfù de shíwù zīyuán.
+English: The ocean provides us with abundant food resources.
+
+Chinese: 保护海洋是我们的责任。
+Pinyin: Bǎohù hǎiyáng shì wǒmen de zérèn.
+English: Protecting the ocean is our responsibility.
+
+Chinese: 他们的孩子很害羞。
+Pinyin: Tāmen de háizi hěn hàixiū.
+English: Their child is very shy.
+
+Chinese: 她害羞地低下了头。
+Pinyin: Tā hàixiū de dī xià le tóu.
+English: She shyly lowered her head.
+
+Chinese: 我小时候非常害羞。
+Pinyin: Wǒ xiǎoshíhòu fēicháng hàixiū.
+English: I was very shy when I was young.
+
+Chinese: 他面对陌生人时感到很害羞。
+Pinyin: Tā miànduì mòshēngrén shí gǎndào hěn hàixiū.
+English: He feels very shy when facing strangers.
+
+Chinese: 她害羞地不敢和他对视。
+Pinyin: Tā hàixiū de bù gǎn hé tā duìshì.
+English: She shyly dared not look at him.
+
+Chinese: 在陌生环境中，他总是变得害羞起来。
+Pinyin: Zài mòshēnghuánjìng zhōng, tā zǒngshì biàn de hàixiū qǐlai.
+English: In unfamiliar environments, he always becomes shy.
+
+Chinese: 她害羞地解释了一下自己的行为。
+Pinyin: Tā hàixiū de jiěshì le yīxià zìjǐ de xíngwéi.
+English: She shyly explained her behavior.
+
+Chinese: 我的弟弟很害羞，从不愿意和陌生人交谈。
+Pinyin: Wǒ de dìdi hěn hàixiū, cóng bù yuànyì hé mòshēngrén jiāotán.
+English: My little brother is very shy and never wants to talk to strangers.
+
+Chinese: 她害羞地笑了起来，不敢直视对方。
+Pinyin: Tā hàixiū de xiào le qǐlai, bù gǎn zhíshì duìfāng.
+English: She shyly laughed and dared not look directly at the other person.
+
+Chinese: 在他旁边，她总是感到害羞。
+Pinyin: Zài tā pángbiān, tā zǒngshì gǎndào hàixiū.
+English: She always feels shy when she is next to him.
+
+Chinese: 我们放寒假了。
+Pinyin: Wǒmen fàng hánjià le.
+English: We are on winter break.
+
+Chinese: 我喜欢寒假的雪景。
+Pinyin: Wǒ xǐhuān hánjià de xuějǐng.
+English: I like the snowy scenery during winter break.
+
+Chinese: 寒假通常有两个星期。
+Pinyin: Hánjià tōngcháng yǒu liǎng gè xīngqī.
+English: Winter break usually lasts two weeks.
+
+Chinese: 寒假期间，我要去旅行。
+Pinyin: Hánjià qījiān, wǒ yào qù lǚxíng.
+English: During winter break, I am going on a trip.
+
+Chinese: 寒假是放松和休闲的好时光。
+Pinyin: Hánjià shì fàngsōng hé xiūxián de hǎo shíguāng.
+English: Winter break is a good time to relax and unwind.
+
+Chinese: 我会和家人一起度过寒假。
+Pinyin: Wǒ huì hé jiārén yīqǐ dùguò hánjià.
+English: I will spend winter break with my family.
+
+Chinese: 寒假里，我会读很多书。
+Pinyin: Hánjià lǐ, wǒ huì dú hěnduō shū.
+English: During winter break, I will read a lot of books.
+
+Chinese: 寒假太短了，时间过得很快。
+Pinyin: Hánjià tài duǎn le, shíjiān guò de hěn kuài.
+English: Winter break is too short, time flies by quickly.
+
+Chinese: 寒假里，我会参加一些兴趣班。
+Pinyin: Hánjià lǐ, wǒ huì cānjiā yīxiē xìngqùbān.
+English: During winter break, I will participate in some interest classes.
+
+Chinese: 当我听到寒假要结束时，感到有点遗憾。
+Pinyin: Dāng wǒ tīngdào hánjià yào jiéshù shí, gǎndào yǒudiǎn yíhàn.
+English: When I heard that winter break is about to end, I felt a bit regretful.
+
+Chinese: 天气很热，他流了很多汗。
+Pinyin: Tiānqì hěn rè, tā liú le hěn duō hàn.
+English: It's very hot weather, he sweated a lot.
+
+Chinese: 我擦了擦额头上的汗。
+Pinyin: Wǒ cā le cā é tóu shàng de hàn.
+English: I wiped the sweat off my forehead.
+
+Chinese: 运动后，她浑身都是汗。
+Pinyin: Yùndòng hòu, tā húnshēn dōu shì hàn.
+English: After exercising, her whole body is covered in sweat.
+
+Chinese: 他脸上沾满了汗水。
+Pinyin: Tā liǎn shàng zhān mǎn le hàn shuǐ.
+English: His face is covered with sweat.
+
+Chinese: 我已经出了好多汗。
+Pinyin: Wǒ yǐjīng chū le hǎo duō hàn.
+English: I have already sweated a lot.
+
+Chinese: 跑步使人流汗。
+Pinyin: Pǎobù shǐ rén liú hàn.
+English: Running makes people sweat.
+
+Chinese: 他累得直冒汗。
+Pinyin: Tā lèi de zhí mào hàn.
+English: He is so tired that he's sweating profusely.
+
+Chinese: 汗水从他额头往下流。
+Pinyin: Hàn shuǐ cóng tā é tóu wǎng xià liú.
+English: Sweat is streaming down from his forehead.
+
+Chinese: 汗珠不断地从他的脸上落下。
+Pinyin: Hàn zhū bù duàn de cóng tā de liǎn shàng luò xià.
+English: Sweat drops keep falling off his face.
+
+Chinese: 做瑜伽后，她全身湿透了，满头大汗。
+Pinyin: Zuò yújiā hòu, tā quánshēn shī tòu le, mǎn tóu dà hàn.
+English: After doing yoga, she is soaked all over, covered in sweat.
+
+Chinese: 请问这个航班几点出发？
+Pinyin: Qǐngwèn zhège hángbān jǐ diǎn chūfā?
+English: May I ask what time this flight will depart?
+
+Chinese: 我要取消这个航班。
+Pinyin: Wǒ yào qǔxiāo zhège hángbān.
+English: I want to cancel this flight.
+
+Chinese: 这个航班已经延误了。
+Pinyin: Zhège hángbān yǐjīng yánwù le.
+English: This flight has been delayed.
+
+Chinese: 飞机即将起飞，请旅客们就座。
+Pinyin: Fēijī jíjiāng qǐfēi, qǐng lǚkè men jiùzuò.
+English: The plane will take off soon. Please passengers be seated.
+
+Chinese: 我需要预订一张机票，往返航班。
+Pinyin: Wǒ xūyào yùdìng yì zhāng jīpiào, wǎngfǎn hángbān.
+English: I need to book a round trip ticket.
+
+Chinese: 请确认您的座位号和航班号。
+Pinyin: Qǐng quèrèn nín de zuòwèi hào hé hángbān hào.
+English: Please confirm your seat number and flight number.
+
+Chinese: 这个航班还有预留的座位吗？
+Pinyin: Zhège hángbān hái yǒu yùliú de zuòwèi ma?
+English: Are there any reserved seats left for this flight?
+
+Chinese: 我们将前往巴黎的航班。
+Pinyin: Wǒmen jiāng qiánwǎng Bālí de hángbān.
+English: We will take the flight to Paris.
+
+Chinese: 我错过了去上海的航班。
+Pinyin: Wǒ cuòguò le qù Shànghǎi de hángbān.
+English: I missed the flight to Shanghai.
+
+Chinese: 请问这个航班是国内航班还是国际航班？
+Pinyin: Qǐngwèn zhège hángbān shì guónèi hángbān háishì guójì hángbān?
+English: May I ask, is this flight a domestic flight or an international flight?
+
+Chinese: 这个习惯带给我很多好处。
+Pinyin: Zhège xíguàn dài gěi wǒ hěn duō hǎochù.
+English: This habit brings me many benefits.
+
+Chinese: 阅读的好处是扩大知识面。
+Pinyin: Yuèdú de hǎochù shì kuòdà zhīshì miàn.
+English: The benefit of reading is expanding knowledge.
+
+Chinese: 保持积极的心态有很多好处。
+Pinyin: Bǎochí jījí de xīntài yǒu hěnduō hǎochù.
+English: Keeping a positive mindset has many benefits.
+
+Chinese: 学习外语的好处是能够跨越语言障碍。
+Pinyin: Xuéxí wàiyǔ de hǎochù shì nénggòu kuàyuè yǔyán zhàng'ài.
+English: The benefit of learning a foreign language is being able to overcome language barriers.
+
+Chinese: 持续锻炼身体有很多好处。
+Pinyin: Chíxù duànliàn shēntǐ yǒu hěnduō hǎochù.
+English: Continuous exercise has many benefits for the body.
+
+Chinese: 早睡早起对身体有很多好处。
+Pinyin: Zǎo shuì zǎo qǐ duì shēntǐ yǒu hěn duō hǎochù.
+English: Going to bed and waking up early has many benefits for the body.
+
+Chinese: 吃水果对健康有很多好处。
+Pinyin: Chī shuǐguǒ duì jiànkāng yǒu hěnduō hǎochù.
+English: Eating fruits has many benefits for health.
+
+Chinese: 心情愉快有很多好处。
+Pinyin: Xīnqíng yúkuài yǒu hěnduō hǎochù.
+English: Having a cheerful mood has many benefits.
+
+Chinese: 保持良好的人际关系有很多好处。
+Pinyin: Bǎochí liánghǎo de rénjì guānxì yǒu hěnduō hǎochù.
+English: Maintaining good interpersonal relationships has many benefits.
+
+Chinese: 打扫房间的好处是让环境更整洁。
+Pinyin: Dǎsǎo fángjiān de hǎochù shì ràng huánjìng gèng zhěngjié.
+English: The benefit of cleaning the room is to make the environment tidier.
+
+Chinese: 好像下雨了。
+Pinyin: Hǎoxiàng xiàyǔ le.
+English: It seems like it's going to rain.
+
+Chinese: 他好像生病了。
+Pinyin: Tā hǎoxiàng shēngbìng le.
+English: He seems to be sick.
+
+Chinese: 这本书好像很有趣。
+Pinyin: Zhè běn shū hǎoxiàng hěn yǒuqù.
+English: This book seems very interesting.
+
+Chinese: 她好像很高兴。
+Pinyin: Tā hǎoxiàng hěn gāoxìng.
+English: She seems very happy.
+
+Chinese: 这个地方好像很美丽。
+Pinyin: Zhège dìfang hǎoxiàng hěn měilì.
+English: This place seems very beautiful.
+
+Chinese: 这个问题好像很难。
+Pinyin: Zhège wèntí hǎoxiàng hěn nán.
+English: This question seems difficult.
+
+Chinese: 他们好像在聊天。
+Pinyin: Tāmen hǎoxiàng zài liáotiān.
+English: They seem to be chatting.
+
+Chinese: 这个电影好像很有意思。
+Pinyin: Zhège diànyǐng hǎoxiàng hěn yǒuyìsi.
+English: This movie seems very interesting.
+
+Chinese: 我好像忘了带钱包。
+Pinyin: Wǒ hǎoxiàng wàng le dài qiánbāo.
+English: I seem to have forgotten my wallet.
+
+Chinese: 你的手机号码是多少？
+Pinyin: Nǐ de shǒujī hàomǎ shì duōshǎo?
+English: What is your mobile phone number?
+
+Chinese: 这个账号有安全密码。
+Pinyin: Zhège zhànghào yǒu ānquán mìmǎ.
+English: This account has a security password.
+
+Chinese: 我记不住车牌号码。
+Pinyin: Wǒ jìbuzhù chēpái hàomǎ.
+English: I can't remember the license plate number.
+
+Chinese: 请告诉我你的学生号码。
+Pinyin: Qǐng gàosù wǒ nǐ de xuéshēng hàomǎ.
+English: Please tell me your student number.
+
+Chinese: 我想分配新的员工编号。
+Pinyin: Wǒ xiǎng fēnpèi xīn de yuángōng biānhào.
+English: I want to assign a new employee number.
+
+Chinese: 你的护照号码是多少？
+Pinyin: Nǐ de hùzhào hàomǎ shì duōshǎo?
+English: What is your passport number?
+
+Chinese: 这个房间的门牌号是202。
+Pinyin: Zhège fángjiān de mén pǎi hào shì èr líng èr.
+English: The door number of this room is 202.
+
+Chinese: 需要填写社会保险号码。
+Pinyin: Xūyào tiánxiě shèhuì bǎoxiǎn hàomǎ.
+English: Fill in the social security number.
+
+Chinese: 商店的电话号码在这张名片上。
+Pinyin: Shāngdiàn de diànhuà hàomǎ zài zhè zhāng míngpiàn shàng.
+English: The phone number of the store is on this business card.
+
+Chinese: 我们需要验证银行卡号码。
+Pinyin: Wǒmen xūyào yànzhèng yínháng kǎ hàomǎ.
+English: We need to verify the bank card number.
+
+Chinese: 这个学生通过了考试，他很合格。
+Pinyin: Zhège xuéshēng tōngguò le kǎoshì, tā hěn hé gé.
+English: This student passed the exam and he is very qualified.
+
+Chinese: 这个厨师的烹饪技术非常合格。
+Pinyin: Zhège chúshī de pēngrèn jìshù fēicháng hé gé.
+English: This chef's culinary skills are very qualified.
+
+Chinese: 苹果店只卖合格的水果。
+Pinyin: Píngguǒ diàn zhǐ mài hé gé de shuǐguǒ.
+English: The apple store only sells qualified fruits.
+
+Chinese: 这间酒店的服务非常合格。
+Pinyin: Zhè jiān jiǔdiàn de fúwù fēicháng hé gé.
+English: The service at this hotel is very competent.
+
+Chinese: 这台电视质量不够合格，我要换一个。
+Pinyin: Zhè tái diànshì zhìliàng bùgòu hé gé, wǒ yào huàn yīgè.
+English: The quality of this TV is not good enough, I want to exchange it.
+
+Chinese: 你的作文很不合格，需要重新写。
+Pinyin: Nǐ de zuòwén hěn bù hé gé, xūyào chóngxīn xiě.
+English: Your essay is not qualified, you need to rewrite it.
+
+Chinese: 这家工厂生产的产品没有合格标志。
+Pinyin: Zhè jiā gōngchǎng shēngchǎn de chǎnpǐn méiyǒu hé gé biāozhì.
+English: The products produced by this factory do not have a qualified mark.
+
+Chinese: 他不承认自己的错误，说明他没有合格的领导素质。
+Pinyin: Tā bù chéngrèn zìjǐ de cuòwù, shuōmíng tā méiyǒu hé gé de lǐngdǎo sùzhì.
+English: He does not admit his mistakes, indicating that he lacks qualified leadership qualities.
+
+Chinese: 这双鞋子对我来说合适。
+Pinyin: Zhè shuāng xiézi duì wǒ lái shuō héshì.
+English: These shoes are suitable for me.
+
+Chinese: 他的建议很合适。
+Pinyin: Tā de jiànyì hěn héshì.
+English: His suggestion is very appropriate.
+
+Chinese: 我觉得这个地方不太合适。
+Pinyin: Wǒ juéde zhège dìfāng bú tài héshì.
+English: I don't think this place is quite suitable.
+
+Chinese: 你知道那间房子有没有一个合适的厨房吗？
+Pinyin: Nǐ zhīdào nà jiān fángzi yǒu méiyǒu yī gè héshì de chúfáng ma?
+English: Do you know if that house has a suitable kitchen?
+
+Chinese: 这个人对这个工作非常合适。
+Pinyin: Zhège rén duì zhège gōngzuò fēicháng héshì.
+English: This person is a perfect fit for this job.
+
+Chinese: 这个饭馆的菜很合适我的口味。
+Pinyin: Zhège fànguǎn de cài hěn héshì wǒ de kǒuwèi.
+English: The food at this restaurant suits my taste.
+
+Chinese: 大家觉得这个方案怎么样，合适吗？
+Pinyin: Dàjiā juéde zhège fāng'àn zěnme yàng, héshì ma?
+English: What does everyone think of this plan, is it suitable?
+
+Chinese: 我睡得不太舒服，床不够合适。
+Pinyin: Wǒ shuì de bú tài shūfu, chuáng búgòu héshì.
+English: I didn't sleep comfortably, the bed wasn't quite suitable.
+
+Chinese: 这个时间段你方便吗？对你来说合适吗？
+Pinyin: Zhège shíjiānduàn nǐ fāngbiàn ma? Duì nǐ lái shuō héshì ma?
+English: Are you available during this time period? Is it suitable for you?
+
+Chinese: 今天天气非常合适户外活动。
+Pinyin: Jīntiān tiānqì fēicháng héshì hùwài huódòng.
+English: Today's weather is perfect for outdoor activities.
+
+Chinese: 这个盒子很大。
+Pinyin: Zhège hézi hěn dà.
+English: This box is big.
+
+Chinese: 我买了一个红色的盒子。
+Pinyin: Wǒ mǎi le yīgè hóngsè de hézi.
+English: I bought a red box.
+
+Chinese: 盒子里装满了玩具。
+Pinyin: Hézi lǐ zhuāng mǎn le wánjù.
+English: The box is filled with toys.
+
+Chinese: 这个盒子很轻。
+Pinyin: Zhège hézi hěn qīng.
+English: This box is light.
+
+Chinese: 盒子里有一本书。
+Pinyin: Hézi lǐ yǒu yī běn shū.
+English: There is a book in the box.
+
+Chinese: 我把礼物放进盒子里。
+Pinyin: Wǒ bǎ lǐwù fàng jìn hézi lǐ.
+English: I put the gift inside the box.
+
+Chinese: 盒子上贴着标签。
+Pinyin: Hézi shàng tiē zhe biāoqiān.
+English: There is a label stuck on the box.
+
+Chinese: 这个盒子有点古老。
+Pinyin: Zhège hézi yǒudiǎn gǔlǎo.
+English: This box is a bit old.
+
+Chinese: 盒子里装了一些饼干。
+Pinyin: Hézi lǐ zhuāng le yīxiē bǐnggān.
+English: The box contains some cookies.
+
+Chinese: 我把东西放进盒子里面。
+Pinyin: Wǒ bǎ dōngxi fàng jìn hézi lǐmiàn.
+English: I put things inside the box.
+
+Chinese: 这只猴子在树上玩耍。
+Pinyin: Zhè zhī hóuzi zài shù shàng wánshuǎ.
+English: This monkey is playing on the tree.
+
+Chinese: 这个动物园有很多猴子。
+Pinyin: Zhège dòngwùyuán yǒu hěnduō hóuzi.
+English: This zoo has many monkeys.
+
+Chinese: 猴子非常灵活和聪明。
+Pinyin: Hóuzi fēicháng línghuó hé cōngmíng.
+English: Monkeys are very agile and clever.
+
+Chinese: 我喜欢看猴子表演。
+Pinyin: Wǒ xǐhuān kàn hóuzi biǎoyǎn.
+English: I enjoy watching monkeys perform.
+
+Chinese: 猴子喜欢吃香蕉。
+Pinyin: Hóuzi xǐhuān chī xiāngjiāo.
+English: Monkeys like to eat bananas.
+
+Chinese: 猴子会用手抓东西。
+Pinyin: Hóuzi huì yòng shǒu zhuā dōngxi.
+English: Monkeys can use their hands to grab things.
+
+Chinese: 猴子有长长的尾巴。
+Pinyin: Hóuzi yǒu zhǎng zhǎng de wěiba.
+English: Monkeys have long tails.
+
+Chinese: 猴子善于模仿。
+Pinyin: Hóuzi shànyú mófǎng.
+English: Monkeys are good at imitating.
+
+Chinese: 猴子喜欢在大树上跳来跳去。
+Pinyin: Hóuzi xǐhuān zài dàshù shàng tiào lái tiào qù.
+English: Monkeys like to jump around on big trees.
+
+Chinese: 猴子是非常有趣的动物。
+Pinyin: Hóuzi shì fēicháng yǒuqù de dòngwù.
+English: Monkeys are very interesting animals.
+
+Chinese: 他忽然停下来了。
+Pinyin: Tā hūrán tíng xiàlái le.
+English: He suddenly stopped.
+
+Chinese: 天空中忽然下起了雨。
+Pinyin: Tiānkōng zhōng hūrán xià qǐ le yǔ.
+English: It suddenly started to rain in the sky.
+
+Chinese: 忽然间，房间里一片安静。
+Pinyin: Hūrán jiān, fángjiān lǐ yī piàn ānjìng.
+English: Suddenly, the room became quiet.
+
+Chinese: 忽然间她笑了。
+Pinyin: Hūrán jiān tā xiào le.
+English: She suddenly laughed.
+
+Chinese: 他一出现，大家都忽然安静下来了。
+Pinyin: Tā yī chūxiàn, dàjiā dōu hūrán ānjìng xiàlái le.
+English: Everyone suddenly became quiet when he appeared.
+
+Chinese: 忽然，他觉得很累。
+Pinyin: Hūrán, tā juédé hěn lèi.
+English: Suddenly, he felt tired.
+
+Chinese: 我的手机忽然坏了。
+Pinyin: Wǒ de shǒujī hūrán huài le.
+English: My phone suddenly broke.
+
+Chinese: 忽然间，阳光照进了房间。
+Pinyin: Hūrán jiān, yángguāng zhào jìn le fángjiān.
+English: Suddenly, sunlight entered the room.
+
+Chinese: 忽然间天黑了。
+Pinyin: Hūrán jiān tiānhēi le.
+English: Suddenly, it became dark.
+
+Chinese: 忽然间我听到了一声巨响。
+Pinyin: Hūrán jiān wǒ tīng dào le yī shēng jùxiǎng.
+English: Suddenly, I heard a loud noise.
+
+Chinese: 这件毛衣很厚。
+Pinyin: Zhè jiàn máoyī hěn hòu.
+English: This sweater is thick.
+
+Chinese: 这片森林地势很厚。
+Pinyin: Zhè piàn sēnlín dìshì hěn hòu.
+English: This forest has thick terrain.
+
+Chinese: 这本书的页数很厚。
+Pinyin: Zhè běn shū de yèshù hěn hòu.
+English: This book has a large number of pages.
+
+Chinese: 这层涂料很厚。
+Pinyin: Zhè céng túliào hěn hòu.
+English: This coat of paint is thick.
+
+Chinese: 这个墙壁很厚。
+Pinyin: Zhège qiángbì hěn hòu.
+English: This wall is thick.
+
+Chinese: 这盘土豆片很厚。
+Pinyin: Zhè pán tǔdòu piàn hěn hòu.
+English: These potato slices are thick.
+
+Chinese: 这块木板很厚。
+Pinyin: Zhè kuài mùbǎn hěn hòu.
+English: This wooden board is thick.
+
+Chinese: 这层云很厚。
+Pinyin: Zhè céng yún hěn hòu.
+English: These clouds are thick.
+
+Chinese: 这本字典很厚。
+Pinyin: Zhè běn zìdiǎn hěn hòu.
+English: This dictionary is thick.
+
+Chinese: 这门课的教材很厚。
+Pinyin: Zhè mén kè de jiàocái hěn hòu.
+English: The textbook for this course is thick.
+
+Chinese: 我很后悔昨天没有去参加聚会。
+Pinyin: Wǒ hěn hòuhuǐ zuótiān méiyǒu qù cānjiā jùhuì.
+English: I regret not going to the party yesterday.
+
+Chinese: 她后悔没有好好学习中文。
+Pinyin: Tā hòuhuǐ méiyǒu hǎohǎo xuéxí zhōngwén.
+English: She regrets not studying Chinese well.
+
+Chinese: 他现在非常后悔买了那件衣服。
+Pinyin: Tā xiànzài fēicháng hòuhuǐ mǎile nà jiàn yīfu.
+English: He now deeply regrets buying that clothes.
+
+Chinese: 我们会后悔没听取你的建议。
+Pinyin: Wǒmen huì hòuhuǐ méi tīngqǔ nǐ de jiànyì.
+English: We will regret not taking your advice.
+
+Chinese: 她一直后悔离开了家乡。
+Pinyin: Tā yīzhí hòuhuǐ líkāile jiāxiāng.
+English: She has always regretted leaving her hometown.
+
+Chinese: 她会后悔没有多花点时间陪家人。
+Pinyin: Tā huì hòuhuǐ méiyǒu duō huā diǎn shíjiān péi jiārén.
+English: She will regret not spending more time with her family.
+
+Chinese: 他们后悔错过了那个机会。
+Pinyin: Tāmen hòuhuǐ cuòguòle nà gè jīhuì.
+English: They regret missing that opportunity.
+
+Chinese: 我很后悔放弃了我的梦想。
+Pinyin: Wǒ hěn hòuhuǐ fàngqìle wǒ de mèngxiǎng.
+English: I deeply regret giving up on my dreams.
+
+Chinese: 她后悔没有早点认识你。
+Pinyin: Tā hòuhuǐ méiyǒu zǎodiǎn rènshí nǐ.
+English: She regrets not knowing you earlier.
+
+Chinese: 你会后悔不听我的话。
+Pinyin: Nǐ huì hòuhuǐ bù tīng wǒ de huà.
+English: You will regret not listening to me.
+
+Chinese: 我们先去了图书馆，后来又去了电影院。
+Pinyin: Wǒmen xiān qùle túshūguǎn, hòulái yòu qùle diànyǐngyuàn.
+English: First, we went to the library, and then we went to the cinema.
+
+Chinese: 她一开始不喜欢这首歌，后来听了几遍就爱上了。
+Pinyin: Tā yī kāishǐ bù xǐhuan zhè shǒu gē, hòulái tīngle jǐ biàn jiù ài shàng le.
+English: She didn't like this song at first, but after listening to it several times, she fell in love with it.
+
+Chinese: 昨天早上我起床晚了，后来就迟到了。
+Pinyin: Zuótiān zǎoshang wǒ qǐchuáng wǎn le, hòulái jiù chídào le.
+English: I woke up late yesterday morning, so I ended up being late.
+
+Chinese: 他向左转了一段路，后来发现自己走错了方向。
+Pinyin: Tā xiàng zuǒzhuǎn le yī duàn lù, hòulái fāxiàn zìjǐ zǒu cuò le fāngxiàng.
+English: He turned left for a while, and later realized that he had gone in the wrong direction.
+
+Chinese: 后来我们一直在一起，直到现在。
+Pinyin: Hòulái wǒmen yīzhí zài yīqǐ, zhídào xiànzài.
+English: We have been together ever since.
+
+Chinese: 买了新鞋后来才发现尺码太小了。
+Pinyin: Mǎi le xīnxié hòulái cái fāxiàn chǐmǎ tài xiǎo le.
+English: After buying new shoes, I realized that the size was too small.
+
+Chinese: 她非常不满意刚才的演讲，后来重新准备了一篇更好的。
+Pinyin: Tā fēicháng bù mǎnyì gāngcái de yǎnjiǎng, hòulái chóngxīn zhǔnbèi le yī piān gèng hǎo de.
+English: She was very dissatisfied with the speech just now, so she prepared a better one later.
+
+Chinese: 我以为他会来参加派对，后来才知道他有急事。
+Pinyin: Wǒ yǐwéi tā huì lái cānjiā pàiduì, hòulái cái zhīdào tā yǒu jíshì.
+English: I thought he would come to the party, but later I found out that he had an emergency.
+
+Chinese: 她打电话预约了一间餐厅，后来却忘了具体的日期。
+Pinyin: Tā dǎ diànhuà yùyuē le yī jiān cāntīng, hòulái què wàng le jùtǐ de rìqī.
+English: She called to make a reservation at a restaurant, but later she forgot the specific date.
+
+Chinese: 他曾经是一个出色的篮球运动员，后来转行成为一名演员。
+Pinyin: Tā céngjīng shì yīgè chūsè de lánqiú yùndòngyuán, hòulái zhuǎnháng chéngwéi yī míng yǎnyuán.
+English: He used to be an outstanding basketball player, but later changed his career to become an actor.
+
+Chinese: 她是我的孙女。
+Pinyin: Tā shì wǒ de sūnnǚ.
+English: She is my granddaughter.
+
+Chinese: 他们的孙女非常聪明。
+Pinyin: Tāmen de sūnnǚ fēicháng cōngmíng.
+English: Their granddaughter is very intelligent.
+
+Chinese: 我每天都会打电话给孙女。
+Pinyin: Wǒ měitiān dōuhuì dǎ diànhuà gěi sūnnǚ.
+English: I call my granddaughter every day.
+
+Chinese: 这个孙女特别懂事。
+Pinyin: Zhège sūnnǚ tèbié dǒngshì.
+English: This granddaughter is particularly sensible.
+
+Chinese: 我很喜欢和孙女玩。
+Pinyin: Wǒ hěn xǐhuan hé sūnnǚ wán.
+English: I really enjoy playing with my granddaughter.
+
+Chinese: 我的孙女很活泼。
+Pinyin: Wǒ de sūnnǚ hěn huópō.
+English: My granddaughter is very lively.
+
+Chinese: 请你帮我照顾孙女一会儿。
+Pinyin: Qǐng nǐ bāng wǒ zhàogù sūnnǚ yīhuǐr.
+English: Please help me take care of my granddaughter for a while.
+
+Chinese: 我给孙女做了一件礼物。
+Pinyin: Wǒ gěi sūnnǚ zuòle yījiàn lǐwù.
+English: I made a gift for my granddaughter.
+
+Chinese: 孙女一直在学习钢琴。
+Pinyin: Sūnnǚ yīzhí zài xuéxí gāngqín.
+English: My granddaughter has been learning to play the piano.
+
+Chinese: 最近我陪孙女去了动物园。
+Pinyin: Zuìjìn wǒ péi sūnnǚ qùle dòngwùyuán.
+English: Recently, I took my granddaughter to the zoo.
+
+Chinese: 他是外国人。
+Pinyin: Tā shì wàiguórén.
+English: He is a foreigner.
+
+Chinese: 外国人在这个城市工作。
+Pinyin: Wàiguórén zài zhège chéngshì gōngzuò.
+English: Foreigners work in this city.
+
+Chinese: 这个酒店里有很多外国人。
+Pinyin: Zhège jiǔdiàn lǐ yǒu hěnduō wàiguórén.
+English: There are many foreigners in this hotel.
+
+Chinese: 我认识一个外国人。
+Pinyin: Wǒ rènshi yīgè wàiguórén.
+English: I know a foreigner.
+
+Chinese: 在这个学校里有几个外国人。
+Pinyin: Zài zhège xuéxiào lǐ yǒu jǐ gè wàiguórén.
+English: There are several foreigners in this school.
+
+Chinese: 外国人可以学习中文。
+Pinyin: Wàiguórén kěyǐ xuéxí zhōngwén.
+English: Foreigners can learn Chinese.
+
+Chinese: 我很喜欢和外国人聊天。
+Pinyin: Wǒ hěn xǐhuān hé wàiguórén liáotiān.
+English: I really like talking to foreigners.
+
+Chinese: 那个公司有很多外国人在工作。
+Pinyin: Nàgè gōngsī yǒu hěnduō wàiguórén zài gōngzuò.
+English: That company has many foreigners working there.
+
+Chinese: 这个餐厅的服务员是外国人。
+Pinyin: Zhège cāntīng de fúwùyuán shì wàiguórén.
+English: The waiter/waitress in this restaurant is a foreigner.
+
+Chinese: 外国人对中国文化很感兴趣。
+Pinyin: Wàiguórén duì zhōngguó wénhuà hěn gǎn xìngqù.
+English: Foreigners are very interested in Chinese culture.
+
+Chinese: 大熊猫是中国的国宝。
+Pinyin: Dà xióngmāo shì Zhōngguó de guó bǎo.
+English: Giant pandas are national treasures of China.
+
+Chinese: 大熊猫是濒危动物。
+Pinyin: Dà xióngmāo shì bīn wēi dòngwù.
+English: Giant pandas are endangered animals.
+
+Chinese: 大熊猫喜欢吃竹子。
+Pinyin: Dà xióngmāo xǐhuān chī zhúzi.
+English: Giant pandas like to eat bamboo.
+
+Chinese: 大熊猫有黑色和白色的毛。
+Pinyin: Dà xióngmāo yǒu hēisè hé báisè de máo.
+English: Giant pandas have black and white fur.
+
+Chinese: 大熊猫生活在中国的竹林中。
+Pinyin: Dà xióngmāo shēnghuó zài Zhōngguó de zhú lín zhōng.
+English: Giant pandas live in bamboo forests in China.
+
+Chinese: 我们去动物园看大熊猫吧！
+Pinyin: Wǒmen qù dòngwùyuán kàn dà xióngmāo ba!
+English: Let's go to the zoo and see the giant pandas!
+
+Chinese: 大熊猫非常可爱。
+Pinyin: Dà xióngmāo fēicháng kěài.
+English: Giant pandas are extremely cute.
+
+Chinese: 大熊猫是独居的动物。
+Pinyin: Dà xióngmāo shì dú jū de dòngwù.
+English: Giant pandas are solitary animals.
+
+Chinese: 我很想亲眼看到大熊猫。
+Pinyin: Wǒ hěn xiǎng qīnyǎn kàn dà xióngmāo.
+English: I really want to see giant pandas with my own eyes.
+
+Chinese: 大熊猫的数量很有限。
+Pinyin: Dà xióngmāo de shùliàng hěn yǒuxiàn.
+English: There is a limited number of giant pandas.
+
+Chinese: 事实往往比想象的更为复杂。
+Pinyin: Shìshí wǎngwǎng bǐ xiǎngxiàng de gèng wéi fùzá.
+English: Facts are often more complex than imagination.
+
+Chinese: 我们需要面对现实事实。
+Pinyin: Wǒmen xūyào miàn duì xiànshí shìshí.
+English: We need to face the reality.
+
+Chinese: 不可否认，这是一个事实。
+Pinyin: Bùkě fǒurèn, zhè shì yīgè shìshí.
+English: Undeniable, this is a fact.
+
+Chinese: 大家都应该了解这个事实。
+Pinyin: Dàjiā dōu yīnggāi liǎojiě zhège shìshí.
+English: Everyone should be aware of this fact.
+
+Chinese: 事实证明我的猜测是正确的。
+Pinyin: Shìshí zhèngmíng wǒ de cāicè shì zhèngquè de.
+English: The fact proves that my guess is correct.
+
+Chinese: 他对那个事实感到很震惊。
+Pinyin: Tā duì nàgè shìshí gǎndào hěn zhènjīng.
+English: He was shocked by that fact.
+
+Chinese: 我们必须学会面对不同的事实。
+Pinyin: Wǒmen bìxū xuéhuì miànduì bùtóng de shìshí.
+English: We must learn to face different facts.
+
+Chinese: 我不敢相信这是一个事实。
+Pinyin: Wǒ bù gǎn xiāngxìn zhè shì yīgè shìshí.
+English: I can't believe this is a fact.
+
+Chinese: 这个结论是根据实际事实得出的。
+Pinyin: Zhège jiélùn shì gēnjù shíjì shìshí déchū de.
+English: This conclusion is based on actual facts.
+
+Chinese: 无法改变的事实是我们必须接受的。
+Pinyin: Wúfǎ gǎibiàn de shìshí shì wǒmen bìxū jiēshòu de.
+English: The fact that cannot be changed is what we must accept.
+
+Chinese: 他们对中国人的刻板印象是勤劳和聪明。
+Pinyin: Tāmen duì Zhōngguó rén de kèbǎnyìnxiàng shì qínláo hé cōngmíng.
+English: Their stereotype of Chinese people is hardworking and intelligent.
+
+Chinese: 我们应该打破对他人的刻板印象。
+Pinyin: Wǒmen yīnggāi dǎpò duì tārén de kèbǎnyìnxiàng.
+English: We should break the stereotype of others.
+
+Chinese: 请不要只凭外表就给人贴上刻板印象。
+Pinyin: Qǐng bùyào zhǐ píng wàibiǎo jiù gěi rén tiē shàng kèbǎnyìnxiàng.
+English: Please don't judge others solely based on their appearance.
+
+Chinese: 别人怎么看待你，你应该不被刻板印象所束缚。
+Pinyin: Biérén zěnme kàndài nǐ, nǐ yīnggāi bù bèi kèbǎnyìnxiàng suǒshùfù.
+English: No matter how others perceive you, you should not be restricted by stereotypes.
+
+Chinese: 刻板印象会限制我们对他人的了解。
+Pinyin: Kèbǎnyìnxiàng huì xiànzhì wǒmen duì tārén de liǎojiě.
+English: Stereotypes will limit our understanding of others.
+
+Chinese: 没有人完全符合刻板印象。
+Pinyin: Méiyǒu rén wánquán fúhé kèbǎnyìnxiàng.
+English: No one perfectly fits a stereotype.
+
+Chinese: 做出令人惊喜的行为可以改变刻板印象。
+Pinyin: Zuòchū lìngrén jīngxǐ de xíngwéi kěyǐ gǎibiàn kèbǎnyìnxiàng.
+English: Performing surprising acts can change stereotypes.
+
+Chinese: 刻板印象是社会中常见的问题。
+Pinyin: Kèbǎnyìnxiàng shì shèhuì zhōng chángjiàn de wèntí.
+English: Stereotypes are a common issue in society.
+
+Chinese: 一个人的刻板印象并不能代表他的全部。
+Pinyin: Yīgè rén de kèbǎnyìnxiàng bìng bùnéng dàibiǎo tā de quánbù.
+English: One person's stereotype cannot represent their entirety.
+
+Chinese: 不要通过刻板印象评价一个群体。
+Pinyin: Bùyào tōngguò kèbǎnyìnxiàng píngjià yīgè qúntǐ.
+English: Do not judge a group based on stereotypes.
+
+Chinese: 他很喜欢看功夫电影。
+Pinyin: Tā hěn xǐhuān kàn gōngfū diànyǐng.
+English: He enjoys watching kung fu movies.
+
+Chinese: 功夫需要很多练习。
+Pinyin: Gōngfū xūyào hěnduō liànxí.
+English: Kung fu requires a lot of practice.
+
+Chinese: 我正在学习功夫。
+Pinyin: Wǒ zhèngzài xuéxí gōngfū.
+English: I am learning kung fu.
+
+Chinese: 他已经精通了功夫技巧。
+Pinyin: Tā yǐjīng jīngtōng le gōngfū jìqiǎo.
+English: He has already mastered kung fu techniques.
+
+Chinese: 她在电影中展示了她的功夫。
+Pinyin: Tā zài diànyǐng zhōng zhǎnshì le tā de gōngfū.
+English: She showcased her kung fu skills in the movie.
+
+Chinese: 这个动作需要一些功夫来完成。
+Pinyin: Zhège dòngzuò xūyào yīxiē gōngfū lái wánchéng.
+English: This kung fu move requires some effort to complete.
+
+Chinese: 功夫练习要注重力量和速度。
+Pinyin: Gōngfū liànxí yào zhùzhòng lìliàng hé sùdù.
+English: Kung fu training should focus on strength and speed.
+
+Chinese: 他用功夫保护自己。
+Pinyin: Tā yòng gōngfū bǎohù zìjǐ.
+English: He uses kung fu to protect himself.
+
+Chinese: 学习功夫需要耐心和毅力。
+Pinyin: Xuéxí gōngfū xūyào nàixīn hé yìlì.
+English: Learning kung fu requires patience and perseverance.
+
+Chinese: 我要参加一个功夫比赛。
+Pinyin: Wǒ yào cānjiā yīgè gōngfū bǐsài.
+English: I am going to participate in a kung fu competition.
+
+Chinese: 他擅长弹钢琴。
+Pinyin: Tā shàncháng tán gāngqín.
+English: He is good at playing the piano.
+
+Chinese: 她擅长绘画。
+Pinyin: Tā shàncháng huìhuà.
+English: She is skilled at painting.
+
+Chinese: 我们擅长沟通。
+Pinyin: Wǒmen shàncháng gōutōng.
+English: We are proficient in communication.
+
+Chinese: 他擅长篮球。
+Pinyin: Tā shàncháng lánqiú.
+English: He is skilled at basketball.
+
+Chinese: 她擅长教学。
+Pinyin: Tā shàncháng jiàoxué.
+English: She is good at teaching.
+
+Chinese: 我们公司擅长市场营销。
+Pinyin: Wǒmen gōngsī shàncháng shìchǎng yíngxiāo.
+English: Our company specializes in marketing.
+
+Chinese: 这位厨师擅长烹饪海鲜。
+Pinyin: Zhè wèi chúshī shàncháng pēngrèn hǎixiān.
+English: This chef is skilled at cooking seafood.
+
+Chinese: 她擅长解决问题。
+Pinyin: Tā shàncháng jiějué wèntí.
+English: She is good at problem-solving.
+
+Chinese: 我们的团队擅长创新和设计。
+Pinyin: Wǒmen de tuánduì shàncháng chuàngxīn hé shèjì.
+English: Our team is skilled in innovation and design.
+
+Chinese: 他擅长跳舞。
+Pinyin: Tā shàncháng tiàowǔ.
+English: He is good at dancing.
+
+Chinese: 我们需要找到一种方法来消除这个问题。
+Pinyin: Wǒmen xūyào zhǎodào yī zhǒng fāngfǎ lái xiāochú zhège wèntí.
+English: We need to find a way to eliminate this problem.
+
+Chinese: 他们希望能够消除这些不安的情绪。
+Pinyin: Tāmen xīwàng nénggòu xiāochú zhèxiē bù'ān de qíngxù.
+English: They hope to be able to dispel these feelings of unease.
+
+Chinese: 这项政策的目标是消除贫困。
+Pinyin: Zhè xiàng zhèngcè de mùbiāo shì xiāochú pínkùn.
+English: The goal of this policy is to eradicate poverty.
+
+Chinese: 他时常用音乐来消除压力。
+Pinyin: Tā shícháng yòng yīnyuè lái xiāochú yālì.
+English: He often uses music to relieve stress.
+
+Chinese: 这种医药可以帮助消除疼痛。
+Pinyin: Zhè zhǒng yīyào kěyǐ bāngzhù xiāochú téngtòng.
+English: This medicine can help eliminate pain.
+
+Chinese: 我们需要加强合作以消除这个难题。
+Pinyin: Wǒmen xūyào jiāqiáng hézuò yǐ xiāochú zhège nántí.
+English: We need to enhance cooperation to solve this problem.
+
+Chinese: 这个方法可以帮助我们快速地消除垃圾。
+Pinyin: Zhège fāngfǎ kěyǐ bāngzhù wǒmen kuàisù de xiāochú lājī.
+English: This method can help us quickly eliminate trash.
+
+Chinese: 我们需要采取措施来消除空气污染。
+Pinyin: Wǒmen xūyào cǎiqǔ cuòshī lái xiāochú kōngqì wūrǎn.
+English: We need to take measures to eliminate air pollution.
+
+Chinese: 这个计划的目的是消除食品浪费。
+Pinyin: Zhège jìhuà de mùdì shì xiāochú shípǐn làngfèi.
+English: The purpose of this plan is to eliminate food waste.
+
+Chinese: 这个产品可以消除头皮屑问题。
+Pinyin: Zhège chǎnpǐn kěyǐ xiāochú tóupíxiè wèntí.
+English: This product can eliminate dandruff problems.
+
+Chinese: 他们之间有一个误解。
+Pinyin: Tāmen zhījiān yǒu yīgè wùjiě.
+English: There is a misunderstanding between them.
+
+Chinese: 我们应该解决这个误解。
+Pinyin: Wǒmen yīnggāi jiějué zhège wùjiě.
+English: We should resolve this misunderstanding.
+
+Chinese: 不要因为误解而生气。
+Pinyin: Bùyào yīnwèi wùjiě ér shēngqì.
+English: Don't get angry because of misunderstandings.
+
+Chinese: 他们之间的误解已经解开了。
+Pinyin: Tāmen zhījiān de wùjiě yǐjīng jiěkāi le.
+English: The misunderstanding between them has been cleared up.
+
+Chinese: 误解是由于沟通不畅造成的。
+Pinyin: Wùjiě shì yóuyú gōutōng bùchàng zàochéng de.
+English: Misunderstandings are caused by poor communication.
+
+Chinese: 这是一个严重的误解。
+Pinyin: Zhè shì yīgè yánzhòng de wùjiě.
+English: This is a serious misunderstanding.
+
+Chinese: 不要轻易断定别人的动机，以免产生误解。
+Pinyin: Bùyào qīngyì duàndìng biérén de dòngjī, yǐmiǎn chǎnshēng wùjiě.
+English: Don't easily judge other people's motives, to avoid misunderstandings.
+
+Chinese: 他的话被误解了。
+Pinyin: Tā de huà bèi wùjiě le.
+English: His words were misunderstood.
+
+Chinese: 认清事实才能避免误解。
+Pinyin: Rènqīng shìshí cáinéng bìmiǎn wùjiě.
+English: Recognize the facts in order to avoid misunderstandings.
+
+Chinese: 误解是导致矛盾的根源之一。
+Pinyin: Wùjiě shì dǎozhì máodùn de gēnyuán zhī yī.
+English: Misunderstandings are one of the root causes of conflicts.
+
