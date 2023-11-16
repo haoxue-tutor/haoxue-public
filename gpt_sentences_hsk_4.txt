@@ -14743,3 +14743,642 @@ Chinese: 既然你这么喜欢冰淇淋，我明天买一桶给你。
 Pinyin: Jìrán nǐ zhème xǐhuān bīngqílín, wǒ míngtiān mǎi yī tǒng gěi nǐ.
 English: Since you like ice cream so much, I'll buy a tub for you tomorrow.
 
+Chinese: 我们已经开始恋爱了。
+Pinyin: Wǒmen yǐjīng kāishǐ liàn'ài le.
+English: We have already started dating.
+
+Chinese: 他们很幸福地恋爱着。
+Pinyin: Tāmen hěn xìngfú de liàn'ài zhe.
+English: They are blissfully in love.
+
+Chinese: 我喜欢和他恋爱。
+Pinyin: Wǒ xǐhuān hé tā liàn'ài.
+English: I enjoy dating him.
+
+Chinese: 她对恋爱毫无兴趣。
+Pinyin: Tā duì liàn'ài háo wú xìngqù.
+English: She has no interest in dating.
+
+Chinese: 他们的恋爱关系很稳定。
+Pinyin: Tāmen de liàn'ài guānxi hěn wěndìng.
+English: Their romantic relationship is very stable.
+
+Chinese: 恋爱会让人快乐。
+Pinyin: Liàn'ài huì ràng rén kuàilè.
+English: Love can make people happy.
+
+Chinese: 他正在经历一段新的恋爱。
+Pinyin: Tā zhèngzài jīnglì yīduàn xīn de liàn'ài.
+English: He is currently going through a new romantic phase.
+
+Chinese: 恋爱并不总是容易的。
+Pinyin: Liàn'ài bìng bù zǒng shì róngyì de.
+English: Love is not always easy.
+
+Chinese: 我们正在为恋爱做准备。
+Pinyin: Wǒmen zhèngzài wèi liàn'ài zuò zhǔnbèi.
+English: We are getting ready for love.
+
+Chinese: 不要以恋爱为全部。
+Pinyin: Bùyào yǐ liàn'ài wèi quánbù.
+English: Do not make love your everything.
+
+Chinese: 女方正在做晚饭。
+Pinyin: Nǚfāng zhèngzài zuò wǎnfàn.
+English: The woman is cooking dinner.
+
+Chinese: 请问女方是谁？
+Pinyin: Qǐngwèn nǚfāng shì shéi?
+English: May I ask who the woman is?
+
+Chinese: 请女方签字确认。
+Pinyin: Qǐng nǚfāng qiānzì quèrèn.
+English: Please ask the woman to sign and confirm.
+
+Chinese: 女方给了我一份礼物。
+Pinyin: Nǚfāng gěile wǒ yí fèn lǐwù.
+English: The woman gave me a gift.
+
+Chinese: 约会女方的男士很绅士。
+Pinyin: Yuēhuì nǚfāng de nánshì hěn shēnshì.
+English: The man who is dating the woman is very gentlemanly.
+
+Chinese: 女方对比赛结果感到高兴。
+Pinyin: Nǚfāng duì bǐsài jiéguǒ gǎndào gāoxìng.
+English: The woman is happy about the results of the match.
+
+Chinese: 女方在会议上发表了讲话。
+Pinyin: Nǚfāng zài huìyì shàng fābiǎo le jiǎnghuà.
+English: The woman made a speech at the meeting.
+
+Chinese: 女方担任公司高级经理。
+Pinyin: Nǚfāng dānrèn gōngsī gāojí jīnglǐ.
+English: The woman serves as a senior manager in the company.
+
+Chinese: 女方接受了男方的求婚。
+Pinyin: Nǚfāng jiēshòu le nánfāng de qiúhūn.
+English: The woman accepted the man's proposal.
+
+Chinese: 女方是一个很优秀的领导者。
+Pinyin: Nǚfāng shì yí gè hěn yōuxiù de lǐngdǎozhě.
+English: The woman is an excellent leader.
+
+Chinese: 自由是一种宝贵的权利。
+Pinyin: Zìyóu shì yī zhǒng bǎoguì de quánlì.
+English: Freedom is a precious right.
+
+Chinese: 我们应该追求自由和平等的社会。
+Pinyin: Wǒmen yīnggāi zhuīqiú zìyóu hé píngděng de shèhuì.
+English: We should strive for a society that values freedom and equality.
+
+Chinese: 她为了追求自由而努力奋斗。
+Pinyin: Tā wèile zhuīqiú zìyóu ér nǔlì fèndòu.
+English: She works hard to pursue freedom.
+
+Chinese: 自由也需要责任。
+Pinyin: Zìyóu yě xūyào zérèn.
+English: Freedom also requires responsibility.
+
+Chinese: 在这个国家，人们享有言论自由的权利。
+Pinyin: Zài zhège guójiā, rénmen xiǎngyǒu yánlùn zìyóu de quánlì.
+English: In this country, people have the right to freedom of speech.
+
+Chinese: 自由是每个人的追求。
+Pinyin: Zìyóu shì měi gèrén de zhuīqiú.
+English: Freedom is the pursuit of everyone.
+
+Chinese: 自由可以激发人们的创造力。
+Pinyin: Zìyóu kěyǐ jīfā rénmen de chuàngzàolì.
+English: Freedom can inspire people's creativity.
+
+Chinese: 他们为了争取自由而进行了长期的斗争。
+Pinyin: Tāmen wèile zhēngqǔ zìyóu ér jìnxíngle chángqī de dòuzhēng.
+English: They engaged in a long struggle for freedom.
+
+Chinese: 自由是人们追求幸福的基本权利之一。
+Pinyin: Zìyóu shì rénmen zhuīqiú xìngfú de jīběn quánlì zhī yī.
+English: Freedom is one of the fundamental rights people pursue for happiness.
+
+Chinese: 这个国家为自由而奋斗了很多年。
+Pinyin: Zhège guójiā wèi zìyóu ér fèndòule hěn duō nián.
+English: This country has been fighting for freedom for many years.
+
+Chinese: 南京是中国的一个城市。
+Pinyin: Nánjīng shì zhōngguó de yīgè chéngshì.
+English: Nanjing is a city in China.
+
+Chinese: 我去过南京两次。
+Pinyin: Wǒ qùguò Nánjīng liǎng cì.
+English: I have been to Nanjing twice.
+
+Chinese: 我的朋友住在南京。
+Pinyin: Wǒ de péngyǒu zhù zài Nánjīng.
+English: My friend lives in Nanjing.
+
+Chinese: 南京的夏天很热。
+Pinyin: Nánjīng de xiàtiān hěn rè.
+English: It is hot in Nanjing during the summer.
+
+Chinese: 南京有很多历史文化遗址。
+Pinyin: Nánjīng yǒu hěnduō lìshǐ wénhuà yízhǐ.
+English: Nanjing has many historical and cultural sites.
+
+Chinese: 南京是长江的重要港口之一。
+Pinyin: Nánjīng shì Chángjiāng de zhòngyào gǎngkǒu zhī yī.
+English: Nanjing is one of the important ports along the Yangtze River.
+
+Chinese: 南京大学是一所著名的大学。
+Pinyin: Nánjīng Dàxué shì yī suǒ zhùmíng de dàxué.
+English: Nanjing University is a famous university.
+
+Chinese: 我喜欢南京的美食。
+Pinyin: Wǒ xǐhuān Nánjīng de měishí.
+English: I like the food in Nanjing.
+
+Chinese: 南京的交通便利。
+Pinyin: Nánjīng de jiāotōng biànlì.
+English: The transportation in Nanjing is convenient.
+
+Chinese: 南京是一座现代化城市。
+Pinyin: Nánjīng shì yī zuò xiàndàihuà chéngshì.
+English: Nanjing is a modern city.
+
+Chinese: 我们明天要去漂流。
+Pinyin: Wǒmen míngtiān yào qù piāoliú.
+English: We will go river rafting tomorrow.
+
+Chinese: 漂流是一种很刺激的活动。
+Pinyin: Piāoliú shì yī zhǒng hěn cìjī de huódòng.
+English: River rafting is a very exciting activity.
+
+Chinese: 在漂流的时候要注意安全。
+Pinyin: Zài piāoliú de shíhou yào zhùyì ānquán.
+English: Pay attention to safety while river rafting.
+
+Chinese: 漂流让我感到很放松。
+Pinyin: Piāoliú ràng wǒ gǎndào hěn fàngsōng.
+English: River rafting makes me feel very relaxed.
+
+Chinese: 我从来没有试过漂流。
+Pinyin: Wǒ cónglái méiyǒu shìguo piāoliú.
+English: I have never tried river rafting.
+
+Chinese: 这个季节是漂流的最佳时间。
+Pinyin: Zhège jìjié shì piāoliú de zuìjiā shíjiān.
+English: This season is the best time for river rafting.
+
+Chinese: 我喜欢和朋友一起漂流。
+Pinyin: Wǒ xǐhuān hé péngyǒu yīqǐ piāoliú.
+English: I like river rafting with friends.
+
+Chinese: 漂流需要一定的技巧。
+Pinyin: Piāoliú xūyào yīdìng de jìqiǎo.
+English: River rafting requires certain skills.
+
+Chinese: 我父母不允许我参加漂流。
+Pinyin: Wǒ fùmǔ bù yǔnxǔ wǒ cānjiā piāoliú.
+English: My parents don't allow me to participate in river rafting.
+
+Chinese: 漂流是一项非常受欢迎的旅游活动。
+Pinyin: Piāoliú shì yī xiàng fēicháng shòu huānyíng de lǚyóu huódòng.
+English: River rafting is a highly popular tourist activity.
+
+Chinese: 我喜欢拍照。
+Pinyin: Wǒ xǐhuān pāizhào.
+English: I like taking photos.
+
+Chinese: 他经常拍照留念。
+Pinyin: Tā jīngcháng pāizhào liúniàn.
+English: He often takes photos for memories.
+
+Chinese: 我想拍照记录这一刻。
+Pinyin: Wǒ xiǎng pāizhào jìlù zhè yīkè.
+English: I want to take a photo to capture this moment.
+
+Chinese: 她要拍照庆祝生日。
+Pinyin: Tā yào pāizhào qìngzhù shēngrì.
+English: She wants to take photos to celebrate her birthday.
+
+Chinese: 我们在旅游时会拍照片。
+Pinyin: Wǒmen zài lǚyóu shí huì pāizhào piān.
+English: We will take photos while traveling.
+
+Chinese: 他用手机拍照了美景。
+Pinyin: Tā yòng shǒujī pāizhào le měijǐng.
+English: He used his phone to photograph the beautiful scenery.
+
+Chinese: 我们在沙滩上拍照留念。
+Pinyin: Wǒmen zài shātān shàng pāizhào liúniàn.
+English: We took photos on the beach for memories.
+
+Chinese: 她把我的照相机借去拍照了。
+Pinyin: Tā bǎ wǒ de zhàoxiàngjī jiè qù pāizhào le.
+English: She borrowed my camera to take photos.
+
+Chinese: 我们在晚上拍照很难。
+Pinyin: Wǒmen zài wǎnshàng pāizhào hěn nán.
+English: It's difficult to take photos at night.
+
+Chinese: 这个相机适合拍照。
+Pinyin: Zhège xiàngjī shìhé pāizhào.
+English: This camera is good for taking photos.
+
+Chinese: 她的笑话太冷，大家听了都哭笑不得。
+Pinyin: Tā de xiàohuà tài lěng, dàjiā tīngle dōu kūxiàobùdé.
+English: Her joke was so lame that everyone couldn't help but cry with laughter.
+
+Chinese: 这个电视剧的情节太荒谬了，我看了哭笑不得。
+Pinyin: Zhège diànshìjù de qíngjié tài huāngmiù le, wǒ kànle kūxiàobùdé.
+English: The plot of this TV drama is so absurd that I couldn't help but laugh and cry at the same time while watching it.
+
+Chinese: 他的表演技巧令人哭笑不得。
+Pinyin: Tā de biǎoyǎn jìqiǎo lìngrén kūxiàobùdé.
+English: His performance skills are both laughable and lamentable.
+
+Chinese: 这个项目的管理太混乱了，大家都哭笑不得。
+Pinyin: Zhège xiàngmù de guǎnlǐ tài hùnluàn le, dàjiā dōu kūxiàobùdé.
+English: The management of this project is so chaotic that everyone finds it both funny and frustrating.
+
+Chinese: 她的时尚穿搭有点过于夸张，看了让人哭笑不得。
+Pinyin: Tā de shíshàng chuāndā yǒudiǎn guòyú kuāzhāng, kànle ràngrén kūxiàobùdé.
+English: Her fashion sense is a bit too exaggerated that it makes people laugh and cry.
+
+Chinese: 这个魔术师的表演太拙劣了，观众都哭笑不得。
+Pinyin: Zhège móshùshī de biǎoyǎn tài zhuōliè le, guānzhòng dōu kūxiàobùdé.
+English: The magician's performance was so clumsy that it left the audience in stitches.
+
+Chinese: 暴雪过后，整个城市一片狼藉，居民们哭笑不得。
+Pinyin: Bàoxuě guòhòu, zhěnggè chéngshì yīpiàn lángjí, jūmínmen kūxiàobùdé.
+English: After the snowstorm, the whole city was in ruins, leaving the residents both laughing and crying.
+
+Chinese: 他的情绪起伏太大了，有时让人哭笑不得。
+Pinyin: Tā de qíngxù qǐfú tài dà le, yǒushí ràngrén kūxiàobùdé.
+English: His emotions fluctuate too much, sometimes making people laugh and cry.
+
+Chinese: 这个节目的情节转折太突然了，观众都哭笑不得。
+Pinyin: Zhège jiémù de qíngjié zhuǎnzhé tài tūrán le, guānzhòng dōu kūxiàobùdé.
+English: The plot twists of this show are too sudden that it leaves the audience bewildered.
+
+Chinese: 这个故事结局出人意料，让人哭笑不得。
+Pinyin: Zhège gùshì jiéjú chū rén yìliào, ràngrén kūxiàobùdé.
+English: The ending of this story is unexpected, making people laugh and cry.
+
+Chinese: 它们漂浮在水面上。
+Pinyin: Tāmen piāofú zài shuǐmiàn shàng.
+English: They float on the water's surface.
+
+Chinese: 石头沉下去了，但泡沫还在漂浮。
+Pinyin: Shítou chén xiàqù le, dàn pàomò hái zài piāofú.
+English: The stone sank, but the foam is still floating.
+
+Chinese: 小船在湖上漂浮。
+Pinyin: Xiǎo chuán zài hú shàng piāofú.
+English: The small boat is floating on the lake.
+
+Chinese: 彩色气球漂浮在空中。
+Pinyin: Cǎisè qìqiú piāofú zài kōngzhōng.
+English: Colorful balloons are floating in the air.
+
+Chinese: 叶子轻轻地漂浮在风中。
+Pinyin: Yèzi qīngqīng de piāofú zài fēng zhōng.
+English: Leaves gently float in the wind.
+
+Chinese: 他们用救生衣漂浮在海里。
+Pinyin: Tāmen yòng jiùshēngyī piāofú zài hǎi lǐ.
+English: They use life jackets to float in the sea.
+
+Chinese: 这个玩具独木舟能够漂浮在水上。
+Pinyin: Zhège wánjù dúmùzhōu nénggòu piāofú zài shuǐ shàng.
+English: This toy canoe can float on the water.
+
+Chinese: 荷叶在池塘里漂浮。
+Pinyin: Hé yè zài chítáng lǐ piāofú.
+English: Lotus leaves float in the pond.
+
+Chinese: 气球显得十分轻盈，仿佛漂浮在空中。
+Pinyin: Qìqiú xiǎnde shífēn qīngyíng, fǎngfú piāofú zài kōng zhōng.
+English: The balloon appears very lightweight, as if floating in the air.
+
+Chinese: 在温泉中漂浮让身体感到放松。
+Pinyin: Zài wēnquán zhōng piāofú ràng shēntǐ gǎndào fàngsōng.
+English: Floating in the hot springs makes the body feel relaxed.
+
+Chinese: 请你提醒我明天的会议时间。
+Pinyin: Qǐng nǐ tíxǐng wǒ míngtiān de huìyì shíjiān.
+English: Please remind me of the meeting time tomorrow.
+
+Chinese: 我提醒你别忘了带钥匙。
+Pinyin: Wǒ tíxǐng nǐ bié wàngle dài yàoshi.
+English: I remind you not to forget to bring the key.
+
+Chinese: 妈妈提醒我戴上口罩出门。
+Pinyin: Māmā tíxǐng wǒ dàishàng kǒuzhào chūmén.
+English: Mom reminds me to wear a mask when going out.
+
+Chinese: 我会定时提醒你吃药。
+Pinyin: Wǒ huì dìngshí tíxǐng nǐ chīyào.
+English: I will remind you to take medicine on time.
+
+Chinese: 他通过手机APP设置了每天晚上九点的闹钟提醒。
+Pinyin: Tā tōngguò shǒujī APP shèzhìle měitiān wǎnshàng jiǔdiǎn de nàozhōng tíxǐng.
+English: He set an alarm clock reminder for 9 pm every night through the mobile app.
+
+Chinese: 请你提醒我明天去银行存钱。
+Pinyin: Qǐng nǐ tíxǐng wǒ míngtiān qù yínháng cúnqián.
+English: Please remind me to go to the bank to deposit money tomorrow.
+
+Chinese: 我需要你提醒我交作业。
+Pinyin: Wǒ xūyào nǐ tíxǐng wǒ jiāo zuòyè.
+English: I need you to remind me to submit the homework.
+
+Chinese: 约好的会议，他会提前半小时提醒大家。
+Pinyin: Yuē hǎo de huìyì, tā huì tíqián bàn xiǎoshí tíxǐng dàjiā.
+English: For the scheduled meeting, he will remind everyone half an hour in advance.
+
+Chinese: 这个应用程序可以提醒你每天喝水。
+Pinyin: Zhège yìngyòng chéngxù kěyǐ tíxǐng nǐ měitiān hēshuǐ.
+English: This application can remind you to drink water every day.
+
+Chinese: 老师提醒我们明天交考试试卷。
+Pinyin: Lǎoshī tíxǐng wǒmen míngtiān jiāo kǎoshì shìjuàn.
+English: The teacher reminds us to submit the exam papers tomorrow.
+
+Chinese: 上海是中国的一座大城市。
+Pinyin: Shànghǎi shì zhōngguó de yí zuò dà chéngshì.
+English: Shanghai is a big city in China.
+
+Chinese: 我想去上海旅游。
+Pinyin: Wǒ xiǎng qù Shànghǎi lǚyóu.
+English: I want to travel to Shanghai.
+
+Chinese: 上海有很多高楼大厦。
+Pinyin: Shànghǎi yǒu hěnduō gāolóu dàshà.
+English: Shanghai has many tall buildings.
+
+Chinese: 他在上海工作。
+Pinyin: Tā zài Shànghǎi gōngzuò.
+English: He works in Shanghai.
+
+Chinese: 上海有很多美食。
+Pinyin: Shànghǎi yǒu hěnduō měishí.
+English: Shanghai has many delicious foods.
+
+Chinese: 我在上海生活了五年。
+Pinyin: Wǒ zài Shànghǎi shēnghuó le wǔ nián.
+English: I lived in Shanghai for five years.
+
+Chinese: 这是张上海地图。
+Pinyin: Zhè shì zhāng Shànghǎi dìtú.
+English: This is a map of Shanghai.
+
+Chinese: 上海的夜景很美。
+Pinyin: Shànghǎi de yèjǐng hěn měi.
+English: The night view of Shanghai is beautiful.
+
+Chinese: 上海的交通很便利。
+Pinyin: Shànghǎi de jiāotōng hěn biànlì.
+English: The transportation in Shanghai is very convenient.
+
+Chinese: 我喜欢上海的氛围。
+Pinyin: Wǒ xǐhuān Shànghǎi de fēnwéi.
+English: I like the atmosphere of Shanghai.
+
+Chinese: 这个地方非常危险。
+Pinyin: Zhège dìfang fēicháng wēixiǎn.
+English: This place is very dangerous.
+
+Chinese: 禁止靠近危险区。
+Pinyin: Jìnzhǐ kàojìn wēixiǎn qū.
+English: Keep away from the danger zone.
+
+Chinese: 危险！请立即撤离。
+Pinyin: Wēixiǎn! Qǐng lìjí chèlí.
+English: Danger! Please evacuate immediately.
+
+Chinese: 这句话可能会引起危险。
+Pinyin: Zhè jùhuà kěnéng huì yǐnqǐ wēixiǎn.
+English: This statement may cause danger.
+
+Chinese: 这个电路板有危险。请小心操作。
+Pinyin: Zhège diànlù bǎn yǒu wēixiǎn. Qǐng xiǎoxīn cāozuò.
+English: This circuit board is dangerous. Please handle with care.
+
+Chinese: 忽视安全规则可能会带来危险。
+Pinyin: Hūshì ānquán guīzé kěnéng huì dàilái wēixiǎn.
+English: Ignoring safety regulations may lead to danger.
+
+Chinese: 露天攀岩是一项非常危险的运动。
+Pinyin: Lùtiān pānyán shì yī xiàng fēicháng wēixiǎn de yùndòng.
+English: Outdoor rock climbing is a very dangerous sport.
+
+Chinese: 机械故障可能导致危险。请寻求维修。
+Pinyin: Jīxiè gùzhàng kěnéng dǎozhì wēixiǎn. Qǐng xúnqiú wéixiū.
+English: Mechanical failure may cause danger. Please seek repair.
+
+Chinese: 夜间行驶要特别小心，因为有危险。
+Pinyin: Yèjiān xíngshǐ yào tèbié xiǎoxīn, yīnwèi yǒu wēixiǎn.
+English: Be extra cautious when driving at night, as there is danger.
+
+Chinese: 接近悬崖危险，请退后。
+Pinyin: Jiējìn xuányá wēixiǎn, qǐng tuìhòu.
+English: It is dangerous to approach the cliff, please step back.
+
+Chinese: 这两个手机的价格是同样的。
+Pinyin: Zhè liǎng gè shǒujī de jiàgé shì tóngyàng de.
+English: The prices of these two phones are the same.
+
+Chinese: 这两本书的封面是同样的颜色。
+Pinyin: Zhè liǎng běn shū de fēngmiàn shì tóngyàng de yánsè.
+English: The covers of these two books are the same color.
+
+Chinese: 他们穿着同样的衣服。
+Pinyin: Tāmen chuānzhuó tóngyàng de yīfu.
+English: They are wearing the same clothes.
+
+Chinese: 我们都喜欢同样的音乐。
+Pinyin: Wǒmen dōu xǐhuān tóngyàng de yīnyuè.
+English: We all like the same music.
+
+Chinese: 这两个问题都有同样的答案。
+Pinyin: Zhè liǎng gè wèntí dōu yǒu tóngyàng de dá'àn.
+English: Both of these questions have the same answer.
+
+Chinese: 他们的观点是同样的。
+Pinyin: Tāmen de guāndiǎn shì tóngyàng de.
+English: Their viewpoints are the same.
+
+Chinese: 这台电视和那台电视是同样的品牌。
+Pinyin: Zhè tái diànshì hé nà tái diànshì shì tóngyàng de pǐnpái.
+English: This TV and that TV are the same brand.
+
+Chinese: 我们的目标是同样的。
+Pinyin: Wǒmen de mùbiāo shì tóngyàng de.
+English: Our goals are the same.
+
+Chinese: 这些房子的面积是同样大的。
+Pinyin: Zhèxiē fángzi de miànjī shì tóngyàng dà de.
+English: The area of these houses is the same.
+
+Chinese: 这两个词意思是同样的。
+Pinyin: Zhè liǎng gè cí yìsi shì tóngyàng de.
+English: These two words have the same meaning.
+
+Chinese: 重要性是一个主观的评价。
+Pinyin: Zhòngyàoxìng shì yīgè zhǔguān de píngjià.
+English: Importance is a subjective evaluation.
+
+Chinese: 我们必须认识到教育的重要性。
+Pinyin: Wǒmen bìxū rènshí dào jiàoyù de zhòngyàoxìng.
+English: We must recognize the importance of education.
+
+Chinese: 在工作中，沟通的重要性不可忽视。
+Pinyin: Zài gōngzuò zhōng, gōutōng de zhòngyàoxìng bùkě hūshì.
+English: In work, the importance of communication cannot be ignored.
+
+Chinese: 健康对于幸福的重要性不言而喻。
+Pinyin: Jiànkāng duìyú xìngfú de zhòngyàoxìng bù yán'éryù.
+English: The importance of health for happiness is self-evident.
+
+Chinese: 在生活中，时间管理的重要性非常关键。
+Pinyin: Zài shēnghuó zhōng, shíjiān guǎnlǐ de zhòngyàoxìng fēicháng guānjiàn.
+English: In life, the importance of time management is crucial.
+
+Chinese: 想要成功，目标的明确性非常重要。
+Pinyin: Xiǎngyào chénggōng, mùbiāo de míngquèxìng fēicháng zhòngyào.
+English: To succeed, the clarity of goals is highly important.
+
+Chinese: 交通规则的遵守是保证安全的重要性。
+Pinyin: Jiāotōng guīzé de zūnshǒu shì bǎozhèng ānquán de zhòngyàoxìng.
+English: Adhering to traffic regulations is crucial for ensuring safety.
+
+Chinese: 了解市场需求的重要性是经营成功的关键。
+Pinyin: Liǎojiě shìchǎng xūqiú de zhòngyàoxìng shì jīngyíng chénggōng de guānjiàn.
+English: Understanding the importance of market demand is the key to business success.
+
+Chinese: 社交技巧在人际关系中的重要性不可低估。
+Pinyin: Shèjiāo jìqiǎo zài rénjì guānxì zhōng de zhòngyàoxìng bùkě dīgū.
+English: The importance of social skills in interpersonal relationships cannot be underestimated.
+
+Chinese: 在团队协作中，信任的重要性是无可替代的。
+Pinyin: Zài tuánduì xiézuò zhōng, xìnrèn de zhòngyàoxìng shì wúkě tìdài de.
+English: In teamwork, the importance of trust is irreplaceable.
+
+Chinese: 他是色盲，无法分辨红绿颜色。
+Pinyin: Tā shì sèmáng, wúfǎ fēnbiàn hónglǜ yánsè.
+English: He is color blind and cannot distinguish between red and green colors.
+
+Chinese: 色盲是一种视觉障碍。
+Pinyin: Sèmáng shì yī zhǒng shìjué zhàng'ài.
+English: Color blindness is a visual impairment.
+
+Chinese: 这本书有针对色盲的测试题。
+Pinyin: Zhè běn shū yǒu zhēnduì sèmáng de cèshì tí.
+English: This book has test questions specifically designed for color blind individuals.
+
+Chinese: 我的朋友是色盲，所以无法欣赏彩色画。
+Pinyin: Wǒ de péngyǒu shì sèmáng, suǒyǐ wúfǎ xīnshǎng cǎisè huà.
+English: My friend is color blind, so he cannot appreciate color paintings.
+
+Chinese: 色盲不仅影响平常生活，也对某些职业造成限制。
+Pinyin: Sèmáng bùjǐn yǐngxiǎng píngcháng shēnghuó, yě duì mǒu xiē zhíyè zàochéng xiànzhì.
+English: Color blindness not only affects daily life but also imposes limitations on certain occupations.
+
+Chinese: 色盲是由基因突变引起的。
+Pinyin: Sèmáng shì yóu jīyīn tūbiàn yǐnqǐ de.
+English: Color blindness is caused by genetic mutations.
+
+Chinese: 老年人更容易患上色盲。
+Pinyin: Lǎonián rén gèng róngyì huànsàng sèmáng.
+English: Older people are more prone to suffer from color blindness.
+
+Chinese: 在这个测试中，我被诊断为色盲。
+Pinyin: Zài zhège cèshì zhōng, wǒ bèi zhěnduàn wéi sèmáng.
+English: I was diagnosed with color blindness in this test.
+
+Chinese: 某些色盲患者可以通过特殊眼镜改善视觉问题。
+Pinyin: Mǒu xiē sèmáng huànzhě kěyǐ tōngguò tèshū yǎnjìng gǎishàn shìjué wèntí.
+English: Some color blind patients can improve their visual problems with special glasses.
+
+Chinese: 色盲并不会对智力产生影响。
+Pinyin: Sèmáng bìng bùhuì duì zhìlì chǎnshēng yǐngxiǎng.
+English: Color blindness does not have an impact on intelligence.
+
+Chinese: 我今天遇到一件很烦人的事情，把我抓狂了。
+Pinyin: Wǒ jīntiān yùdào yī jiàn hěn fánrén de shìqíng, bǎ wǒ zhuākuáng le.
+English: I encountered a very annoying thing today that drove me crazy.
+
+Chinese: 考试前的压力让我快要抓狂了。
+Pinyin: Kǎoshì qián de yālì ràng wǒ kuàiyào zhuākuáng le.
+English: The pressure before the exam is making me lose my mind.
+
+Chinese: 我的电脑出了问题，真让我抓狂。
+Pinyin: Wǒ de diànnǎo chū le wèntí, zhēn ràng wǒ zhuākuáng.
+English: My computer has a problem, it's really driving me insane.
+
+Chinese: 交通堵塞让我抓狂了，我迟到了。
+Pinyin: Jiāotōng dǔsè ràng wǒ zhuākuáng le, wǒ chídào le.
+English: The traffic jam drove me crazy, I was late.
+
+Chinese: 他的拖延症让我抓狂，他从来都不按时完成任务。
+Pinyin: Tā de tuōyánzhèng ràng wǒ zhuākuáng, tā cónglái dōu bù ànshí wánchéng rènwu.
+English: His procrastination drives me crazy, he never completes tasks on time.
+
+Chinese: 这个小孩闹腾起来真让人抓狂。
+Pinyin: Zhège xiǎohái nào téng qǐlái zhēn ràng rén zhuākuáng.
+English: This child becomes so unruly, it really drives people crazy.
+
+Chinese: 他的情绪不稳定，经常抓狂发脾气。
+Pinyin: Tā de qíngxù bù wěndìng, jīngcháng zhuākuáng fā píqì.
+English: His mood is unstable, and he often becomes furious.
+
+Chinese: 电影院里人太多，让我抓狂。
+Pinyin: Diànyǐngyuàn lǐ rén tài duō, ràng wǒ zhuākuáng.
+English: There are too many people in the cinema, it drives me crazy.
+
+Chinese: 这个任务太难了，简直让我抓狂。
+Pinyin: Zhège rènwu tài nán le, jiǎnzhí ràng wǒ zhuākuáng.
+English: This task is too difficult, it simply drives me crazy.
+
+Chinese: 他的打扰让我抓狂，我需要专心工作。
+Pinyin: Tā de dǎrǎo ràng wǒ zhuākuáng, wǒ xūyào zhuānxīn gōngzuò.
+English: His interruptions drive me crazy, I need to focus on my work.
+
+Chinese: 我将来要去北京工作。
+Pinyin: Wǒ jiānglái yào qù Běijīng gōngzuò.
+English: I will go to Beijing to work in the future.
+
+Chinese: 他将来想开一家餐厅。
+Pinyin: Tā jiānglái xiǎng kāi yī jiā cāntīng.
+English: He wants to open a restaurant in the future.
+
+Chinese: 我们将来会结婚。
+Pinyin: Wǒmen jiānglái huì jiéhūn.
+English: We will get married in the future.
+
+Chinese: 她将来的梦想是成为一名医生。
+Pinyin: Tā jiānglái de mèngxiǎng shì chéngwéi yīmíng yīshēng.
+English: Her future dream is to become a doctor.
+
+Chinese: 将来的计划还没有定下来。
+Pinyin: Jiānglái de jìhuà hái méiyǒu dìngxialai.
+English: The future plans are not yet determined.
+
+Chinese: 我将来要学习更多的外语。
+Pinyin: Wǒ jiānglái yào xuéxí gèng duō de wàiyǔ.
+English: I will study more foreign languages in the future.
+
+Chinese: 将来我想住在海边。
+Pinyin: Jiānglái wǒ xiǎng zhù zài hǎibiān.
+English: In the future, I want to live by the seaside.
+
+Chinese: 他希望将来能成为一名著名画家。
+Pinyin: Tā xīwàng jiānglái néng chéngwéi yīmíng zhuómíng huàjiā.
+English: He hopes to become a famous painter in the future.
+
+Chinese: 我们将来要一起旅行。
+Pinyin: Wǒmen jiānglái yào yīqǐ lǚxíng.
+English: We will travel together in the future.
+
+Chinese: 将来的世界会更美好。
+Pinyin: Jiānglái de shìjiè huì gèng měihǎo.
+English: The future world will be better.
