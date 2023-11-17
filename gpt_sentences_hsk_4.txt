@@ -25658,3 +25658,558 @@ Chinese: 和他在一起的时候，我总觉得很无聊。
 Pinyin: Hé tā zài yīqǐ de shíhòu, wǒ zǒng juédé hěn wúliáo.
 English: I always feel bored when I'm with him.
 
+Chinese: 无论你去哪里，我都会支持你。
+Pinyin: Wúlùn nǐ qù nǎlǐ, wǒ dōu huì zhīchí nǐ.
+English: No matter where you go, I will support you.
+
+Chinese: 无论多难，我们都要坚持下去。
+Pinyin: Wúlùn duō nán, wǒmen dōu yào jiānchí xiàqù.
+English: Regardless of how difficult it is, we must persevere.
+
+Chinese: 无论结果如何，我都会尽力而为。
+Pinyin: Wúlùn jiéguǒ rúhé, wǒ dōu huì jìnlì ér wéi.
+English: Regardless of the outcome, I will do my best.
+
+Chinese: 无论时间多长，我都会等你回来。
+Pinyin: Wúlùn shíjiān duō cháng, wǒ dōu huì děng nǐ huílái.
+English: No matter how long it takes, I will wait for you to come back.
+
+Chinese: 无论天气好坏，他都坚持每天锻炼。
+Pinyin: Wúlùn tiānqì hǎohuài, tā dōu jiānchí měitiān duànliàn.
+English: Regardless of the weather, he insists on exercising every day.
+
+Chinese: 无论快慢，我们都一起走吧。
+Pinyin: Wúlùn kuài màn, wǒmen dōu yìqǐ zǒu ba.
+English: Regardless of the speed, let's walk together.
+
+Chinese: 无论你说什么，我都不会改变主意。
+Pinyin: Wúlùn nǐ shuō shénme, wǒ dōu bù huì gǎibiàn zhǔyì.
+English: No matter what you say, I won't change my mind.
+
+Chinese: 无论在哪里，家永远是最温暖的地方。
+Pinyin: Wúlùn zài nǎlǐ, jiā yǒngyuǎn shì zuì wēnnuǎn de dìfāng.
+English: Wherever you are, home is always the warmest place.
+
+Chinese: 无论什么困难，只要你坚持，就一定能成功。
+Pinyin: Wúlùn shénme kùnnan, zhǐyào nǐ jiānchí, jiù yídìng néng chénggōng.
+English: No matter what difficulties there are, as long as you persist, you will definitely succeed.
+
+Chinese: 无论你喜欢与否，这就是现实。
+Pinyin: Wúlùn nǐ xǐhuān yǔfǒu, zhè jiùshì xiànshí.
+English: Regardless of whether you like it or not, this is reality.
+
+Chinese: 我们之间有一次误会。
+Pinyin: Wǒmen zhījiān yǒu yīcì wùhuì.
+English: There was a misunderstanding between us.
+
+Chinese: 我并没有对她有任何误会。
+Pinyin: Wǒ bìng méiyǒu duì tā yǒu rènhé wùhuì.
+English: I had no misunderstanding with her at all. 
+
+Chinese: 请不要误会我的意思。
+Pinyin: Qǐng bùyào wùhuì wǒ de yìsi.
+English: Please don't misunderstand me.
+
+Chinese: 我解释了，但他误会了我的意思。
+Pinyin: Wǒ jiěshì le, dàn tā wùhuì le wǒ de yìsi.
+English: I explained, but he misunderstood my meaning.
+
+Chinese: 这是一个严重的误会。
+Pinyin: Zhè shì yīgè yánzhòng de wùhuì.
+English: This is a serious misunderstanding.
+
+Chinese: 我们之间的误会已经解决了。
+Pinyin: Wǒmen zhījiān de wùhuì yǐjīng jiějué le.
+English: The misunderstanding between us has been resolved.
+
+Chinese: 这次误会是我自己的错。
+Pinyin: Zhè cì wùhuì shì wǒ zìjǐ de cuò.
+English: This misunderstanding was my own fault.
+
+Chinese: 不要因为误会而生气。
+Pinyin: Bùyào yīnwèi wùhuì ér shēngqì.
+English: Don't get angry because of misunderstandings.
+
+Chinese: 他因误会而觉得很尴尬。
+Pinyin: Tā yīn wùhuì ér juéde hěn gāngà.
+English: He feels embarrassed because of the misunderstanding.
+
+Chinese: 这是一场严重的误会，需要澄清。
+Pinyin: Zhè shì yī chǎng yánzhòng de wùhuì, xūyào chéngqīng.
+English: This is a serious misunderstanding that needs to be clarified.
+
+Chinese: 我喜欢吃西红柿。
+Pinyin: Wǒ xǐhuān chī xīhóngshì.
+English: I like to eat tomatoes.
+
+Chinese: 妈妈买了两个西红柿。
+Pinyin: Māmā mǎi le liǎng gè xīhóngshì.
+English: Mom bought two tomatoes.
+
+Chinese: 西红柿可以做沙拉。
+Pinyin: Xīhóngshì kěyǐ zuò shālā.
+English: Tomatoes can be used to make salad.
+
+Chinese: 我在菜市场买了一公斤的西红柿。
+Pinyin: Wǒ zài càishìchǎng mǎi le yī gōngjīn de xīhóngshì.
+English: I bought one kilogram of tomatoes at the market.
+
+Chinese: 邻居送给我几个新鲜的西红柿。
+Pinyin: Línjū sòng gěi wǒ jǐ gè xīnxiān de xīhóngshì.
+English: My neighbor gave me some fresh tomatoes.
+
+Chinese: 我把西红柿切成了块状。
+Pinyin: Wǒ bǎ xīhóngshì qiē chéng le kuài zhuàng.
+English: I cut the tomatoes into pieces.
+
+Chinese: 这个店卖的西红柿很便宜。
+Pinyin: Zhège diàn mài de xīhóngshì hěn piányí.
+English: The tomatoes sold at this store are very cheap.
+
+Chinese: 西红柿是一种红色的水果。
+Pinyin: Xīhóngshì shì yī zhǒng hóngsè de shuǐguǒ.
+English: Tomatoes are a kind of red fruit.
+
+Chinese: 爸爸种了几棵西红柿。
+Pinyin: Bàba zhǒng le jǐ kē xīhóngshì.
+English: Dad planted several tomato plants.
+
+Chinese: 我的三明治里加了一片西红柿。
+Pinyin: Wǒ de sānmíngzhì lǐ jiā le yī piàn xīhóngshì.
+English: I added a slice of tomato to my sandwich.
+
+Chinese: 这个景点很吸引人。
+Pinyin: Zhège jǐngdiǎn hěn xīyǐn rén.
+English: This attraction is very appealing.
+
+Chinese: 这个电影很吸引观众。
+Pinyin: Zhège diànyǐng hěn xīyǐn guānzhòng.
+English: This movie attracts the audience.
+
+Chinese: 这个广告很吸引消费者的眼球。
+Pinyin: Zhège guǎnggào hěn xīyǐn xiāofèizhě de yǎnqiú.
+English: This advertisement catches the attention of consumers.
+
+Chinese: 她用她的才华吸引了雇主的注意。
+Pinyin: Tā yòng tā de cáihuá xīyǐnle gù zhǔ de zhùyì.
+English: She used her talent to attract the employer's attention.
+
+Chinese: 这家餐厅以美食吸引了很多顾客。
+Pinyin: Zhè jiā cāntīng yǐ měishí xīyǐnle hěnduō gùkè.
+English: This restaurant attracts many customers with its delicious food.
+
+Chinese: 这个设计有吸引人的外观。
+Pinyin: Zhège shèjì yǒu xīyǐn rén de wàiguān.
+English: This design has an appealing appearance.
+
+Chinese: 这本书以其故事情节吸引了很多读者。
+Pinyin: Zhè běn shū yǐ qí gùshì qíngjié xīyǐnle hěnduō dúzhě.
+English: This book attracts many readers with its storyline.
+
+Chinese: 这个游戏有很多有趣的元素，吸引了很多玩家。
+Pinyin: Zhège yóuxì yǒu hěnduō yǒuqù de yuánsù, xīyǐnle hěnduō wánjiā.
+English: This game has many interesting elements and attracts many players.
+
+Chinese: 这演出的精彩表演吸引了观众们的目光。
+Pinyin: Zhè yǎnchū de jīngcǎi biǎoyǎn xīyǐnle guānzhòngmen de mùguāng.
+English: The brilliant performance of this show captures the audience's attention.
+
+Chinese: 这个展览引发了很多人的兴趣，吸引了很多参观者。
+Pinyin: Zhège zhǎnlǎn yǐnfāle hěnduō rén de xìngqù, xīyǐnle hěnduō cānguānzhě.
+English: This exhibition has sparked the interest of many people and attracted many visitors.
+
+Chinese: 我家有一台洗衣机。
+Pinyin: Wǒ jiā yǒu yī tái xǐyījī.
+English: There is a washing machine in my house.
+
+Chinese: 这个洗衣机有多功能。
+Pinyin: Zhège xǐyījī yǒu duōgōngnéng.
+English: This washing machine has multiple functions.
+
+Chinese: 我每周都要用洗衣机洗衣服。
+Pinyin: Wǒ měi zhōu dōu yào yòng xǐyījī xǐ yīfú.
+English: I use the washing machine to wash clothes every week.
+
+Chinese: 这台洗衣机很好用。
+Pinyin: Zhè tái xǐyījī hěn hǎoyòng.
+English: This washing machine is very easy to use.
+
+Chinese: 我需要买一台新的洗衣机。
+Pinyin: Wǒ xūyào mǎi yī tái xīn de xǐyījī.
+English: I need to buy a new washing machine.
+
+Chinese: 她正在修理洗衣机。
+Pinyin: Tā zhèngzài xiūlǐ xǐyījī.
+English: She is repairing the washing machine.
+
+Chinese: 请将脏衣服放入洗衣机。
+Pinyin: Qǐng jiāng zāng yīfú fàng rù xǐyījī.
+English: Please put the dirty clothes in the washing machine.
+
+Chinese: 洗衣机的门打不开了。
+Pinyin: Xǐyījī de mén dǎ bù kāile.
+English: The door of the washing machine won't open.
+
+Chinese: 这是一台全自动洗衣机。
+Pinyin: Zhè shì yī tái quán zìdòng xǐyījī.
+English: This is a fully automatic washing machine.
+
+Chinese: 这台洗衣机很安静。
+Pinyin: Zhè tái xǐyījī hěn ānjìng.
+English: This washing machine is very quiet.
+
+Chinese: 这个饼干很咸。
+Pinyin: Zhège bǐnggān hěn xián.
+English: This cookie is salty.
+
+Chinese: 这个菜太咸了。
+Pinyin: Zhège cài tài xián le.
+English: This dish is too salty.
+
+Chinese: 咸鱼是一种咸的食物。
+Pinyin: Xián yú shì yī zhǒng xián de shíwù.
+English: Salted fish is a salty food.
+
+Chinese: 我喜欢吃咸的小吃。
+Pinyin: Wǒ xǐhuan chī xián de xiǎochī.
+English: I like to eat salty snacks.
+
+Chinese: 这个海草味道很咸。
+Pinyin: Zhège hǎicǎo wèidào hěn xián.
+English: This seaweed tastes salty.
+
+Chinese: 咸味的饺子是我的最爱。
+Pinyin: Xián wèi de jiǎozi shì wǒ de zuì'ài.
+English: Salted dumplings are my favorite.
+
+Chinese: 这个牛肉有点咸。
+Pinyin: Zhège niúròu yǒudiǎn xián.
+English: This beef is a bit salty.
+
+Chinese: 你喜欢吃甜的还是咸的？
+Pinyin: Nǐ xǐhuan chī tián de háishì xián de?
+English: Do you like to eat sweet or salty?
+
+Chinese: 咸的食物多吃对身体不好。
+Pinyin: Xián de shíwù duō chī duì shēntǐ bù hǎo.
+English: It's not good for your health to eat too many salty foods.
+
+Chinese: 咸味让人容易口渴。
+Pinyin: Xián wèi ràng rén róngyì kǒukě.
+English: Salty taste makes people easily thirsty.
+
+Chinese: 我喜欢现代艺术。
+Pinyin: Wǒ xǐhuān xiàndài yìshù.
+English: I like modern art.
+
+Chinese: 这座建筑很现代。
+Pinyin: Zhè zuò jiànzhú hěn xiàndài.
+English: This building is very modern.
+
+Chinese: 这是一本现代小说。
+Pinyin: Zhè shì yī běn xiàndài xiǎoshuō.
+English: This is a modern novel.
+
+Chinese: 这家餐厅的装潢很现代。
+Pinyin: Zhè jiā cāntīng de zhuānghuáng hěn xiàndài.
+English: The decoration of this restaurant is very modern.
+
+Chinese: 现代社会很复杂。
+Pinyin: Xiàndài shèhuì hěn fùzá.
+English: Modern society is very complicated.
+
+Chinese: 现代科技发达。
+Pinyin: Xiàndài kējì fādá.
+English: Modern technology is advanced.
+
+Chinese: 这是一种现代疾病。
+Pinyin: Zhè shì yī zhǒng xiàndài jíbìng.
+English: This is a modern disease.
+
+Chinese: 我正在学习现代汉语。
+Pinyin: Wǒ zhèngzài xuéxí xiàndài Hànyǔ.
+English: I am studying modern Chinese.
+
+Chinese: 这部电影展现了现代生活。
+Pinyin: Zhè bù diànyǐng zhǎnxiàn le xiàndài shēnghuó.
+English: This movie shows modern life.
+
+Chinese: 这是一个现代化的城市。
+Pinyin: Zhè shì yī gè xiàndàihuà de chéngshì.
+English: This is a modern city.
+
+Chinese: 我羡慕她的美丽。
+Pinyin: Wǒ xiànmù tā de měilì.
+English: I envy her beauty.
+
+Chinese: 他羡慕别人的成功。
+Pinyin: Tā xiànmù biérén de chénggōng.
+English: He envies other people's success.
+
+Chinese: 她羡慕你的才华。
+Pinyin: Tā xiànmù nǐ de cáihuá.
+English: She envies your talent.
+
+Chinese: 我羡慕他的幸福家庭。
+Pinyin: Wǒ xiànmù tā de xìngfú jiātíng.
+English: I envy his happy family.
+
+Chinese: 我们羡慕他的自由生活。
+Pinyin: Wǒmen xiànmù tā de zìyóu shēnghuó.
+English: We envy his freedom lifestyle.
+
+Chinese: 他羡慕你的健康状况。
+Pinyin: Tā xiànmù nǐ de jiànkāng zhuàngkuàng.
+English: He envies your health condition.
+
+Chinese: 她羡慕他的事业成功。
+Pinyin: Tā xiànmù tā de shìyè chénggōng.
+English: She envies his career success.
+
+Chinese: 我羡慕你的耐力。
+Pinyin: Wǒ xiànmù nǐ de nàilì.
+English: I envy your endurance.
+
+Chinese: 我们羡慕你的旅行经历。
+Pinyin: Wǒmen xiànmù nǐ de lǚxíng jīnglì.
+English: We envy your travel experiences.
+
+Chinese: 他羡慕她的艺术天赋。
+Pinyin: Tā xiànmù tā de yìshù tiānfù.
+English: He envies her artistic talent.
+
+Chinese: 这个菜很香。
+Pinyin: Zhège cài hěn xiāng.
+English: This dish smells delicious.
+
+Chinese: 那个香水很贵。
+Pinyin: Nàge xiāngshuǐ hěn guì.
+English: That perfume is expensive.
+
+Chinese: 这个花圈很香。
+Pinyin: Zhège huāquān hěn xiāng.
+English: This wreath smells floral.
+
+Chinese: 这个香蕉很甜。
+Pinyin: Zhège xiāngjiāo hěn tián.
+English: This banana is sweet.
+
+Chinese: 香肠是我的最爱。
+Pinyin: Xiāngcháng shì wǒ de zuì'ài.
+English: Sausage is my favorite.
+
+Chinese: 她的头发有一种香味。
+Pinyin: Tā de tóufa yǒu yī zhǒng xiāngwèi.
+English: Her hair has a pleasant scent.
+
+Chinese: 香烟对身体不好。
+Pinyin: Xiāngyān duì shēntǐ bù hǎo.
+English: Smoking is bad for health.
+
+Chinese: 那间餐厅有香气四溢。
+Pinyin: Nà jiān cāntīng yǒu xiāngqì sì yì.
+English: That restaurant is filled with fragrance.
+
+Chinese: 这款香水包装很漂亮。
+Pinyin: Zhè kǔan xiāngshuǐ bāozhuāng hěn piàoliang.
+English: This perfume packaging is beautiful.
+
+Chinese: 那个蛋糕香喷喷。
+Pinyin: Nàge dàngāo xiāng pēn pēn.
+English: That cake smells wonderful.
+
+Chinese: 他们的想法完全相反。
+Pinyin: Tāmen de xiǎngfǎ wánquán xiāngfǎn.
+English: Their ideas are completely opposite.
+
+Chinese: 天气今天和昨天相反。
+Pinyin: Tiānqì jīntiān hé zuótiān xiāngfǎn.
+English: The weather today is the opposite of yesterday.
+
+Chinese: 我和他的性格相反。
+Pinyin: Wǒ hé tā de xìnggé xiāngfǎn.
+English: Our personalities are opposite.
+
+Chinese: 她的行为与她的话语相反。
+Pinyin: Tā de xíngwéi yǔ tā de huàyǔ xiāngfǎn.
+English: Her actions are opposite to her words.
+
+Chinese: 他们对待问题的方法完全相反。
+Pinyin: Tāmen duìdài wèntí de fāngfǎ wánquán xiāngfǎn.
+English: Their approaches to problems are completely opposite.
+
+Chinese: 这两个概念的含义相反。
+Pinyin: Zhè liǎng gè gàiniàn de hányì xiāngfǎn.
+English: The meanings of these two concepts are opposite.
+
+Chinese: 这两个颜色相互相反。
+Pinyin: Zhè liǎng gè yánsè xiānghù xiāngfǎn.
+English: These two colors are mutually opposite.
+
+Chinese: 我的意见和他的意见相反。
+Pinyin: Wǒ de yìjiàn hé tā de yìjiàn xiāngfǎn.
+English: My opinion is opposite to his opinion.
+
+Chinese: 他们的处理方式互相相反。
+Pinyin: Tāmen de chǔlǐ fāngshì hùxiāng xiāngfǎn.
+English: Their ways of dealing with things are mutually opposite.
+
+Chinese: 老板和员工的观点截然相反。
+Pinyin: Lǎobǎn hé yuángōng de guāndiǎn jiérán xiāngfǎn.
+English: The boss and employees' viewpoints are completely opposite.
+
+Chinese: 老师给了我们一份详细的报告。
+Pinyin: Lǎoshī gěi le wǒmen yī fèn xiángxì de bàogào.
+English: The teacher gave us a detailed report.
+
+Chinese: 请仔细阅读说明书上的详细步骤。
+Pinyin: Qǐng zǐxì yuèdú shuōmíngshū shàng de xiángxì bùzhòu.
+English: Please read carefully the detailed steps in the instruction manual.
+
+Chinese: 网站上提供了详细的产品介绍。
+Pinyin: Wǎngzhàn shàng tígōng le xiángxì de chǎnpǐn jièshào.
+English: The website provides detailed product descriptions.
+
+Chinese: 没有详细的地址，我找不到那家餐厅。
+Pinyin: Méiyǒu xiángxì de dìzhǐ, wǒ zhǎobudào nà jiā cāntīng.
+English: Without a detailed address, I cannot find that restaurant.
+
+Chinese: 这份报告缺少详细的数据。
+Pinyin: Zhè fèn bàogào quēshǎo xiángxì de shùjù.
+English: This report lacks detailed data.
+
+Chinese: 他向警方提供了一个详细的目击证词。
+Pinyin: Tā xiàng jǐngfāng tígōng le yīgè xiángxì de mùjī zhèngcí.
+English: He provided the police with a detailed eyewitness testimony.
+
+Chinese: 我们需要你提供一份详细的计划书。
+Pinyin: Wǒmen xūyào nǐ tígōng yīfèn xiángxì de jìhuàshū.
+English: We need you to provide a detailed project proposal.
+
+Chinese: 这本书解释得很详细。
+Pinyin: Zhè běn shū jiěshì de hěn xiángxì.
+English: This book explains in great detail.
+
+Chinese: 导游对景点进行了详细的介绍。
+Pinyin: Dǎoyóu duì jǐngdiǎn jìnxíng le xiángxì de jièshào.
+English: The tour guide gave a detailed introduction to the scenic spots.
+
+Chinese: 他听到了一个响声。
+Pinyin: Tā tīng dào le yī gè xiǎng shēng.
+English: He heard a sound.
+
+Chinese: 孩子们玩得很开心，又笑又响。
+Pinyin: Háizimen wán de hěn kāixīn, yòu xiào yòu xiǎng.
+English: The children played happily, laughing loudly.
+
+Chinese: 那辆车在马路上发出了一声响。
+Pinyin: Nà liàng chē zài mǎlù shàng fā chū le yī shēng xiǎng.
+English: The car made a loud noise on the road.
+
+Chinese: 她敲了敲门，但是没听到任何响声。
+Pinyin: Tā qiāo le qiāo mén, dànshì méi tīng dào rènhé xiǎng shēng.
+English: She knocked on the door, but didn't hear any sound.
+
+Chinese: 这个手机的铃声很响。
+Pinyin: Zhège shǒujī de língshēng hěn xiǎng.
+English: The ringtone of this cellphone is very loud.
+
+Chinese: 那个地方有着奇怪的回声响起。
+Pinyin: Nàgè dìfāng yǒuzhe qíguài de huíshēng xiǎng qǐ.
+English: That place has strange echoes.
+
+Chinese: 我听到了一声闷闷响。
+Pinyin: Wǒ tīng dào le yī shēng mèn mèn xiǎng.
+English: I heard a dull thud.
+
+Chinese: 这台电视的音量太响了，能不能调小一些？
+Pinyin: Zhè tái diànshì de yīnliàng tài xiǎng le, néng bùnéng tiáo xiǎo yīxiē?
+English: The volume of this TV is too loud, can you lower it a bit?
+
+Chinese: 他一脚踩在地上，发出一声响。
+Pinyin: Tā yī jiǎo cǎi zài dìshang, fā chū yī shēng xiǎng.
+English: He stepped on the ground and made a sound.
+
+Chinese: 她从书架上拿下一本书，书掉在地上发出一声响。
+Pinyin: Tā cóng shūjià shàng ná xià yī běn shū, shū diào zài dìshang fā chū yī shēng xiǎng.
+English: She took a book off the shelf, and the book fell on the ground, making a sound.
+
+Chinese: 这个手机响了。
+Pinyin: Zhège shǒujī xiǎngle.
+English: This phone is ringing.
+
+Chinese: 音乐会马上就要响了。
+Pinyin: Yīnyuèhuì mǎshàng jiùyào xiǎngle.
+English: The concert is about to start.
+
+Chinese: 别响闹钟了，我已经醒了。
+Pinyin: Bié xiǎng nàozhōngle, wǒ yǐjīng xǐngle.
+English: Stop the alarm clock, I'm already awake.
+
+Chinese: 天雷开始响了。
+Pinyin: Tiānléi kāishǐ xiǎngle.
+English: The thunder is starting to rumble.
+
+Chinese: 他的笑声响得很远。
+Pinyin: Tā de xiàoshēng xiǎng dé hěn yuǎn.
+English: His laughter sounded far away.
+
+Chinese: 这个地方没有任何声音响起。
+Pinyin: Zhège dìfāng méiyǒu rènhé shēngyīn xiǎng qǐ.
+English: There was no sound coming from this place.
+
+Chinese: 没有回应，电话一直响。
+Pinyin: Méiyǒu huíyìng, diànhuà yīzhí xiǎng.
+English: No answer, the phone keeps ringing.
+
+Chinese: 他心里只剩下耳朵响的声音。
+Pinyin: Tā xīnlǐ zhǐ shèngxià ěrduo xiǎng de shēngyīn.
+English: All he had left in his heart was the sound of ringing in his ears.
+
+Chinese: 外面的警报一直在响。
+Pinyin: Wàimiàn de jǐngbào yīzhí zài xiǎng.
+English: The outside alarm keeps sounding.
+
+Chinese: 炮声响得震耳欲聋。
+Pinyin: Pàoshēng xiǎng dé zhèn'ěr-yùlóng.
+English: The sound of cannons was deafening.
+
+Chinese: 我有一个好消息要告诉你。
+Pinyin: Wǒ yǒu yīgè hǎo xiāoxi yào gàosu nǐ.
+English: I have some good news to tell you.
+
+Chinese: 他正在等待一条重要的消息。
+Pinyin: Tā zhèngzài děngdài yī tiáo zhòngyào de xiāoxi.
+English: He is waiting for an important message.
+
+Chinese: 我听到了一些关于他的消息。
+Pinyin: Wǒ tīngdào le yīxiē guānyú tā de xiāoxi.
+English: I heard some news about him.
+
+Chinese: 这是个不可靠的消息。
+Pinyin: Zhè shì gè bù kěkào de xiāoxi.
+English: This is an unreliable piece of news.
+
+Chinese: 来，我告诉你最新的消息。
+Pinyin: Lái, wǒ gàosu nǐ zuìxīn de xiāoxi.
+English: Come, let me tell you the latest news.
+
+Chinese: 我们正在等待项目的最终消息。
+Pinyin: Wǒmen zhèngzài děngdài xiàngmù de zuìzhōng xiāoxi.
+English: We are waiting for the final news about the project.
+
+Chinese: 我的手机收到了一条新的消息。
+Pinyin: Wǒ de shǒujī shōudào le yī tiáo xīn de xiāoxi.
+English: I received a new message on my phone.
+
+Chinese: 请告诉我最新的进展消息。
+Pinyin: Qǐng gàosu wǒ zuìxīn de jìnzhǎn xiāoxi.
+English: Please update me with the latest progress news.
+
+Chinese: 他从记者那里听说了这个消息。
+Pinyin: Tā cóng jìzhě nàlǐ tīngshuō le zhège xiāoxi.
+English: He heard this news from a journalist.
+
+Chinese: 最近有一些重要的消息传出来。
+Pinyin: Zuìjìn yǒu yīxiē zhòngyào de xiāoxi chuán chūlái.
+English: Some important news has been reported recently.
