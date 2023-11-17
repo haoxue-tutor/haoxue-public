@@ -31449,3 +31449,595 @@ English: The author of this magazine is a very well-known columnist.
 Chinese: 这部小说是一位新兴作家的处女作。
 Pinyin: Zhè bù xiǎoshuō shì yī wèi xīnxīng zuòjiā de chǔnǚ zuò.
 English: This novel is the debut work of an emerging author.
+
+Chinese: 我是这个俱乐部的会员。
+Pinyin: Wǒ shì zhège jùlèbù de huìyuán.
+English: I am a member of this club.
+
+Chinese: 你需要成为会员才能进入这个商店。
+Pinyin: Nǐ xūyào chéngwéi huìyuán cái néng jìnrù zhège shāngdiàn.
+English: You need to become a member to enter this store.
+
+Chinese: 他是一个忠实的会员，从来不错过任何一次会议。
+Pinyin: Tā shì yí ge zhōngshí de huìyuán, cónglái bù cuòguò rènhé yí cì huìyì.
+English: He is a loyal member and never misses any meetings.
+
+Chinese: 这个电影院给会员提供了特别的优惠。
+Pinyin: Zhège diànyǐngyuàn gěi huìyuán tígōngle tèbié de yōuhuì.
+English: This cinema offers special discounts for members.
+
+Chinese: 他通过朋友的推荐成为了这家俱乐部的会员。
+Pinyin: Tā tōngguò péngyǒu de tuījiàn chéngwéi le zhè jiā jùlèbù de huìyuán.
+English: He became a member of this club through a friend's recommendation.
+
+Chinese: 作为社区的会员，你有权利参与决策过程。
+Pinyin: Zuòwéi shèqū de huìyuán, nǐ yǒu quánlì cānyù juécè guòchéng.
+English: As a community member, you have the right to participate in the decision-making process.
+
+Chinese: 这个游泳俱乐部的会员人数不断增加。
+Pinyin: Zhège yóuyǒng jùlèbù de huìyuán rénshù bùduàn zēngjiā.
+English: The number of members in this swimming club keeps increasing.
+
+Chinese: 只有会员才能享受这个健身中心的服务。
+Pinyin: Zhǐyǒu huìyuán cái néng xiǎngshòu zhège jiànshēn zhōngxīn de fúwù.
+English: Only members can enjoy the services of this fitness center.
+
+Chinese: 作为一名会员，你可以使用这家酒店的会所设施。
+Pinyin: Zuòwéi yì míng huìyuán, nǐ kěyǐ shǐyòng zhè jiā jiǔdiàn de huìsuǒ shèshī.
+English: As a member, you can use the club facilities in this hotel.
+
+Chinese: 会员可以获得定期的会员特权和礼物。
+Pinyin: Huìyuán kěyǐ huòdé dìngqī de huìyuán tèquán hé lǐwù.
+English: Members can receive regular membership privileges and gifts.
+
+Chinese: 这个月的租金已经交了。
+Pinyin: Zhège yuè de zūjīn yǐjīng jiāo le.
+English: The rent for this month has already been paid.
+
+Chinese: 我们需要支付每月的租金。
+Pinyin: Wǒmen xūyào zhīfù měi yuè de zūjīn.
+English: We need to pay the monthly rent.
+
+Chinese: 房东要求提前交租金。
+Pinyin: Fángdōng yāoqiú tíqián jiāo zūjīn.
+English: The landlord requests the rent to be paid in advance.
+
+Chinese: 租房合同规定每月交租金。
+Pinyin: Zū fáng hétóng guīdìng měi yuè jiāo zūjīn.
+English: The rental contract stipulates that the rent should be paid monthly.
+
+Chinese: 他不愿意加薪，只想降低租金。
+Pinyin: Tā bù yuànyì jiāxīn, zhǐ xiǎng jiàngdī zūjīn.
+English: He doesn't want a pay raise, he just wants to reduce the rent.
+
+Chinese: 我们需要核对每月的租金金额。
+Pinyin: Wǒmen xūyào héduì měi yuè de zūjīn jīn'é.
+English: We need to verify the amount of monthly rent.
+
+Chinese: 我们议定了每月固定的租金。
+Pinyin: Wǒmen yìdìng le měi yuè gùdìng de zūjīn.
+English: We agreed on a fixed monthly rent.
+
+Chinese: 我们租的房子的租金涨了。
+Pinyin: Wǒmen zū de fángzi de zūjīn zhǎng le.
+English: The rent for the house we rented has increased.
+
+Chinese: 每月按时交租金是我们的责任。
+Pinyin: Měi yuè ànshí jiāo zūjīn shì wǒmen de zérèn.
+English: It is our responsibility to pay the rent on time every month.
+
+Chinese: 我们商量一下是否减免租金。
+Pinyin: Wǒmen shāngliang yīxià shìfǒu jiǎnmiǎn zūjīn.
+English: Let's discuss whether to reduce the rent.
+
+Chinese: 请不要说脏话。
+Pinyin: Qǐng búyào shuō zānghuà.
+English: Please do not use foul language.
+
+Chinese: 儿童不应该听到脏话。
+Pinyin: Értóng bù yīnggāi tīngdào zānghuà.
+English: Children should not hear foul language.
+
+Chinese: 讲脏话是不文明的。
+Pinyin: Jiǎng zānghuà shì bù wénmíng de.
+English: Speaking foul language is uncivilized.
+
+Chinese: 女孩子不应该说脏话。
+Pinyin: Nǚ háizi bù yīnggāi shuō zānghuà.
+English: Girls should not say foul language.
+
+Chinese: 在公共场合大声讲脏话是不礼貌的。
+Pinyin: Zài gōnggòng chǎnghé dàshēng jiǎng zānghuà shì bù lǐmào de.
+English: Speaking loudly with foul language in public places is impolite.
+
+Chinese: 不要在家人面前说脏话。
+Pinyin: Búyào zài jiārén miànqián shuō zānghuà.
+English: Do not use foul language in front of family members.
+
+Chinese: 学生们要遵守校规，不说脏话。
+Pinyin: Xuéshēngmen yào zūnshǒu xiào guī, bù shuō zānghuà.
+English: Students should follow the school rules and not use foul language.
+
+Chinese: 文明社会需要大家共同抵制脏话。
+Pinyin: Wénmíng shèhuì xūyào dàjiā gòngtóng dǐzhì zānghuà.
+English: A civilized society requires everyone to jointly resist foul language.
+
+Chinese: 街头小广告上不要有脏话。
+Pinyin: Jiētóu xiǎo guǎnggào shàng búyào yǒu zānghuà.
+English: There should be no foul language in street advertisements.
+
+Chinese: 社交媒体平台禁止发布脏话。
+Pinyin: Shèjiāo méitǐ píngtái jìnzhǐ fābù zānghuà.
+English: Social media platforms prohibit the posting of foul language.
+
+Chinese: 英国是一个岛国。
+Pinyin: Yīngguó shì yīgè dǎoguó.
+English: England is an island country.
+
+Chinese: 我的朋友来自英国。
+Pinyin: Wǒ de péngyǒu láizì Yīngguó.
+English: My friend is from England.
+
+Chinese: 英国有丰富的历史遗产。
+Pinyin: Yīngguó yǒu fēngfù de lìshǐ yíchǎn.
+English: England has a rich historical heritage.
+
+Chinese: 英国的天气多变。
+Pinyin: Yīngguó de tiānqì duōbiàn.
+English: The weather in England is changeable.
+
+Chinese: 我想去英国旅游。
+Pinyin: Wǒ xiǎng qù Yīngguó lǚyóu.
+English: I want to travel to England.
+
+Chinese: 英国的饮食文化很丰富。
+Pinyin: Yīngguó de yǐnshí wénhuà hěn fēngfù.
+English: English cuisine culture is very rich.
+
+Chinese: 我学习英国的历史。
+Pinyin: Wǒ xuéxí Yīngguó de lìshǐ.
+English: I study the history of England.
+
+Chinese: 英国人喜欢喝茶。
+Pinyin: Yīngguó rén xǐhuan hē chá.
+English: English people like to drink tea.
+
+Chinese: 英国有很多优秀的大学。
+Pinyin: Yīngguó yǒu hěnduō yōuxiù de dàxué.
+English: England has many excellent universities.
+
+Chinese: 英国以其乡村风光闻名。
+Pinyin: Yīngguó yǐ qí xiāngcūn fēngguāng wénmíng.
+English: England is famous for its countryside scenery.
+
+Chinese: 他克服了巨大的阻力。
+Pinyin: Tā kèfúle jùdà de zǔlì.
+English: He overcame great resistance.
+
+Chinese: 这项计划面临着很大的阻力。
+Pinyin: Zhè xiàng jìhuà miànlínzhe hěn dà de zǔlì.
+English: This project is facing significant opposition.
+
+Chinese: 她毫不畏惧地面对阻力。
+Pinyin: Tā háo bù wèijù de miàn duì zǔlì.
+English: She courageously faces resistance.
+
+Chinese: 在科学研究中，遇到阻力是常事。
+Pinyin: Zài kēxué yánjiū zhōng, yù dào zǔlì shì chángshì.
+English: Encountering resistance is common in scientific research.
+
+Chinese: 这些问题给了我们很大的阻力。
+Pinyin: Zhèxiē wèntí gěile wǒmen hěn dà de zǔlì.
+English: These problems pose significant obstacles for us.
+
+Chinese: 他们调整了策略，以应对阻力。
+Pinyin: Tāmen tiáozhěngle cèlüè, yǐ yìngduì zǔlì.
+English: They adjusted their strategy to deal with the resistance.
+
+Chinese: 政策的实施遭到了阻力。
+Pinyin: Zhèngcè de shíshī zāodàole zǔlì.
+English: The implementation of the policy encountered resistance.
+
+Chinese: 克服困难，战胜阻力。
+Pinyin: Kèfú kùnnan, zhànshèng zǔlì.
+English: Overcome difficulties and overcome resistance.
+
+Chinese: 突破阻力继续前进。
+Pinyin: Tūpò zǔlì jìxù qiánjìn.
+English: Break through the resistance and move forward.
+
+Chinese: 学习过程中会遇到各种阻力。
+Pinyin: Xuéxí guòchéng zhōng huì yùdào gèzhǒng zǔlì.
+English: Various obstacles will be encountered in the learning process.
+
+Chinese: 他参加了一场长跑比赛，证明了他的耐力很强。
+Pinyin: Tā cānjiā le yī chǎng chángpǎo bǐsài, zhèngmíng le tā de nàilì hěn qiáng.
+English: He participated in a long-distance race, proving that he has great endurance.
+
+Chinese: 这个项目需要很高的耐力。
+Pinyin: Zhège xiàngmù xūyào hěn gāo de nàilì.
+English: This project requires a high level of endurance.
+
+Chinese: 运动员必须具备良好的耐力才能取得好成绩。
+Pinyin: Yùndòngyuán bìxū jùbèi liánghǎo de nàilì cáinéng qǔdé hǎo chéngjì.
+English: Athletes must have good endurance to achieve good results.
+
+Chinese: 她经常锻炼身体，提高自己的耐力。
+Pinyin: Tā jīngcháng duànliàn shēntǐ, tígāo zìjǐ de nàilì.
+English: She exercises regularly to improve her endurance.
+
+Chinese: 学习成绩好与耐力训练有关。
+Pinyin: Xuéxí chéngjì hǎo yǔ nàilì xùnliàn yǒuguān.
+English: Good academic performance is related to endurance training.
+
+Chinese: 他决心加强自己的耐力，以面对困难。
+Pinyin: Tā juéxīn jiāqiáng zìjǐ de nàilì, yǐ miàn duì kùnnán.
+English: He is determined to strengthen his endurance in order to face difficulties.
+
+Chinese: 耐力是成功的关键之一。
+Pinyin: Nàilì shì chénggōng de guānjiàn zhī yī.
+English: Endurance is one of the key factors for success.
+
+Chinese: 耐力训练是提高身体素质的有效方法之一。
+Pinyin: Nàilì xùnliàn shì tígāo shēntǐ sùzhì de yǒuxiào fāngfǎ zhī yī.
+English: Endurance training is one of the effective methods to improve physical fitness.
+
+Chinese: 坚持锻炼可以增强人的耐力。
+Pinyin: Jiānchí duànliàn kěyǐ zēngqiáng rén de nàilì.
+English: Regular exercise can enhance a person's endurance.
+
+Chinese: 耐力是长期努力的结果。
+Pinyin: Nàilì shì chángqī nǔlì de jiéguǒ.
+English: Endurance is the result of long-term efforts.
+
+Chinese: 她做了一些锻炼来减轻体重。
+Pinyin: Tā zuò le yī xiē duànliàn lái jiǎnqīng tǐzhòng.
+English: She did some exercises to reduce weight.
+
+Chinese: 吃水果可以减轻心情。
+Pinyin: Chī shuǐguǒ kěyǐ jiǎnqīng xīnqíng.
+English: Eating fruits can lighten the mood.
+
+Chinese: 在工作中减轻压力很重要。
+Pinyin: Zài gōngzuò zhōng jiǎnqīng yālì hěn zhòngyào.
+English: It is important to reduce stress at work.
+
+Chinese: 这种药可以减轻疼痛。
+Pinyin: Zhè zhǒng yào kěyǐ jiǎnqīng téngtòng.
+English: This medicine can alleviate pain.
+
+Chinese: 减轻一些油腻的食物对身体更好。
+Pinyin: Jiǎnqīng yī xiē yóunì de shíwù duì shēntǐ gèng hǎo.
+English: Reducing greasy food is better for your health.
+
+Chinese: 打开窗户可以减轻热量。
+Pinyin: Dǎkāi chuānghu kěyǐ jiǎnqīng rèliàng.
+English: Opening the window can reduce heat.
+
+Chinese: 减轻负担可以提高效率。
+Pinyin: Jiǎnqīng fùdān kěyǐ tígāo xiàolǜ.
+English: Reducing the burden can improve efficiency.
+
+Chinese: 睡眠时间的增加有助于减轻疲劳。
+Pinyin: Shuìmián shíjiān de zēngjiā yǒuzhù yú jiǎnqīng píláo.
+English: Increasing sleep time helps reduce fatigue.
+
+Chinese: 减轻食量有助于消化。
+Pinyin: Jiǎnqīng shíliàng yǒuzhù yú xiāohuà.
+English: Reducing food intake helps with digestion.
+
+Chinese: 随着时间的推移，症状会减轻。
+Pinyin: Suízhe shíjiān de tuīyí, zhèngzhuàng huì jiǎnqīng.
+English: As time goes by, the symptoms will lighten.
+
+Chinese: 他是个好汉，勇敢地保护了她。
+Pinyin: Tā shì gè hǎo hàn, yǒnggǎn de bǎohùle tā.
+English: He is a brave man, who courageously protected her.
+
+Chinese: 这个故事里的好汉非常威武。
+Pinyin: Zhège gùshi lǐ de hǎo hàn fēicháng wēiwǔ.
+English: The hero in this story is very mighty.
+
+Chinese: 发现这片区域的好汉们从事着艰苦的工作。
+Pinyin: Fāxiàn zhè piàn qūyù de hǎo hànmen cóngshìzhe jiānkǔ de gōngzuò.
+English: The heroes in this area are engaged in arduous work.
+
+Chinese: 那位好汉用善良的心去帮助他人。
+Pinyin: Nà wèi hǎo hàn yòng shànliáng de xīn qù bāngzhù tārén.
+English: That hero helps others with a kind heart.
+
+Chinese: 这个村庄有很多历史名人和好汉。
+Pinyin: Zhège cūnzhuāng yǒu hěnduō lìshǐ míng rén hé hǎo hàn.
+English: This village has many historical figures and heroes.
+
+Chinese: 好汉们毫不畏惧地面对困难。
+Pinyin: Hǎo hànmen háobù wèijù de miànduì kùnnan.
+English: The heroes face difficulties fearlessly.
+
+Chinese: 好汉以自己的勇气和力量保护了家人。
+Pinyin: Hǎo hàn yǐ zìjǐ de yǒngqì hé lìliáng bǎohùle jiārén.
+English: The hero protected his family with his courage and strength.
+
+Chinese: 好汉们经常举行义勇军演习。
+Pinyin: Hǎo hànmen jīngcháng jǔxíng yìyǒngjūn yǎnxí.
+English: The heroes regularly hold military exercises.
+
+Chinese: 他是个好汉，从不退缩。
+Pinyin: Tā shì gè hǎo hàn, cóngbù tuìsuō.
+English: He is a brave man who never retreats.
+
+Chinese: 好汉们奋不顾身地保护国家的安全。
+Pinyin: Hǎo hànmen fènbùgùshēn de bǎohù guójiā de ānquán.
+English: The heroes risk their lives to protect national security.
+
+Chinese: 他是一个英雄。
+Pinyin: Tā shì yī gè yīngxióng.
+English: He is a hero.
+
+Chinese: 她成为了一个英雄。
+Pinyin: Tā chéngwéile yī gè yīngxióng.
+English: She became a hero.
+
+Chinese: 这个故事中有很多英雄。
+Pinyin: Zhège gùshi zhōng yǒu hěnduō yīngxióng.
+English: There are many heroes in this story.
+
+Chinese: 我们应该敬佩这些英雄。
+Pinyin: Wǒmen yīnggāi jìngpèi zhèxiē yīngxióng.
+English: We should admire these heroes.
+
+Chinese: 成为英雄是我的梦想。
+Pinyin: Chéngwéi yīngxióng shì wǒ de mèngxiǎng.
+English: Becoming a hero is my dream.
+
+Chinese: 这个国家需要更多的英雄。
+Pinyin: Zhège guójiā xūyào gèng duō de yīngxióng.
+English: This country needs more heroes.
+
+Chinese: 我希望有一天成为英雄。
+Pinyin: Wǒ xīwàng yǒu yītiān chéngwéi yīngxióng.
+English: I hope to become a hero one day.
+
+Chinese: 这个小孩梦想着成为英雄。
+Pinyin: Zhège xiǎohái mèngxiǎng zhe chéngwéi yīngxióng.
+English: This child dreams of becoming a hero.
+
+Chinese: 历史上有许多伟大的英雄。
+Pinyin: Lìshǐ shàng yǒu xǔduō wěidà de yīngxióng.
+English: There have been many great heroes in history.
+
+Chinese: 他的事迹使他成为了一个英雄。
+Pinyin: Tā de shìjì shǐ tā chéngwéile yī gè yīngxióng.
+English: His deeds made him a hero.
+
+Chinese: 她用一个比喻来解释这个概念。
+Pinyin: Tā yòng yīgè bǐyù lái jiěshì zhège gàiniàn.
+English: She used a metaphor to explain this concept.
+
+Chinese: 这个作家经常用比喻来表达他的思想。
+Pinyin: Zhège zuòjiā jīngcháng yòng bǐyù lái biǎodá tā de sīxiǎng.
+English: This writer often uses metaphors to express his thoughts.
+
+Chinese: 学生们理解了老师的比喻后，对这个问题有了更深的认识。
+Pinyin: Xuéshēngmen lǐjiěle lǎoshī de bǐyù hòu, duì zhège wèntí yǒule gèng shēn de rènshi.
+English: After understanding the teacher's metaphor, the students gained a deeper understanding of the problem.
+
+Chinese: 这个演讲中的比喻非常形象，让观众很容易理解。
+Pinyin: Zhège yǎnjiǎng zhōng de bǐyù fēicháng xíngxiàng, ràng guānzhòng hěn róngyì lǐjiě.
+English: The metaphors in this speech are very vivid, making it easy for the audience to understand.
+
+Chinese: 小明的比喻与这个主题完美地契合。
+Pinyin: Xiǎo Míng de bǐyù yǔ zhège zhǔtí wánměi de qìhé.
+English: Xiaoming's metaphor perfectly matches the theme.
+
+Chinese: 这本书以传奇人物的比喻讲述了一个普通人的故事。
+Pinyin: Zhè běn shū yǐ chuánqí rénwù de bǐyù jiǎngshùle yīgè pǔtōngrén de gùshì.
+English: This book tells the story of an ordinary person through the metaphor of a legendary character.
+
+Chinese: 这幅画用抽象的比喻，表达了艺术家对世界的理解。
+Pinyin: Zhè fú huà yòng chōuxiàng de bǐyù, biǎodále yìshùjiā duì shìjiè de lǐjiě.
+English: This painting expresses the artist's understanding of the world through abstract metaphors.
+
+Chinese: 这首歌的歌词充满了浪漫的比喻。
+Pinyin: Zhè shǒu gē de gēcí chōngmǎnle làngmàn de bǐyù.
+English: The lyrics of this song are filled with romantic metaphors.
+
+Chinese: 心脏病是一种常见的疾病。
+Pinyin: Xīnzàngbìng shì yī zhǒng chángjiàn de jíbìng.
+English: Heart disease is a common illness.
+
+Chinese: 我爷爷有心脏病，需要定期复诊。
+Pinyin: Wǒ yéyé yǒu xīnzàngbìng, xūyào dìngqī fùzhěn.
+English: My grandfather has heart disease and needs regular check-ups.
+
+Chinese: 年纪大的人更容易患心脏病。
+Pinyin: Niánjì dà de rén gèng róngyì huàn xīnzàngbìng.
+English: Elderly people are more prone to heart disease.
+
+Chinese: 运动可以降低心脏病发生的风险。
+Pinyin: Yùndòng kěyǐ jiàngdī xīnzàngbìng fāshēng de fēngxiǎn.
+English: Exercise can reduce the risk of developing heart disease.
+
+Chinese: 心脏病的症状包括胸闷、气短和胸痛。
+Pinyin: Xīnzàngbìng de zhèngzhuàng bāokuò xiōng mēn, qì duǎn hé xiōng tòng.
+English: Symptoms of heart disease include chest tightness, shortness of breath, and chest pain.
+
+Chinese: 我的家人中有人患有心脏病。
+Pinyin: Wǒ de jiārén zhōng yǒu rén huàn yǒu xīnzàngbìng.
+English: Someone in my family has heart disease.
+
+Chinese: 吸烟对心脏健康有害，会增加患心脏病的风险。
+Pinyin: Xīyān duì xīnzàng jiànkāng yǒuhài, huì zēngjiā huàn xīnzàngbìng de fēngxiǎn.
+English: Smoking is harmful to heart health and increases the risk of developing heart disease.
+
+Chinese: 心脏病可以通过手术治疗。
+Pinyin: Xīnzàngbìng kěyǐ tōngguò shǒushù zhìliáo.
+English: Heart disease can be treated through surgery.
+
+Chinese: 他的久坐久站引发了心脏病。
+Pinyin: Tā de jiǔ zuò jiǔ zhàn yǐnfā le xīnzàngbìng.
+English: His prolonged sitting and standing caused heart disease.
+
+Chinese: 心脏病是全球主要的死因之一。
+Pinyin: Xīnzàngbìng shì quánqiú zhǔyào de sǐyīn zhī yī.
+English: Heart disease is one of the leading causes of death worldwide.
+
+Chinese: 你相比以前更有自信了。
+Pinyin: Nǐ xiāngbǐ yǐqián gèng yǒu zìxìn le.
+English: Compared to before, you are more confident.
+
+Chinese: 我相比别人更努力。
+Pinyin: Wǒ xiāngbǐ biérén gèng nǔlì.
+English: I work harder compared to others.
+
+Chinese: 这本书相比那本书更有趣。
+Pinyin: Zhè běn shū xiāngbǐ nà běn shū gèng yǒuqù.
+English: This book is more interesting compared to that book.
+
+Chinese: 这个地方相比其他地方更安静。
+Pinyin: Zhège dìfāng xiāngbǐ qítā dìfāng gèng ānjìng.
+English: This place is quieter compared to other places.
+
+Chinese: 这种颜色相比另一种颜色更鲜艳。
+Pinyin: Zhè zhǒng yánsè xiāngbǐ lìng yī zhǒng yánsè gèng xiānyàn.
+English: This color is brighter compared to the other color.
+
+Chinese: 相比之下，这个城市更繁华。
+Pinyin: Xiāngbǐ zhīxià, zhège chéngshì gèng fánhuá.
+English: In comparison, this city is more prosperous.
+
+Chinese: 这个地方的气候相比另一个地方更温暖。
+Pinyin: Zhège dìfāng de qìhòu xiāngbǐ lìng yī gè dìfāng gèng wēnnuǎn.
+English: The climate of this place is warmer compared to the other place.
+
+Chinese: 他相比其他人更有经验。
+Pinyin: Tā xiāngbǐ qítā rén gèng yǒu jīngyàn.
+English: He has more experience compared to others.
+
+Chinese: 这种食物相比另一种食物更美味。
+Pinyin: Zhè zhǒng shíwù xiāngbǐ lìng yī zhǒng shíwù gèng měiwèi.
+English: This food is more delicious compared to the other food.
+
+Chinese: 相比而言，这是一个更好的选择。
+Pinyin: Xiāngbǐ éryán, zhè shì yīgè gèng hǎo de xuǎnzé.
+English: By comparison, this is a better choice.
+
+Chinese: 请填写您的姓名、性别和年龄以上信息。
+Pinyin: Qǐng tiánxiě nín de xìngmíng, xìngbié hé niánlíng yǐshàng xìnxī.
+English: Please fill in your name, gender, and age and above information.
+
+Chinese: 你需要按照以上说明书来操作。
+Pinyin: Nǐ xūyào ànzhào yǐshàng shuōmíngshū lái cāozuò.
+English: You need to operate according to the above instruction manual.
+
+Chinese: 请先阅读以上条款，然后签字。
+Pinyin: Qǐng xiān yuèdú yǐshàng tiáokuǎn, ránhòu qiānzì.
+English: Please read the above terms and conditions first, and then sign.
+
+Chinese: 我提供了以上所需的文件。
+Pinyin: Wǒ tígōngle yǐshàng suǒxū de wénjiàn.
+English: I have provided the above required documents.
+
+Chinese: 请大家按照以上顺序排队。
+Pinyin: Qǐng dàjiā ànzhào yǐshàng shùnxù páiduì.
+English: Please line up in the above order, everyone.
+
+Chinese: 以上就是我给你的建议。
+Pinyin: Yǐshàng jiùshì wǒ gěi nǐ de jiànyì.
+English: The above is the advice I gave you.
+
+Chinese: 请在以上空白处填写您的地址。
+Pinyin: Qǐng zài yǐshàng kòngbái chù tiánxiě nín de dìzhǐ.
+English: Please fill in your address in the blank spaces above.
+
+Chinese: 抱歉，以上内容已过期。
+Pinyin: Bàoqiàn, yǐshàng nèiróng yǐ guòqī.
+English: Sorry, the above content has expired.
+
+Chinese: 请将以上资料复印两份。
+Pinyin: Qǐng jiāng yǐshàng zīliào fùyìn liǎng fèn.
+English: Please make two copies of the above documents.
+
+Chinese: 以上是我对这个问题的观点。
+Pinyin: Yǐshàng shì wǒ duì zhèige wèntí de guāndiǎn.
+English: The above is my view on this issue.
+
+Chinese: 这是一瓶可口可乐。
+Pinyin: Zhè shì yī píng kěkǒu kělè.
+English: This is a bottle of Coca-Cola.
+
+Chinese: 我喜欢喝可口可乐。
+Pinyin: Wǒ xǐhuan hē kěkǒu kělè.
+English: I like to drink Coca-Cola.
+
+Chinese: 他经常买可口可乐。
+Pinyin: Tā jīngcháng mǎi kěkǒu kělè.
+English: He often buys Coca-Cola.
+
+Chinese: 这个礼拜我每天都喝可口可乐。
+Pinyin: Zhège lǐbài wǒ měitiān dōu hē kěkǒu kělè.
+English: This week, I drink Coca-Cola every day.
+
+Chinese: 我有两罐可口可乐。
+Pinyin: Wǒ yǒu liǎng guàn kěkǒu kělè.
+English: I have two cans of Coca-Cola.
+
+Chinese: 我在超市买了一箱可口可乐。
+Pinyin: Wǒ zài chāoshì mǎi le yīxiāng kěkǒu kělè.
+English: I bought a case of Coca-Cola at the supermarket.
+
+Chinese: 这家餐厅有可口可乐提供。
+Pinyin: Zhè jiā cāntīng yǒu kěkǒu kělè tígōng.
+English: This restaurant offers Coca-Cola.
+
+Chinese: 我喝可口可乐不加冰块。
+Pinyin: Wǒ hē kěkǒu kělè bù jiā bīngkuài.
+English: I drink Coca-Cola without adding ice cubes.
+
+Chinese: 在夏天，喝可口可乐很舒服。
+Pinyin: Zài xiàtiān, hē kěkǒu kělè hěn shūfu.
+English: Drinking Coca-Cola is very refreshing in summer.
+
+Chinese: 我买了两瓶可口可乐，你要喝吗？
+Pinyin: Wǒ mǎi le liǎng píng kěkǒu kělè, nǐ yào hē ma?
+English: I bought two bottles of Coca-Cola, do you want to drink?
+
+Chinese: 这台电视具有智能功能。
+Pinyin: Zhè tái diànshì jùyǒu zhìnéng gōngnéng.
+English: This TV has smart features.
+
+Chinese: 我的手机是智能手机。
+Pinyin: Wǒ de shǒujī shì zhìnéng shǒujī.
+English: My phone is a smart phone.
+
+Chinese: 这个家庭智能系统非常方便。
+Pinyin: Zhège jiātíng zhìnéng xìtǒng fēicháng fāngbiàn.
+English: This home automation system is very convenient.
+
+Chinese: 智能助手可以回答我们的问题。
+Pinyin: Zhìnéng zhùshǒu kěyǐ huídá wǒmen de wèntí.
+English: The smart assistant can answer our questions.
+
+Chinese: 我们需要一个智能冰箱。
+Pinyin: Wǒmen xūyào yígè zhìnéng bīngxiāng.
+English: We need a smart refrigerator.
+
+Chinese: 我在搜索一个智能手表。
+Pinyin: Wǒ zài sōusuǒ yígè zhìnéng shǒubiǎo.
+English: I'm looking for a smart watch.
+
+Chinese: 这辆车有智能导航功能。
+Pinyin: Zhè liàng chē yǒu zhìnéng dǎoháng gōngnéng.
+English: This car has smart navigation features.
+
+Chinese: 我想购买一台智能电饭煲。
+Pinyin: Wǒ xiǎng gòumǎi yī tái zhìnéng diàn fànbāo.
+English: I want to buy a smart rice cooker.
+
+Chinese: 这个智能灯可以远程控制。
+Pinyin: Zhège zhìnéng dēng kěyǐ yuǎnchéng kòngzhì.
+English: This smart light can be controlled remotely.
+
+Chinese: 我的家里有智能门锁。
+Pinyin: Wǒ de jiā lǐ yǒu zhìnéng mén suǒ.
+English: My home has a smart door lock.
