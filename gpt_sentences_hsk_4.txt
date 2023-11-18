@@ -32041,3 +32041,123 @@ English: This smart light can be controlled remotely.
 Chinese: 我的家里有智能门锁。
 Pinyin: Wǒ de jiā lǐ yǒu zhìnéng mén suǒ.
 English: My home has a smart door lock.
+
+Chinese: 他们是一对丁克族夫妇。
+Pinyin: Tāmen shì yī duì dīnkè zú fūfù.
+English: They are a couple of DINKs.
+
+Chinese: 丁克族的生活方式非常自由。
+Pinyin: Dīnkè zú de shēnghuó fāngshì fēicháng zìyóu.
+English: The lifestyle of DINKs is very free.
+
+Chinese: 很多年轻人选择成为丁克族。
+Pinyin: Hěn duō niánqīng rén xuǎnzé chéngwéi dīnkè zú.
+English: Many young people choose to become DINKs.
+
+Chinese: 丁克族们更注重个人发展。
+Pinyin: Dīnkè zú men gèng zhùzhòng gèrén fāzhǎn.
+English: DINKs pay more attention to personal development.
+
+Chinese: 他们还没有想好要不要加入丁克族。
+Pinyin: Tāmen hái méiyǒu xiǎnghǎo yào búyào jiārù dīnkè zú.
+English: They haven't decided whether to join the DINKs or not.
+
+Chinese: 我们可以在这个社交平台上找到其他丁克族。
+Pinyin: Wǒmen kěyǐ zài zhège shèjiāo píngtái shàng zhǎodào qítā dīnkè zú.
+English: We can find other DINKs on this social platform.
+
+Chinese: 这家咖啡馆是丁克族们的聚会地点之一。
+Pinyin: Zhè jiā kāfēiguǎn shì dīnkè zú men de jùhuì dìdiǎn zhī yī.
+English: This café is one of the gathering places for DINKs.
+
+Chinese: 丁克族们更愿意旅行而不是生孩子。
+Pinyin: Dīnkè zú men gèng yuànyì lǚxíng ér bùshì shēngháizi.
+English: DINKs prefer traveling over having children.
+
+Chinese: 我认识一对丁克族，他们认为婚姻也可以很完整。
+Pinyin: Wǒ rènshí yī duì dīnkè zú, tāmen rènwéi hūnyīn yě kěyǐ hěn wánzhěng.
+English: I know a couple of DINKs who believe that marriage can be complete without children.
+
+Chinese: 这部电影里面的男主角是个丁克族。
+Pinyin: Zhè bù diànyǐng lǐmiàn de nán zhǔjué shì gè dīnkè zú.
+English: The male protagonist in this movie is a DINK.
+
+Chinese: 这个国家的老龄化问题越来越严重。
+Pinyin: Zhège guójiā de lǎolínghuà wèntí yuè lái yuè yánzhòng.
+English: The aging problem in this country is becoming more and more severe.
+
+Chinese: 老龄化导致社会养老压力增加。
+Pinyin: Lǎolínghuà dǎozhì shèhuì yǎnglǎo yālì zēngjiā.
+English: Aging leads to an increase in the pressure of elderly care in society.
+
+Chinese: 我们应该制定政策来应对老龄化问题。
+Pinyin: Wǒmen yīnggāi zhìdìng zhèngcè lái yìngduì lǎolínghuà wèntí.
+English: We should formulate policies to deal with the aging problem.
+
+Chinese: 年轻人的减少会加剧老龄化现象。
+Pinyin: Niánqīngrén de jiǎnshǎo huì jiājù lǎolínghuà xiànxiàng.
+English: The decrease in young people will exacerbate the phenomenon of aging.
+
+Chinese: 老龄化对社会的各个方面都会产生影响。
+Pinyin: Lǎolínghuà duì shèhuì de gègè fāngmiàn dōu huì chǎnshēng yǐngxiǎng.
+English: Aging will have an impact on various aspects of society.
+
+Chinese: 需要采取措施解决老龄化问题。
+Pinyin: Xūyào cǎiqǔ cuòshī jiějué lǎolínghuà wèntí.
+English: Measures need to be taken to solve the aging problem.
+
+Chinese: 老龄化是一个全球性的挑战。
+Pinyin: Lǎolínghuà shì yīgè quánqiúxìng de tiǎozhàn.
+English: Aging is a global challenge.
+
+Chinese: 政府需要关注老龄化对经济的影响。
+Pinyin: Zhèngfǔ xūyào guānzhù lǎolínghuà duì jīngjì de yǐngxiǎng.
+English: The government needs to pay attention to the impact of aging on the economy.
+
+Chinese: 老龄化人口增加会对医疗资源造成压力。
+Pinyin: Lǎolínghuà rénkǒu zēngjiā huì duì yīliáo zīyuán zàochéng yālì.
+English: The increase in the aging population will put pressure on medical resources.
+
+Chinese: 老龄化趋势对劳动力市场会产生不利影响。
+Pinyin: Lǎolínghuà qūshì duì láodònglì shìchǎng huì chǎnshēng bùlì yǐngxiǎng.
+English: The trend of aging will have adverse effects on the labor market.
+
+Chinese: 我们要注意坏处。
+Pinyin: Wǒmen yào zhùyì huài chù.
+English: We should pay attention to the disadvantages.
+
+Chinese: 长时间看手机对眼睛有坏处。
+Pinyin: Cháng shíjiān kàn shǒujī duì yǎnjīng yǒu huài chù.
+English: Looking at a mobile phone for a long time is harmful to the eyes.
+
+Chinese: 不锻炼身体有很多坏处。
+Pinyin: Bù duànliàn shēntǐ yǒu hěnduō huài chù.
+English: Not exercising has many disadvantages.
+
+Chinese: 这种行为不仅没有好处，反而会有坏处。
+Pinyin: Zhè zhǒng xíngwéi bùjǐn méiyǒu hǎo chù, fǎn'ér huì yǒu huài chù.
+English: This kind of behavior not only has no benefits, but can also bring disadvantages.
+
+Chinese: 大声喧哗在图书馆是有坏处的。
+Pinyin: Dàshēng xuānhuá zài túshūguǎn shì yǒu huài chù de.
+English: Making loud noises in the library has its drawbacks.
+
+Chinese: 缺乏睡眠会给身体带来坏处。
+Pinyin: Quēfá shuìmián huì gěi shēntǐ dàilái huài chù.
+English: Lack of sleep can be harmful to the body.
+
+Chinese: 少吃蔬菜会对健康有坏处。
+Pinyin: Shǎo chī shūcài huì duì jiànkāng yǒu huài chù.
+English: Eating few vegetables can be detrimental to health.
+
+Chinese: 熬夜对皮肤没有好处，只会带来坏处。
+Pinyin: Áo yè duì pífū méiyǒu hǎo chù, zhǐ huì dàilái huài chù.
+English: Staying up late is not beneficial for the skin, it only brings disadvantages.
+
+Chinese: 太多的压力对身体和心理都有坏处。
+Pinyin: Tài duō de yālì duì shēntǐ hé xīnlǐ dōu yǒu huài chù.
+English: Too much pressure has negative effects on both the body and mind.
+
+Chinese: 常常生气对人体健康有坏处。
+Pinyin: Chángcháng shēngqì duì réntǐ jiànkāng yǒu huài chù.
+English: Getting angry often is harmful to physical health.
