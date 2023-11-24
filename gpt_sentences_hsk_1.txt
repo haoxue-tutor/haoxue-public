@@ -246,10 +246,6 @@ Chinese: 他是我的朋友，我信任他。
 English: He is my friend, I trust him.
 Pinyin: tā shì wǒ de péngyǒu, wǒ xìnrèn tā.
 
-Chinese: 我喜欢旅行，想去日本。
-English: I like to travel and want to go to Japan.
-Pinyin: wǒ xǐhuān lǚxíng, xiǎ
-
 Chinese: 他又高又帅。
 English: He is tall and handsome.
 Pinyin: tā yòu gāo yòu shuài.
