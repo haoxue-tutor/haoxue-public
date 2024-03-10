@@ -20,19 +20,15 @@ Pinyin: wǒ xiǎng chī zhōngcān.
 
 Chinese: 每天早上我都会跑步。
 English: I go running every morning.
-Pinyin: měi tiān zǎo shang wǒ dōu huì pǎo bù.
+Pinyin: měitiān zǎoshang wǒ dōu huì pǎo bù.
 
 Chinese: 他每天都要花一个小时学习汉语。
 English: He spends an hour studying Chinese every day.
-Pinyin: tā měi tiān dōu yào huā yī gè xiǎo shí xué xí hàn yǔ.
+Pinyin: tā měitiān dōu yào huā yī gè xiǎoshí xuéxí hànyǔ.
 
 Chinese: 她每天晚上都会阅读一会儿。
 English: She reads for a while every evening.
-Pinyin: tā měi tiān wǎn shàng dōu huì yuè dú yī huǐ ér.
-
-Chinese: 每天喝足够的水对健康很重要。
-English: Drinking enough water every day is very important for health.
-Pinyin: měi tiān hē zú gòu de shuǐ duì jiàn kāng hě
+Pinyin: tā měitiān wǎnshàng dōu huì yuèdú yīhuìr.
 
 Chinese: 我喜欢吃饺子。
 English: I like to eat dumplings.
@@ -68,11 +64,11 @@ Pinyin: wǒ men měi tiān xué xí zhōng wén.
 
 Chinese: 这个孩子每天都很开心。
 English: This child is happy every day.
-Pinyin: zhè ge hái zi měi tiān dōu hěn kāi xīn.
+Pinyin: zhège háizi měitiān dōu hěn kāixīn.
 
 Chinese: 每天都有新的机会。
 English: Every day brings new opportunities.
-Pinyin: měi tiān dōu yǒu xīn de jī huì.
+Pinyin: měitiān dōu yǒu xīn de jīhuì.
 
 Chinese: 我喜欢蓝色。
 English: I like the color blue.
@@ -84,7 +80,7 @@ Pinyin: fángjiān de qiángbì shì lán sè de.
 
 Chinese: 她穿了一条蓝色的裙子。
 English: She is wearing a blue dress.
-Pinyin: tā chuānle yì tiáo lán sè de qúnzi.
+Pinyin: Tā chuānle yī tiáo lán sè de qúnzi.
 
 Chinese: 这个画廊展示了许多蓝色的画作。
 English: This art gallery showcases many blue paintings.
@@ -260,11 +256,11 @@ Pinyin: wǒ yòu è yòu lèi.
 
 Chinese: 这个问题又简单又容易。
 English: This question is both simple and easy.
-Pinyin: zhè ge wèn tí yòu jiǎn dān yòu róng yì.
+Pinyin: zhège wèntí yòu jiǎndān yòu róngyì.
 
 Chinese: 他是又努力又聪明的学生。
 English: He is a hardworking and intelligent student.
-Pinyin: tā shì yòu nǔ lì yòu cōng míng de xué shēng.
+Pinyin: tā shì yòu nǔlì yòu cōngmíng de xuéshēng.
 
 Chinese: 我们是朋友。
 English: We are friends.
@@ -272,7 +268,7 @@ Pinyin: wǒmen shì péngyǒu.
 
 Chinese: 我们一起吃饭。
 English: We eat together.
-Pinyin: wǒmen yìqǐ chīfàn.
+Pinyin: wǒmen yīqǐ chīfàn.
 
 Chinese: 我们去公园玩。
 English: We go to the park to play.
@@ -356,11 +352,11 @@ Pinyin: nà gè nán hái hěn gāo.
 
 Chinese: 那个地方很美。
 English: That place is beautiful.
-Pinyin: nà gè dì fāng hěn měi.
+Pinyin: nàge dìfāng hěn měi.
 
 Chinese: 那些花很漂亮。
 English: Those flowers are beautiful.
-Pinyin: nà xiē huā hěn piào liang.
+Pinyin: nà xiē huā hěn piàoliang.
 
 Chinese: 那样做是不对的。
 English: That way of doing is not right.
@@ -380,7 +376,7 @@ Pinyin: zhè shì nǎge guójiā de guóqí?
 
 Chinese: 你去哪儿度假了？
 English: Where did you go for vacation?
-Pinyin: nǐ qù nǎ'er dùjià le?
+Pinyin: nǐ qù nǎr dùjià le?
 
 Chinese: 哪条路通往火车站？
 English: Which road leads to the train station?
