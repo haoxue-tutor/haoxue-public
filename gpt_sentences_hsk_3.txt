@@ -1,5 +1,5 @@
 Chinese: 我的阿姨是一位护士。
-Pinyin: Wǒ de āyí shì yí wèi hùshì.
+Pinyin: Wǒ de āyí shì yī wèi hùshì.
 English: My aunt is a nurse.
 
 Chinese: 那位阿姨正在做饭。
@@ -11,7 +11,7 @@ Pinyin: Wǒ qù bàifǎng le wǒ de āyí.
 English: I visited my aunt.
 
 Chinese: 阿姨给我买了一个礼物。
-Pinyin: Āyí gěi wǒ mǎi le yí ge lǐwù.
+Pinyin: Āyí gěi wǒ mǎi le yī gè lǐwù.
 English: Aunt bought me a gift.
 
 Chinese: 那个阿姨很友善。
@@ -167,7 +167,7 @@ Pinyin: Wǒmen shì tóng bān tóngxué.
 English: We are classmates in the same class.
 
 Chinese: 星期五我有下午班。
-Pinyin: Xīngqíwǔ wǒ yǒu xiàwǔ bān.
+Pinyin: Xīngqīwǔ wǒ yǒu xiàwǔ bān.
 English: I have an afternoon shift on Friday.
 
 Chinese: 我喜欢和我的班级朋友们一起玩。
@@ -195,7 +195,7 @@ Pinyin: Zuótiān tāmen bān le yī gè huāpíng.
 English: Yesterday they moved a vase.
 
 Chinese: 我等了半个小时。
-Pinyin: Wǒ děng le bàn ge xiǎoshí.
+Pinyin: Wǒ děng le bàn gè xiǎoshí.
 English: I waited for half an hour.
 
 Chinese: 他半夜才回家。
@@ -203,7 +203,7 @@ Pinyin: Tā bànyè cái huí jiā.
 English: He didn't come home until midnight.
 
 Chinese: 她的生日还有半个月。
-Pinyin: Tā de shēngrì hái yǒu bàn ge yuè.
+Pinyin: Tā de shēngrì hái yǒu bàn gè yuè.
 English: Her birthday is still half a month away.
 
 Chinese: 我还差半块钱。
@@ -615,7 +615,7 @@ Pinyin: Bīnguǎn de fúwùyuán hěn yǒuhǎo.
 English: The hotel staff are very friendly.
 
 Chinese: 我家里有一个冰箱。
-Pinyin: Wǒ jiālǐ yǒu yī ge bīngxiāng.
+Pinyin: Wǒ jiālǐ yǒu yī gè bīngxiāng.
 English: There is a refrigerator in my house.
 
 Chinese: 冰箱里的食物都坏了。
@@ -635,11 +635,11 @@ Pinyin: Bīngxiāng lǐ yǒu hěnduō bīngkuài.
 English: There are a lot of ice cubes in the refrigerator.
 
 Chinese: 请给我一份菜单。
-Pinyin: Qǐng gěi wǒ yí fèn càidān.
+Pinyin: Qǐng gěi wǒ yī fèn càidān.
 English: Please give me a menu.
 
 Chinese: 我想看一下菜单。
-Pinyin: Wǒ xiǎng kàn yí xià càidān.
+Pinyin: Wǒ xiǎng kàn yī xià càidān.
 English: I want to have a look at the menu.
 
 Chinese: 这个菜单上有什么菜？
@@ -687,7 +687,7 @@ Pinyin: Tā xǐhuān zài shìwài bǎifàng yīxiē cǎo.
 English: He likes placing some grass outdoors.
 
 Chinese: 请不要踩坏草。
-Pinyin: Qǐng búyào cǎi huài cǎo.
+Pinyin: Qǐng bùyào cǎi huài cǎo.
 English: Please do not step on the grass.
 
 Chinese: 这片草地每天都需要浇水。
@@ -703,7 +703,7 @@ Pinyin: Zhège shūjià yǒu wǔ céng.
 English: This bookshelf has five layers.
 
 Chinese: 这座建筑有三十层高。
-Pinyin: Zhè zuò jiànzhú yǒu sānshí céng gāo.
+Pinyin: Zhè zuò jiànzhù yǒu sānshí céng gāo.
 English: This building is thirty stories tall.
 
 Chinese: 这个塔有七层楼。
@@ -875,7 +875,7 @@ Pinyin: Zhè zhǒng cǎodì shàng chángcháng chūxiàn yěhuā.
 English: Wild flowers often appear on this kind of grassland.
 
 Chinese: 我们不知道他为什么突然出现。
-Pinyin: Wǒmen bù zhīdào tā wèishéme túrán chūxiàn.
+Pinyin: Wǒmen bù zhīdào tā wèishénme tūrán chūxiàn.
 English: We don't know why he suddenly appeared.
 
 Chinese: 这个问题在考试中经常出现。
@@ -883,7 +883,7 @@ Pinyin: Zhège wèntí zài kǎoshì zhōng jīngcháng chūxiàn.
 English: This question frequently appears in the exam.
 
 Chinese: 昨天晚上在电视上出现了一个很有趣的新闻报道。
-Pinyin: Zuótiān wǎnshàng zài diànshì shàng chūxiànle yīgè hěn yǒuqù de xīnwén bàodǎo.
+Pinyin: Zuótiān wǎnshàng zài diànshì shàng chūxiàn le yī gè hěn yǒuqù de xīnwén bàodào.
 English: An interesting news report appeared on TV last night.
 
 Chinese: 她从不知道什么时候会有一个好的机会出现在她面前。
@@ -951,7 +951,7 @@ Pinyin: Zhè sōu huòchuán zhuāng mǎn le huòwù.
 English: This cargo ship is filled with goods.
 
 Chinese: 他们一起在河上划船。
-Pinyin: Tāmen yìqǐ zài hé shàng huá chuán.
+Pinyin: Tāmen yīqǐ zài hé shàng huá chuán.
 English: They are rowing a boat together on the river.
 
 Chinese: 春天是我最喜欢的季节。
@@ -1079,7 +1079,7 @@ Pinyin: Dàjiā hǎo.
 English: Hello, everyone.
 
 Chinese: 大家一起来玩吧。
-Pinyin: Dàjiā yìqǐ lái wán ba.
+Pinyin: Dàjiā yīqǐ lái wán ba.
 English: Let's all play together.
 
 Chinese: 大家的答案都是正确的。
@@ -1271,7 +1271,7 @@ Pinyin: Qǐngwèn zuìjìn de dìtiě zhàn zài nǎlǐ?
 English: Excuse me, where is the nearest subway station?
 
 Chinese: 地铁上的人很多，尤其是在早晚高峰时段。
-Pinyin: Dìtiě shàng de rén hěnduō, yóuqí shì zài zǎowǎn gāofēng shídùan.
+Pinyin: Dìtiě shàng de rén hěn duō, yóu qí shì zài zǎo wǎn gāofēng shíduàn.
 English: There are many people on the subway, especially during rush hours in the morning and evening.
 
 Chinese: 我喜欢看地图。
@@ -1279,7 +1279,7 @@ Pinyin: Wǒ xǐhuān kàn dìtú.
 English: I like looking at maps.
 
 Chinese: 这张地图很详细。
-Pinyin: Zhè zhāng dìtú hěn xiángxi.
+Pinyin: Zhè zhāng dìtú hěn xiángxì.
 English: This map is very detailed.
 
 Chinese: 请给我一张城市地图。
