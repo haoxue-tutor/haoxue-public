@@ -124,7 +124,7 @@ Pinyin: zuò zài yìng yǐzi shàng yǒu shí huì gǎndào pìgu suāntòng.
 
 Chinese: 她久坐不动，屁股都麻了。
 English: She sat for too long and her butt went numb.
-Pinyin: tā jiǔ zuò bù dòng, pìgu dōu má
+Pinyin: tā jiǔ zuò bù dòng, pìgu dōu má le.
 
 Chinese: 他是医生。
 English: He is a doctor.
