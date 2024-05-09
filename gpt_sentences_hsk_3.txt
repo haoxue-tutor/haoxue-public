@@ -1647,7 +1647,7 @@ Pinyin: Míngtiān wǒmen yào jízhōng fùxí shùxué.
 English: Tomorrow we will focus on reviewing math.
 
 Chinese: 我每周都会复习上一周学过的知识。
-Pinyin: Wǒ měi zhōu dōu huì fùxí shàng yī zhōu xuéguò de zhīshì.
+Pinyin: Wǒ měi zhōu dōu huì fùxí shàng yī zhōu xuéguò de zhīshi.
 English: I review the knowledge I learned in the previous week every week.
 
 Chinese: 请把房间打扫干净。
@@ -1863,7 +1863,7 @@ Pinyin: Tā hé lǎobǎn guānxì hěn hǎo.
 English: He has a good relationship with the boss.
 
 Chinese: 请关掉电视。
-Pinyin: Qǐng guān diàntī.
+Pinyin: Qǐng guāndiào diànshì.
 English: Please turn off the TV.
 
 Chinese: 这个琴很难关。
@@ -1903,7 +1903,7 @@ Pinyin: Wǒ men yīng gāi guān xīn lǎo nián rén de shēng huó zhuàng ku�
 English: We should be concerned about the living conditions of the elderly.
 
 Chinese: 这个组织致力于关心动物权益。
-Pinyin: Zhè ge zǔ zhī zhì lì yú guān xīn dòng wù quán yì.
+Pinyin: Zhège zǔ zhī zhì lì yú guān xīn dòng wù quán yì.
 English: This organization is dedicated to caring for animal rights.
 
 Chinese: 医生对病人的康复过程非常关心。
@@ -1939,7 +1939,7 @@ Pinyin: Zhège guójiā de rénmín hěn yǒuhǎo.
 English: The people of this country are very friendly.
 
 Chinese: 我想去一个新的国家旅行。
-Pinyin: Wǒ xiǎng qù yígè xīn de guójiā lǚxíng.
+Pinyin: Wǒ xiǎng qù yīgè xīn de guójiā lǚxíng.
 English: I want to travel to a new country.
 
 Chinese: 这个国家有着悠久的历史。
@@ -2043,11 +2043,11 @@ Pinyin: Héliú jīngguò cūnzhuāng.
 English: The river flows through the village.
 
 Chinese: 我们搭起了一座桥，横跨在河上。
-Pinyin: Wǒmen dāqǐle yí zuò qiáo, héng kuà zài hé shàng.
+Pinyin: Wǒmen dāqǐle yī zuò qiáo, héng kuà zài hé shàng.
 English: We built a bridge that spans across the river.
 
 Chinese: 我在学校看到一个黑板。
-Pinyin: Wǒ zài xuéxiào kàndào yī ge hēibǎn.
+Pinyin: Wǒ zài xuéxiào kàndào yī gè hēibǎn.
 English: I saw a blackboard at school.
 
 Chinese: 老师写了很多字在黑板上。
@@ -2083,7 +2083,7 @@ Pinyin: Tā de hùzhào xūyào xùqiān.
 English: His passport needs to be renewed.
 
 Chinese: 我需要办理一个新的护照。
-Pinyin: Wǒ xūyào bànlǐ yí gè xīn de hùzhào.
+Pinyin: Wǒ xūyào bànlǐ yī gè xīn de hùzhào.
 English: I need to apply for a new passport.
 
 Chinese: 这朵花很漂亮。
@@ -2131,7 +2131,7 @@ Pinyin: Māmā zài huà huà.
 English: Mom is painting.
 
 Chinese: 这幅画很漂亮。
-Pinyin: Zhè fú huà hěn piào liang.
+Pinyin: Zhè fú huà hěn piàoliang.
 English: This painting is beautiful.
 
 Chinese: 弟弟会画一只猫。
@@ -2223,7 +2223,7 @@ Pinyin: Tā hěn kuài de huídá le wǒ de wèntí.
 English: She quickly answered my question.
 
 Chinese: 我们期待着你的回答。
-Pinyin: Wǒmen qídài zhe nǐ de huídá.
+Pinyin: Wǒmen qīdài zhe nǐ de huídá.
 English: We are waiting for your answer.
 
 Chinese: 明天我们有一个重要的会议。
@@ -2351,7 +2351,7 @@ Pinyin: Zhè dào tí hěn jí jiǎn.
 English: This problem is very simple.
 
 Chinese: 这次行动是秘密进行的，极为危险。
-Pinyin: Zhè cì xíngdòng shì mìmì jìnxíng de, jíwéi wéixiǎn.
+Pinyin: Zhè cì xíngdòng shì mìmì jìnxíng de, jíwéi wēixiǎn.
 English: This operation was carried out in secrecy and was extremely dangerous.
 
 Chinese: 这个电影里有一些极有趣的情节。
@@ -2415,7 +2415,7 @@ Pinyin: Wǒmen míngtiān yào qù tā jiā.
 English: We are going to her house tomorrow.
 
 Chinese: 星期天我在家休息。
-Pinyin: Xīngqítiān wǒ zài jiā xiūxi.
+Pinyin: Xīngqītiān wǒ zài jiā xiūxi.
 English: I am resting at home on Sunday.
 
 Chinese: 我的家离学校很远。
@@ -2623,19 +2623,19 @@ Pinyin: Zhège jiémù měi zhōu bōchū yīcì.
 English: This program airs once a week.
 
 Chinese: 明天是一个重要的节日。
-Pinyin: Míngtiān shì yí ge zhòngyào de jiérì.
+Pinyin: Míngtiān shì yī gè zhòngyào de jiérì.
 English: Tomorrow is an important festival.
 
 Chinese: 我们每年都会庆祝这个节日。
-Pinyin: Wǒmen měinián dōu huì qìngzhù zhè ge jiérì.
+Pinyin: Wǒmen měinián dōu huì qìngzhù zhège jiérì.
 English: We celebrate this festival every year.
 
 Chinese: 大家都很期待这个节日的到来。
-Pinyin: Dàjiā dōu hěn qídài zhè ge jiérì de dàolái.
+Pinyin: Dàjiā dōu hěn qīdài zhège jiérì de dàolái.
 English: Everyone is looking forward to the arrival of this festival.
 
 Chinese: 这个节日是全家人团聚的时候。
-Pinyin: Zhè ge jiérì shì quánjiā rén tuánjù de shíhòu.
+Pinyin: Zhège jiérì shì quánjiā rén tuánjù de shíhòu.
 English: This festival is a time for family reunion.
 
 Chinese: 节日里人们经常互相赠送礼物。
@@ -2771,7 +2771,7 @@ Pinyin: Tā shì wǒ jiǔwéi de péngyǒu.
 English: He is a long-lost friend of mine.
 
 Chinese: 我们一起共事已久。
-Pinyin: Wǒmen yìqǐ gòngshì yǐjiǔ.
+Pinyin: Wǒmen yīqǐ gòngshì yǐjiǔ.
 English: We have been working together for a long time.
 
 Chinese: 他久久不能忘怀。
@@ -2995,11 +2995,11 @@ Pinyin: Tā dà kǒu chī le qǐlái.
 English: He started to eat with big bites.
 
 Chinese: 这个包裹要怎么寄出去？
-Pinyin: Zhège bāoguǒ yào zěnme jì chūqu?
+Pinyin: Zhège bāoguǒ yào zěnme jì chūqù?
 English: How should this package be mailed out?
 
 Chinese: 我喜欢穿牛仔裤子。
-Pinyin: Wǒ xǐhuan chuān niúzǎikù.
+Pinyin: Wǒ xǐhuan chuān niúzǎi kùzi.
 English: I like to wear jeans.
 
 Chinese: 我弟弟长了一条新的裤子。
@@ -3087,7 +3087,7 @@ Pinyin: Tā liànxí zuò yújiā.
 English: She practices doing yoga.
 
 Chinese: 学生们练习写汉字。
-Pinyin: Xuéshēngmen liànxí xiě hànzi.
+Pinyin: Xuéshēngmen liànxí xiě hànzì.
 English: The students practice writing Chinese characters.
 
 Chinese: 这本书是练习英语口语的。
@@ -3119,7 +3119,7 @@ Pinyin: Wǒ xǐhuān lǚyóu.
 English: I like to travel.
 
 Chinese: 我们正在计划下一个旅游。
-Pinyin: Wǒmen zhèngzài jìhuà xià yí ge lǚyóu.
+Pinyin: Wǒmen zhèngzài jìhuà xià yī gè lǚyóu.
 English: We are planning our next trip.
 
 Chinese: 明年我想去旅游。
@@ -3127,7 +3127,7 @@ Pinyin: Míngnián wǒ xiǎng qù lǚyóu.
 English: I want to travel next year.
 
 Chinese: 旅游对我来说是一种放松方式。
-Pinyin: Lǚyóu duì wǒ lái shuō shì yì zhǒng fàngsōng fāngshì.
+Pinyin: Lǚyóu duì wǒ lái shuō shì yī zhǒng fàngsōng fāngshì.
 English: Traveling is a way for me to relax.
 
 Chinese: 他们在旅游中结识了很多新朋友。
@@ -3167,7 +3167,7 @@ Pinyin: Nǐ duì zhè bù diànyǐng mǎnyì ma?
 English: Are you satisfied with this movie?
 
 Chinese: 她得到了一个满意的成绩。
-Pinyin: Tā dédào le yí gè mǎnyì de chéngjī.
+Pinyin: Tā dédào le yī gè mǎnyì de chéngjì.
 English: She achieved a satisfactory result.
 
 Chinese: 这个产品的质量得到了顾客的满意和认可。
@@ -3183,7 +3183,7 @@ Pinyin: Tā diū le màozi.
 English: He lost his hat.
 
 Chinese: 她买了一顶新帽子。
-Pinyin: Tā mǎi le yí dǐng xīn màozi.
+Pinyin: Tā mǎi le yī dǐng xīn màozi.
 English: She bought a new hat.
 
 Chinese: 请帮我拿一下帽子。
@@ -3551,7 +3551,7 @@ Pinyin: Qíshí tā zhǐshì kāiwánxiào.
 English: Actually, she was just joking.
 
 Chinese: 其实他只是不好意思说出来。
-Pinyin: Qíshí tā zhǐshì bùhǎoyìsi shuōchūlai.
+Pinyin: Qíshí tā zhǐshì bùhǎoyìsi shuōchūlái.
 English: Actually, he was just too embarrassed to say it out loud.
 
 Chinese: 其实我不饿。
@@ -3607,7 +3607,7 @@ Pinyin: Tā qí mótuōchē qù shàngbān.
 English: He rides a motorcycle to work.
 
 Chinese: 我不会骑摩托车。
-Pinyin: Wǒ bú huì qí mótuōchē.
+Pinyin: Wǒ bùhuì qí mótuōchē.
 English: I can't ride a motorcycle.
 
 Chinese: 妹妹喜欢骑脚踏车。
@@ -3719,7 +3719,7 @@ Pinyin: Wǒmen xūyào qián mǎi dōngxi.
 English: We need money to buy things.
 
 Chinese: 这个包包很贵，要花很多钱。
-Pinyin: Zhège bāobao hěn guì, yào huā hěn duō qián.
+Pinyin: Zhège bāobāo hěn guì, yào huā hěn duō qián.
 English: This handbag is expensive, it requires a lot of money.
 
 Chinese: 他的工作很好，赚了很多钱。
@@ -3727,11 +3727,11 @@ Pinyin: Tā de gōngzuò hěn hǎo, zhuànle hěn duō qián.
 English: His job is good, he earned a lot of money.
 
 Chinese: 我找到了一张钱。
-Pinyin: Wǒ zhǎodàole yì zhāng qián.
+Pinyin: Wǒ zhǎodàole yī zhāng qián.
 English: I found a coin.
 
 Chinese: 她给了我一些钱。
-Pinyin: Tā gěile wǒ yìxiē qián.
+Pinyin: Tā gěile wǒ yīxiē qián.
 English: She gave me some money.
 
 Chinese: 这是我存的全部钱。
@@ -3743,7 +3743,7 @@ Pinyin: Wǒ yào qù yínháng qǔ xiē qián.
 English: I am going to the bank to withdraw some money.
 
 Chinese: 你能借我一些钱吗？
-Pinyin: Nǐ néng jiè wǒ yìxiē qián ma?
+Pinyin: Nǐ néng jiè wǒ yīxiē qián ma?
 English: Can you lend me some money?
 
 Chinese: 明天我会拿钱给你。
@@ -3751,7 +3751,7 @@ Pinyin: Míngtiān wǒ huì ná qián gěi nǐ.
 English: I will bring you the money tomorrow.
 
 Chinese: 我们需要计算一下花了多少钱。
-Pinyin: Wǒmen xūyào jìsuàn yíxià huāle duōshǎo qián.
+Pinyin: Wǒmen xūyào jìsuàn yīxià huāle duōshǎo qián.
 English: We need to calculate how much money was spent.
 
 Chinese: 他对她很热情。
@@ -3923,7 +3923,7 @@ Pinyin: Tā měitiān huā hěnduō shíjiān shàngwǎng.
 English: He spends a lot of time online every day.
 
 Chinese: 上网可以学到很多新知识。
-Pinyin: Shàngwǎng kěyǐ xué dào hěnduō xīn zhīshì.
+Pinyin: Shàngwǎng kěyǐ xué dào hěnduō xīn zhīshi.
 English: You can learn a lot of new knowledge online.
 
 Chinese: 我喜欢在公共场所上网。
@@ -3959,7 +3959,7 @@ Pinyin: Tā shēngqì de zǒuchū fángjiān.
 English: He angrily walked out of the room.
 
 Chinese: 她每次生气都会大声嚷嚷。
-Pinyin: Tā měi cì shēngqì dōu huì dàshēng rǎngrang.
+Pinyin: Tā měi cì shēngqì dōu huì dàshēng rāngrang.
 English: Every time she gets angry, she will shout loudly.
 
 Chinese: 我们的邻居看起来很生气。
@@ -4179,7 +4179,7 @@ Pinyin: Tā kàn qǐlái bǐ tā de zhàopiàn shòu hěnduō.
 English: She looks much thinner than in her photos.
 
 Chinese: 这个衣架太瘦，挂不住衣服。
-Pinyin: Zhège yī jià tài shòu, guà bu zhù yīfu.
+Pinyin: Zhège yī jià tài shòu, guà bù zhù yīfu.
 English: This clothes hanger is too slim, it can't hold the clothes.
 
 Chinese: 她因为生病而瘦了下来。
