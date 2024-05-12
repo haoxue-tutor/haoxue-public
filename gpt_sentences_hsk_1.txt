@@ -1,6 +1,6 @@
 Chinese: 我是学生。
 English: I am a student.
-Pinyin: wǒ shì xuéshēng.
+Pinyin: wǒ shì xuésheng.
 
 Chinese: 明天我会去图书馆。
 English: I will go to the library tomorrow.
@@ -20,7 +20,7 @@ Pinyin: wǒ xiǎng chī zhōngcān.
 
 Chinese: 每天早上我都会跑步。
 English: I go running every morning.
-Pinyin: měitiān zǎoshang wǒ dōu huì pǎo bù.
+Pinyin: měitiān zǎoshang wǒ dōu huì pǎobù.
 
 Chinese: 他每天都要花一个小时学习汉语。
 English: He spends an hour studying Chinese every day.
@@ -28,11 +28,11 @@ Pinyin: tā měitiān dōu yào huā yī gè xiǎoshí xuéxí hànyǔ.
 
 Chinese: 她每天晚上都会阅读一会儿。
 English: She reads for a while every evening.
-Pinyin: tā měitiān wǎnshàng dōu huì yuèdú yīhuìr.
+Pinyin: tā měitiān wǎnshang dōu huì yuèdú yīhuìr.
 
 Chinese: 我喜欢吃饺子。
 English: I like to eat dumplings.
-Pinyin: wǒ xǐhuān chī jiǎozi.
+Pinyin: wǒ xǐhuan chī jiǎozi.
 
 Chinese: 我会说汉语。
 English: I can speak Chinese.
@@ -40,7 +40,7 @@ Pinyin: wǒ huì shuō hànyǔ.
 
 Chinese: 我的名字是李明。
 English: My name is Li Ming.
-Pinyin: wǒ de míngzì shì Lǐ Míng.
+Pinyin: wǒ de míngzi shì Lǐ Míng.
 
 Chinese: 我的家乡在北京。
 English: My hometown is in Beijing.
@@ -52,15 +52,15 @@ Pinyin: wǒ jīntiān hěn máng.
 
 Chinese: 我每天都喝咖啡。
 English: I drink coffee every day.
-Pinyin: wǒ měi tiān dōu hē kāfēi.
+Pinyin: wǒ měitiān dōu hē kāfēi.
 
 Chinese: 他每天锻炼身体。
 English: He exercises every day.
-Pinyin: tā měi tiān duàn liàn shēn tǐ.
+Pinyin: tā měitiān duàn liàn shēn tǐ.
 
 Chinese: 我们每天学习中文。
 English: We study Chinese every day.
-Pinyin: wǒ men měi tiān xué xí zhōng wén.
+Pinyin: wǒ men měitiān xué xí zhōng wén.
 
 Chinese: 这个孩子每天都很开心。
 English: This child is happy every day.
@@ -72,7 +72,7 @@ Pinyin: měitiān dōu yǒu xīn de jīhuì.
 
 Chinese: 我喜欢蓝色。
 English: I like the color blue.
-Pinyin: wǒ xǐhuān lán sè.
+Pinyin: wǒ xǐhuan lán sè.
 
 Chinese: 房间的墙壁是蓝色的。
 English: The walls of the room are blue.
@@ -104,7 +104,7 @@ Pinyin: zhè shuāng wàzi hěn shūfú.
 
 Chinese: 我喜欢穿彩色的袜子。
 English: I like to wear colorful socks.
-Pinyin: wǒ xǐhuān chuān cǎisè de wàzi.
+Pinyin: wǒ xǐhuan chuān cǎisè de wàzi.
 
 Chinese: 穿袜子可以保暖。
 English: Wearing socks can keep you warm.
@@ -116,7 +116,7 @@ Pinyin: tā shuāi dǎo le, téng dào pìgu shàng le.
 
 Chinese: 孩子生气时喜欢拍打屁股。
 English: Children tend to slap their bottoms when they are angry.
-Pinyin: háizi shēngqì shí xǐhuān pāidǎ pìgu.
+Pinyin: háizi shēngqì shí xǐhuan pāidǎ pìgu.
 
 Chinese: 坐在硬椅子上有时会感到屁股酸痛。
 English: Sitting on a hard chair sometimes makes your butt sore.
@@ -168,7 +168,7 @@ Pinyin: bié mō wǒ de bízi.
 
 Chinese: 我喜欢吃苹果。
 English: I like to eat apples.
-Pinyin: wǒ xǐhuān chī píngguǒ.
+Pinyin: wǒ xǐhuan chī píngguǒ.
 
 Chinese: 他买了一个大苹果。
 English: He bought a big apple.
@@ -208,7 +208,7 @@ Pinyin: wǒ bǐ tā zǎo dào shí fēnzhōng.
 
 Chinese: 我喜欢我的工作。
 English: I like my job.
-Pinyin: wǒ xǐhuān wǒ de gōngzuò.
+Pinyin: wǒ xǐhuan wǒ de gōngzuò.
 
 Chinese: 你的工作很有挑战性。
 English: Your job is very challenging.
@@ -228,15 +228,15 @@ Pinyin: tā de gōngzuò hěn wěndìng.
 
 Chinese: 我喜欢吃中国菜。
 English: I like to eat Chinese food.
-Pinyin: wǒ xǐhuān chī zhōngguó cài.
+Pinyin: wǒ xǐhuan chī zhōngguó cài.
 
 Chinese: 我每天都去图书馆。
 English: I go to the library every day.
-Pinyin: wǒ měi tiān dōu qù túshūguǎn.
+Pinyin: wǒ měitiān dōu qù túshūguǎn.
 
 Chinese: 我是一名学生。
 English: I am a student.
-Pinyin: wǒ shì yī míng xuéshēng.
+Pinyin: wǒ shì yī míng xuésheng.
 
 Chinese: 他是我的朋友，我信任他。
 English: He is my friend, I trust him.
@@ -260,7 +260,7 @@ Pinyin: zhège wèntí yòu jiǎndān yòu róngyì.
 
 Chinese: 他是又努力又聪明的学生。
 English: He is a hardworking and intelligent student.
-Pinyin: tā shì yòu nǔlì yòu cōngmíng de xuéshēng.
+Pinyin: tā shì yòu nǔlì yòu cōngmíng de xuésheng.
 
 Chinese: 我们是朋友。
 English: We are friends.
@@ -308,7 +308,7 @@ Pinyin: nǐmen hǎo ma?
 
 Chinese: 你们喜欢中国菜吗？
 English: Do you all like Chinese food?
-Pinyin: nǐmen xǐhuān zhōngguó cài ma?
+Pinyin: nǐmen xǐhuan zhōngguó cài ma?
 
 Chinese: 你们是哪国人？
 English: What country are you all from?
@@ -475,7 +475,7 @@ Pinyin: Wǒ yào mǎi yī bēi kāfēi.
 English: I want to buy a cup of coffee.
 
 Chinese: 我每天都要锻炼一小时。
-Pinyin: Wǒ měi tiān dōu yào duàn liàn yī xiǎo shí.
+Pinyin: Wǒ měitiān dōu yào duàn liàn yī xiǎo shí.
 English: I exercise for one hour every day.
 
 Chinese: 我请你吃一块蛋糕。
@@ -503,7 +503,7 @@ Pinyin: Zhè zhī shǒubiǎo shòujià liǎng qiān yuán.
 English: This watch is priced at two thousand yuan.
 
 Chinese: 我不喜欢吃辣。
-Pinyin: wǒ bù xǐhuān chī là.
+Pinyin: wǒ bù xǐhuan chī là.
 English: I don't like to eat spicy food.
 
 Chinese: 这本书不贵。
@@ -555,7 +555,7 @@ Pinyin: tā zài túshū guǎn jiè le yī běn xiǎoshuō.
 English: He borrowed a novel from the library.
 
 Chinese: 有些人不喜欢吃辣。
-Pinyin: yǒu xiē rén bù xǐhuān chī là.
+Pinyin: yǒu xiē rén bù xǐhuan chī là.
 English: Some people don't like spicy food.
 
 Chinese: 我需要一些帮助。
@@ -583,7 +583,7 @@ Pinyin: Tā ná chū yī kuài qiǎokèlì.
 English: He took out a piece of chocolate.
 
 Chinese: 我每天锻炼一块小时。
-Pinyin: Wǒ měi tiān duànliàn yī kuài xiǎoshí.
+Pinyin: Wǒ měitiān duànliàn yī kuài xiǎoshí.
 English: I exercise for an hour every day.
 
 Chinese: 请给我五块纸。
@@ -667,7 +667,7 @@ Pinyin: wǒmen dōu qù guò Běijīng.
 English: We have all been to Beijing.
 
 Chinese: 他们都是学生。
-Pinyin: tāmen dōu shì xuéshēng.
+Pinyin: tāmen dōu shì xuésheng.
 English: They are all students.
 
 Chinese: 天气太热了。
@@ -759,7 +759,7 @@ Pinyin: zhè shì shéi de shū ne?
 English: Whose book is this?
 
 Chinese: 你喜欢什么颜色呢？
-Pinyin: nǐ xǐhuān shénme yánsè ne?
+Pinyin: nǐ xǐhuan shénme yánsè ne?
 English: What color do you like?
 
 Chinese: 去哪里玩呢？
@@ -783,7 +783,7 @@ Pinyin: wǒ de xuéxiào hěn dà.
 English: My school is big.
 
 Chinese: 学校里有很多学生。
-Pinyin: xuéxiào lǐ yǒu hěn duō xuéshēng.
+Pinyin: xuéxiào lǐ yǒu hěn duō xuésheng.
 English: There are many students in the school.
 
 Chinese: 明天我要去学校。
@@ -983,7 +983,7 @@ Pinyin: shāngdiàn hòumiàn yǒu yīgè gōngyuán.
 English: There is a park behind the store.
 
 Chinese: 他喜欢独自坐在教室后面。
-Pinyin: tā xǐhuān dúzì zuò zài jiàoshì hòumiàn.
+Pinyin: tā xǐhuan dúzì zuò zài jiàoshì hòumiàn.
 English: He likes to sit alone at the back of the classroom.
 
 Chinese: 书包里面有一本书。
@@ -1055,7 +1055,7 @@ Pinyin: Zuótiān tiānqì hěn zāogāo.
 English: The weather was terrible yesterday.
 
 Chinese: 我昨天晚上没睡好。
-Pinyin: Wǒ zuótiān wǎnshàng méi shuì hǎo.
+Pinyin: Wǒ zuótiān wǎnshang méi shuì hǎo.
 English: I didn't sleep well last night.
 
 Chinese: 昨天我忘了带手机。
@@ -1063,11 +1063,11 @@ Pinyin: Zuótiān wǒ wàng le dài shǒujī.
 English: I forgot to bring my phone yesterday.
 
 Chinese: 我昨天晚上在家看电视。
-Pinyin: Wǒ zuótiān wǎnshàng zài jiā kàn diànshì.
+Pinyin: Wǒ zuótiān wǎnshang zài jiā kàn diànshì.
 English: I watched TV at home last night.
 
 Chinese: 我喜欢上午锻炼身体。
-Pinyin: wǒ xǐhuān shàngwǔ duànliàn shēntǐ.
+Pinyin: wǒ xǐhuan shàngwǔ duànliàn shēntǐ.
 English: I like to exercise in the morning.
 
 Chinese: 上午九点是我们的会议时间。
@@ -1079,7 +1079,7 @@ Pinyin: tā měitiān shàngwǔ shíyī diǎn qù shàngkè.
 English: He goes to class at eleven in the morning every day.
 
 Chinese: 我喜欢在上午阅读。
-Pinyin: wǒ xǐhuān zài shàngwǔ yuèdú.
+Pinyin: wǒ xǐhuan zài shàngwǔ yuèdú.
 English: I like to read in the morning.
 
 Chinese: 上午通常是我最有精力的时候。
@@ -1123,7 +1123,7 @@ Pinyin: xīngqīwǔ de xiàwǔ hěn máng.
 English: Friday afternoon is busy.
 
 Chinese: 我喜欢在下午散步。
-Pinyin: wǒ xǐhuān zài xiàwǔ sànbù.
+Pinyin: wǒ xǐhuan zài xiàwǔ sànbù.
 English: I like to take a walk in the afternoon.
 
 Chinese: 今年是兔年。
@@ -1279,11 +1279,11 @@ Pinyin: Wǒ bàba měitiān dōu kāichē shàngbān.
 English: My father drives to work every day.
 
 Chinese: 我爸爸喜欢看足球比赛。
-Pinyin: Wǒ bàba xǐhuān kàn zúqiú bǐsài.
+Pinyin: Wǒ bàba xǐhuan kàn zúqiú bǐsài.
 English: My father likes to watch soccer games.
 
 Chinese: 昨天晚上我和爸爸一起散步。
-Pinyin: Zuótiān wǎnshàng wǒ hé bàba yīqǐ sànbù.
+Pinyin: Zuótiān wǎnshang wǒ hé bàba yīqǐ sànbù.
 English: Yesterday evening, I went for a walk with my father.
 
 Chinese: 妈妈做了一顿丰盛的晚饭。
@@ -1311,7 +1311,7 @@ Pinyin: Tā de érzi hěn cōngmíng.
 English: His son is very clever.
 
 Chinese: 我的儿子喜欢画画。
-Pinyin: Wǒ de érzi xǐhuān huàhuà.
+Pinyin: Wǒ de érzi xǐhuan huàhuà.
 English: My son likes to draw.
 
 Chinese: 他的儿子这个月十岁了。
@@ -1347,7 +1347,7 @@ Pinyin: wǒ de nǚ ér fēi cháng cōng míng.
 English: My daughter is very smart.
 
 Chinese: 我喜欢我的老师。
-Pinyin: wǒ xǐhuān wǒ de lǎoshī.
+Pinyin: wǒ xǐhuan wǒ de lǎoshī.
 English: I like my teacher.
 
 Chinese: 这位老师教得很好。
@@ -1367,19 +1367,19 @@ Pinyin: wǒ xīwàng jiānglái néng chéngwéi yīmíng lǎoshī.
 English: I hope to become a teacher in the future.
 
 Chinese: 我是一名学生。
-Pinyin: wǒ shì yī míng xuéshēng.
+Pinyin: wǒ shì yī míng xuésheng.
 English: I am a student.
 
 Chinese: 她是一位好学生。
-Pinyin: tā shì yī wèi hǎo xuéshēng.
+Pinyin: tā shì yī wèi hǎo xuésheng.
 English: She is a good student.
 
 Chinese: 这个班有三十个学生。
-Pinyin: zhè gè bān yǒu sānshí gè xuéshēng.
+Pinyin: zhè gè bān yǒu sānshí gè xuésheng.
 English: This class has thirty students.
 
 Chinese: 我的朋友都是学生。
-Pinyin: wǒ de péngyǒu dōu shì xuéshēng.
+Pinyin: wǒ de péngyǒu dōu shì xuésheng.
 English: All of my friends are students.
 
 Chinese: 我们在学校学生活。
@@ -1435,7 +1435,7 @@ Pinyin: wǒ dì dì xiǎng chéng wéi yī míng yī shēng.
 English: My younger brother wants to become a doctor.
 
 Chinese: 医生每天都在救助病人的生命。
-Pinyin: yī shēng měi tiān dōu zài jiù zhù bìng rén de shēng mìng.
+Pinyin: yī shēng měitiān dōu zài jiù zhù bìng rén de shēng mìng.
 English: Doctors save lives every day.
 
 Chinese: 我们应该尊重医生的工作。
@@ -1491,7 +1491,7 @@ Pinyin: zhè jiàn yīfu hěn piàoliang.
 English: This clothing is very beautiful.
 
 Chinese: 我喜欢穿舒服的衣服。
-Pinyin: wǒ xǐhuān chuān shūfu de yīfu.
+Pinyin: wǒ xǐhuan chuān shūfu de yīfu.
 English: I like to wear comfortable clothing.
 
 Chinese: 她买了一件新衣服。
@@ -1527,7 +1527,7 @@ Pinyin: Bùyào làngfèi shuǐ zīyuán, yào jiéyuē yòngshuǐ.
 English: Don't waste water resources, save water.
 
 Chinese: 我喜欢吃蔬菜。
-Pinyin: Wǒ xǐhuān chī shūcài.
+Pinyin: Wǒ xǐhuan chī shūcài.
 English: I like to eat vegetables.
 
 Chinese: 这家饭馆的菜很好吃。
@@ -1547,7 +1547,7 @@ Pinyin: Zhè dào cài shì tā zuò de.
 English: This dish was made by him.
 
 Chinese: 我喜欢吃米饭。
-Pinyin: Wǒ xǐhuān chī mǐfàn.
+Pinyin: Wǒ xǐhuan chī mǐfàn.
 English: I like to eat rice.
 
 Chinese: 你想吃米饭吗？
@@ -1567,7 +1567,7 @@ Pinyin: Zhǔ mǐfàn xūyào duō chángshíjiān?
 English: How long does it take to cook rice?
 
 Chinese: 我喜欢吃水果。
-Pinyin: Wǒ xǐhuān chī shuǐguǒ.
+Pinyin: Wǒ xǐhuan chī shuǐguǒ.
 English: I like to eat fruit.
 
 Chinese: 这是一个苹果。
@@ -1579,7 +1579,7 @@ Pinyin: Chéngzi shì gānjú de yī zhǒng.
 English: Oranges are a kind of citrus fruit.
 
 Chinese: 我最喜欢的水果是草莓。
-Pinyin: Wǒ zuì xǐhuān de shuǐguǒ shì cǎoméi.
+Pinyin: Wǒ zuì xǐhuan de shuǐguǒ shì cǎoméi.
 English: My favorite fruit is strawberries.
 
 Chinese: 这个水果摊上有好多种水果。
@@ -1599,7 +1599,7 @@ Pinyin: Wǒ zuótiān mǎi le yīxiē shuǐguǒ.
 English: I bought some fruits yesterday.
 
 Chinese: 橘子是我最喜欢的水果之一。
-Pinyin: Júzi shì wǒ zuì xǐhuān de shuǐguǒ zhī yī.
+Pinyin: Júzi shì wǒ zuì xǐhuan de shuǐguǒ zhī yī.
 English: Oranges are one of my favorite fruits.
 
 Chinese: 我喜欢喝茶。
@@ -1703,11 +1703,11 @@ Pinyin: Zuò chūzūchē gèng fāngbiàn yīxiē.
 English: Taking a taxi is more convenient.
 
 Chinese: 我喜欢看电视。
-Pinyin: Wǒ xǐhuān kàn diànshì.
+Pinyin: Wǒ xǐhuan kàn diànshì.
 English: I like to watch TV.
 
 Chinese: 他每天晚上都看电视。
-Pinyin: Tā měitiān wǎnshàng dōu kàn diànshì.
+Pinyin: Tā měitiān wǎnshang dōu kàn diànshì.
 English: He watches TV every night.
 
 Chinese: 这个电视太大了。
@@ -1739,7 +1739,7 @@ Pinyin: Wǒ měitiān dōu yòng diànnǎo gōngzuò.
 English: I work on the computer every day.
 
 Chinese: 她喜欢玩电脑游戏。
-Pinyin: Tā xǐhuān wán diànnǎo yóuxì.
+Pinyin: Tā xǐhuan wán diànnǎo yóuxì.
 English: She enjoys playing computer games.
 
 Chinese: 我经常去电影院看电影。
@@ -1747,7 +1747,7 @@ Pinyin: Wǒ jīngcháng qù diànyǐngyuàn kàn diànyǐng.
 English: I often go to the cinema to watch movies.
 
 Chinese: 我喜欢看动画电影。
-Pinyin: Wǒ xǐhuān kàn dònghuà diànyǐng.
+Pinyin: Wǒ xǐhuan kàn dònghuà diànyǐng.
 English: I like watching animated movies.
 
 Chinese: 他是一位电影导演。
@@ -1759,7 +1759,7 @@ Pinyin: Wǒ zài diànyǐng lǐ jiànguò tā.
 English: I have seen her in a movie.
 
 Chinese: 昨天晚上我看了一部经典的电影。
-Pinyin: Zuótiān wǎnshàng wǒ kànle yī bù jīngdiǎn de diànyǐng.
+Pinyin: Zuótiān wǎnshang wǒ kànle yī bù jīngdiǎn de diànyǐng.
 English: I watched a classic movie last night.
 
 Chinese: 今天的天气很好。
@@ -1811,7 +1811,7 @@ Pinyin: Zhè tiáo jiē shàng yǒu hěnduō gǒu.
 English: There are many dogs on this street.
 
 Chinese: 我喜欢养狗。
-Pinyin: Wǒ xǐhuān yǎng gǒu.
+Pinyin: Wǒ xǐhuan yǎng gǒu.
 English: I like to raise dogs.
 
 Chinese: 她的家里有一只小狗。
@@ -1831,7 +1831,7 @@ Pinyin: Zhè shì wǒ de dōngxi.
 English: This is my thing.
 
 Chinese: 她喜欢收集各种东西。
-Pinyin: Tā xǐhuān shōují gèzhǒng dōngxi.
+Pinyin: Tā xǐhuan shōují gèzhǒng dōngxi.
 English: She likes to collect all kinds of things.
 
 Chinese: 请把那个东西给我。
@@ -1863,15 +1863,15 @@ Pinyin: Tā shì nàgè yīng'ér de māma.
 English: She is the mother of that baby.
 
 Chinese: 她忘记了我的名字。
-Pinyin: Tā wàngjìle wǒ de míngzì.
+Pinyin: Tā wàngjìle wǒ de míngzi.
 English: She forgot my name.
 
 Chinese: 我弟弟的名字很特别。
-Pinyin: Wǒ dìdi de míngzì hěn tèbié.
+Pinyin: Wǒ dìdi de míngzi hěn tèbié.
 English: My younger brother's name is unique.
 
 Chinese: 她的名字很难发音。
-Pinyin: Tā de míngzì hěn nán fāyīn.
+Pinyin: Tā de míngzi hěn nán fāyīn.
 English: Her name is difficult to pronounce.
 
 Chinese: 请告诉我你的全名。
@@ -1879,7 +1879,7 @@ Pinyin: Qǐng gàosù wǒ nǐ de quánmíng.
 English: Please tell me your full name.
 
 Chinese: 他改变了他的名字。
-Pinyin: Tā gǎibiànle tā de míngzì.
+Pinyin: Tā gǎibiànle tā de míngzi.
 English: He changed his name.
 
 Chinese: 我买了一本新书。
@@ -1891,7 +1891,7 @@ Pinyin: Qǐng bǎ zhè běn shū gěi wǒ.
 English: Please give me this book.
 
 Chinese: 我喜欢读书。
-Pinyin: Wǒ xǐhuān dúshū.
+Pinyin: Wǒ xǐhuan dúshū.
 English: I like reading books.
 
 Chinese: 这本书很有意思。
@@ -1911,7 +1911,7 @@ Pinyin: Wǒ xuéxí Hànyǔ yǐjīng sān nián le.
 English: I have been studying Chinese for three years.
 
 Chinese: 汉语是我最喜欢的语言之一。
-Pinyin: Hànyǔ shì wǒ zuì xǐhuān de yǔyán zhī yī.
+Pinyin: Hànyǔ shì wǒ zuì xǐhuan de yǔyán zhī yī.
 English: Chinese is one of my favorite languages.
 
 Chinese: 我正在学习汉语发音。
@@ -1927,7 +1927,7 @@ Pinyin: Tā liúlì de shuō Hànyǔ.
 English: She speaks Chinese fluently.
 
 Chinese: 我喜欢听汉语歌曲。
-Pinyin: Wǒ xǐhuān tīng Hànyǔ gēqǔ.
+Pinyin: Wǒ xǐhuan tīng Hànyǔ gēqǔ.
 English: I like to listen to Chinese songs.
 
 Chinese: 我正在练习写汉语字。
@@ -2023,7 +2023,7 @@ Pinyin: Qǐng zuò.
 English: Please sit.
 
 Chinese: 请问你叫什么名字？
-Pinyin: Qǐng wèn nǐ jiào shénme míngzì?
+Pinyin: Qǐng wèn nǐ jiào shénme míngzi?
 English: Excuse me, what is your name?
 
 Chinese: 请把这本书还给我。
@@ -2079,7 +2079,7 @@ Pinyin: Qǐng nǐ bāng wǒ kàn yīxià zhè běn shū.
 English: Can you help me take a look at this book?
 
 Chinese: 我喜欢听音乐。
-Pinyin: Wǒ xǐhuān tīng yīnyuè.
+Pinyin: Wǒ xǐhuan tīng yīnyuè.
 English: I like listening to music.
 
 Chinese: 请听我说话。
@@ -2095,7 +2095,7 @@ Pinyin: Wǒ chángcháng tīng māmā chànggē.
 English: I often listen to my mom singing.
 
 Chinese: 老师在教室里听学生读书。
-Pinyin: Lǎoshī zài jiàoshì lǐ tīng xuéshēng dúshū.
+Pinyin: Lǎoshī zài jiàoshì lǐ tīng xuésheng dúshū.
 English: The teacher listens to the students reading in the classroom.
 
 Chinese: 他很善于说话。
@@ -2107,7 +2107,7 @@ Pinyin: Qǐng bùyào dàshēng shuōhuà.
 English: Please don't speak loudly.
 
 Chinese: 他喜欢和人们说话。
-Pinyin: Tā xǐhuān hé rénmen shuōhuà.
+Pinyin: Tā xǐhuan hé rénmen shuōhuà.
 English: He likes to talk to people.
 
 Chinese: 她害羞，不善于说话。
@@ -2119,7 +2119,7 @@ Pinyin: Wǒmen kěyǐ zài fànzhuō shàng shuōhuà ma?
 English: Can we talk at the dining table?
 
 Chinese: 我喜欢读书。
-Pinyin: Wǒ xǐhuān dúshū.
+Pinyin: Wǒ xǐhuan dúshū.
 English: I like reading books.
 
 Chinese: 我每天都读报纸。
@@ -2131,7 +2131,7 @@ Pinyin: Zhè běn shū hěn hǎo dú.
 English: This book is easy to read.
 
 Chinese: 请读出你的名字。
-Pinyin: Qǐng dú chū nǐ de míngzì.
+Pinyin: Qǐng dú chū nǐ de míngzi.
 English: Please read out your name.
 
 Chinese: 我们一起读这篇文章。
@@ -2139,7 +2139,7 @@ Pinyin: Wǒmen yīqǐ dú zhè piān wénzhāng.
 English: Let's read this article together.
 
 Chinese: 他喜欢写小说。
-Pinyin: Tā xǐhuān xiě xiǎoshuō.
+Pinyin: Tā xǐhuan xiě xiǎoshuō.
 English: He likes to write novels.
 
 Chinese: 我每天都写日记。
@@ -2163,7 +2163,7 @@ Pinyin: Wǒ kànjiàn yī zhī xiǎo gǒu zài gōngyuán lǐ pǎo.
 English: I saw a little dog running in the park.
 
 Chinese: 小明昨天晚上没看见妈妈回家。
-Pinyin: Xiǎo Míng zuótiān wǎnshàng méi kànjiàn māma huíjiā.
+Pinyin: Xiǎo Míng zuótiān wǎnshang méi kànjiàn māma huíjiā.
 English: Xiaoming didn't see mom coming home last night.
 
 Chinese: 他一直在看见自己在镜子里的影子。
@@ -2191,7 +2191,7 @@ Pinyin: Tāmen jiào wǒ qù kāihuì.
 English: They asked me to attend the meeting.
 
 Chinese: 她喜欢叫朋友们一起吃饭。
-Pinyin: Tā xǐhuān jiào péngyǒu men yīqǐ chīfàn.
+Pinyin: Tā xǐhuan jiào péngyǒu men yīqǐ chīfàn.
 English: She likes to invite her friends to eat together.
 
 Chinese: 我叫你三次了，你怎么不回答？
@@ -2227,7 +2227,7 @@ Pinyin: Tā wàngjìle huídá wǒ de wèntí.
 English: He forgot to answer my question.
 
 Chinese: 学生们在课堂上回答问题。
-Pinyin: Xuéshēngmen zài kètáng shàng huídá wèntí.
+Pinyin: xuéshengmen zài kètáng shàng huídá wèntí.
 English: The students answer questions in the classroom.
 
 Chinese: 如果你赶不上火车，你可以回家。
@@ -2287,7 +2287,7 @@ Pinyin: Tā měitiān dōu chī hěn duō shuǐguǒ.
 English: He eats a lot of fruits every day.
 
 Chinese: 她喜欢吃辣的食物。
-Pinyin: Tā xǐhuān chī là de shíwù.
+Pinyin: Tā xǐhuan chī là de shíwù.
 English: She likes to eat spicy food.
 
 Chinese: 他紧张的时候不能吃东西。
@@ -2295,11 +2295,11 @@ Pinyin: Tā jǐnzhāng de shíhòu bùnéng chī dōngxi.
 English: He can't eat when he is nervous.
 
 Chinese: 我喜欢吃你做的饭菜。
-Pinyin: Wǒ xǐhuān chī nǐ zuò de fàncài.
+Pinyin: Wǒ xǐhuan chī nǐ zuò de fàncài.
 English: I like to eat the dishes you make.
 
 Chinese: 我喜欢喝咖啡。
-Pinyin: Wǒ xǐhuān hē kāfēi.
+Pinyin: Wǒ xǐhuan hē kāfēi.
 English: I like to drink coffee.
 
 Chinese: 我会喝牛奶。
@@ -2327,11 +2327,11 @@ Pinyin: Shuìjiào qián bùyào hē kāfēi.
 English: Don't drink coffee before going to bed.
 
 Chinese: 他每天晚上十点才睡觉。
-Pinyin: Tā měitiān wǎnshàng shí diǎn cái shuìjiào.
+Pinyin: Tā měitiān wǎnshang shí diǎn cái shuìjiào.
 English: He goes to bed at ten o'clock every night.
 
 Chinese: 妹妹喜欢跟毛绒玩具睡觉。
-Pinyin: Mèimei xǐhuān gēn máoróng wánjù shuìjiào.
+Pinyin: Mèimei xǐhuan gēn máoróng wánjù shuìjiào.
 English: My younger sister likes to sleep with stuffed toys.
 
 Chinese: 我昨晚睡了十个小时，睡得很舒服。
@@ -2363,7 +2363,7 @@ Pinyin: Tā měitiān zǎoshang liù diǎn zuò zǎofàn.
 English: He makes breakfast at 6 o'clock every morning.
 
 Chinese: 她喜欢做家务。
-Pinyin: Tā xǐhuān zuò jiāwù.
+Pinyin: Tā xǐhuan zuò jiāwù.
 English: She enjoys doing housework.
 
 Chinese: 我们一起做饭吧。
@@ -2431,7 +2431,7 @@ Pinyin: Bàba zuò zài shāfā shàng kàn diànshì.
 English: Dad is sitting on the sofa watching TV.
 
 Chinese: 他喜欢坐火车旅行。
-Pinyin: Tā xǐhuān zuò huǒchē lǚxíng.
+Pinyin: Tā xǐhuan zuò huǒchē lǚxíng.
 English: He enjoys traveling by train.
 
 Chinese: 老人坐在公园里晒太阳。
@@ -2479,11 +2479,11 @@ Pinyin: Tāmen zhù zài tóng yīgè xiǎoqū lǐ.
 English: They live in the same residential area.
 
 Chinese: 我每天晚上都学习。
-Pinyin: Wǒ měitiān wǎnshàng dōu xuéxí.
+Pinyin: Wǒ měitiān wǎnshang dōu xuéxí.
 English: I study every night.
 
 Chinese: 我喜欢学习新的知识。
-Pinyin: Wǒ xǐhuān xuéxí xīn de zhīshi.
+Pinyin: Wǒ xǐhuan xuéxí xīn de zhīshi.
 English: I enjoy learning new knowledge.
 
 Chinese: 学习是一种持续的过程。
@@ -2771,7 +2771,7 @@ Pinyin: Tā yǒu duō gāo?
 English: How tall is he?
 
 Chinese: 今天晚上有多冷？
-Pinyin: Jīntiān wǎnshàng yǒu duō lěng?
+Pinyin: Jīntiān wǎnshang yǒu duō lěng?
 English: How cold is it tonight?
 
 Chinese: 昨天下了多长时间的雨？
@@ -2843,7 +2843,7 @@ Pinyin: Wàimiàn hěn rè.
 English: It is hot outside.
 
 Chinese: 我喜欢喝热茶。
-Pinyin: Wǒ xǐhuān hē rè chá.
+Pinyin: Wǒ xǐhuan hē rè chá.
 English: I like to drink hot tea.
 
 Chinese: 她觉得房间很热。
@@ -3043,7 +3043,7 @@ Pinyin: Wǒ yǒu liù gè píngguǒ.
 English: I have six apples.
 
 Chinese: 我们班上有六十个学生。
-Pinyin: Wǒmen bān shàng yǒu liùshí gè xuéshēng.
+Pinyin: Wǒmen bān shàng yǒu liùshí gè xuésheng.
 English: There are sixty students in our class.
 
 Chinese: 我收到六封电子邮件。
@@ -3179,7 +3179,7 @@ Pinyin: Zhège cāntīng shí diǎn guān mén.
 English: This restaurant closes at 10 o'clock.
 
 Chinese: 十个学生在教室里学习。
-Pinyin: Shí gè xuéshēng zài jiàoshì lǐ xuéxí.
+Pinyin: Shí gè xuésheng zài jiàoshì lǐ xuéxí.
 English: Ten students are studying in the classroom.
 
 Chinese: 今天是十月十号。
@@ -3239,7 +3239,7 @@ Pinyin: Zhège yuèdǐ shì shíyī yuè èrshí hào.
 English: The end of this month is November 20th.
 
 Chinese: 我每天都十一点睡觉。
-Pinyin: Wǒ měi tiān dōu shíyī diǎn shuìjiào.
+Pinyin: Wǒ měitiān dōu shíyī diǎn shuìjiào.
 English: I go to bed at 11 o'clock every day.
 
 Chinese: 餐厅十一号桌有人预订了。
