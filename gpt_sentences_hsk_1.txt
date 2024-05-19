@@ -3349,3 +3349,71 @@ English: My hobby is writing.
 Chinese: 我的爱好是烹饪。
 Pinyin: wǒ de àihào shì pēngrèn.
 English: My hobby is cooking.
+
+Chinese: 你的爱好是什么？
+Pinyin: nǐ de àihào shì shénme?
+English: What are your hobbies?
+
+Chinese: 白天我喜欢睡觉。
+Pinyin: báitiān wǒ xǐhuan shuìjiào.
+English: I like to sleep during the day.
+
+Chinese: 白天我喜欢看电影。
+Pinyin: báitiān wǒ xǐhuan kàn diànyǐng.
+English: I like to watch movies during the day.
+
+Chinese: 白天我喜欢听音乐。
+Pinyin: báitiān wǒ xǐhuan tīng yīnyuè.
+English: I like to listen to music during the day.
+
+Chinese: 白天我喜欢玩游戏。
+Pinyin: báitiān wǒ xǐhuan wán yóuxì.
+English: I like to play games during the day.
+
+Chinese: 白天我喜欢看书。
+Pinyin: báitiān wǒ xǐhuan kàn shū.
+English: I like to read books during the day.
+
+Chinese: 白天我喜欢散步。
+Pinyin: báitiān wǒ xǐhuan sànbù.
+English: I like to take a walk during the day.
+
+Chinese: 白天我喜欢喝咖啡。
+Pinyin: báitiān wǒ xǐhuan hē kāfēi.
+English: I like to drink coffee during the day.
+
+Chinese: 我今天只工作了半天。
+Pinyin: wǒ jīntiān zhǐ gōngzuòle bàntiān.
+English: I only worked half a day today.
+
+Chinese: 我今天只学习了半天。
+Pinyin: wǒ jīntiān zhǐ xuéxíle bàntiān.
+English: I only studied for half a day today.
+
+Chinese: 我很感谢你的帮忙。
+Pinyin: wǒ hěn gǎnxiè nǐ de bāngmáng.
+English: I am very grateful for your help.
+
+Chinese: 我需要你的帮忙。
+Pinyin: wǒ xūyào nǐ de bāngmáng.
+English: I need your help.
+
+Chinese: 我能帮忙吗？
+Pinyin: wǒ néng bāngmáng ma?
+English: Can I help?
+
+Chinese: 你能帮忙吗？
+Pinyin: nǐ néng bāngmáng ma?
+English: Can you help?
+
+Chinese: 我们需要帮忙。
+Pinyin: wǒmen xūyào bāngmáng.
+English: We need help.
+
+Chinese: 我很高兴能帮忙。
+Pinyin: wǒ hěn gāoxìng néng bāngmáng.
+English: I am very happy to help.
+
+Chinese: 我不需要帮忙。
+Pinyin: wǒ bù xūyào bāngmáng.
+English: I don't need help.
