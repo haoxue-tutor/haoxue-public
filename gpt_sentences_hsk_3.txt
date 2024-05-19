@@ -2675,7 +2675,7 @@ Pinyin: Wǒ jiè le tā de zìxíngchē.
 English: I borrowed his bicycle.
 
 Chinese: 你能借给我五块钱吗？
-Pinyin: Nǐ néng jiè gěi wǒ wǔ kuài qián ma?
+Pinyin: Nǐ néng jiègěi wǒ wǔ kuài qián ma?
 English: Can you lend me five yuan?
 
 Chinese: 他问我能不能借他一支手机。
@@ -6651,7 +6651,7 @@ Pinyin: Zhège zhàoxiàngjī kěyǐ pāishè gāoqīng zhàopiàn.
 English: This camera can take high-definition photos.
 
 Chinese: 你能借给我一部照相机吗？
-Pinyin: Nǐ néng jiè gěi wǒ yī bù zhàoxiàngjī ma?
+Pinyin: Nǐ néng jiègěi wǒ yī bù zhàoxiàngjī ma?
 English: Can you lend me a camera?
 
 Chinese: 我的照相机坏了，需要修理。
