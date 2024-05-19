@@ -3321,3 +3321,31 @@ English: I drink two cups of coffee every day.
 Chinese: 这家商店有两个分店。
 Pinyin: Zhè jiā shāngdiàn yǒu liǎng gè fēndiàn.
 English: This shop has two branches.
+
+Chinese: 我的爱好是打篮球。
+Pinyin: wǒ de àihào shì dǎ lánqiú.
+English: My hobby is playing basketball.
+
+Chinese: 我的爱好是旅游。
+Pinyin: wǒ de àihào shì lǚyóu.
+English: My hobby is traveling.
+
+Chinese: 我的爱好是看电影。
+Pinyin: wǒ de àihào shì kàn diànyǐng.
+English: My hobby is watching movies.
+
+Chinese: 我的爱好是听音乐。
+Pinyin: wǒ de àihào shì tīng yīnyuè.
+English: My hobby is listening to music.
+
+Chinese: 我的爱好是阅读。
+Pinyin: wǒ de àihào shì yuèdú.
+English: My hobby is reading.
+
+Chinese: 我的爱好是写作。
+Pinyin: wǒ de àihào shì xiězuò.
+English: My hobby is writing.
+
+Chinese: 我的爱好是烹饪。
+Pinyin: wǒ de àihào shì pēngrèn.
+English: My hobby is cooking.
