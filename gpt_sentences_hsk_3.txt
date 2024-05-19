@@ -1911,7 +1911,7 @@ Pinyin: Yī shēng duì bìng rén de kāng fù guò chéng fēi cháng guān x�
 English: The doctor is very concerned about the patient's recovery process.
 
 Chinese: 我有一些问题想要问你关于这个项目。
-Pinyin: Wǒ yǒu yīxiē wèn tí xiǎng yào wèn nǐ guānyú zhè gè xiàngmù.
+Pinyin: Wǒ yǒu yīxiē wèn tí xiǎng yào wèn nǐ guānyú zhège xiàngmù.
 English: I have some questions I want to ask you about this project.
 
 Chinese: 他写了一封信给我，信上讲述了他关于家庭的故事。
@@ -1919,7 +1919,7 @@ Pinyin: Tā xiě le yī fēng xìn gěi wǒ, xìn shàng jiǎng shù le tā guā
 English: He wrote me a letter, in which he told me about his family story.
 
 Chinese: 我在网上查到了很多关于这个人的信息。
-Pinyin: Wǒ zài wǎngshàng chá dào le hěn duō guānyú zhè gè rén de xìnxī.
+Pinyin: Wǒ zài wǎngshàng chá dào le hěn duō guānyú zhège rén de xìnxī.
 English: I found a lot of information about this person online.
 
 Chinese: 我们需要收集关于市场趋势的数据。
@@ -4355,7 +4355,7 @@ Pinyin: Tā de wǔdǎo shuǐpíng hěn chūsè.
 English: Her dance level is excellent.
 
 Chinese: 这个项目需要一定的技术水平。
-Pinyin: Zhège xiàngmù xūyào yídìng de jìshù shuǐpíng.
+Pinyin: Zhège xiàngmù xūyào yīdìng de jìshù shuǐpíng.
 English: This project requires a certain level of technical expertise.
 
 Chinese: 他的投篮水平越来越好了。
@@ -4383,7 +4383,7 @@ Pinyin: Xuéxí yī mén wàiyǔ xūyào hěn hǎo de tīngshuō shuǐpíng.
 English: Learning a foreign language requires good listening and speaking skills.
 
 Chinese: 这个体育项目需要一定的体能水平。
-Pinyin: Zhège tǐyù xiàngmù xūyào yídìng de tǐnéng shuǐpíng.
+Pinyin: Zhège tǐyù xiàngmù xūyào yīdìng de tǐnéng shuǐpíng.
 English: This sports activity requires a certain level of physical fitness.
 
 Chinese: 我今天晚上要早点睡觉。
@@ -4403,7 +4403,7 @@ Pinyin: Tā zuówǎn méi shuìjiào, xiànzài hěn kùn.
 English: He didn't sleep last night, and now he is very tired.
 
 Chinese: 每天晚上我都会洗个澡然后再睡觉。
-Pinyin: Měitiān wǎnshàng wǒ dōu huì xǐ ge zǎo ránhòu zài shuìjiào.
+Pinyin: Měitiān wǎnshàng wǒ dōu huì xǐ gè zǎo ránhòu zài shuìjiào.
 English: Every night, I take a shower before going to bed.
 
 Chinese: 她喜欢用香薰灯助眠帮助入睡。
@@ -4439,15 +4439,15 @@ Pinyin: Zhège sījī kāichē hěn kuài.
 English: This driver drives very fast.
 
 Chinese: 我们需要一位有经验的司机。
-Pinyin: Wǒmen xūyào yí wèi yǒu jīngyàn de sījī.
+Pinyin: Wǒmen xūyào yī wèi yǒu jīngyàn de sījī.
 English: We need an experienced driver.
 
 Chinese: 他是一名优秀的旅游巴士司机。
-Pinyin: Tā shì yí míng yōuxiù de lǚyóu bāshì sījī.
+Pinyin: Tā shì yī míng yōuxiù de lǚyóu bāshì sījī.
 English: He is an excellent tour bus driver.
 
 Chinese: 按喇叭是司机的工作之一。
-Pinyin: Àn làba shì sījī de gōngzuò zhī yī.
+Pinyin: Àn lǎba shì sījī de gōngzuò zhī yī.
 English: Honking the horn is one of the driver's jobs.
 
 Chinese: 这位出租车司机非常有耐心。
@@ -4579,7 +4579,7 @@ Pinyin: Zhège cāntīng de fúwù tèbié zhōudào.
 English: The service at this restaurant is especially attentive.
 
 Chinese: 她在学校里特别受欢迎。
-Pinyin: Tā zài xuéxiào li tèbié shòuhuānyíng.
+Pinyin: Tā zài xuéxiào lǐ tèbié shòuhuānyíng.
 English: She is especially popular at school.
 
 Chinese: 昨晚的聚会特别开心。
@@ -4631,7 +4631,7 @@ Pinyin: Yào tígāo chéngjì, jiù xūyào duō zuò liànxí.
 English: To improve grades, you need to practice more.
 
 Chinese: 他们在工作中不断地努力，以提高效率。
-Pinyin: Tāmen zài gōngzuò zhōng búduàn de nǔlì, yǐ tígāo xiàolǜ.
+Pinyin: Tāmen zài gōngzuò zhōng bùduàn de nǔlì, yǐ tígāo xiàolǜ.
 English: They constantly strive to improve efficiency in their work.
 
 Chinese: 学习一门外语能够提高你的就业机会。
@@ -4663,7 +4663,7 @@ Pinyin: Tāmen zhèngzài xúnzhǎo xīn de fāngfǎ lái tígāo chǎnpǐn zhì
 English: They are looking for new ways to improve the product quality.
 
 Chinese: 学习非常刻苦是提高技能的一个重要因素。
-Pinyin: Xuéxí fēicháng kèkǔ shì tígāo jìnéng de yīgè zhòngyào yīnshù.
+Pinyin: Xuéxí fēicháng kèkǔ shì tígāo jìnéng de yīgè zhòngyào yīnsù.
 English: Diligent studying is an important factor in improving skills.
 
 Chinese: 我喜欢参加体育活动。
@@ -4779,7 +4779,7 @@ Pinyin: Wǒ xūyào xǐ tóufa.
 English: I need to wash my hair.
 
 Chinese: 他喜欢在头发上使用发胶。
-Pinyin: Tā xǐhuan zài tóufa shàng shǐyòng fājiǎo.
+Pinyin: Tā xǐhuan zài tóufa shàng shǐyòng fàjiāo.
 English: He likes to use hair gel on his hair.
 
 Chinese: 她戴着一顶漂亮的帽子遮住了头发。
@@ -4931,7 +4931,7 @@ Pinyin: Tā yòngle liǎng gè xiǎoshí lái wánchéng zhège rènwù.
 English: He took two hours to complete this task.
 
 Chinese: 我一定会成功完成这个挑战。
-Pinyin: Wǒ yídìng huì chénggōng wánchéng zhège tiǎozhàn.
+Pinyin: Wǒ yīdìng huì chénggōng wánchéng zhège tiǎozhàn.
 English: I will definitely successfully complete this challenge.
 
 Chinese: 这个计划还没有完成。
@@ -5171,7 +5171,7 @@ Pinyin: Qǐngwèn, xǐshǒujiān zài nǎlǐ?
 English: Excuse me, where is the restroom?
 
 Chinese: 这个商场有多个洗手间。
-Pinyin: Zhè gè shāngchǎng yǒu duō gè xǐshǒujiān.
+Pinyin: Zhège shāngchǎng yǒu duō gè xǐshǒujiān.
 English: This mall has multiple restrooms.
 
 Chinese: 洗手间的门坏了。
@@ -5287,7 +5287,7 @@ Pinyin: Wǒ xiāngxìn měi gèrén dōu yǒu qiánlì.
 English: I believe everyone has potential.
 
 Chinese: 他相信奇迹会发生。
-Pinyin: Tā xiāngxìn qíjī huì fāshēng.
+Pinyin: Tā xiāngxìn qíjì huì fāshēng.
 English: He believes miracles can happen.
 
 Chinese: 他们相信勤奋会取得成功。
@@ -5301,10 +5301,6 @@ English: I believe love can conquer all.
 Chinese: 她相信诚实是最好的策略。
 Pinyin: Tā xiāngxìn chéngshí shì zuìhǎo de cèlüè.
 English: She believes honesty is the best strategy.
-
-Chinese: 我们相信冒险是值得的。
-Pinyin: Wǒmen xiāngxìn màoxiǎn shì zhí de.
-English: We believe adventure is worth it.
 
 Chinese: 我向前走。
 Pinyin: Wǒ xiàng qián zǒu.
@@ -5431,7 +5427,7 @@ Pinyin: Tā měitiān dōu kàn xīnwén.
 English: He reads the news every day.
 
 Chinese: 我喜欢看新闻，了解世界上的事情。
-Pinyin: Wǒ xǐhuan kàn xīnwén, liǎojiě shìjièshang de shìqing.
+Pinyin: Wǒ xǐhuan kàn xīnwén, liǎojiě shìjiè shàng de shìqing.
 English: I like to read the news to learn about things happening in the world.
 
 Chinese: 今天的新闻很有意思。
@@ -5443,7 +5439,7 @@ Pinyin: Tā shì yī míng xīnwén jìzhě.
 English: She is a news reporter.
 
 Chinese: 这篇新闻报道很详细。
-Pinyin: Zhè piān xīnwén bàodǎo hěn xiángtè.
+Pinyin: Zhè piān xīnwén bàodào hěn xiángxì.
 English: This news report is very detailed.
 
 Chinese: 我从新闻中得知了最新的消息。
@@ -5459,7 +5455,7 @@ Pinyin: Měitiān dōu yǒu xīnwén fābùhuì.
 English: There is a news conference every day.
 
 Chinese: 这则新闻报道了一起重要事件。
-Pinyin: Zhè zé xīnwén bàodǎo le yī qǐ zhòngyào shìjiàn.
+Pinyin: Zhè zé xīnwén bàodào le yī qǐ zhòngyào shìjiàn.
 English: This news report covered an important event.
 
 Chinese: 我喜欢听有趣的新闻故事。
@@ -5647,7 +5643,7 @@ Pinyin: Xióngmāo chī zhúzi.
 English: Pandas eat bamboo.
 
 Chinese: 这个游戏里有一个关卡是熊猫森林。
-Pinyin: Zhège yóuxì lǐ yǒu yī gè guānqià shì xióngmāo sēnlín.
+Pinyin: Zhège yóuxì lǐ yǒu yī gè guānqiǎ shì xióngmāo sēnlín.
 English: There is a level called "Panda Forest" in this game.
 
 Chinese: 熊猫是中国亲善大使。
@@ -5655,7 +5651,7 @@ Pinyin: Xióngmāo shì Zhōngguó qīnshàn dàshǐ.
 English: Pandas are China's ambassadors of goodwill.
 
 Chinese: 熊猫在濒危物种名录上。
-Pinyin: Xióngmāo zài bīnwái wùzhǒng mínglù shàng.
+Pinyin: Xióngmāo zài bīnwēi wùzhǒng mínglù shàng.
 English: Pandas are on the endangered species list.
 
 Chinese: 孩子们在动物园见到了熊猫。
@@ -5667,43 +5663,43 @@ Pinyin: Zhège gōngyuán yǒu yī gè zhuānmén wèi xióngmāo jiànzào de q
 English: This park has a dedicated area built for pandas.
 
 Chinese: 我现在需要休息一下。
-Pinyin: Wǒ xiànzài xūyào xiūxí yīxià.
+Pinyin: Wǒ xiànzài xūyào xiūxi yīxià.
 English: I need to rest for a while now.
 
 Chinese: 他每天下午都会休息一小时。
-Pinyin: Tā měitiān xiàwǔ dōu huì xiūxí yī xiǎoshí.
+Pinyin: Tā měitiān xiàwǔ dōu huì xiūxi yī xiǎoshí.
 English: He takes a one-hour break every afternoon.
 
 Chinese: 我们不应该在工作时间休息。
-Pinyin: Wǒmen bù yīnggāi zài gōngzuò shíjiān xiūxí.
+Pinyin: Wǒmen bù yīnggāi zài gōngzuò shíjiān xiūxi.
 English: We should not rest during working hours.
 
 Chinese: 他病了，医生说他需要休息好几天。
-Pinyin: Tā bìngle, yīshēng shuō tā xūyào xiūxí hǎojǐ tiān.
+Pinyin: Tā bìngle, yīshēng shuō tā xūyào xiūxi hǎojǐ tiān.
 English: He is sick, and the doctor said he needs to rest for several days.
 
 Chinese: 我们以后回家休息吧。
-Pinyin: Wǒmen yǐhòu huíjiā xiūxí ba.
+Pinyin: Wǒmen yǐhòu huíjiā xiūxi ba.
 English: Let's go home and rest later.
 
 Chinese: 爸爸下班回来就会休息一会儿。
-Pinyin: Bàba xiàbān huílái jiù huì xiūxí yīhuǐ'er.
+Pinyin: Bàba xiàbān huílái jiù huì xiūxi yīhuìr.
 English: Dad will rest for a while when he comes back from work.
 
 Chinese: 她头痛得需要休息几个小时。
-Pinyin: Tā tóutòng de xūyào xiūxí jǐ gè xiǎoshí.
+Pinyin: Tā tóutòng de xūyào xiūxi jǐ gè xiǎoshí.
 English: She has a headache and needs to rest for a few hours.
 
 Chinese: 明天是周末，你可以好好休息一下。
-Pinyin: Míngtiān shì zhōumò, nǐ kěyǐ hǎohǎo xiūxí yīxià.
+Pinyin: Míngtiān shì zhōumò, nǐ kěyǐ hǎohǎo xiūxi yīxià.
 English: Tomorrow is the weekend, so you can rest well.
 
 Chinese: 小狗玩了一整天后，终于累得休息了。
-Pinyin: Xiǎo gǒu wánle yī zhěngtiān hòu, zhōngyú lèi de xiūxíle.
+Pinyin: Xiǎo gǒu wánle yī zhěngtiān hòu, zhōngyú lèi de xiūxile.
 English: After playing all day, the puppy finally got tired and rested.
 
 Chinese: 我已经忙了一整天，现在需要找个地方休息一下。
-Pinyin: Wǒ yǐjīng mángle yī zhěngtiān, xiànzài xūyào zhǎo gè dìfāng xiūxí yīxià.
+Pinyin: Wǒ yǐjīng mángle yī zhěngtiān, xiànzài xūyào zhǎo gè dìfāng xiūxi yīxià.
 English: I have been busy all day and now I need to find a place to rest for a while.
 
 Chinese: 我很难做出选择。
@@ -5783,7 +5779,7 @@ Pinyin: Měi nián guònián, quánjiā dōu huì bàifǎng yéye.
 English: Every Chinese New Year, the whole family will visit Grandfather.
 
 Chinese: 爷爷教我很多关于中国历史的知识。
-Pinyin: Yéye jiāo wǒ hěnduō guānyú zhōngguó lìshǐ de zhīshì.
+Pinyin: Yéye jiāo wǒ hěnduō guānyú zhōngguó lìshǐ de zhīshi.
 English: Grandfather taught me a lot about Chinese history.
 
 Chinese: 爷爷会弹钢琴，每次都给我们表演。
@@ -5847,83 +5843,83 @@ Pinyin: Wǒmen yīgòng zuòle jiǔ dào tí.
 English: We did a total of nine questions.
 
 Chinese: 我等一会儿再走。
-Pinyin: Wǒ děng yīhuǐr zài zǒu.
+Pinyin: Wǒ děng yīhuìr zài zǒu.
 English: I'll wait for a moment before leaving.
 
 Chinese: 请你等一会儿，我马上就好。
-Pinyin: Qǐng nǐ děng yīhuǐr, wǒ mǎshàng jiù hǎo.
+Pinyin: Qǐng nǐ děng yīhuìr, wǒ mǎshàng jiù hǎo.
 English: Please wait a moment, I'll be ready soon.
 
 Chinese: 我一会儿就回来。
-Pinyin: Wǒ yīhuǐr jiù huílái.
+Pinyin: Wǒ yīhuìr jiù huílái.
 English: I'll be back in a moment.
 
 Chinese: 走出去，一会儿就到了。
-Pinyin: Zǒu chūqù, yīhuǐr jiù dàole.
+Pinyin: Zǒu chūqù, yīhuìr jiù dàole.
 English: Just walk out, and you'll be there in a moment.
 
 Chinese: 我刚才看到他，就是一会儿的事儿。
-Pinyin: Wǒ gāngcái kàn dào tā, jiùshì yīhuǐr de shìr.
+Pinyin: Wǒ gāngcái kàn dào tā, jiùshì yīhuìr de shìr.
 English: I just saw him a moment ago.
 
 Chinese: 他等了我一会儿。
-Pinyin: Tā děngle wǒ yīhuǐr.
+Pinyin: Tā děngle wǒ yīhuìr.
 English: He waited for me for a moment.
 
 Chinese: 我一会儿给你发短信。
-Pinyin: Wǒ yīhuǐr gěi nǐ fā duǎnxìn.
+Pinyin: Wǒ yīhuìr gěi nǐ fā duǎnxìn.
 English: I'll send you a text message in a moment.
 
 Chinese: 等我一会儿回去，你再打给我吧。
-Pinyin: Děng wǒ yīhuǐr huíqù, nǐ zài dǎ gěi wǒ ba.
+Pinyin: Děng wǒ yīhuìr huíqù, nǐ zài dǎ gěi wǒ ba.
 English: Wait for me a moment to go back, then call me.
 
 Chinese: 我等一会儿再回答你的问题。
-Pinyin: Wǒ děng yīhuǐr zài huídá nǐ de wèntí.
+Pinyin: Wǒ děng yīhuìr zài huídá nǐ de wèntí.
 English: I'll answer your question in a moment.
 
 Chinese: 一会儿我就忘了这件事。
-Pinyin: Yīhuǐr wǒ jiù wàngle zhè jiàn shì.
+Pinyin: Yīhuìr wǒ jiù wàngle zhè jiàn shì.
 English: I'll forget about this matter in a moment.
 
 Chinese: 这两个苹果大小一样。
-Pinyin: Zhè liǎng gè píngguǒ dàxiǎo yíyàng.
+Pinyin: Zhè liǎng gè píngguǒ dàxiǎo yīyàng.
 English: These two apples are the same size.
 
 Chinese: 这两个房间的颜色一样。
-Pinyin: Zhè liǎng gè fángjiān de yánsè yíyàng.
+Pinyin: Zhè liǎng gè fángjiān de yánsè yīyàng.
 English: The colors of these two rooms are the same.
 
 Chinese: 他们的看法一样。
-Pinyin: Tāmen de kànfǎ yíyàng.
+Pinyin: Tāmen de kànfǎ yīyàng.
 English: Their opinions are the same.
 
 Chinese: 这两个问题答案一样。
-Pinyin: Zhè liǎng gè wèntí dá'àn yíyàng.
+Pinyin: Zhè liǎng gè wèntí dá'àn yīyàng.
 English: The answers to these two questions are the same.
 
 Chinese: 我喜欢这两本书，觉得它们一样好。
-Pinyin: Wǒ xǐhuan zhè liǎng běn shū, juéde tāmen yíyàng hǎo.
+Pinyin: Wǒ xǐhuan zhè liǎng běn shū, juéde tāmen yīyàng hǎo.
 English: I like these two books and think that they are equally good.
 
 Chinese: 这两条裤子价钱一样。
-Pinyin: Zhè liǎng tiáo kùzi jiàqián yíyàng.
+Pinyin: Zhè liǎng tiáo kùzi jiàqián yīyàng.
 English: These two pants have the same price.
 
 Chinese: 我的手表和你的手表一样漂亮。
-Pinyin: Wǒ de shǒubiǎo hé nǐ de shǒubiǎo yíyàng piàoliang.
+Pinyin: Wǒ de shǒubiǎo hé nǐ de shǒubiǎo yīyàng piàoliang.
 English: My watch and your watch are equally beautiful.
 
 Chinese: 这两个人长得一样。
-Pinyin: Zhè liǎng gè rén zhǎng dé yíyàng.
+Pinyin: Zhè liǎng gè rén zhǎng dé yīyàng.
 English: These two people look the same.
 
 Chinese: 这两个问题答案完全一样。
-Pinyin: Zhè liǎng gè wèntí dá'àn wánquán yíyàng.
+Pinyin: Zhè liǎng gè wèntí dá'àn wánquán yīyàng.
 English: The answers to these two questions are exactly the same.
 
 Chinese: 这两个字的拼音一样。
-Pinyin: Zhè liǎng gè zì de pīnyīn yíyàng.
+Pinyin: Zhè liǎng gè zì de pīnyīn yīyàng.
 English: The pinyin of these two characters is the same.
 
 Chinese: 我会在吃完晚饭之后去图书馆。
@@ -5963,7 +5959,7 @@ Pinyin: Zhè shì wǒ yǐhòu shuìjiào de dìfang.
 English: This is where I will sleep from now on.
 
 Chinese: 以后我们可以一起去旅游。
-Pinyin: Yǐhòu wǒmen kěyǐ yìqǐ qù lǚyóu.
+Pinyin: Yǐhòu wǒmen kěyǐ yīqǐ qù lǚyóu.
 English: We can travel together in the future.
 
 Chinese: 以前我住在这个城市。
@@ -6215,7 +6211,7 @@ Pinyin: Hǎo de yīnyuè kěyǐ tígāo rénmen de qíngxù, chǎnshēng jījí 
 English: Good music can elevate people's mood and have a positive influence.
 
 Chinese: 全球变暖对环境产生了不可逆转的影响。
-Pinyin: Quánqiú biànnuǎn duì huánjìng chǎnshēng le bùkě nǐzhuǎn de yǐngxiǎng.
+Pinyin: Quánqiú biànnuǎn duì huánjìng chǎnshēng le bùkě nìzhuǎn de yǐngxiǎng.
 English: Global warming has irreversible effects on the environment.
 
 Chinese: 科技的进步对人类生活方式产生了巨大的影响。
@@ -6259,7 +6255,7 @@ Pinyin: Tā hěn shàncháng wán gèzhǒng lèixíng de yóuxì.
 English: He is good at playing games of various genres.
 
 Chinese: 每天放学后，我们一起去网吧玩游戏。
-Pinyin: Měitiān fàngxué hòu, wǒmen yìqǐ qù wǎngbā wán yóuxì.
+Pinyin: Měitiān fàngxué hòu, wǒmen yīqǐ qù wǎngbā wán yóuxì.
 English: After school every day, we go to the internet café to play games together.
 
 Chinese: 他花了很多时间修炼游戏中的技能。
@@ -6267,7 +6263,7 @@ Pinyin: Tā huā le hěnduō shíjiān xiūliàn yóuxì zhōng de jìnéng.
 English: He spent a lot of time honing his skills in the game.
 
 Chinese: 在周末，我喜欢和家人一起玩棋盘游戏。
-Pinyin: Zài zhōumò, wǒ xǐhuān hé jiārén yìqǐ wán qípán yóuxì.
+Pinyin: Zài zhōumò, wǒ xǐhuān hé jiārén yīqǐ wán qípán yóuxì.
 English: On weekends, I enjoy playing board games with my family.
 
 Chinese: 这个城市有很多有名的景点。
@@ -6295,7 +6291,7 @@ Pinyin: Zhège pǐnpái de chǎnpǐn zài shìchǎng shàng hěn yǒumíng.
 English: The products of this brand are famous in the market.
 
 Chinese: 这栋建筑是一座有名的地标。
-Pinyin: Zhè dòng jiànzhú shì yī zuò yǒumíng de dìbiāo.
+Pinyin: Zhè dòng jiànzhù shì yī zuò yǒumíng de dìbiāo.
 English: This building is a famous landmark.
 
 Chinese: 这个地方的美食很有名。
@@ -6415,7 +6411,7 @@ Pinyin: Tā bù yuànyì qù nàge dìfang.
 English: She is not willing to go to that place.
 
 Chinese: 谁愿意为我付钱？
-Pinyin: Shuí yuànyì wèi wǒ fùqián?
+Pinyin: Shéi yuànyì wèi wǒ fùqián?
 English: Who is willing to pay for me?
 
 Chinese: 你愿意跟我一起看电影吗？
@@ -6459,7 +6455,7 @@ Pinyin: Wǒ xǐhuān zài yuèguāng xià sànbù.
 English: I enjoy taking a walk in the moonlight.
 
 Chinese: 月亮在夜空中悬挂着。
-Pinyin: Yuèliàng zài yèkōng zhōng xuánghuá zhe.
+Pinyin: Yuèliàng zài yèkōng zhōng xuánguà zhe.
 English: The moon hangs in the night sky.
 
 Chinese: 今晚的月亮圆得像一个银盘。
@@ -6539,7 +6535,7 @@ Pinyin: Tā de biǎoqíng xiǎnshì tā hěn zháojí de děngdài dá'àn.
 English: Her expression shows that she is anxiously waiting for an answer.
 
 Chinese: 我对自己的成绩感到很着急。
-Pinyin: Wǒ duì zìjǐ de chéngjī gǎndào hěn zháojí.
+Pinyin: Wǒ duì zìjǐ de chéngjì gǎndào hěn zháojí.
 English: I feel very anxious about my own grades.
 
 Chinese: 老板着急地等着报告。
@@ -6575,7 +6571,7 @@ Pinyin: Qǐng nǐ zhàogù hǎo wǒ de chǒngwù.
 English: Please take good care of my pet.
 
 Chinese: 我们一起照顾老人和儿童。
-Pinyin: Wǒmen yìqǐ zhàogù lǎorén hé értóng.
+Pinyin: Wǒmen yīqǐ zhàogù lǎorén hé értóng.
 English: Let's take care of the elderly and children together.
 
 Chinese: 他没有照顾好自己的健康。
@@ -6623,7 +6619,7 @@ Pinyin: Zhèxiē zhàopiàn dōu shì wǒ pāide.
 English: These photos are all taken by me.
 
 Chinese: 你可以帮我拍一张照片吗？
-Pinyin: Nǐ kěyǐ bāng wǒ pāi yì zhāng zhàopiàn ma?
+Pinyin: Nǐ kěyǐ bāng wǒ pāi yī zhāng zhàopiàn ma?
 English: Can you help me take a photo?
 
 Chinese: 我很喜欢这张照片，它很有纪念意义。
@@ -6643,7 +6639,7 @@ Pinyin: Nǐ de zhàoxiàngjī shì nǎge pǐnpái de?
 English: Which brand is your camera?
 
 Chinese: 我买了一台新的照相机。
-Pinyin: Wǒ mǎile yì tái xīn de zhàoxiàngjī.
+Pinyin: Wǒ mǎile yī tái xīn de zhàoxiàngjī.
 English: I bought a new camera.
 
 Chinese: 照相机的镜头很清晰。
@@ -7011,7 +7007,7 @@ Pinyin: Wǒ jīntiān de zuòyè hěn jiǎndān, hěn kuài jiù zuò wánle.
 English: My homework today was very simple and I finished it quickly.
 
 Chinese: 每晚我都要做完所有作业才能休息。
-Pinyin: Měi wǎn wǒ dōu yào zuò wán suǒyǒu zuòyè cáinéng xiūxí.
+Pinyin: Měi wǎn wǒ dōu yào zuò wán suǒyǒu zuòyè cáinéng xiūxi.
 English: I have to finish all my homework every night before I can rest.
 
 Chinese: 这个星期末的作业很重，要花很多时间。
@@ -7039,7 +7035,7 @@ Pinyin: Zhège ànniǔ de zuòyòng shì dǎkāi diànshì.
 English: The function of this button is to turn on the TV.
 
 Chinese: 银行的作用是存储和管理财富。
-Pinyin: Yínháng de zuòyòng shì cúncún hé guǎnlǐ cáifù.
+Pinyin: Yínháng de zuòyòng shì cúnchǔ hé guǎnlǐ cáifù.
 English: The role of the bank is to store and manage wealth.
 
 Chinese: 这种化妆品能起到保湿的作用。
@@ -7087,7 +7083,7 @@ Pinyin: Gāozhōng de shíhòu, tā shì gè gūniang.
 English: In high school, she was a girl.
 
 Chinese: 姑娘穿了一条红裙子。
-Pinyin: Gūniang chuānle yìtiáo hóng qúnzi.
+Pinyin: Gūniang chuānle yītiáo hóng qúnzi.
 English: The girl is wearing a red dress.
 
 Chinese: 那位姑娘每天都去图书馆。
@@ -7107,7 +7103,7 @@ Pinyin: Tā shì cūnzi lǐ wéiyī de gūniang.
 English: She is the only girl in the village.
 
 Chinese: 我认识那个姑娘。
-Pinyin: Wǒ rènshì nàgè gūniang.
+Pinyin: Wǒ rènshi nàgè gūniang.
 English: I know that girl.
 
 Chinese: 太阳很亮。
@@ -7299,7 +7295,7 @@ Pinyin: Wǒmen de línjū shì yī duì shuāngbāotāi jiěmèi.
 English: Our neighbors are a pair of twin sisters.
 
 Chinese: 这个演员是一个双胞胎兄弟。
-Pinyin: Zhè ge yǎnyuán shì yí ge shuāngbāotāi xiōngdì.
+Pinyin: Zhège yǎnyuán shì yī gè shuāngbāotāi xiōngdì.
 English: This actor is one of the twin brothers.
 
 Chinese: 这对双胞胎是我们学校的学生。
@@ -7319,7 +7315,7 @@ Pinyin: Xiǎo niǎo zài shù shàng zhùcháo zuò wō.
 English: The bird builds a nest on the tree.
 
 Chinese: 我用毛毛建了一个小动物窝。
-Pinyin: Wǒ yòng máo mao jiàn le yī gè xiǎo dòngwù wō.
+Pinyin: Wǒ yòng máomao jiàn le yī gè xiǎo dòngwù wō.
 English: I built a small animal den with fur.
 
 Chinese: 这只鸟刚刚从窝里飞出来。
@@ -7331,7 +7327,7 @@ Pinyin: Wǒmen yào jǔbàn hūnlǐ.
 English: We are going to hold a wedding ceremony.
 
 Chinese: 邀请函上写着婚礼的时间和地点。
-Pinyin: Yāoqǐng hán shànghuó zhe hūnlǐ de shíjiān hé dìdiǎn.
+Pinyin: Yāoqǐng hán shàng xiě zhe hūnlǐ de shíjiān hé dìdiǎn.
 English: The invitation card specifies the time and location of the wedding ceremony.
 
 Chinese: 婚礼上有很多亲友和朋友。
@@ -7567,7 +7563,7 @@ Pinyin: Bié dānxīn, yīqiè méishìr.
 English: Don't worry, everything is fine.
 
 Chinese: 昨天发生了一点小事故，但没事儿。
-Pinyin: Zuótiān fāshēngle yīdiǎn xiǎn shìgù, dàn méishìr.
+Pinyin: Zuótiān fāshēngle yīdiǎn xiǎo shìgù, dàn méishìr.
 English: There was a small accident yesterday, but it was nothing serious.
 
 Chinese: 我迟到了，没事儿吧？
@@ -7675,7 +7671,7 @@ Pinyin: Diào yú shì wǒ bàba de àihào.
 English: Fishing is my father's hobby.
 
 Chinese: 我邀请朋友们一起去钓鱼。
-Pinyin: Wǒ yāoqǐng péngyǒumen yìqǐ qù diào yú.
+Pinyin: Wǒ yāoqǐng péngyǒumen yīqǐ qù diào yú.
 English: I invited my friends to go fishing together.
 
 Chinese: 昨天我去钓鱼了。
@@ -7721,10 +7717,6 @@ English: I walk while listening to music.
 Chinese: 妈妈一边做饭一边和我聊天。
 Pinyin: Māmā yībiān zuòfàn yībiān hé wǒ liáotiān.
 English: Mom cooks while chatting with me.
-
-Chinese: 弟弟一边听力音乐一边做作业。
-Pinyin: Dìdi yībiān tīng lìyī yīnyuè yībiān zuò zuòyè.
-English: My younger brother does his homework while listening to music.
 
 Chinese: 她一边喝咖啡一边写日记。
 Pinyin: Tā yībiān hē kāfēi yībiān xiě rìjì.
@@ -7931,7 +7923,7 @@ Pinyin: Tāmen yīnwèi jīnqián wèntí chǎojià le.
 English: They argued because of a money issue.
 
 Chinese: 他俩为了谁洗碗的问题吵架。
-Pinyin: Tā liǎ wèile shuí xǐwǎn de wèntí chǎojià.
+Pinyin: Tā liǎ wèile shéi xǐwǎn de wèntí chǎojià.
 English: They argued over who should do the dishes.
 
 Chinese: 吵架只会使关系更糟。
@@ -8055,7 +8047,7 @@ Pinyin: Tā yǒu yī shuāng wánměi de shuāngyǎnpí.
 English: She has a pair of perfect double eyelids.
 
 Chinese: 这座建筑设计地非常完美。
-Pinyin: Zhè zuò jiànzhú shèjì de fēicháng wánměi.
+Pinyin: Zhè zuò jiànzhù shèjì de fēicháng wánměi.
 English: This building is designed perfectly.
 
 Chinese: 我们一起去大学。
@@ -8115,7 +8107,7 @@ Pinyin: Zhège xiàohuà zhēn yǒuqù, wǒ hāhā xiào le hǎo jiǔ.
 English: This joke is really interesting, I laughed heartily for a long time.
 
 Chinese: 他跟谁聊天都哈哈大笑。
-Pinyin: Tā gēn shuí liáotiān dōu hāhā dà xiào.
+Pinyin: Tā gēn shéi liáotiān dōu hāhā dà xiào.
 English: He laughs heartily while chatting with anyone.
 
 Chinese: 他的幽默引起了全场的哈哈大笑。
@@ -8127,7 +8119,7 @@ Pinyin: Xiǎo háizi men xiào de hāhā dàshēng.
 English: The children laughed out loud.
 
 Chinese: 他哈哈笑着告诉了我一个有趣的故事。
-Pinyin: Tā hāhā xiào zhe gàosù le wǒ yī ge yǒuqù de gùshì.
+Pinyin: Tā hāhā xiào zhe gàosù le wǒ yī gè yǒuqù de gùshì.
 English: He told me an interesting story with a big smile.
 
 Chinese: 这部电影真的很搞笑，我哈哈笑了好几次。
@@ -8135,7 +8127,7 @@ Pinyin: Zhè bù diànyǐng zhēn de hěn gǎoxiào, wǒ hāhā xiào le hǎo j�
 English: This movie is really funny, I laughed several times.
 
 Chinese: 她听到这个笑话后，忍不住哈哈大笑。
-Pinyin: Tā tīng dào zhège xiàohuà hòu, rěn bú zhù hāhā dà xiào.
+Pinyin: Tā tīngdào zhège xiàohuà hòu, rěnbuzhù hāhā dà xiào.
 English: She couldn't help but burst into laughter after hearing this joke.
 
 Chinese: 他想成为一名医生。
@@ -8279,7 +8271,7 @@ Pinyin: Sēnlín zhōng de niǎoér gēshēng yōuyáng.
 English: The birds in the forest sing melodiously.
 
 Chinese: 在森林里，我能感受到大自然的美妙。
-Pinyin: Zài sēnlín lǐ, wǒ néng gǎnshòu dàzìrán de měimiào.
+Pinyin: Zài sēnlín lǐ, wǒ néng gǎnshòu dào dàzìrán de měimiào.
 English: In the forest, I can feel the wonders of nature.
 
 Chinese: 森林是许多生物的家园。
@@ -8319,7 +8311,7 @@ Pinyin: Tiān hēile, sì zhōuwéi hěn ānjìng.
 English: It's dark, and it is very quiet all around.
 
 Chinese: 她漫不经心地环顾周围。
-Pinyin: Tā mànbùjīngxīn de huánkù zhōuwéi.
+Pinyin: Tā mànbùjīngxīn de huángù zhōuwéi.
 English: She casually glanced around.
 
 Chinese: 在这个小镇的周围，有很多美丽的风景。
@@ -8395,7 +8387,7 @@ Pinyin: Zhè zuò chéngshì de fēngjǐng rú shī rú huà.
 English: The scenery of this city is like a painting.
 
 Chinese: 咱们去欣赏一下山间的风景吧！
-Pinyin: Zánmen qù xīnshǎng yíxià shān jiān de fēngjǐng ba!
+Pinyin: Zánmen qù xīnshǎng yīxià shān jiān de fēngjǐng ba!
 English: Let's go admire the scenery in the mountains!
 
 Chinese: 在乡村里，你可以看到原始的风景。
@@ -8443,8 +8435,8 @@ Pinyin: Qǐng nǐ zhǔnshí wánchéng zhège rènwù.
 English: Please complete this task on time.
 
 Chinese: 我的机票上说飞机会准时起飞。
-Pinyin: Wǒ de jīpiào shuō fēijī huì zhǔnshí qǐfēi.
-English: My plane ticket says the flight will take off on time.
+Pinyin: wǒ de jīpiào shàng shuō fēijī huì zhǔnshí qǐfēi.
+English: My plane ticket says the plane will take off on time.
 
 Chinese: 别担心，火车会准时到达。
 Pinyin: Bié dānxīn, huǒchē huì zhǔnshí dàodá.
