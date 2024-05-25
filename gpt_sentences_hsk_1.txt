@@ -855,7 +855,7 @@ Pinyin: wǒ qù huǒ chē zhàn mǎi piào.
 English: I go to the train station to buy tickets.
 
 Chinese: 我常常坐火车去北京。
-Pinyin: wǒ cháng cháng zuò huǒ chē qù běi jīng.
+Pinyin: wǒ cháng cháng zuò huǒ chē qù běijīng.
 English: I often take the train to Beijing.
 
 Chinese: 今天火车站很拥挤。
@@ -3417,3 +3417,491 @@ English: I am very happy to help.
 Chinese: 我不需要帮忙。
 Pinyin: wǒ bù xūyào bāngmáng.
 English: I don't need help.
+
+Chinese: 这个本子很漂亮。
+English: This notebook is very beautiful.
+Pinyin: zhège běnzi hěn piàoliang.
+
+Chinese: 这个本子很便宜。
+English: This notebook is very cheap.
+Pinyin: zhège běnzi hěn piányi.
+
+Chinese: 这个本子很贵。
+English: This notebook is very expensive.
+Pinyin: zhège běnzi hěn guì.
+
+Chinese: 这个本子很大。
+English: This notebook is very big.
+Pinyin: zhège běnzi hěn dà.
+
+Chinese: 这个本子很小。
+English: This notebook is very small.
+Pinyin: zhège běnzi hěn xiǎo.
+
+Chinese: 北边有一个大城市。
+English: There is a big city in the north.
+Pinyin: běibiān yǒu yīgè dà chéngshì.
+
+Chinese: 北边有一个大公园。
+English: There is a big park in the north.
+Pinyin: běibiān yǒu yīgè dà gōngyuán.
+
+Chinese: 北边有一个大湖。
+English: There is a big lake in the north.
+Pinyin: běibiān yǒu yīgè dà hú.
+
+Chinese: 北边有一个大山。
+English: There is a big mountain in the north.
+Pinyin: běibiān yǒu yīgè dà shān.
+
+Chinese: 北边有一个大河。
+English: There is a big river in the north.
+Pinyin: běibiān yǒu yīgè dà hé.
+
+Chinese: 我想吃包子。
+English: I want to eat buns.
+Pinyin: wǒ xiǎng chī bāozi.
+
+Chinese: 我喜欢吃包子。
+English: I like to eat buns.
+Pinyin: wǒ xǐhuan chī bāozi.
+
+Chinese: 我不喜欢吃包子。
+English: I don't like to eat buns.
+Pinyin: wǒ bù xǐhuan chī bāozi.
+
+Chinese: 我不想吃包子。
+English: I don't want to eat buns.
+Pinyin: wǒ bù xiǎng chī bāozi.
+
+Chinese: 我在这里住了半年。
+English: I have lived here for half a year.
+Pinyin: wǒ zài zhèlǐ zhùle bànnián.
+
+Chinese: 我在这里工作了半年。
+English: I have worked here for half a year.
+Pinyin: wǒ zài zhèlǐ gōngzuòle bànnián.
+
+Chinese: 我在这里学习了半年。
+English: I have studied here for half a year.
+Pinyin: wǒ zài zhèlǐ xuéxíle bànnián.
+
+Chinese: 我在这里玩了半年。
+English: I have played here for half a year.
+Pinyin: wǒ zài zhèlǐ wánle bànnián.
+
+Chinese: 我在这里旅游了半年。
+English: I have traveled here for half a year.
+Pinyin: wǒ zài zhèlǐ lǚyóule bànnián.
+
+Chinese: 我想吃半个苹果。
+English: I want to eat half an apple.
+Pinyin: wǒ xiǎng chī bàn gè píngguǒ.
+
+Chinese: 我想喝半杯水。
+English: I want to drink half a cup of water.
+Pinyin: wǒ xiǎng hē bàn bēi shuǐ.
+
+Chinese: 我想吃半个鸡蛋。
+English: I want to eat half an egg.
+Pinyin: wǒ xiǎng chī bàn gè jīdàn.
+
+Chinese: 我想吃半个西瓜。
+English: I want to eat half a watermelon.
+Pinyin: wǒ xiǎng chī bàn gè xīguā.
+
+Chinese: 我想吃半个香蕉。
+English: I want to eat half a banana.
+Pinyin: wǒ xiǎng chī bàn gè xiāngjiāo.
+
+Chinese: 我常常去图书馆。
+English: I often go to the library.
+Pinyin: wǒ chángcháng qù túshūguǎn.
+
+Chinese: 我常常去超市。
+English: I often go to the supermarket.
+Pinyin: wǒ chángcháng qù chāoshì.
+
+Chinese: 我常常去公园。
+English: I often go to the park.
+Pinyin: wǒ chángcháng qù gōngyuán.
+
+Chinese: 我常常去博物馆。
+English: I often go to the museum.
+Pinyin: wǒ chángcháng qù bówùguǎn.
+
+Chinese: 我常常去电影院。
+English: I often go to the cinema.
+Pinyin: wǒ chángcháng qù diànyǐngyuàn.
+
+Chinese: 我的英语很差。
+English: My English is very poor.
+Pinyin: wǒ de yīngyǔ hěn chà.
+
+Chinese: 我的数学很差。
+English: My math is very poor.
+Pinyin: wǒ de shùxué hěn chà.
+
+Chinese: 我的物理很差。
+English: My physics is very poor.
+Pinyin: wǒ de wùlǐ hěn chà.
+
+Chinese: 我的化学很差。
+English: My chemistry is very poor.
+Pinyin: wǒ de huàxué hěn chà.
+
+Chinese: 我的生物很差。
+English: My biology is very poor.
+Pinyin: wǒ de shēngwù hěn chà.
+
+Chinese: 我出来玩儿。
+Pinyin: wǒ chūlái wánr.
+English: I came out to play.
+
+Chinese: 我出来旅游。
+Pinyin: wǒ chūlái lǚyóu.
+English: I came out to travel.
+
+Chinese: 我出来散步。
+Pinyin: wǒ chūlái sàn bù.
+English: I came out to take a walk.
+
+Chinese: 我出来买菜。
+Pinyin: wǒ chūlái mǎi cài.
+English: I came out to buy vegetables.
+
+Chinese: 我出来购物。
+Pinyin: wǒ chūlái gòuwù.
+English: I came out to go shopping.
+
+Chinese: 今天天气晴朗，天空很白。
+Pinyin: jīntiān tiānqì qínglǎng, tiānkōng hěn bái.
+English: Today the weather is clear, and the sky is very bright.
+
+Chinese: 我白吃白喝。
+Pinyin: wǒ bái chī bái hē.
+English: I eat and drink for free.
+
+Chinese: 我白给了他一千块钱。
+Pinyin: wǒ báigěi le tā yīqiān kuài qián.
+English: I gave him a thousand yuan for free.
+
+Chinese: 我白给了他一本书。
+Pinyin: wǒ báigěi le tā yī běn shū.
+English: I gave him a book for free.
+
+Chinese: 我白给了他一顿饭。
+Pinyin: wǒ báigěi le tā yī dùn fàn.
+English: I gave him a meal for free.
+
+Chinese: 我白给了他一张电影票。
+Pinyin: wǒ báigěi le tā yī zhāng diànyǐng piào.
+English: I gave him a movie ticket for free.
+
+Chinese: 我白给了他一杯咖啡。
+Pinyin: wǒ báigěi le tā yī bēi kāfēi.
+English: I gave him a cup of coffee for free.
+
+Chinese: 我白给了他一盒巧克力。
+Pinyin: wǒ báigěi le tā yī hé qiǎokèlì.
+English: I gave him a box of chocolates for free.
+
+Chinese: 我们要去北印度旅行。
+Pinyin: wǒmen yào qù běi yìndù lǚxíng.
+English: We are going to travel to North India.
+
+Chinese: 你不用担心。
+Pinyin: nǐ bùyòng dānxīn.
+English: You don't have to worry.
+
+Chinese: 你不用害怕。
+Pinyin: nǐ bùyòng hàipà.
+English: You don't have to be afraid.
+
+Chinese: 你不用着急。
+Pinyin: nǐ bùyòng zháojí.
+English: You don't have to be in a hurry.
+
+Chinese: 你不用等我。
+Pinyin: nǐ bùyòng děng wǒ.
+English: You don't have to wait for me.
+
+Chinese: 你不用谢我。
+Pinyin: nǐ bùyòng xiè wǒ.
+English: You don't have to thank me.
+
+Chinese: 你不用买东西。
+Pinyin: nǐ bùyòng mǎi dōngxī.
+English: You don't have to buy anything.
+
+Chinese: 你不用做饭。
+Pinyin: nǐ bùyòng zuò fàn.
+English: You don't have to cook.
+
+Chinese: 你不用打扫卫生。
+Pinyin: nǐ bùyòng dǎsǎo wèishēng.
+English: You don't have to clean.
+
+Chinese: 你不用洗衣服。
+Pinyin: nǐ bùyòng xǐ yīfú.
+English: You don't have to do laundry.
+
+Chinese: 你不用洗碗。
+Pinyin: nǐ bùyòng xǐ wǎn.
+English: You don't have to wash the dishes.
+
+Chinese: 你不用刷牙。
+Pinyin: nǐ bùyòng shuā yá.
+English: You don't have to brush your teeth.
+
+Chinese: 你不用剪指甲。
+Pinyin: nǐ bùyòng jiǎn zhǐjia.
+English: You don't have to cut your nails.
+
+Chinese: 你不用化妆。
+Pinyin: nǐ bùyòng huàzhuāng.
+English: You don't have to put on makeup.
+
+Chinese: 你不用穿鞋。
+Pinyin: nǐ bùyòng chuān xié.
+English: You don't have to wear shoes.
+
+Chinese: 我买了一张车票。
+Pinyin: wǒ mǎi le yī zhāng chēpiào.
+English: I bought a ticket.
+
+Chinese: 我买了一张火车票。
+Pinyin: wǒ mǎi le yī zhāng huǒchēpiào.
+English: I bought a train ticket.
+
+Chinese: 我买了一张飞机票。
+Pinyin: wǒ mǎi le yī zhāng fēijīpiào.
+English: I bought a plane ticket.
+
+Chinese: 我买了一张公交车票。
+Pinyin: wǒ mǎi le yī zhāng gōngjiāochēpiào.
+English: I bought a bus ticket.
+
+Chinese: 我买了一张地铁票。
+Pinyin: wǒ mǎi le yī zhāng dìtiěpiào.
+English: I bought a subway ticket.
+
+Chinese: 我出去玩儿。
+Pinyin: wǒ chūqù wánr.
+English: I went out to play.
+
+Chinese: 我出去旅游。
+Pinyin: wǒ chūqù lǚyóu.
+English: I went out to travel.
+
+Chinese: 我出去散步。
+Pinyin: wǒ chūqù sàn bù.
+English: I went out to take a walk.
+
+Chinese: 我出去买菜。
+Pinyin: wǒ chūqù mǎi cài.
+English: I went out to buy vegetables.
+
+Chinese: 我出去购物。
+Pinyin: wǒ chūqù gòuwù.
+English: I went out to go shopping.
+
+Chinese: 我出去吃饭。
+Pinyin: wǒ chūqù chī fàn.
+English: I went out to eat.
+
+Chinese: 我出去看电影。
+Pinyin: wǒ chūqù kàn diànyǐng.
+English: I went out to watch a movie.
+
+Chinese: 我出去看演出。
+Pinyin: wǒ chūqù kàn yǎnchū.
+English: I went out to see a performance.
+
+Chinese: 我出去看展览。
+Pinyin: wǒ chūqù kàn zhǎnlǎn.
+English: I went out to see an exhibition.
+
+Chinese: 我出去看比赛。
+Pinyin: wǒ chūqù kàn bǐsài.
+English: I went out to watch a game.
+
+Chinese: 我打车去学校。
+Pinyin: wǒ dǎchē qù xuéxiào.
+English: I took a taxi to school.
+
+Chinese: 我打车去公司。
+Pinyin: wǒ dǎchē qù gōngsī.
+English: I took a taxi to the company.
+
+Chinese: 我打车去机场。
+Pinyin: wǒ dǎchē qù jīchǎng.
+English: I took a taxi to the airport.
+
+Chinese: 我打车去火车站。
+Pinyin: wǒ dǎchē qù huǒchēzhàn.
+English: I took a taxi to the train station.
+
+Chinese: 我打车去公交车站。
+Pinyin: wǒ dǎchē qù gōngjiāochēzhàn.
+English: I took a taxi to the bus station.
+
+Chinese: 我打车去地铁站。
+Pinyin: wǒ dǎchē qù dìtiězhàn.
+English: I took a taxi to the subway station.
+
+Chinese: 我打车去银行。
+Pinyin: wǒ dǎchē qù yínháng.
+English: I took a taxi to the bank.
+
+Chinese: 我打车去医院。
+Pinyin: wǒ dǎchē qù yīyuàn.
+English: I took a taxi to the hospital.
+
+Chinese: 我打车去超市。
+Pinyin: wǒ dǎchē qù chāoshì.
+English: I took a taxi to the supermarket.
+
+Chinese: 我打车去商场。
+Pinyin: wǒ dǎchē qù shāngchǎng.
+English: I took a taxi to the mall.
+
+Chinese: 我打电话给他。
+Pinyin: wǒ dǎdiànhuà gěi tā.
+English: I called him.
+
+Chinese: 我打电话给她。
+Pinyin: wǒ dǎdiànhuà gěi tā.
+English: I called her.
+
+Chinese: 我打电话给爸爸。
+Pinyin: wǒ dǎdiànhuà gěi bàba.
+English: I called my father.
+
+Chinese: 我打电话给妈妈。
+Pinyin: wǒ dǎdiànhuà gěi māma.
+English: I called my mother.
+
+Chinese: 我打电话给哥哥。
+Pinyin: wǒ dǎdiànhuà gěi gēge.
+English: I called my brother.
+
+Chinese: 我打电话给姐姐。
+Pinyin: wǒ dǎdiànhuà gěi jiějie.
+English: I called my sister.
+
+Chinese: 我明天打电话给你。
+Pinyin: wǒ míngtiān dǎdiànhuà gěi nǐ.
+English: I will call you tomorrow.
+
+Chinese: 我下周打电话给你。
+Pinyin: wǒ xià zhōu dǎdiànhuà gěi nǐ.
+English: I will call you next week.
+
+Chinese: 我在大学学习。
+Pinyin: wǒ zài dàxué xuéxí.
+English: I study at the university.
+
+Chinese: 我在大学上课。
+Pinyin: wǒ zài dàxué shàngkè.
+English: I take classes at the university.
+
+Chinese: 我在大学参加活动。
+Pinyin: wǒ zài dàxué cānjiā huódòng.
+English: I participate in activities at the university.
+
+Chinese: 我在大学参加社团。
+Pinyin: wǒ zài dàxué cānjiā shètuán.
+English: I participate in clubs at the university.
+
+Chinese: 我在大学参加比赛。
+Pinyin: wǒ zài dàxué cānjiā bǐsài.
+English: I participate in competitions at the university.
+
+Chinese: 我在大学参加演出。
+Pinyin: wǒ zài dàxué cānjiā yǎnchū.
+English: I participate in performances at the university.
+
+Chinese: 我在大学参加展览。
+Pinyin: wǒ zài dàxué cānjiā zhǎnlǎn.
+English: I participate in exhibitions at the university.
+
+Chinese: 我在大学参加讲座。
+Pinyin: wǒ zài dàxué cānjiā jiǎngzuò.
+English: I participate in lectures at the university.
+
+Chinese: 我在大学参加研讨会。
+Pinyin: wǒ zài dàxué cānjiā yántǎohuì.
+English: I participate in seminars at the university.
+
+Chinese: 我是一个大学生。
+Pinyin: wǒ shì yīgè dàxuéshēng.
+English: I am a college student.
+
+Chinese: 我是一个刚毕业的大学生。
+Pinyin: wǒ shì yīgè gāng bìyè de dàxuéshēng.
+English: I am a recent college graduate.
+
+Chinese: 我是一个在校大学生。
+Pinyin: wǒ shì yīgè zài xiào dàxuéshēng.
+English: I am a current college student.
+
+Chinese: 我是一个毕业大学生。
+Pinyin: wǒ shì yīgè bìyè dàxuéshēng.
+English: I am a college graduate.
+
+Chinese: 这个地方很漂亮。
+Pinyin: zhège dìfāng hěn piàoliang.
+English: This place is very beautiful.
+
+Chinese: 这个地方很安静。
+Pinyin: zhège dìfāng hěn ānjìng.
+English: This place is very quiet.
+
+Chinese: 这个地方很热闹。
+Pinyin: zhège dìfāng hěn rènao.
+English: This place is very lively.
+
+Chinese: 这个地方很安全。
+Pinyin: zhège dìfāng hěn ānquán.
+English: This place is very safe.
+
+Chinese: 我们需要确定会议的地点。
+Pinyin: wǒmen xūyào quèdìng huìyì de dìdiǎn.
+English: We need to determine the location of the meeting.
+
+Chinese: 这个事件发生在哪个地点？
+Pinyin: zhège shìjiàn fāshēng zài nǎgè dìdiǎn?
+English: Where did this incident happen?
+
+Chinese: 请告诉我最近的图书馆地点。
+Pinyin: qǐng gàosù wǒ zuìjìn de túshūguǎn dìdiǎn.
+English: Please tell me the location of the nearest library.
+
+Chinese: 这个餐厅的地点在哪里？
+Pinyin: zhège cāntīng de dìdiǎn zài nǎlǐ?
+English: Where is the location of this restaurant?
+
+Chinese: 请告诉我最近的医院地点。
+Pinyin: qǐng gàosù wǒ zuìjìn de yīyuàn dìdiǎn.
+English: Please tell me the location of the nearest hospital.
+
+Chinese: 这个公园的地点在哪里？
+Pinyin: zhège gōngyuán de dìdiǎn zài nǎlǐ?
+English: Where is the location of this park?
+
+Chinese: 他忘记了约定的地点，所以迟到了。
+Pinyin: tā wàngjìle yuēdìng de dìdiǎn, suǒyǐ chídào le.
+English: He forgot the location of the appointment, so he was late.
+
+Chinese: 我们需要确定这个项目的地点。
+Pinyin: wǒmen xūyào quèdìng zhège xiàngmù de dìdiǎn.
+English: We need to determine the location of this project.
+
+Chinese: 学校是我每天去的地点。
+Pinyin: xuéxiào shì wǒ měitiān qù de dìdiǎn.
+English: School is the place I go to every day.
+
+Chinese: 我喜欢在公园的某个安静地点看书。
+Pinyin: wǒ xǐhuān zài gōngyuán de mǒu gè ānjìng dìdiǎn kàn shū.
+English: I like to read books in a quiet spot in the park.
