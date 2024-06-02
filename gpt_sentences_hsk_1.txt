@@ -360,7 +360,7 @@ Pinyin: nà xiē huā hěn piàoliang.
 
 Chinese: 那样做是不对的。
 English: That way of doing is not right.
-Pinyin: nà yàng zuò shì bù duì de.
+Pinyin: nà yàng zuò shì bùduì de.
 
 Chinese: 你需要哪本书？
 English: Which book do you need?
@@ -751,7 +751,7 @@ Pinyin: qǐng bǎ nǐ de shǒujī guān diào.
 English: Please turn off your mobile phone.
 
 Chinese: 你在干什么呢？
-Pinyin: nǐ zài gàn shénme ne?
+Pinyin: nǐ zài gànshénme ne?
 English: What are you doing?
 
 Chinese: 这是谁的书呢？
@@ -1471,15 +1471,15 @@ Pinyin: Xiǎojiě, qǐngwèn xǐshǒujiān zài nǎlǐ?
 English: Excuse me miss, where is the restroom?
 
 Chinese: 那个小姐是我的朋友。
-Pinyin: Nàge xiǎojiě shì wǒ de péngyǒu.
+Pinyin: Nàge xiǎojie shì wǒ de péngyǒu.
 English: That lady is my friend.
 
 Chinese: 这位小姐，请问你需要什么帮助？
-Pinyin: Zhè wèi xiǎojiě, qǐngwèn nǐ xūyào shénme bāngzhù?
+Pinyin: Zhè wèi xiǎojie, qǐngwèn nǐ xūyào shénme bāngzhù?
 English: Miss, may I help you with something?
 
 Chinese: 那个小姐很友好。
-Pinyin: Nàge xiǎojiě hěn yǒuhǎo.
+Pinyin: Nàge xiǎojie hěn yǒuhǎo.
 English: That young lady is very friendly.
 
 Chinese: 这辆出租车请等一下，我们上了就走。
@@ -2255,7 +2255,7 @@ Pinyin: Wǒ bùxiǎng zài huíyì nà duàn wǎngshì.
 English: I don't want to recall that past anymore.
 
 Chinese: 明天我们要回到原点重新开始。
-Pinyin: Míngtiān wǒmen yào huí dào yuándiǎn chóngxīn kāishǐ.
+Pinyin: Míngtiān wǒmen yào huídào yuándiǎn chóngxīn kāishǐ.
 English: Tomorrow we need to go back to the starting point and start over.
 
 Chinese: 我明天要去北京。
@@ -2675,7 +2675,7 @@ Pinyin: Tiānqì yùbào shuō jīntiān huì xiàyǔ, méiguānxi, wǒmen kěy�
 English: The weather forecast says it will rain today, no problem, we can go for a picnic another day.
 
 Chinese: 你把我的笔弄坏了，没关系，我还有别的。
-Pinyin: Nǐ bǎ wǒ de bǐ nòng huài le, méiguānxi, wǒ hái yǒu bié de.
+Pinyin: Nǐ bǎ wǒ de bǐ nòng huài le, méiguānxi, wǒ hái yǒu biéde.
 English: You broke my pen, it's all right, I have others.
 
 Chinese: 你帮了大忙，不客气是不行的。
@@ -3903,7 +3903,7 @@ Pinyin: xuéxiào shì wǒ měitiān qù de dìdiǎn.
 English: School is the place I go to every day.
 
 Chinese: 我喜欢在公园的某个安静地点看书。
-Pinyin: wǒ xǐhuān zài gōngyuán de mǒu gè ānjìng dìdiǎn kàn shū.
+Pinyin: wǒ xǐhuan zài gōngyuán de mǒu gè ānjìng dìdiǎn kàn shū.
 English: I like to read books in a quiet spot in the park.
 
 Chinese: 他把书放在地上。
@@ -4083,7 +4083,7 @@ Pinyin: tā zǒng shì bùdòngshēngsè de guān chá zhe zhōu wéi de yī qi�
 English: He always observes everything around him without showing any emotion.
 
 Chinese: 他是个喜欢动的人，总是喜欢运动。
-Pinyin: tā shì gè xǐhuān dòng de rén, zǒng shì xǐhuan yùndòng.
+Pinyin: tā shì gè xǐhuan dòng de rén, zǒng shì xǐhuan yùndòng.
 English: He is an active person who likes to exercise.
 
 Chinese: 她是个不爱动的人，总是喜欢宅在家里。
@@ -4407,7 +4407,7 @@ Pinyin: Nǐ zěnme zhǎodào zhè jiā cāntīng de?
 English: How did you find this restaurant?
 
 Chinese: 我在网上找到了便宜的机票。
-Pinyin: Wǒ zài wǎng shàng zhǎodào le piányi de jīpiào.
+Pinyin: Wǒ zài wǎngshàng zhǎodào le piányi de jīpiào.
 English: I found cheap plane tickets online.
 
 Chinese: 鸟在天空中飞。
@@ -4899,7 +4899,7 @@ Pinyin: Wǒ shàngxué de shíhou, wǒ de lǎoshī hěn yángé.
 English: When I was in school, my teacher was very strict.
 
 Chinese: 我上学的时候，我最喜欢的科目是数学。
-Pinyin: Wǒ shàngxué de shíhou, wǒ zuì xǐhuān de kēmù shì shùxué.
+Pinyin: Wǒ shàngxué de shíhou, wǒ zuì xǐhuan de kēmù shì shùxué.
 English: When I was in school, my favorite subject was math.
 
 Chinese: 你上学的时候，你有没有参加过学校的乐队？
@@ -4937,4 +4937,1496 @@ English: You can put the money in your pocket.
 Chinese: 他的身上有一股很浓的酒味。
 Pinyin: Tā de shēnshang yǒu yī gǔ hěn nóng de jiǔwèi.
 English: He has a strong smell of alcohol on his body.
+
+Chinese: 你把书包放哪里了？
+Pinyin: Nǐ bǎ shūbāo fàng nǎlǐ le?
+English: Where did you put your backpack?
+
+Chinese: 我的书包很重，因为里面有很多书。
+Pinyin: Wǒ de shūbāo hěn zhòng, yīnwèi lǐmiàn yǒu hěn duō shū.
+English: My backpack is very heavy because there are a lot of books inside.
+
+Chinese: 你可以把书放进书包里。
+Pinyin: Nǐ kěyǐ bǎ shū fàng jìn shūbāo lǐ.
+English: You can put the books into your backpack.
+
+Chinese: 他的书包里有很多零食。
+Pinyin: Tā de shūbāo lǐ yǒu hěn duō língshí.
+English: There are a lot of snacks in his backpack.
+
+Chinese: 你可以帮我拿一下书包吗？
+Pinyin: Nǐ kěyǐ bāng wǒ ná yīxià shūbāo ma?
+English: Can you help me carry my backpack for a moment?
+
+Chinese: 她的书包很漂亮，是粉红色的。
+Pinyin: Tā de shūbāo hěn piàoliang, shì fěnhóngsè de.
+English: Her backpack is very pretty and it's pink.
+
+Chinese: 我上学的时候，总是把书包弄丢。
+Pinyin: Wǒ shàngxué de shíhou, zǒngshì bǎ shūbāo nòng diū.
+English: When I was in school, I would always lose my backpack.
+
+Chinese: 你最喜欢的书店是哪一家？
+Pinyin: Nǐ zuì xǐhuan de shūdiàn shì nǎ yī jiā?
+English: Which bookstore do you like the most?
+
+Chinese: 我经常在书店里看书。
+Pinyin: Wǒ jīngcháng zài shūdiàn lǐ kànshū.
+English: I often read books at the bookstore.
+
+Chinese: 这家书店有各种各样的书。
+Pinyin: Zhè jiā shūdiàn yǒu gèzhǒnggèyàng de shū.
+English: This bookstore has all sorts of books.
+
+Chinese: 你可以告诉我最近的书店在哪里吗？
+Pinyin: Nǐ kěyǐ gàosù wǒ zuìjìn de shūdiàn zài nǎlǐ ma?
+English: Can you tell me where the nearest bookstore is?
+
+Chinese: 我在书店里找到了我喜欢的书。
+Pinyin: Wǒ zài shūdiàn lǐ zhǎodàole wǒ xǐhuan de shū.
+English: I found the book I like at the bookstore.
+
+Chinese: 这家书店提供各种各样的服务，包括租书和买书。
+Pinyin: Zhè jiā shūdiàn tígōng gèzhǒnggèyàng de fúwù, bāokuò zūshū hé mǎishū.
+English: This bookstore offers a variety of services, including book rentals and purchases.
+
+Chinese: 你可以在网上或在实体书店中购买书。
+Pinyin: Nǐ kěyǐ zài wǎngshàng huò zài shí tǐ shūdiàn zhōng gòumǎi shū.
+English: You can buy books online or from physical bookstores.
+
+Chinese: 我明天要去机场送我哥哥。
+Pinyin: Wǒ míngtiān yào qù jīchǎng sòng wǒ gēgē.
+English: I'm going to the airport tomorrow to see my brother off.
+
+Chinese: 你可以送我一瓶水吗？
+Pinyin: Nǐ kěyǐ sòng wǒ yī píng shuǐ ma?
+English: Can you bring me a bottle of water?
+
+Chinese: 我妈妈给我送了一束花。
+Pinyin: Wǒ māma gěi wǒ sòng le yī shù huā.
+English: My mom sent me a bouquet of flowers.
+
+Chinese: 你可以帮我送这个包裹吗？
+Pinyin: Nǐ kěyǐ bāng wǒ sòng zhège bāoguǒ ma?
+English: Can you help me deliver this package?
+
+Chinese: 我给你送了一份礼物。
+Pinyin: Wǒ gěi nǐ sòng le yī fèn lǐwù.
+English: I sent you a gift.
+
+Chinese: 你可以送我去火车站吗？
+Pinyin: Nǐ kěyǐ sòng wǒ qù huǒchēzhàn ma?
+English: Can you take me to the train station?
+
+Chinese: 快递小哥送了我一个包裹。
+Pinyin: Kuàidì xiǎo gē sòng le wǒ yī gè bāoguǒ.
+English: The delivery guy brought me a package.
+
+Chinese: 你可以送我回家吗？
+Pinyin: Nǐ kěyǐ sòng wǒ huí jiā ma?
+English: Can you give me a ride home?
+
+Chinese: 她们两个是好朋友。
+Pinyin: Tāmen liǎng gè shì hǎo péngyou.
+English: They are good friends.
+
+Chinese: 她们明天要去看电影。
+Pinyin: Tāmen míngtiān yào qù kàn diànyǐng.
+English: They are going to watch a movie tomorrow.
+
+Chinese: 她们在咖啡店里聊天。
+Pinyin: Tāmen zài kāfēi diàn lǐ liáotiān.
+English: They are chatting in the coffee shop.
+
+Chinese: 她们两个都是老师。
+Pinyin: Tāmen liǎng gè dōu shì lǎoshī.
+English: They are both teachers.
+
+Chinese: 她们在哪里见面？
+Pinyin: Tāmen zài nǎlǐ jiànmiàn?
+English: Where are they meeting?
+
+Chinese: 她们两个有相同的爱好。
+Pinyin: Tāmen liǎng gè yǒu xiāngtóng de àihào.
+English: They share the same hobbies.
+
+Chinese: 她们在学校里认识了。
+Pinyin: Tāmen zài xuéxiào lǐ rènshi le.
+English: They met each other at school.
+
+Chinese: 她们两个都有兄弟。
+Pinyin: Tāmen liǎng gè dōu yǒu xiōngdì.
+English: They both have brothers.
+
+Chinese: 我听见外面有声音。
+Pinyin: Wǒ tīngjiàn wàimiàn yǒu shēngyīn.
+English: I hear a sound outside.
+
+Chinese: 你听见他说话了吗？
+Pinyin: Nǐ tīngjiàn tā shuōhuà le ma?
+English: Did you hear him talking?
+
+Chinese: 我听见鸟在唱歌。
+Pinyin: Wǒ tīngjiàn niǎo zài chànggē.
+English: I hear birds singing.
+
+Chinese: 你听见什么了？
+Pinyin: Nǐ tīngjiàn shénme le?
+English: What did you hear?
+
+Chinese: 我听见有人叫我的名字。
+Pinyin: Wǒ tīngjiàn yǒu rén jiào wǒ de míngzì.
+English: I heard someone calling my name.
+
+Chinese: 你听见隔壁的狗在叫吗？
+Pinyin: Nǐ tīngjiàn gébì de gǒu zài jiào ma?
+English: Can you hear the dog barking next door?
+
+Chinese: 我昨晚听见了雷声。
+Pinyin: Wǒ zuówǎn tīngjiàn le léishēng.
+English: I heard thunder last night.
+
+Chinese: 你听见新闻了吗？
+Pinyin: Nǐ tīngjiàn xīnwén le ma?
+English: Did you hear the news?
+
+Chinese: 我听见了水流声。
+Pinyin: Wǒ tīngjiàn le shuǐliúshēng.
+English: I heard the sound of flowing water.
+
+Chinese: 老师让我们做听写练习。
+Pinyin: Lǎoshī ràng wǒmen zuò tīngxiě liànxí.
+English: The teacher asked us to do dictation practice.
+
+Chinese: 你需要做听写练习来提高你的拼写能力。
+Pinyin: Nǐ xūyào zuò tīngxiě liànxí lái tí gāo nǐ de pīnxiě nénglì.
+English: You need to do dictation exercises to improve your spelling skills.
+
+Chinese: 你可以做听写练习来练习你的听力。
+Pinyin: Nǐ kěyǐ zuò tīngxiě liànxí lái liànxí nǐ de tīnglì.
+English: You can do dictation exercises to practice your listening skills.
+
+Chinese: 你可以做听写练习来提高你的汉语水平。
+Pinyin: Nǐ kěyǐ zuò tīngxiě liànxí lái tí gāo nǐ de hànyǔ shuǐpíng.
+English: You can do dictation exercises to improve your Chinese language proficiency.
+
+Chinese: 你听写了多少个单词？
+Pinyin: Nǐ tīngxiě le duōshǎo gè dāncí?
+English: How many words did you transcribe?
+
+Chinese: 你可以做听写练习来提高你的写作能力。
+Pinyin: Nǐ kěyǐ zuò tīngxiě liànxí lái tí gāo nǐ de xiězuò nénglì.
+English: You can do dictation exercises to improve your writing skills.
+
+Chinese: 你可以做听写练习来练习你的发音。
+Pinyin: Nǐ kěyǐ zuò tīngxiě liànxí lái liànxí nǐ de fāyīn.
+English: You can do dictation exercises to practice your pronunciation.
+
+Chinese: 我听写了十个句子。
+Pinyin: Wǒ tīngxiě le shí gè jùzi.
+English: I transcribed ten sentences.
+
+Chinese: 外边下雨了，我要去拿雨伞。
+Pinyin: Wàibian xià yǔ le, wǒ yào qù ná yǔsǎn.
+English: It's raining outside, I need to get an umbrella.
+
+Chinese: 外边太冷了，我要关窗户。
+Pinyin: Wàibian tài lěng le, wǒ yào guān chuānghu.
+English: It's too cold outside, I'm going to close the window.
+
+Chinese: 外边太热了，我要开空调。
+Pinyin: Wàibian tài rè le, wǒ yào kāi kōngtiáo.
+English: It's too hot outside, I need to turn on the air conditioning.
+
+Chinese: 外边有什么声音？
+Pinyin: Wàibian yǒu shénme shēngyīn?
+English: What's that sound outside?
+
+Chinese: 外边有什么动静？
+Pinyin: Wàibian yǒu shénme dòngjìng?
+English: What's going on outside?
+
+Chinese: 外边有只猫。
+Pinyin: Wàibian yǒu zhī māo.
+English: There's a cat outside.
+
+Chinese: 外边有个男人。
+Pinyin: Wàibian yǒu gè nánrén.
+English: There's a man outside.
+
+Chinese: 外边有个女人。
+Pinyin: Wàibian yǒu gè nǚrén.
+English: There's a woman outside.
+
+Chinese: 你去过哪些外国？
+Pinyin: Nǐ qù guò nǎxiē wàiguó?
+English: Which foreign countries have you been to?
+
+Chinese: 他住在外国。
+Pinyin: Tā zhù zài wàiguó.
+English: He lives in a foreign country.
+
+Chinese: 你喜欢外国的什么？
+Pinyin: Nǐ xǐhuan wàiguó de shénme?
+English: What do you like about foreign countries?
+
+Chinese: 你想去外国上学吗？
+Pinyin: Nǐ xiǎng qù wàiguó shàngxué ma?
+English: Do you want to study abroad?
+
+Chinese: 你在外国学到了什么？
+Pinyin: Nǐ zài wàiguó xué dào le shénme?
+English: What did you learn while in a foreign country?
+
+Chinese: 你在外国遇到过困难吗？
+Pinyin: Nǐ zài wàiguó yù dào guò kùnnan ma?
+English: Have you faced any challenges while in a foreign country?
+
+Chinese: 你为什么想去外国工作？
+Pinyin: Nǐ wèishénme xiǎng qù wàiguó gōngzuò?
+English: Why do you want to work in a foreign country?
+
+Chinese: 你在外国学了什么语言？
+Pinyin: Nǐ zài wàiguó xué le shénme yǔyán?
+English: What languages did you study while in a foreign country?
+
+Chinese: 你在外国交到了什么朋友？
+Pinyin: Nǐ zài wàiguó jiāo dào le shénme péngyou?
+English: What kind of friends did you make while in a foreign country?
+
+Chinese: 你会说哪些外语？
+Pinyin: Nǐ huì shuō nǎxiē wàiyǔ?
+English: Which foreign languages do you speak?
+
+Chinese: 我在学西班牙语。
+Pinyin: Wǒ zài xué Xībānyáyǔ.
+English: I'm studying Spanish.
+
+Chinese: 学习外语对找工作很有帮助。
+Pinyin: Xuéxí wàiyǔ duì zhǎo gōngzuò hěn yǒu bāngzhù.
+English: Learning a foreign language is very helpful for finding a job.
+
+Chinese: 你为什么想学外语？
+Pinyin: Nǐ wèishénme xiǎng xué wàiyǔ?
+English: Why do you want to learn a foreign language?
+
+Chinese: 你可以去语言学校学外语。
+Pinyin: Nǐ kěyǐ qù yǔyán xuéxiào xué wàiyǔ.
+English: You can go to a language school to study a foreign language.
+
+Chinese: 你可以看电影和电视来学外语。
+Pinyin: Nǐ kěyǐ kàn diànyǐng hé diànshì lái xué wàiyǔ.
+English: You can learn a foreign language by watching movies and TV.
+
+Chinese: 你可以找一个语言交换伙伴来练习口语。
+Pinyin: Nǐ kěyǐ zhǎo yī gè yǔyán jiāohuàn huǒbàn lái liànxí kǒuyǔ.
+English: You can find a language exchange partner to practice speaking.
+
+Chinese: 你可以下载一个语言学习应用来帮助你学外语。
+Pinyin: Nǐ kěyǐ xiàzài yī gè yǔyán xuéxí yìngyòng lái bāngzhù nǐ xué wàiyǔ.
+English: You can download a language learning app to help you study a foreign language.
+
+Chinese: 我在网上认识了很多网友。
+Pinyin: Wǒ zài wǎngshàng rènshi le hěn duō wǎngyǒu.
+English: I've met a lot of online friends.
+
+Chinese: 我和我的网友在咖啡店见面。
+Pinyin: Wǒ hé wǒ de wǎngyǒu zài kāfēi diàn jiànmiàn.
+English: I met my online friend at a coffee shop.
+
+Chinese: 我的网友给我推荐了很多好书。
+Pinyin: Wǒ de wǎngyǒu gěi wǒ tuījiàn le hěn duō hǎoshū.
+English: My online friend recommended a lot of good books to me.
+
+Chinese: 我和我的网友玩得很开心。
+Pinyin: Wǒ hé wǒ de wǎngyǒu wán de hěn kāixīn.
+English: I had a great time with my online friend.
+
+Chinese: 我和我的网友在网上聊了很多次。
+Pinyin: Wǒ hé wǒ de wǎngyǒu zài wǎngshàng liáo le hěn duō cì.
+English: I've chatted with my online friend many times.
+
+Chinese: 我和我的网友有很多共同的爱好。
+Pinyin: Wǒ hé wǒ de wǎngyǒu yǒu hěn duō gòngtóng de àihào.
+English: My online friend and I share a lot of common interests.
+
+Chinese: 我和我的网友从来没有见过面。
+Pinyin: Wǒ hé wǒ de wǎngyǒu cónglái méiyǒu jiànguò miàn.
+English: My online friend and I have never met in person.
+
+Chinese: 我和我的网友有很相似的性格。
+Pinyin: Wǒ hé wǒ de wǎngyǒu yǒu hěn xiāngsì de xìnggé.
+English: My online friend and I have very similar personalities.
+
+Chinese: 我吃过午饭了。
+Pinyin: Wǒ chīguò wǔfàn le.
+English: I've had lunch.
+
+Chinese: 你吃午饭了吗？
+Pinyin: Nǐ chī wǔfàn le ma?
+English: Have you had lunch?
+
+Chinese: 我没吃午饭。
+Pinyin: Wǒ méi chī wǔfàn.
+English: I haven't had lunch yet.
+
+Chinese: 我们一起吃午饭吧！
+Pinyin: Wǒmen yīqǐ chī wǔfàn ba!
+English: Let's have lunch together!
+
+Chinese: 我通常在午饭时间去健身房。
+Pinyin: Wǒ tōngcháng zài wǔfàn shíjiān qù jiànshēn fáng.
+English: I usually go to the gym during lunch time.
+
+Chinese: 我们在午饭时间开会。
+Pinyin: Wǒmen zài wǔfàn shíjiān kāihuì.
+English: We have meetings during lunch time.
+
+Chinese: 你通常在哪里吃午饭？
+Pinyin: Nǐ tōngcháng zài nǎlǐ chī wǔfàn?
+English: Where do you usually have lunch?
+
+Chinese: 我们在午饭时间休息。
+Pinyin: Wǒmen zài wǔfàn shíjiān xiūxi.
+English: We take a break during lunch time.
+
+Chinese: 你吃午饭了没？
+Pinyin: Nǐ chī wǔfàn le méi?
+English: Have you had lunch yet?
+
+Chinese: 我们在西区有个办公室。
+Pinyin: Wǒmen zài xī qū yǒu gè bàngōngshì.
+English: We have an office in the western district.
+
+Chinese: 我们在西区有个分店。
+Pinyin: Wǒmen zài xī qū yǒu gè fēndiàn.
+English: We have a branch in the western area.
+
+Chinese: 我们在西区有个体育场。
+Pinyin: Wǒmen zài xī qū yǒu gè tǐyùchǎng.
+English: We have a stadium in the western zone.
+
+Chinese: 下课了，我们一起去吃饭吧！
+Pinyin: Xiàkè le, wǒmen yīqǐ qù chīfàn ba!
+English: Class is over, let's go get something to eat!
+
+Chinese: 老师，下课了吗？
+Pinyin: Lǎoshī, xiàkè le ma?
+English: Teacher, is class over?
+
+Chinese: 下课铃响了。
+Pinyin: Xiàkè líng xiǎng le.
+English: The bell for the end of class rang.
+
+Chinese: 下课后，我有篮球训练。
+Pinyin: Xiàkè hòu, wǒ yǒu lánqiú xùnliàn.
+English: After class, I have basketball practice.
+
+Chinese: 你下课了吗？我们一起去喝咖啡吧！
+Pinyin: Nǐ xiàkè le ma? Wǒmen yīqǐ qù hē kāfēi ba!
+English: Are you off class? Let's go get some coffee!
+
+Chinese: 老师，我可以在下课后跟你谈谈吗？
+Pinyin: Lǎoshī, wǒ kěyǐ zài xiàkè hòu gēn nǐ tán tán ma?
+English: Teacher, can I talk to you after class?
+
+Chinese: 下课后，我要去图书馆还书。
+Pinyin: Xiàkè hòu, wǒ yào qù túshūguǎn huán shū.
+English: After class, I need to return books to the library.
+
+Chinese: 你通常下课后做什么？
+Pinyin: Nǐ tōngcháng xiàkè hòu zuò shénme?
+English: What do you usually do after class?
+
+Chinese: 你可以问那位先生。
+Pinyin: Nǐ kěyǐ wèn nà wèi xiānsheng.
+English: You can ask that gentleman.
+
+Chinese: 李先生是我的历史老师。
+Pinyin: Lǐ xiānsheng shì wǒ de lìshǐ lǎoshī.
+English: Mr. Li is my history teacher.
+
+Chinese: 你可以叫他张先生。
+Pinyin: Nǐ kěyǐ jiào tā Zhāng xiānsheng.
+English: You can call him Mr. Zhang.
+
+Chinese: 你可以问问那位先生。
+Pinyin: Nǐ kěyǐ wèn wèn nà wèi xiānsheng.
+English: You can ask that gentleman.
+
+Chinese: 王先生是我的英语老师。
+Pinyin: Wáng xiānsheng shì wǒ de yīngyǔ lǎoshī.
+English: Mr. Wang is my English teacher.
+
+Chinese: 你可以叫我李先生。
+Pinyin: Nǐ kěyǐ jiào wǒ Lǐ xiānsheng.
+English: You can call me Mr. Lee.
+
+Chinese: 你可以问问陈先生。
+Pinyin: Nǐ kěyǐ wèn wèn Chén xiānsheng.
+English: You can ask Mr. Chen.
+
+Chinese: 你好，小姐。
+Pinyin: Nǐ hǎo, xiǎojie.
+English: Hello, miss.
+
+Chinese: 这位是王小姐。
+Pinyin: Zhè wèi shì Wáng xiǎojie.
+English: This is Miss Wang.
+
+Chinese: 你可以问问那位小姐。
+Pinyin: Nǐ kěyǐ wèn wèn nà wèi xiǎojie.
+English: You can ask that young lady.
+
+Chinese: 李小姐是我的同事。
+Pinyin: Lǐ xiǎojie shì wǒ de tóngshì.
+English: Miss Lee is my colleague.
+
+Chinese: 你可以叫她张小姐。
+Pinyin: Nǐ kěyǐ jiào tā Zhāng xiǎojie.
+English: You can call her Miss Zhang.
+
+Chinese: 你好，陈小姐。
+Pinyin: Nǐ hǎo, Chén xiǎojie.
+English: Hello, Miss Chen.
+
+Chinese: 王小姐是我的朋友。
+Pinyin: Wáng xiǎojie shì wǒ de péngyou.
+English: Miss Wang is my friend.
+
+Chinese: 你可以叫我李小姐。
+Pinyin: Nǐ kěyǐ jiào wǒ Lǐ xiǎojie.
+English: You can call me Miss Lee.
+
+Chinese: 这位是陈小姐，她是我的老板。
+Pinyin: Zhè wèi shì Chén xiǎojie, tā shì wǒ de lǎobǎn.
+English: This is Miss Chen, she's my boss.
+
+Chinese: 那个小孩儿是谁的？
+Pinyin: Nà gè xiǎoháir shì shéi de?
+English: Whose kid is that?
+
+Chinese: 你有几个小孩儿？
+Pinyin: Nǐ yǒu jǐ gè xiǎoháir?
+English: How many kids do you have?
+
+Chinese: 那个小孩儿在哭。
+Pinyin: Nà gè xiǎoháir zài kū.
+English: That kid is crying.
+
+Chinese: 你的小孩儿多大了？
+Pinyin: Nǐ de xiǎoháir duō dà le?
+English: How old is your kid now?
+
+Chinese: 我的小孩儿很调皮。
+Pinyin: Wǒ de xiǎoháir hěn tiáopí.
+English: My kid is very naughty.
+
+Chinese: 你的小孩儿在哪里？
+Pinyin: Nǐ de xiǎoháir zài nǎlǐ?
+English: Where is your kid?
+
+Chinese: 我要给我的小孩儿读一本书。
+Pinyin: Wǒ yào gěi wǒ de xiǎoháir dú yī běn shū.
+English: I'm going to read a book to my kid.
+
+Chinese: 你的小孩儿在学校怎么样？
+Pinyin: Nǐ de xiǎoháir zài xuéxiào zěnme yàng?
+English: How is your kid doing in school?
+
+Chinese: 你的小朋友多大了？
+Pinyin: Nǐ de xiǎopéngyǒu duō dà le?
+English: How old is your little friend now?
+
+Chinese: 我要给我的小朋友读一本书。
+Pinyin: Wǒ yào gěi wǒ de xiǎopéngyǒu dú yī běn shū.
+English: I'm going to read a book to my little friend.
+
+Chinese: 你的小朋友在哪里？
+Pinyin: Nǐ de xiǎopéngyǒu zài nǎlǐ?
+English: Where is your little friend?
+
+Chinese: 你的小朋友在学校怎么样？
+Pinyin: Nǐ de xiǎopéngyǒu zài xuéxiào zěnme yàng?
+English: How is your little friend doing in school?
+
+Chinese: 你可以跟你的小朋友分享你的玩具。
+Pinyin: Nǐ kěyǐ gēn nǐ de xiǎopéngyǒu fēnxiǎng nǐ de wánjù.
+English: You can share your toys with your little friends.
+
+Chinese: 你可以带你的小朋友去公园玩。
+Pinyin: Nǐ kěyǐ dài nǐ de xiǎopéngyǒu qù gōngyuán wán.
+English: You can take your little friends to the park to play.
+
+Chinese: 新年快乐！
+Pinyin: Xīnnián kuàilè!
+English: Happy New Year!
+
+Chinese: 新的一年，我希望你一切顺利。
+Pinyin: Xīn de yī nián, wǒ xīwàng nǐ yīqiè shùnlì.
+English: In the new year, I hope everything goes well for you.
+
+Chinese: 我们在新年假期去滑雪。
+Pinyin: Wǒmen zài xīnnián jiàqī qù huáxuě.
+English: We went skiing during the New Year holiday.
+
+Chinese: 我们在新年假期吃了很多好吃的。
+Pinyin: Wǒmen zài xīnnián jiàqī chī le hěn duō hǎochī de.
+English: We ate a lot of delicious food during the New Year holiday.
+
+Chinese: 你在新年假期做了什么？
+Pinyin: Nǐ zài xīnnián jiàqī zuò le shénme?
+English: What did you do during the New Year holiday?
+
+Chinese: 我们在新年假期去了北京。
+Pinyin: Wǒmen zài xīnnián jiàqī qù le Běijīng.
+English: We went to Beijing during the New Year holiday.
+
+Chinese: 我们在新年假期放了很多烟花。
+Pinyin: Wǒmen zài xīnnián jiàqī fàng le hěn duō yānhuā.
+English: We set off a lot of fireworks during the New Year holiday.
+
+Chinese: 你通常在新年做什么？
+Pinyin: Nǐ tōngcháng zài xīnnián zuò shénme?
+English: What do you usually do for the New Year?
+
+Chinese: 你有什么新年计划？
+Pinyin: Nǐ yǒu shénme xīnnián jìhuà?
+English: What are your New Year's resolutions?
+
+Chinese: 他上了一个艺术学院。
+Pinyin: Tā shàng le yī gè yìshù xuéyuàn.
+English: He attended an art college.
+
+Chinese: 她是一所医学院的学生。
+Pinyin: Tā shì yīsuǒ yīxué yuàn de xuéshēng.
+English: She is a student at a medical college.
+
+Chinese: 这是一所著名的工程学院。
+Pinyin: Zhè shì yīsuǒ zhùmíng de gōngchéng xuéyuàn.
+English: This is a renowned engineering college.
+
+Chinese: 他是一所法学院的学生。
+Pinyin: Tā shì yīsuǒ fǎxué yuàn de xuéshēng.
+English: He is a student at a law school.
+
+Chinese: 这是一所商学院。
+Pinyin: Zhè shì yīsuǒ shāng xuéyuàn.
+English: This is a business school.
+
+Chinese: 你考虑过上音乐学院吗？
+Pinyin: Nǐ kǎolǜ guò shàng yīnyuè xuéyuàn ma?
+English: Have you considered attending a music college?
+
+Chinese: 你有没有考虑过上师范学院？
+Pinyin: Nǐ yǒu méiyǒu kǎolǜ guò shàng shīfàn xuéyuàn?
+English: Have you thought about attending a teacher's college?
+
+Chinese: 你为什么选择上这所学院？
+Pinyin: Nǐ wèishénme xuǎnzé shàng zhè suǒ xuéyuàn?
+English: Why did you choose to attend this college?
+
+Chinese: 这所学院提供很多不同的课程。
+Pinyin: Zhè suǒ xuéyuàn tígōng hěn duō bùtóng de kèchéng.
+English: This college offers a lot of different courses.
+
+Chinese: 有时候，我喜欢看电影。
+Pinyin: Yǒushíhou, wǒ xǐhuan kàn diànyǐng.
+English: Sometimes, I like to watch movies.
+
+Chinese: 有时候，我喜欢读一本书。
+Pinyin: Yǒushíhou, wǒ xǐhuan dú yī běn shū.
+English: Sometimes, I like to read a book.
+
+Chinese: 有时候，我喜欢去公园。
+Pinyin: Yǒushíhou, wǒ xǐhuan qù gōngyuán.
+English: Sometimes, I like to go to the park.
+
+Chinese: 有时候，我喜欢听音乐。
+Pinyin: Yǒushíhou, wǒ xǐhuan tīng yīnyuè.
+English: Sometimes, I like to listen to music.
+
+Chinese: 有时候，我喜欢画画。
+Pinyin: Yǒushíhou, wǒ xǐhuan huà huà.
+English: Sometimes, I like to draw.
+
+Chinese: 有时候，我喜欢写日记。
+Pinyin: Yǒushíhou, wǒ xǐhuan xiě rìjì.
+English: Sometimes, I like to write a diary.
+
+Chinese: 你有时候会做什么？
+Pinyin: Nǐ yǒushíhou huì zuò shénme?
+English: What do you do sometimes?
+
+Chinese: 你有时候会去哪里？
+Pinyin: Nǐ yǒushíhou huì qù nǎlǐ?
+English: Where do you go sometimes?
+
+Chinese: 你有时候会做什么运动？
+Pinyin: Nǐ yǒushíhou huì zuò shénme yùndòng?
+English: What kind of sports do you play sometimes?
+
+Chinese: 有些学生很聪明。
+Pinyin: Yǒuxiē xuéshēng hěn cōngming.
+English: Some students are very smart.
+
+Chinese: 有些人喜欢夏天，有些人喜欢冬天。
+Pinyin: Yǒuxiē rén xǐhuān xiàtiān, yǒuxiē rén xǐhuān dōngtiān.
+English: Some people like summer, some people like winter.
+
+Chinese: 有些问题很难。
+Pinyin: Yǒuxiē wèntí hěn nán.
+English: Some questions are very difficult.
+
+Chinese: 有些书很便宜。
+Pinyin: Yǒuxiē shū hěn piányi.
+English: Some books are very cheap.
+
+Chinese: 有些电影很无聊。
+Pinyin: Yǒuxiē diànyǐng hěn wúliáo.
+English: Some movies are very boring.
+
+Chinese: 有些食物很辣。
+Pinyin: Yǒuxiē shíwù hěn là.
+English: Some foods are very spicy.
+
+Chinese: 有些人很外向，有些人很内向。
+Pinyin: Yǒuxiē rén hěn wàixiàng, yǒuxiē rén hěn nèixiàng.
+English: Some people are extroverted, some are introverted.
+
+Chinese: 有些人喜欢猫，有些人喜欢狗。
+Pinyin: Yǒuxiē rén xǐhuān māo, yǒuxiē rén xǐhuān gǒu.
+English: Some people like cats, some people like dogs.
+
+Chinese: 有些人喜欢早起，有些人喜欢晚睡。
+Pinyin: Yǒuxiē rén xǐhuān zǎo qǐ, yǒuxiē rén xǐhuān wǎn shuì.
+English: Some people like to get up early, some people like to sleep late.
+
+Chinese: 这个信息很有用。
+Pinyin: Zhè gè xìnxī hěn yǒuyòng.
+English: This information is very useful.
+
+Chinese: 你给我的建议很有用。
+Pinyin: Nǐ gěi wǒ de jiànyì hěn yǒuyòng.
+English: The advice you gave me is very helpful.
+
+Chinese: 这本书对我很有用。
+Pinyin: Zhè běn shū duì wǒ hěn yǒuyòng.
+English: This book is very useful to me.
+
+Chinese: 你说的那些东西一点儿都不有用。
+Pinyin: Nǐ shuō de nàxiē dōngxi yīdiǎnr dōu bù yǒuyòng.
+English: Those things you said are not useful at all.
+
+Chinese: 你可以把这些有用的信息分享给别人。
+Pinyin: Nǐ kěyǐ bǎ zhèxiē yǒuyòng de xìnxī fēnxiǎng gěi biérén.
+English: You can share this useful information with others.
+
+Chinese: 你可以把这些有用的东西扔掉。
+Pinyin: Nǐ kěyǐ bǎ zhèxiē yǒuyòng de dōngxi rēng diào.
+English: You can throw away these useful things.
+
+Chinese: 你可以把这些有用的信息记下来。
+Pinyin: Nǐ kěyǐ bǎ zhèxiē yǒuyòng de xìnxī jì xiàlái.
+English: You can write down this useful information.
+
+Chinese: 你可以把这些有用的建议考虑一下。
+Pinyin: Nǐ kěyǐ bǎ zhèxiē yǒuyòng de jiànyì kǎolǜ yīxià.
+English: You can consider this useful advice.
+
+Chinese: 再见，祝你一路平安！
+Pinyin: Zàijiàn, zhù nǐ yīlù píng'ān!
+English: Goodbye, wishing you a safe journey!
+
+Chinese: 再见，希望很快能再见到你！
+Pinyin: Zàijiàn, xīwàng hěn kuài néng zài jiàn dào nǐ!
+English: Goodbye, hoping to see you again soon!
+
+Chinese: 再见，下次来我家玩吧！
+Pinyin: Zàijiàn, xiàcì lái wǒ jiā wán ba!
+English: Goodbye, come to my place next time!
+
+Chinese: 再见，谢谢你的邀请！
+Pinyin: Zàijiàn, xièxiè nǐ de yāoqǐng!
+English: Goodbye, thanks for the invitation!
+
+Chinese: 再见，祝你好运！
+Pinyin: Zàijiàn, zhù nǐ hǎoyùn!
+English: Goodbye, wishing you good luck!
+
+Chinese: 再见，我们明天见！
+Pinyin: Zàijiàn, wǒmen míngtiān jiàn!
+English: Goodbye, see you tomorrow!
+
+Chinese: 再见，下次聊！
+Pinyin: Zàijiàn, xiàcì liáo!
+English: Goodbye, let's chat next time!
+
+Chinese: 再见，我得走了！
+Pinyin: Zàijiàn, wǒ děi zǒu le!
+English: Goodbye, I have to go now!
+
+Chinese: 我今天不想出去，我想在家休息。
+Pinyin: Wǒ jīntiān bùxiǎng chūqù, wǒ xiǎng zàijiā xiūxi.
+English: I don't feel like going out today, I want to stay home and rest.
+
+Chinese: 我在家工作，所以我很灵活。
+Pinyin: Wǒ zàijiā gōngzuò, suǒyǐ wǒ hěn línghuó.
+English: I work from home, so I have a lot of flexibility.
+
+Chinese: 我在家吃午饭。
+Pinyin: Wǒ zàijiā chī wǔfàn.
+English: I have lunch at home.
+
+Chinese: 我在家的时候，我喜欢穿舒服的衣服。
+Pinyin: Wǒ zàijiā de shíhou, wǒ xǐhuān chuān shūfu de yīfú.
+English: When I'm at home, I like to wear comfortable clothes.
+
+Chinese: 我在家的时候，我通常穿睡衣。
+Pinyin: Wǒ zàijiā de shíhou, wǒ tōngcháng chuān shuìyī.
+English: When I'm at home, I usually wear pajamas.
+
+Chinese: 我在家工作，所以我不需要通勤。
+Pinyin: Wǒ zàijiā gōngzuò, suǒyǐ wǒ bù xūyào tōngqín.
+English: I work from home, so I don't need to commute.
+
+Chinese: 我在家的时候，我通常看电视。
+Pinyin: Wǒ zàijiā de shíhou, wǒ tōngcháng kàn diànshì.
+English: When I'm at home, I usually watch TV.
+
+Chinese: 我在家的时候，我通常听音乐。
+Pinyin: Wǒ zàijiā de shíhou, wǒ tōngcháng tīng yīnyuè.
+English: When I'm at home, I usually listen to music.
+
+Chinese: 我在这儿等你。
+Pinyin: Wǒ zài zhèr děng nǐ.
+English: I'm waiting for you here.
+
+Chinese: 这儿有个咖啡店。
+Pinyin: Zhèr yǒu gè kāfēi diàn.
+English: There's a coffee shop here.
+
+Chinese: 这儿有个公园。
+Pinyin: Zhèr yǒu gè gōngyuán.
+English: There's a park here.
+
+Chinese: 这儿有个图书馆。
+Pinyin: Zhèr yǒu gè túshūguǎn.
+English: There's a library here.
+
+Chinese: 这儿有个博物馆。
+Pinyin: Zhèr yǒu gè bówùguǎn.
+English: There's a museum here.
+
+Chinese: 这儿有个超市。
+Pinyin: Zhèr yǒu gè chāoshì.
+English: There's a supermarket here.
+
+Chinese: 这儿有个邮局。
+Pinyin: Zhèr yǒu gè yóujú.
+English: There's a post office here.
+
+Chinese: 这儿有个银行。
+Pinyin: Zhèr yǒu gè yínháng.
+English: There's a bank here.
+
+Chinese: 这儿有个饭店。
+Pinyin: Zhèr yǒu gè fàndiàn.
+English: There's a hotel here.
+
+Chinese: 这儿有个医院。
+Pinyin: Zhèr yǒu gè yīyuàn.
+English: There's a hospital here.
+
+Chinese: 你往这边走，他们往那边走。
+Pinyin: Nǐ wǎng zhèbiān zǒu， tāmen wǎng nà biān zǒu.
+English: You walk over here, they walk over there.
+
+Chinese: 这边有个公园，我们可以去那儿野餐。
+Pinyin: Zhèbiān yǒu gè gōngyuán, wǒmen kěyǐ qù nàr yěcān.
+English: There's a park over here, we can go there for a picnic.
+
+Chinese: 你坐这边，我坐那边。
+Pinyin: Nǐ zuò zhèbiān, wǒ zuò nàbian.
+English: You sit on this side, I'll sit on that side.
+
+Chinese: 这边天气很好，那边却在下雨。
+Pinyin: Zhèbiān tiānqì hěn hǎo, nàbian què zài xiàyǔ.
+English: The weather is nice over here, but it's raining over there.
+
+Chinese: 你在这边等我，我很快回来。
+Pinyin: Nǐ zài zhèbiān děng wǒ, wǒ hěn kuài huílai.
+English: Wait for me over here, I'll be right back.
+
+Chinese: 这边有空位吗？
+Pinyin: Zhèbiān yǒu kòng wèi ma?
+English: Is there a vacant seat over here?
+
+Chinese: 这边有厕所吗？
+Pinyin: Zhèbiān yǒu cèsuǒ ma?
+English: Is there a restroom over here?
+
+Chinese: 这边有银行吗？
+Pinyin: Zhèbiān yǒu yínháng ma?
+English: Is there a bank over here?
+
+Chinese: 这边有超市吗？
+Pinyin: Zhèbiān yǒu chāoshì ma?
+English: Is there a supermarket over here?
+
+Chinese: 这边有邮局吗？
+Pinyin: Zhèbiān yǒu yóujú ma?
+English: Is there a post office over here?
+
+Chinese: 我真的很抱歉。
+Pinyin: Wǒ zhēnde hěn bàoqiàn.
+English: I am truly sorry.
+
+Chinese: 真的，我没有骗你。
+Pinyin: Zhēnde, wǒ méiyǒu piàn nǐ.
+English: Really, I'm not lying to you.
+
+Chinese: 你真的要去吗？它很远的。
+Pinyin: Nǐ zhēnde yào qù ma? Tā hěn yuǎn de.
+English: Are you sure you want to go? It's very far.
+
+Chinese: 这真的是一次美好的经历。
+Pinyin: Zhè zhēnde shì yī cì měihǎo de jīnglì.
+English: This was truly a wonderful experience.
+
+Chinese: 我真的很喜欢这件衣服，我要买它！
+Pinyin: Wǒ zhēnde hěn xǐhuān zhè jiàn yīfú, wǒ yào mǎi tā!
+English: I really like this dress, I'm going to buy it!
+
+Chinese: 你真的太好了，帮我做了这么多。
+Pinyin: Nǐ zhēnde tài hǎo le, bāng wǒ zuò le zhème duō.
+English: You're truly too kind, helping me with so much.
+
+Chinese: 这食物真的太辣了，我吃不了。
+Pinyin: Zhè shíwù zhēnde tài là le, wǒ chī bù liǎo.
+English: This food is really too spicy, I can't eat it.
+
+Chinese: 你说得正。
+Pinyin: Nǐ shuō de zhèng.
+English: What you said is right.
+
+Chinese: 我们应该弘扬正能量。
+Pinyin: Wǒmen yīnggāi hóngyáng zhèng néngliàng.
+English: We should promote positive energy.
+
+Chinese: 政府有责任维护正。
+Pinyin: Zhèngfǔ yǒu zérèn wéihù zhèng.
+English: The government has a responsibility to uphold justice.
+
+Chinese: 你必须正你犯的错误。
+Pinyin: Nǐ bìxū zhèng nǐ fàn de cuòwù.
+English: You must correct the mistakes you made.
+
+Chinese: 她正这件事情。
+Pinyin: Tā zhèng zhè jiàn shìqíng.
+English: She is handling this matter.
+
+Chinese: 请把你的背挺正。
+Pinyin: Qǐng bǎ nǐ de bèi tǐng zhèng.
+English: Please keep your back straight.
+
+Chinese: 他们在对话中间暂停了。
+Pinyin: Tāmen zài duìhuà zhōngjiān zàntíng le.
+English: They paused in the middle of the conversation.
+
+Chinese: 这本书的中间部分最有意思。
+Pinyin: Zhè běn shū de zhōngjiān bùfen zuì yǒu yìsi.
+English: The middle part of this book is the most interesting.
+
+Chinese: 我们在旅途中间停留了几天。
+Pinyin: Wǒmen zài lǚtú zhōngjiān tíngliú le jǐ tiān.
+English: We took a break for a few days in the middle of our journey.
+
+Chinese: 桌子中间放着一瓶花。
+Pinyin: Zhuōzi zhōngjiān fàngzhe yī píng huā.
+English: There is a vase of flowers in the middle of the table.
+
+Chinese: 他们坐在中间几排。
+Pinyin: Tāmen zuò zài zhōngjiān jǐ pái.
+English: They are sitting in the middle rows.
+
+Chinese: 我们在考试的中间不能交谈。
+Pinyin: Wǒmen zài kǎoshì de zhōngjiān bùnéng jiāotán.
+English: We can't talk in the middle of the exam.
+
+Chinese: 你可以把蛋黄酱涂在面包的中间。
+Pinyin: Nǐ kěyǐ bǎ dànhuángjiàng tú zài miànbāo de zhōngjiān.
+English: You can spread the mayonnaise in the middle of the bread.
+
+Chinese: 我们在电影的中间进来的。
+Pinyin: Wǒmen zài diànyǐng de zhōngjiān jìnlái de.
+English: We came in the middle of the movie.
+
+Chinese: 我在中学的时候学习了很多科目。
+Pinyin: Wǒ zài zhōngxué de shíhou xuéxí le hěn duō kēmù.
+English: I studied a lot of subjects when I was in middle school.
+
+Chinese: 她上了一所私立中学。
+Pinyin: Tā shàng le yī suǒ sīlì zhōngxué.
+English: She attended a private middle school.
+
+Chinese: 他的中学教育为他打下了坚实的基础。
+Pinyin: Tā de zhōngxué jiàoyù wèi tā dǎ xià le jiānshí de jīchǔ.
+English: His middle school education provided him with a solid foundation.
+
+Chinese: 我们在中学里学到了很多重要的生活技能。
+Pinyin: Wǒmen zài zhōngxué lǐ xué dào le hěn duō zhòngyào de shēnghuó jìnéng.
+English: We learned a lot of important life skills in middle school.
+
+Chinese: 你上中学的时候喜欢哪些科目？
+Pinyin: Nǐ shàng zhōngxué de shíhou xǐhuān nǎxiē kēmù?
+English: Which subjects did you like when you were in middle school?
+
+Chinese: 这所中学以优秀的体育教育而闻名。
+Pinyin: Zhè suǒ zhōngxué yǐ yōuxiù de tǐyù jiàoyù ér wénmíng.
+English: This middle school is renowned for its excellent physical education program.
+
+Chinese: 我的中学老师对我影响很大。
+Pinyin: Wǒ de zhōngxué lǎoshī duì wǒ yǐngxiǎng hěn dà.
+English: My middle school teachers had a big influence on me.
+
+Chinese: 他们仍然保持着每年一次的中学同学聚会。
+Pinyin: Tāmen réngrán bǎochí zhe měi nián yīcì de zhōngxué tóngxué jùhuì.
+English: They still hold an annual reunion for their middle school classmates.
+
+Chinese: 书在桌子的左边。
+Pinyin: Shū zài zhuōzi de zuǒbian.
+English: The book is on the left side of the desk.
+
+Chinese: 博物馆在银行的左边。
+Pinyin: Bówùguǎn zài yínháng de zuǒbian.
+English: The museum is on the left side of the bank.
+
+Chinese: 你把地图翻到左边那页。
+Pinyin: Nǐ bǎ dìtú fān dào zuǒbian nà yè.
+English: Turn the map to the page on the left.
+
+Chinese: 他在车子的左边。
+Pinyin: Tā zài chēzi de zuǒbian.
+English: He is on the left side of the car.
+
+Chinese: 我的左边耳朵听不见。
+Pinyin: Wǒ de zuǒbian ěrduo tīng bùjiàn.
+English: I can't hear out of my left ear.
+
+Chinese: 猫坐在椅子的左边。
+Pinyin: Māo zuò zài yǐzi de zuǒbian.
+English: The cat is sitting on the left side of the chair.
+
+Chinese: 你把花瓶放桌子的左边。
+Pinyin: Nǐ bǎ huāpíng fàng zhuōzi de zuǒbian.
+English: Put the vase on the left side of the table.
+
+Chinese: 我的左脚受伤了。
+Pinyin: Wǒ de zuǒ jiǎo shòushāng le.
+English: My left foot is injured.
+
+Chinese: 我们坐在教室的左后方。
+Pinyin: Wǒmen zuò zài jiàoshì de zuǒ hòufāng.
+English: We sit in the back left of the classroom.
+
+Chinese: 商店在银行的左侧。
+Pinyin: Shāngdiàn zài yínháng de zuǒcè.
+English: The store is on the left side of the bank.
+
+Chinese: 她真好看！
+Pinyin: Tā zhēn hǎokàn!
+English: She is so good-looking!
+
+Chinese: 这件衣服很适合你，你穿上真好看。
+Pinyin: Zhè jiàn yīfú hěn shìhé nǐ, nǐ chuānshang zhēn hǎokàn.
+English: This dress suits you well, you look great in it!
+
+Chinese: 你把头发剪短了，好看多了。
+Pinyin: Nǐ bǎ tóufa jiǎn duǎn le, hǎokàn duō le.
+English: You cut your hair short, it looks so much better!
+
+Chinese: 这幅画真好看，我想把它挂在墙上。
+Pinyin: Zhè fú huà zhēn hǎokàn, wǒ xiǎng bǎ tā guà zài qiáng shàng.
+English: This painting is so beautiful, I want to hang it on the wall.
+
+Chinese: 你种的花真好看，开得那么茂盛。
+Pinyin: Nǐ zhòng de huā zhēn hǎokàn, kāi de nàme màoshèng.
+English: The flowers you planted are so pretty, they're blooming so vigorously!
+
+Chinese: 这部电影真好看，你看过了吗？
+Pinyin: Zhè bù diànyǐng zhēn hǎokàn, nǐ kàn guò le ma?
+English: This movie is really good, have you seen it?
+
+Chinese: 你做的蛋糕不仅好吃，而且好看。
+Pinyin: Nǐ zuò de dàngāo bùjǐn hǎochī, érqiě hǎokàn.
+English: The cake you made is not only delicious but also looks wonderful!
+
+Chinese: 这本书真好玩儿，我一口气读完了。
+Pinyin: Zhè běn shū zhēn hǎowánr, wǒ yīkǒuqì dòu wán le.
+English: This book is so fun, I read it in one breath.
+
+Chinese: 我们一起去吧，那儿好玩儿极了！
+Pinyin: Wǒmen yīqǐ qù ba, nàr hǎowánr jíle!
+English: Let's go together, it's so much fun over there!
+
+Chinese: 这个游戏真好玩儿，我玩了好几个小时。
+Pinyin: Zhège yóuxì zhēn hǎowánr, wǒ wán le hǎo jǐ gè xiǎoshí.
+English: This game is really fun, I played for several hours.
+
+Chinese: 昨晚的派对真好玩儿，我跳了整晚的舞。
+Pinyin: Zuówǎn de pàiduì zhēn hǎowánr, wǒ tiào le zhěng wǎn de wǔ.
+English: The party last night was so fun, I danced the whole evening.
+
+Chinese: 这个城市有好多好玩儿的地方，我们去探索吧！
+Pinyin: Zhège chéngshì yǒu hǎoduō hǎowánr de dìfāng, wǒmen qù tànsuǒ ba!
+English: There are so many fun places in this city, let's go explore!
+
+Chinese: 你去过那个主题公园吗？我听说那里好玩儿得很。
+Pinyin: Nǐ qù guò nàge zhǔtí gōngyuán ma? Wǒ tīngshuō nàli hǎowánr de hěn.
+English: Have you been to that theme park? I heard it's a lot of fun.
+
+Chinese: 我们玩得好开心啊，明天还想再去一次！
+Pinyin: Wǒmen wán de hǎo kāixīn a, míngtiān hái xiǎng zài qù yī cì!
+English: We had so much fun, we want to go again tomorrow!
+
+Chinese: 他在人群的后边。
+Pinyin: Tā zài rénqún de hòubian。
+English: He is at the back of the crowd.
+
+Chinese: 我的车跟着你的车的后边。
+Pinyin: Wǒ de chē gēnzhe nǐ de chē de hòubian。
+English: My car is following behind your car.
+
+Chinese: 电影的后半部分很感人。
+Pinyin: Diànyǐng de hòubàn bùfen hěn gǎnrén。
+English: The latter part of the movie is very touching.
+
+Chinese: 后边两章是这本书最精彩的部分。
+Pinyin: Hòubian liǎng zhāng shì zhè běn shū zuì jīngcǎi de bùfen。
+English: The last two chapters are the most exciting part of the book.
+
+Chinese: 后边还有更多精彩的表演呢，不要走！
+Pinyin: Hòubian hái yǒu gèng duō jīngcǎi de biǎoyǎn ne, bùyào zǒu!
+English: There are more wonderful performances coming up, don't leave!
+
+Chinese: 后边那栋大楼是市政府。
+Pinyin: Hòubian nà dòng dàlóu shì shìzhèngfǔ。
+English: The building behind is the city hall.
+
+Chinese: 我回到家已经很晚了。
+Pinyin: Wǒ huídào jiā yǐjīng hěn wǎn le。
+English: By the time I returned home, it was already very late.
+
+Chinese: 他们回到酒店，发现钱包不见了。
+Pinyin: Tāmen huídào jiǔdiàn, fāxiàn qiánbāo bùjiàn le。
+English: When they returned to the hotel, they realized their wallet was missing.
+
+Chinese: 回到过去是不可能的。
+Pinyin: Huídào guòqù shì bù kěnéng de。
+English: It's impossible to go back to the past.
+
+Chinese: 我们回到起点，重新开始吧。
+Pinyin: Wǒmen huídào qǐdiǎn, chóngxīn kāishǐ ba。
+English: Let's go back to the starting point and start over.
+
+Chinese: 回到自然，享受宁静的生活。
+Pinyin: Huídào zìrán, xiǎngshòu níngjìng de shēnghuó。
+English: Return to nature and enjoy a peaceful life.
+
+Chinese: 回到童年时光，无忧无虑地玩耍。
+Pinyin: Huídào tóngnián shíguāng, wúyōuwúlǜ de wánshuǎ。
+English: Going back to childhood times, playing carefree.
+
+Chinese: 回到家后，我通常先检查邮件。
+Pinyin: Huídào jiā hòu, wǒ tōngcháng xiān jiǎnchá yóujiàn。
+English: When I get home, I usually check the mail first.
+
+Chinese: 我要回去了。
+Pinyin: Wǒ yào huíqu le。
+English: I'm going back (now/soon).
+
+Chinese: 他们明天回去。
+Pinyin: Tāmen míngtiān huíqu。
+English: They will go back tomorrow.
+
+Chinese: 回去的时候，记得买一些水果。
+Pinyin: Huíqu de shíhou, jìdé mǎi yīxiē shuǐguǒ。
+English: When you go back, remember to buy some fruit.
+
+Chinese: 我回去吃午饭了。
+Pinyin: Wǒ huíqu chī wǔfàn le。
+English: I'm going back to have lunch.
+
+Chinese: 他们回去了，只留下一个告别的纸条。
+Pinyin: Tāmen huíqu le, zhǐ liú xià yī gè gàobié de zhǐtiáo。
+English: They went back, leaving only a farewell note.
+
+Chinese: 回去的路很危险，要小心。
+Pinyin: Huíqu de lù hěn wēixiǎn, yào xiǎoxīn。
+English: The way back is dangerous, be careful.
+
+Chinese: 你什么时候回去上学？
+Pinyin: Nǐ shénme shíhou huíqu shàngxué?
+English: When are you going back to school?
+
+Chinese: 他们决定今年不回去了。
+Pinyin: Tāmen juédìng jīnnián bù huíqu le。
+English: They decided not to go back this year.
+
+Chinese: 记住我的电话号码。
+Pinyin: Jìzhu wǒ de diànhuà hàomǎ。
+English: Remember my phone number.
+
+Chinese: 我说的话，你要记住。
+Pinyin: Wǒ shuō de huà, nǐ yào jìzhu。
+English: Remember what I said.
+
+Chinese: 考试的时候，你要记住时间限制。
+Pinyin: Kǎoshì de shíhou, nǐ yào jìzhu shíjiān xiànzhì。
+English: During the exam, remember the time limit.
+
+Chinese: 记住把钥匙放进包里。
+Pinyin: Jìzhu bǎ yàoshi fàng jìn bāo lǐ。
+English: Remember to put the keys in your bag.
+
+Chinese: 你必须记住这个教训。
+Pinyin: Nǐ bìxū jìzhu zhè gè jiàoxùn。
+English: You must remember this lesson.
+
+Chinese: 记住把垃圾分类。
+Pinyin: Jìzhu bǎ lājī fēn lèi。
+English: Remember to sort the trash.
+
+Chinese: 你记住她的生日了吗？
+Pinyin: Nǐ jìzhu tā de shēngrì le ma?
+English: Do you remember her birthday?
+
+Chinese: 记住随时锁好门窗。
+Pinyin: Jìzhu suíshí suǒ hǎo ménchuāng。
+English: Remember to lock the doors and windows at all times.
+
+Chinese: 你想考哪所大学？
+Pinyin: Nǐ xiǎng kǎo nǎ suǒ dàxué?
+English: Which university do you want to apply to?
+
+Chinese: 老师要考我们数学。
+Pinyin: Lǎoshī yào kǎo wǒmen shùxué.
+English: The teacher is going to test us on math.
+
+Chinese: 我考得很好。
+Pinyin: Wǒ kǎo de hěn hǎo.
+English: I did well on the exam.
+
+Chinese: 你什么时候考完试？
+Pinyin: Nǐ shénme shíhou kǎo wán shì?
+English: When will you finish your exams?
+
+Chinese: 你考到任何有用的信息了吗？
+Pinyin: Nǐ kǎo dào rènhé yǒuyòng de xìnxī le ma?
+English: Have you found out any useful information?
+
+Chinese: 今天有几节课？
+Pinyin: Jīntiān yǒu jǐ jiē kè?
+English: How many classes do we have today?
+
+Chinese: 这门课很有趣。
+Pinyin: Zhè mén kè hěn yǒuqù.
+English: This class is very interesting.
+
+Chinese: 我最喜欢的历史课是古埃及历史。
+Pinyin: Wǒ zuì xǐhuan de lìshǐ kè shì gǔ āijí lìshǐ.
+English: My favorite history course is Ancient Egyptian History.
+
+Chinese: 这学期我选了三门课。
+Pinyin: Zhè xuéqī wǒ xuǎn le sān mén kè.
+English: I chose three courses for this semester.
+
+Chinese: 这门课需要做很多阅读。
+Pinyin: Zhè mén kè xūyào zuò hěn duō yuèdú.
+English: This course requires a lot of reading.
+
+Chinese: 你最喜欢的课是什么？
+Pinyin: Nǐ zuì xǐhuan de kè shì shénme?
+English: What's your favorite class?
+
+Chinese: 这门课有很重的作业负担。
+Pinyin: Zhè mén kè yǒu hěn zhòng de zuòyè fùdàn.
+English: This course has a heavy workload.
+
+Chinese: 这是一本老书。
+Pinyin: Zhè shì yī běn lǎo shū.
+English: This is an old book.
+
+Chinese: 这家餐馆是老字号，很有名。
+Pinyin: Zhè jiā cānguǎn shì lǎo zìhào, hěn yǒumíng.
+English: This restaurant is a long-established one and is quite famous.
+
+Chinese: 盒子里边有什么？
+Pinyin: Hézi lǐbian yǒu shénme?
+English: What's inside the box?
+
+Chinese: 房间里边很暖和。
+Pinyin: Fángjiān lǐbian hěn nuǎnhuo。
+English: The room is nice and warm inside.
+
+Chinese: 你到里边坐吧。
+Pinyin: Nǐ dào lǐbian zuò ba。
+English: Come and sit inside.
+
+Chinese: 这本书里边有很多有趣的故事。
+Pinyin: Zhè běn shū lǐbian yǒu hěn duō yǒuqù de gùshì。
+English: There are many interesting stories inside this book.
+
+Chinese: 你可以从外边看到里边。
+Pinyin: Nǐ kěyǐ cóng wàibiān kàn dào lǐbian。
+English: You can see the inside from the outside.
+
+Chinese: 里边的人看不到外边。
+Pinyin: Lǐbian de rén kàn bù dào wàibiān。
+English: The people inside can't see outside.
+
+Chinese: 你可以把东西放在盒子里边。
+Pinyin: Nǐ kěyǐ bǎ dōngxi fàng zài hézi lǐbian。
+English: You can put things inside the box.
+
+Chinese: 你知道信里边写了什么吗？
+Pinyin: Nǐ zhīdào xìn lǐbian xiě le shénme ma?
+English: Do you know what's written inside the letter?
+
+Chinese: 你有别的选择吗？
+Pinyin: Nǐ yǒu biéde xuǎnzé ma?
+English: Do you have any other choices?
+
+Chinese: 我没有别的办法了。
+Pinyin: Wǒ méiyǒu biéde bànfǎ le.
+English: I don't have any other options.
+
+Chinese: 你有别的建议吗？
+Pinyin: Nǐ yǒu biéde jiànyì ma?
+English: Do you have any other suggestions?
+
+Chinese: 这家餐馆有别的菜肴吗？
+Pinyin: Zhè jiā cānguǎn yǒu biéde cài yáo ma?
+English: Does this restaurant have any other dishes?
+
+Chinese: 我不想去别的地方。
+Pinyin: Wǒ bùxiǎng qù biéde dìfang。
+English: I don't want to go anywhere else.
+
+Chinese: 你有别的鞋子我可以借吗？
+Pinyin: Nǐ yǒu biéde xiézi wǒ kěyǐ jiè ma?
+English: Do you have any other shoes I can borrow?
+
+Chinese: 你有别的兴趣爱好吗？
+Pinyin: Nǐ yǒu biéde xìngqù àihào ma?
+English: Do you have any other hobbies or interests?
+
+Chinese: 你有别的解释吗？
+Pinyin: Nǐ yǒu biéde jiěshì ma?
+English: Do you have any other explanations?
+
+Chinese: 这个房间不大。
+Pinyin: Zhè gè fángjiān bùdà。
+English: This room is not very big.
+
+Chinese: 我对这个问题不大了解。
+Pinyin: Wǒ duì zhè gè wèntí bùdà liǎojiě。
+English: I'm not very familiar with this problem.
+
+Chinese: 这件衣服对我来说不大合适。
+Pinyin: Zhè jiàn yīfú duì wǒ láishuō bùdà héshì。
+English: This dress isn't quite suitable for me.
+
+Chinese: 他的声音不大好听。
+Pinyin: Tā de shēngyīn bùdà hǎotīng。
+English: His voice isn't very pleasant.
+
+Chinese: 这本书对我来说不大多难。
+Pinyin: Zhè běn shū duì wǒ láishuō bùdà duōnán。
+English: This book isn't too difficult for me.
+
+Chinese: 这件事情我不大清楚。
+Pinyin: Zhè jiàn shìqíng wǒ bùdà qīngchu。
+English: I'm not quite clear about this matter.
+
+Chinese: 他的身高不大约莫一米八。
+Pinyin: Tā de shēngāo bùdà yuē mò yī mǐ bā。
+English: His height is not much, about one meter and eight.
+
+Chinese: 这件礼物不大多贵。
+Pinyin: Zhè jiàn lǐwù bùdà duō guì。
+English: This gift isn't too expensive.
+
+Chinese: 你的答案不对。
+Pinyin: Nǐ de dáàn bùduì。
+English: Your answer is wrong.
+
+Chinese: 你说的不对。
+Pinyin: Nǐ shuō de bùduì。
+English: What you said is not correct.
+
+Chinese: 这个计算不对，你要再检查一遍。
+Pinyin: Zhè gè jìsuàn bùduì, nǐ yào zài jiǎnchá yī biàn。
+English: This calculation is wrong, you need to check it again.
+
+Chinese: 你不应该这样做，这样不对。
+Pinyin: Nǐ bù yīnggāi zhèyàng zuò, zhèyàng bùduì。
+English: You shouldn't do it like that, it's wrong.
+
+Chinese: 你把这个单词拼错了，不对。
+Pinyin: Nǐ bǎ zhè gè dāncí pīn cuò le, bùduì。
+English: You spelled this word incorrectly, that's wrong.
+
+Chinese: 你的行为不对，你应该道歉。
+Pinyin: Nǐ de xíngwéi bùduì, nǐ yīnggāi dàoqiàn。
+English: Your behavior is wrong, you should apologize.
+
+Chinese: 你不应该这样说，这不对。
+Pinyin: Nǐ bù yīnggāi zhèyàng shuō, zhè bùduì。
+English: You shouldn't say it like that, it's not right.
+
+Chinese: 你不对我生气，我也没有对你生气。
+Pinyin: Nǐ bùduì wǒ shēngqì, wǒ yě méiyǒu duì nǐ shēngqì。
+English: You shouldn't be angry with me, and I'm not angry with you either.
+
+Chinese: 打扰你了，不好意思。——不客气，没关系。
+Pinyin: Dǎrǎo nǐ le, bù hǎoyìsi. —— Bù kèqi, méi guānxi。
+English: Sorry for bothering you. — Don't mention it, no problem.
+
+Chinese: 我喜欢打球。
+Pinyin: Wǒ xǐhuan dǎqiú。
+English: I like playing ball games.
+
+Chinese: 我们明天下午打球，你来吗？
+Pinyin: Wǒmen míngtiān xiàwǔ dǎqiú, nǐ lái ma?
+English: We're playing ball tomorrow afternoon, do you want to join?
+
+Chinese: 他们每周末都去公园打球。
+Pinyin: Tāmen měi zhōumò dōu qù gōngyuán dǎqiú。
+English: They go to the park to play ball every weekend.
+
+Chinese: 打球的时候要注意安全。
+Pinyin: Dǎqiú de shíhou yào zhùyì ānquán。
+English: Be careful and pay attention to safety when playing ball games.
+
+Chinese: 你在干什么？
+Pinyin: Nǐ zài gànshénme?
+English: What are you doing?
+
+Chinese: 你在干什么呢？我在做作业。
+Pinyin: Nǐ zài gànshénme ne? Wǒ zài zuò zuòyè.
+English: What are you up to? I'm doing homework.
+
+Chinese: 你在干什么呢？为什么不回答我？
+Pinyin: Nǐ zài gànshénme ne? Wèishénme bù huí dá wǒ?
+English: What are you doing? Why aren't you answering me?
+
+Chinese: 你在干什么吃的，看起来很好吃。
+Pinyin: Nǐ zài gànshénme chī de, kàn qǐlái hěn hǎochī.
+English: What are you eating? It looks delicious.
+
+Chinese: 你在干什么呢？我能帮忙吗？
+Pinyin: Nǐ zài gànshénme ne? Wǒ néng bāngmáng ma?
+English: What are you up to? Can I help?
+
+Chinese: 你在干什么，为什么不听我的建议？
+Pinyin: Nǐ zài gànshénme, wèishénme bù tīng wǒ de jiànyì?
+English: What are you doing? Why aren't you taking my advice?
+
+Chinese: 你在干什么啊？别浪费时间了！
+Pinyin: Nǐ zài gànshénme a? Bié làngfèi shíjiān le!
+English: What are you doing? Stop wasting time!
+
+Chinese: 你在干什么，快停下来！
+Pinyin: Nǐ zài gànshénme, kuài tíng xiàlai!
+English: What are you doing, stop immediately!
+
+Chinese: 你要茶还是咖啡？
+Pinyin: Nǐ yào chá háishi kāfēi?
+English: Tea or coffee?
+
+Chinese: 你是老师还是学生？
+Pinyin: Nǐ shì lǎoshī háishi xuéshēng?
+English: Are you a teacher or a student?
+
+Chinese: 她还是很年轻。
+Pinyin: Tā háishi hěn niánqīng.
+English: She is still very young.
+
+Chinese: 他们还是没离婚。
+Pinyin: Tāmen háishi méi líhūn.
+English: They still haven't gotten divorced.
+
+Chinese: 还是老地方见吧。
+Pinyin: Háishi lǎo dìfang jiàn ba。
+English: Let's meet at the usual place.
+
+Chinese: 还是喝同样的酒。
+Pinyin: Háishi hē tóngyàng de jiǔ。
+English: Let's drink the same wine as before.
+
+Chinese: 还是保持同样的价格。
+Pinyin: Háishi bǎochí tóngyàng de jiàgé。
+English: Let's keep the price the same as before.
+
+Chinese: 还有一个小时才到中午。
+Pinyin: Háiyǒu yī gè xiǎoshí cái dào zhōngwǔ.
+English: There's still an hour until noon.
+
+Chinese: 还有别的选择吗？
+Pinyin: Háiyǒu bié de xuǎnzé ma?
+English: Are there any other choices?
+
+Chinese: 还有两天就周末了，我很期待。
+Pinyin: Háiyǒu liǎng tiān jiù zhōumò le, wǒ hěn qīdài.
+English: There are still two days until the weekend, I'm looking forward to it.
+
+Chinese: 还有别的颜色吗？我想要蓝色的。
+Pinyin: Háiyǒu bié de yánsè ma? Wǒ xiǎngyào lánsè de.
+English: Are there any other colors? I want something blue.
+
+Chinese: 还有什么需要准备的吗？
+Pinyin: Háiyǒu shénme xūyào zhǔnbèi de ma?
+English: Is there anything else that needs to be prepared?
+
+Chinese: 还有谁没有吃午饭？
+Pinyin: Háiyǒu shéi méiyǒu chī wǔfàn?
+English: Is there anyone else who hasn't eaten lunch?
+
+Chinese: 还有什么问题吗？
+Pinyin: Háiyǒu shénme wèntí ma?
+English: Are there any other questions?
+
+Chinese: 还有别的交通方式吗？
+Pinyin: Háiyǒu bié de jiāotōng fāngshì ma?
+English: Are there any other means of transportation?
+
+Chinese: 还有谁没有交作业？
+Pinyin: Háiyǒu shéi méiyǒu jiāo zuòyè?
+English: Who else hasn't turned in their homework?
+
+Chinese: 我的成绩是零分。
+Pinyin: Wǒ de chéngjì shì líng fēn。
+English: My score is zero.
+
+Chinese: 室外温度零下十度。
+Pinyin: Shìwài wēndù língxià shí dù。
+English: The outdoor temperature is ten degrees below zero.
+
+Chinese: 这个产品不含任何添加剂，是零添加剂的。
+Pinyin: Zhè gè chǎnpǐn bù hán rènhé tiānjiājì, shì líng tiānjiājì de。
+English: This product contains no additives, it's additive-free.
+
+Chinese: 你可以在这里找到零污染的空气。
+Pinyin: Nǐ kěyǐ zài zhèlǐ zhǎodào líng wūrǎn de kōngqì。
+English: You can find pollution-free air here.
+
+Chinese: 这家餐厅提供零脂肪的餐饮选择。
+Pinyin: Zhè jiā cāntīng tígōng líng zhīfáng de cānyǐn xuǎnzé。
+English: This restaurant offers fat-free dining options.
+
+Chinese: 这个地区是零犯罪率的。
+Pinyin: Zhège dìqū shì líng fànzuìlǜ de。
+English: This area has a zero crime rate.
 
