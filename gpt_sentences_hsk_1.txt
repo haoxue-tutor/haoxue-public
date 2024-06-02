@@ -60,7 +60,7 @@ Pinyin: tā měitiān duàn liàn shēn tǐ.
 
 Chinese: 我们每天学习中文。
 English: We study Chinese every day.
-Pinyin: wǒ men měitiān xué xí zhōng wén.
+Pinyin: wǒ men měitiān xué xí zhōngwén.
 
 Chinese: 这个孩子每天都很开心。
 English: This child is happy every day.
@@ -687,7 +687,7 @@ Pinyin: Zhège rènwu tài zhòng le.
 English: This task is too heavy.
 
 Chinese: 昨天的晚会太无聊了。
-Pinyin: zuó tiān de wǎn huì tài wú liáo le.
+Pinyin: zuótiān de wǎn huì tài wúliáo le.
 English: Yesterday's party was too boring.
 
 Chinese: 我喜欢喝咖啡和茶。
@@ -851,43 +851,43 @@ Pinyin: wǒ zuótiān qù yīyuàn zuòle gè jiǎnchá.
 English: I went to the hospital for a check-up yesterday.
 
 Chinese: 我去火车站买票。
-Pinyin: wǒ qù huǒ chē zhàn mǎi piào.
+Pinyin: wǒ qù huǒchēzhàn mǎi piào.
 English: I go to the train station to buy tickets.
 
 Chinese: 我常常坐火车去北京。
-Pinyin: wǒ cháng cháng zuò huǒ chē qù běijīng.
+Pinyin: wǒ chángcháng zuò huǒchē qù běijīng.
 English: I often take the train to Beijing.
 
 Chinese: 今天火车站很拥挤。
-Pinyin: jīn tiān huǒ chē zhàn hěn yōng jǐ.
+Pinyin: jīntiān huǒchēzhàn hěn yōngjǐ.
 English: Today the train station is very crowded.
 
 Chinese: 火车站附近有餐馆和商店。
-Pinyin: huǒ chē zhàn fù jìn yǒu cān guǎn hé shāng diàn.
+Pinyin: huǒchēzhàn fùjìn yǒu cānguǎn hé shāngdiàn.
 English: There are restaurants and shops near the train station.
 
 Chinese: 我住在火车站附近。
-Pinyin: wǒ zhù zài huǒ chē zhàn fù jìn.
+Pinyin: wǒ zhù zài huǒchēzhàn fùjìn.
 English: I live near the train station.
 
 Chinese: 我是中国人。
-Pinyin: wǒ shì zhōng guó rén.
+Pinyin: wǒ shì zhōngguórén.
 English: I am Chinese.
 
 Chinese: 他喜欢学习中国文化。
-Pinyin: tā xǐ huān xué xí zhōng guó wén huà.
+Pinyin: tā xǐhuan xuéxí zhōngguó wénhuà.
 English: He enjoys studying Chinese culture.
 
 Chinese: 我的朋友去过中国。
-Pinyin: wǒ de péng yǒu qù guò zhōng guó.
+Pinyin: wǒ de péngyǒu qù guò zhōngguó.
 English: My friend has been to China.
 
 Chinese: 中国菜很好吃。
-Pinyin: zhōng guó cài hěn hǎo chī.
+Pinyin: zhōngguó cài hěn hǎo chī.
 English: Chinese food tastes delicious.
 
 Chinese: 我想去中国旅行。
-Pinyin: wǒ xiǎng qù zhōng guó lǚ xíng.
+Pinyin: wǒ xiǎng qù zhōngguó lǚxíng.
 English: I want to travel to China.
 
 Chinese: 北京是中国的首都。
@@ -1207,15 +1207,15 @@ Pinyin: Wǒ bù míngbai nǐ shuō de diǎn.
 English: I don't understand the point you're making.
 
 Chinese: 我要等十分钟。
-Pinyin: wǒ yào děng shí fēn zhōng.
+Pinyin: wǒ yào děng shí fēnzhōng.
 English: I have to wait for ten minutes.
 
 Chinese: 这个电影有一百二十分钟。
-Pinyin: zhè gè diàn yǐng yǒu yī bǎi èr shí fēn zhōng.
+Pinyin: zhè gè diàn yǐng yǒu yī bǎi èr shí fēnzhōng.
 English: This movie is 120 minutes long.
 
 Chinese: 请等我五分钟。
-Pinyin: qǐng děng wǒ wǔ fēn zhōng.
+Pinyin: qǐng děng wǒ wǔ fēnzhōng.
 English: Please wait for me for five minutes.
 
 Chinese: 他在五分钟内完成了任务。
@@ -1455,11 +1455,11 @@ Pinyin: zhè wèi xiān shēng zài děng nǐ.
 English: This gentleman is waiting for you.
 
 Chinese: 面试的时候，请叫我先生。
-Pinyin: miàn shì de shí hòu, qǐng jiào wǒ xiān shēng.
+Pinyin: miàn shì de shí hòu, qǐng jiào wǒ xiānshēng.
 English: During the interview, please call me Sir.
 
 Chinese: 那个先生是我的老师。
-Pinyin: nà gè xiān shēng shì wǒ de lǎo shī.
+Pinyin: nà gè xiān shēng shì wǒ de lǎoshī.
 English: That gentleman is my teacher.
 
 Chinese: 这家餐厅的服务员对待每位顾客都很有礼貌，非常先生。
@@ -3905,3 +3905,315 @@ English: School is the place I go to every day.
 Chinese: 我喜欢在公园的某个安静地点看书。
 Pinyin: wǒ xǐhuān zài gōngyuán de mǒu gè ānjìng dìdiǎn kàn shū.
 English: I like to read books in a quiet spot in the park.
+
+Chinese: 他把书放在地上。
+Pinyin: tā bǎ shū fàng zài dìshang.
+English: He put the book on the ground.
+
+Chinese: 她在地上捡到了一个钱包。
+Pinyin: tā zài dìshang jiǎn dào le yīgè qiánbāo.
+English: She found a wallet on the ground.
+
+Chinese: 我在地上看到了一只小猫。
+Pinyin: wǒ zài dìshang kàn dào le yī zhī xiǎomāo.
+English: I saw a kitten on the ground.
+
+Chinese: 他把垃圾扔在地上。
+Pinyin: tā bǎ lājī rēng zài dìshang.
+English: He threw the trash on the ground.
+
+Chinese: 她在地上发现了一朵花。
+Pinyin: tā zài dìshang fāxiàn le yī duǒ huā.
+English: She found a flower on the ground.
+
+Chinese: 我在地上看到了一只小鸟。
+Pinyin: wǒ zài dìshang kàn dào le yī zhī xiǎoniǎo.
+English: I saw a little bird on the ground.
+
+Chinese: 他把水泼在地上。
+Pinyin: tā bǎ shuǐ pō zài dìshang.
+English: He spilled water on the ground.
+
+Chinese: 她在地上看到了一只蝴蝶。
+Pinyin: tā zài dìshang kàn dào le yī zhī húdié.
+English: She saw a butterfly on the ground.
+
+Chinese: 我在地上看到了一只小狗。
+Pinyin: wǒ zài dìshang kàn dào le yī zhī xiǎogǒu.
+English: I saw a little dog on the ground.
+
+Chinese: 他把石头扔在地上。
+Pinyin: tā bǎ shítou rēng zài dìshang.
+English: He threw a stone on the ground.
+
+Chinese: 她在地上看到了一只昆虫。
+Pinyin: tā zài dìshang kàn dào le yī zhī kūnchóng.
+English: She saw an insect on the ground.
+
+Chinese: 我需要一张地图。
+Pinyin: wǒ xūyào yī zhāng dìtú.
+English: I need a map.
+
+Chinese: 这张地图上没有这个城市。
+Pinyin: zhè zhāng dìtú shàng méiyǒu zhège chéngshì.
+English: This map does not have this city.
+
+Chinese: 我需要一张详细的地图。
+Pinyin: wǒ xūyào yī zhāng xiángxì de dìtú.
+English: I need a detailed map.
+
+Chinese: 这张地图上标出了所有的景点。
+Pinyin: zhè zhāng dìtú shàng biāochūle suǒyǒu de jǐngdiǎn.
+English: This map marks all the scenic spots.
+
+Chinese: 我需要一张城市地图。
+Pinyin: wǒ xūyào yī zhāng chéngshì dìtú.
+English: I need a city map.
+
+Chinese: 这张地图上标出了所有的地铁站。
+Pinyin: zhè zhāng dìtú shàng biāochūle suǒyǒu de dìtiězhàn.
+English: This map marks all the subway stations.
+
+Chinese: 我需要一张旅游地图。
+Pinyin: wǒ xūyào yī zhāng lǚyóu dìtú.
+English: I need a tourist map.
+
+Chinese: 这张地图上标出了所有的高速公路。
+Pinyin: zhè zhāng dìtú shàng biāochūle suǒyǒu de gāosù gōnglù.
+English: This map marks all the highways.
+
+Chinese: 我需要一张地铁地图。
+Pinyin: wǒ xūyào yī zhāng dìtiě dìtú.
+English: I need a subway map.
+
+Chinese: 这张地图上标出了所有的公园。
+Pinyin: zhè zhāng dìtú shàng biāochūle suǒyǒu de gōngyuán.
+English: This map marks all the parks.
+
+Chinese: 我需要一张公交地图。
+Pinyin: wǒ xūyào yī zhāng gōngjiāo dìtú.
+English: I need a bus map.
+
+Chinese: 我们家有一台电视机。
+Pinyin: wǒmen jiā yǒu yītái diànshìjī.
+English: We have a TV at home.
+
+Chinese: 电视机坏了，需要修理。
+Pinyin: diànshìjī huài le, xūyào xiūlǐ.
+English: The TV is broken and needs to be repaired.
+
+Chinese: 我们需要买一台新的电视机。
+Pinyin: wǒmen xūyào mǎi yītái xīn de diànshìjī.
+English: We need to buy a new TV.
+
+Chinese: 电视机的遥控器不见了。
+Pinyin: diànshìjī de yáokòngqì bùjiànle.
+English: The TV remote control is missing.
+
+Chinese: 电视机的频道坏了。
+Pinyin: diànshìjī de píndào huài le.
+English: The TV channel is broken.
+
+Chinese: 我们需要把电视机搬到另一个房间。
+Pinyin: wǒmen xūyào bǎ diànshìjī bān dào lìng yīgè fángjiān.
+English: We need to move the TV to another room.
+
+Chinese: 电视机的音量太大了。
+Pinyin: diànshìjī de yīnliàng tài dà le.
+English: The TV volume is too loud.
+
+Chinese: 电视机的屏幕坏了。
+Pinyin: diànshìjī de píngmù huài le.
+English: The TV screen is broken.
+
+Chinese: 我们需要把电视机的电线插好。
+Pinyin: wǒmen xūyào bǎ diànshìjī de diànxiàn chā hǎo.
+English: We need to plug in the TV cable.
+
+Chinese: 电视机的信号不好。
+Pinyin: diànshìjī de xìnhào bù hǎo.
+English: The TV signal is not good.
+
+Chinese: 太阳从东边升起。
+Pinyin: tài yáng cóng dōngbian shēng qǐ.
+English: The sun rises in the east.
+
+Chinese: 我们住的公寓在东边。
+Pinyin: wǒmen zhù de gōng yù zài dōngbian.
+English: Our apartment is on the east side.
+
+Chinese: 东边的天空是红色的。
+Pinyin: dōngbian de tiānkōng shì hóng sè de.
+English: The sky in the east is red.
+
+Chinese: 我们要往东边走。
+Pinyin: wǒmen yào wǎng dōngbian zǒu.
+English: We need to go east.
+
+Chinese: 东边的街道很繁华。
+Pinyin: dōngbian de jiē dào hěn fán huá.
+English: The streets on the east side are very bustling.
+
+Chinese: 我们要去东边的公园散步。
+Pinyin: wǒmen yào qù dōngbian de gōng yuán sàn bù.
+English: We are going to take a walk in the park on the east side.
+
+Chinese: 东边的海滩很美。
+Pinyin: dōngbian de hǎitān hěn měi.
+English: The beach on the east side is beautiful.
+
+Chinese: 我们要向东边的机场出发。
+Pinyin: wǒmen yào xiàng dōngbian de jīchǎng chūfā.
+English: We need to head to the airport on the east side.
+
+Chinese: 她久坐不动，屁股都麻了。
+Pinyin: tā jiǔ zuò bù dòng, pìgu dōu má le.
+English: She sat for too long and her butt went numb.
+
+Chinese: 他是个好动的人，总是喜欢到处走走。
+Pinyin: tā shì gè hǎodòng de rén, zǒng shì xǐhuan dào chù zǒu zǒu.
+English: He is an active person who likes to walk around everywhere.
+
+Chinese: 我们需要动动脑筋，想出一个好主意。
+Pinyin: wǒmen xūyào dòng dòng nǎo jīn, xiǎng chū yī gè hǎo zhǔ yì.
+English: We need to use our brains and come up with a good idea.
+
+Chinese: 他总是不动声色地观察着周围的一切。
+Pinyin: tā zǒng shì bùdòngshēngsè de guān chá zhe zhōu wéi de yī qiè.
+English: He always observes everything around him without showing any emotion.
+
+Chinese: 他是个喜欢动的人，总是喜欢运动。
+Pinyin: tā shì gè xǐhuān dòng de rén, zǒng shì xǐhuan yùndòng.
+English: He is an active person who likes to exercise.
+
+Chinese: 她是个不爱动的人，总是喜欢宅在家里。
+Pinyin: tā shì gè bù ài dòng de rén, zǒng shì xǐhuan zhái zài jiā lǐ.
+English: She is an inactive person who likes to stay at home.
+
+Chinese: 我们需要动动手指，完成这个任务。
+Pinyin: wǒmen xūyào dòng dòng shǒu zhǐ, wán chéng zhè gè rèn wù.
+English: We need to move our fingers and complete this task.
+
+Chinese: 他是个爱动的人，总是喜欢尝试新的事物。
+Pinyin: tā shì gè ài dòng de rén, zǒng shì xǐhuan chángshì xīn de shìwù.
+English: He is an active person who likes to try new things.
+
+Chinese: 他做了一个漂亮的动作，赢得了观众的掌声。
+Pinyin: tā zuò le yīgè piàoliang de dòngzuò, yíng déle guānzhòng de zhǎngshēng.
+English: He made a beautiful move and won applause from the audience.
+
+Chinese: 我们需要学习一些基本的动作，才能更好地跳舞。
+Pinyin: wǒmen xūyào xué xí yīxiē jīběn de dòngzuò, cái néng gèng hǎo de tiàowǔ.
+English: We need to learn some basic moves to dance better.
+
+Chinese: 她的舞蹈动作非常优美，让人看得入迷。
+Pinyin: tā de wǔdǎo dòngzuò fēicháng yōu měi, ràng rén kàn dé rù mí.
+English: Her dance moves are very beautiful and captivating.
+
+Chinese: 他做了一个危险的动作，差点摔倒了。
+Pinyin: tā zuò le yīgè wēixiǎn de dòngzuò, chàdiǎn shuāi dǎo le.
+English: He made a dangerous move and almost fell.
+
+Chinese: 我们需要学习一些基本的武术动作，才能更好地保护自己。
+Pinyin: wǒmen xūyào xué xí yīxiē jīběn de wǔshù dòngzuò, cái néng gèng hǎo de bǎohù zìjǐ.
+English: We must learn some basic martial arts moves to protect ourselves better.
+
+Chinese: 她的舞蹈动作非常流畅，让人看得非常舒服。
+Pinyin: tā de wǔdǎo dòngzuò fēicháng liú chàng, ràng rén kàn dé fēicháng shūfu.
+English: Her dance moves are very smooth and comfortable to watch.
+
+Chinese: 他的动作非常敏捷，让人惊叹不已。
+Pinyin: tā de dòngzuò fēicháng mǐnjié, ràng rén jīngtàn bùyǐ.
+English: His moves are very agile, making people amazed.
+
+Chinese: 今天是放假的日子，我们可以好好休息一下。
+Pinyin: jīntiān shì fàngjià de rìzi, wǒmen kěyǐ hǎo hǎo xiūxi yī xià.
+English: Today is a holiday, we can take a good rest.
+
+Chinese: 我们公司放假三天，大家可以好好放松一下。
+Pinyin: wǒmen gōngsī fàngjià sān tiān, dàjiā kěyǐ hǎo hǎo fàngsōng yī xià.
+English: Our company has a three-day holiday, everyone can relax.
+
+Chinese: 放假的时候，我们可以去旅游或者看电影。
+Pinyin: fàngjià de shíhòu, wǒmen kěyǐ qù lǚyóu huòzhě kàn diànyǐng.
+English: During the holiday, we can travel or watch movies.
+
+Chinese: 房间很干净，没有任何杂物。
+Pinyin: fáng jiān hěn gānjìng, méi yǒu rènhé zá wù.
+English: The room is very clean, without any clutter.
+
+Chinese: 我们需要把房间打扫干净。
+Pinyin: wǒmen xūyào bǎ fángjiān dǎsǎo gānjìng.
+English: We need to clean up the room.
+
+Chinese: 我们的公司环境很干净，让人感到舒适。
+Pinyin: wǒmen de gōngsī huánjìng hěn gānjìng, ràng rén gǎndào shūshì.
+English: Our company environment is very clean, making people feel comfortable.
+
+Chinese: 她的衣服很干净，没有任何污点。
+Pinyin: tā de yīfu hěn gānjìng, méiyǒu rènhé wūdiǎn.
+English: Her clothes are very clean, without any stains.
+
+Chinese: 我们需要把桌子上的东西收拾干净。
+Pinyin: wǒmen xūyào bǎ zhuōzi shàng de dōngxi shōushí gānjìng.
+English: We need to tidy up the things on the table.
+
+Chinese: 他的房间很干净，没有任何杂物。
+Pinyin: tā de fángjiān hěn gānjìng, méiyǒu rènhé záwù.
+English: His room is very clean, without any clutter.
+
+Chinese: 工人们正在修路。
+Pinyin: gōngrén men zhèngzài xiūlù.
+English: The workers are repairing the road.
+
+Chinese: 工人们正在建设新的房子。
+Pinyin: gōngrén men zhèngzài jiànshè xīn de fángzi.
+English: The workers are building a new house.
+
+Chinese: 工人们正在修理电梯。
+Pinyin: gōngrén men zhèngzài xiūlǐ diàntī.
+English: The workers are repairing the elevator.
+
+Chinese: 工人们正在修理水管。
+Pinyin: gōngrén men zhèngzài xiūlǐ shuǐguǎn.
+English: The workers are repairing the water pipe.
+
+Chinese: 请关上窗户，外面很冷。
+Pinyin: qǐng guānshàng chuānghù, wàimiàn hěn lěng.
+English: Please close the window, it's very cold outside.
+
+Chinese: 我们需要关上门，保持室内的温暖。
+Pinyin: wǒmen xūyào guānshàng mén, bǎochí shìnèi de wēnnuǎn.
+English: We need to close the door to keep the room warm.
+
+Chinese: 请关上灯，我们要睡觉了。
+Pinyin: qǐng guānshàng dēng, wǒmen yào shuìjiào le.
+English: Please turn off the lights, we're going to sleep.
+
+Chinese: 我们需要关上窗户，避免外面的尘埃进入房间。
+Pinyin: wǒmen xūyào guānshàng chuānghù, bìmiǎn wàimiàn de chén'āi jìnrù fángjiān.
+English: We need to close the window to prevent outside dust from entering the room.
+
+Chinese: 我们公司有许多国外的客户。
+Pinyin: wǒmen gōngsī yǒu xǔduō guówài de kèhù.
+English: Our company has many foreign customers.
+
+Chinese: 我们需要学习国外的先进技术。
+Pinyin: wǒmen xūyào xué xí guówài de xiānjìn jìshù.
+English: We need to learn advanced technology from abroad.
+
+Chinese: 我们公司的产品在国外也很受欢迎。
+Pinyin: wǒmen gōngsī de chǎnpǐn zài guówài yě hěn shòuhuānyíng.
+English: Our company's products are also very popular abroad.
+
+Chinese: 我们的国家正在经历大变革。
+Pinyin: wǒmen de guójiā zhèngzài jīnglì dà biàngé.
+English: Our country is undergoing major changes.
+
+Chinese: 我们需要保护我们的国家。
+Pinyin: wǒmen xūyào bǎohù wǒmen de guójiā.
+English: We need to protect our country.
+
+Chinese: 我们的国家有着悠久的历史和文化。
+Pinyin: wǒmen de guójiā yǒuzhe yōujiǔ de lìshǐ hé wénhuà.
+English: Our country has a long history and culture.
