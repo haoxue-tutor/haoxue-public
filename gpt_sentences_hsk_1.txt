@@ -64,7 +64,7 @@ Pinyin: wǒ men měitiān xué xí zhōngwén.
 
 Chinese: 这个孩子每天都很开心。
 English: This child is happy every day.
-Pinyin: zhège háizi měitiān dōu hěn kāixīn.
+Pinyin: zhè gè háizi měitiān dōu hěn kāixīn.
 
 Chinese: 每天都有新的机会。
 English: Every day brings new opportunities.
@@ -84,7 +84,7 @@ Pinyin: Tā chuānle yī tiáo lán sè de qúnzi.
 
 Chinese: 这个画廊展示了许多蓝色的画作。
 English: This art gallery showcases many blue paintings.
-Pinyin: zhège huàláng zhǎnshìle xǔduō lán sè de huàzuò.
+Pinyin: zhè gè huàláng zhǎnshìle xǔduō lán sè de huàzuò.
 
 Chinese: 我的手机壳是蓝色的。
 English: My phone case is blue.
@@ -100,7 +100,7 @@ Pinyin: māmā gěi wǒ mǎi le yīshuāng xīn wàzi.
 
 Chinese: 这双袜子很舒服。
 English: These socks are very comfortable.
-Pinyin: zhè shuāng wàzi hěn shūfú.
+Pinyin: zhè shuāng wàzi hěn shūfu.
 
 Chinese: 我喜欢穿彩色的袜子。
 English: I like to wear colorful socks.
@@ -140,7 +140,7 @@ Pinyin: jīntiān shì xīngqī yī.
 
 Chinese: 这个是我的书。
 English: This is my book.
-Pinyin: zhège shì wǒ de shū.
+Pinyin: zhè gè shì wǒ de shū.
 
 Chinese: 这是你的钥匙。
 English: This is your key.
@@ -180,7 +180,7 @@ Pinyin: māmā gěi wǒ mǎi le yī xiāng píngguǒ.
 
 Chinese: 这个苹果很甜。
 English: This apple is very sweet.
-Pinyin: zhège píngguǒ hěn tián.
+Pinyin: zhè gè píngguǒ hěn tián.
 
 Chinese: 孩子们正在吃苹果。
 English: The children are eating apples.
@@ -220,7 +220,7 @@ Pinyin: wǒ fùmǔ dōu gōngzuò.
 
 Chinese: 这个工作很累人。
 English: This job is very tiring.
-Pinyin: zhège gōngzuò hěn lèi rén.
+Pinyin: zhè gè gōngzuò hěn lèi rén.
 
 Chinese: 她的工作很稳定。
 English: Her job is very stable.
@@ -256,7 +256,7 @@ Pinyin: wǒ yòu è yòu lèi.
 
 Chinese: 这个问题又简单又容易。
 English: This question is both simple and easy.
-Pinyin: zhège wèntí yòu jiǎndān yòu róngyì.
+Pinyin: zhè gè wèntí yòu jiǎndān yòu róngyì.
 
 Chinese: 他是又努力又聪明的学生。
 English: He is a hardworking and intelligent student.
@@ -415,15 +415,15 @@ Pinyin: nǐ zěnme bù huílái?
 English: Why don't you come back?
 
 Chinese: 这个怎么做？
-Pinyin: zhège zěnme zuò?
+Pinyin: zhè gè zěnme zuò?
 English: How do you do this?
 
 Chinese: 你怎么得到这个消息的？
-Pinyin: nǐ zěnme dédào zhège xiāoxi de?
+Pinyin: nǐ zěnme dédào zhè gè xiāoxi de?
 English: How did you get this news?
 
 Chinese: 你觉得这个电影怎么样？
-Pinyin: Nǐ juéde zhège diànyǐng zěnme yàng?
+Pinyin: Nǐ juéde zhè gè diànyǐng zěnme yàng?
 English: What do you think of this movie?
 
 Chinese: 你今天的考试怎么样？
@@ -431,7 +431,7 @@ Pinyin: Nǐ jīntiān de kǎoshì zěnme yàng?
 English: How was your exam today?
 
 Chinese: 这个餐厅的菜怎么样？
-Pinyin: Zhège cāntīng de cài zěnme yàng?
+Pinyin: Zhè gè cāntīng de cài zěnme yàng?
 English: How is the food at this restaurant?
 
 Chinese: 他的中文说得怎么样？
@@ -519,7 +519,7 @@ Pinyin: wǒ bù xiǎng qù nàgè dìfāng.
 English: I don't want to go to that place.
 
 Chinese: 这个菜不辣。
-Pinyin: zhège cài bù là.
+Pinyin: zhè gè cài bù là.
 English: This dish is not spicy.
 
 Chinese: 我今年二十岁。
@@ -575,7 +575,7 @@ Pinyin: wǒ zhǐyǒu yīxiē wèntí.
 English: I only have some questions.
 
 Chinese: 这个苹果五块钱。
-Pinyin: Zhège píngguǒ wǔ kuài qián.
+Pinyin: Zhè gè píngguǒ wǔ kuài qián.
 English: This apple costs 5 yuan.
 
 Chinese: 他拿出一块巧克力。
@@ -603,7 +603,7 @@ Pinyin: tā méiyǒu xiōngdì jiěmèi.
 English: He doesn't have any siblings.
 
 Chinese: 这个问题没有答案。
-Pinyin: zhège wèntí méiyǒu dá'àn.
+Pinyin: zhè gè wèntí méiyǒu dá'àn.
 English: This question has no answer.
 
 Chinese: 我们没有选择。
@@ -639,7 +639,7 @@ Pinyin: Tā hěn piàoliang.
 English: She is beautiful.
 
 Chinese: 这个菜很好吃。
-Pinyin: Zhège cài hěn hào chī.
+Pinyin: Zhè gè cài hěn hào chī.
 English: This dish is delicious.
 
 Chinese: 我很累了。
@@ -675,7 +675,7 @@ Pinyin: Tiānqì tài rè le.
 English: The weather is too hot.
 
 Chinese: 这个问题太难了。
-Pinyin: Zhège wèntí tài nán le.
+Pinyin: Zhè gè wèntí tài nán le.
 English: This question is too difficult.
 
 Chinese: 他太高了。
@@ -683,7 +683,7 @@ Pinyin: tā tài gāo le.
 English: He is too tall.
 
 Chinese: 这个任务太重了。
-Pinyin: Zhège rènwu tài zhòng le.
+Pinyin: Zhè gè rènwu tài zhòng le.
 English: This task is too heavy.
 
 Chinese: 昨天的晚会太无聊了。
@@ -791,7 +791,7 @@ Pinyin: míngtiān wǒ yào qù xuéxiào.
 English: I am going to school tomorrow.
 
 Chinese: 这个饭店的菜很好吃。
-Pinyin: Zhège fàndiàn de cài hěn hǎo chī.
+Pinyin: Zhè gè fàndiàn de cài hěn hǎo chī.
 English: The food at this restaurant is delicious.
 
 Chinese: 我们在饭店开了个会。
@@ -815,7 +815,7 @@ Pinyin: wǒ qù shāngdiàn mǎi dōngxi.
 English: I go to the store to buy things.
 
 Chinese: 这个商店卖水果和蔬菜。
-Pinyin: zhège shāngdiàn mài shuǐguǒ hé shūcài.
+Pinyin: zhè gè shāngdiàn mài shuǐguǒ hé shūcài.
 English: This store sells fruits and vegetables.
 
 Chinese: 那家商店今天关门了。
@@ -963,7 +963,7 @@ Pinyin: kāfēi diàn zài lù de qiánmiàn.
 English: The coffee shop is in front of the road.
 
 Chinese: 这个广场在公园的前面。
-Pinyin: zhège guǎngchǎng zài gōngyuán de qiánmiàn.
+Pinyin: zhè gè guǎngchǎng zài gōngyuán de qiánmiàn.
 English: This square is in front of the park.
 
 Chinese: 他站在树后面。
@@ -987,15 +987,15 @@ Pinyin: tā xǐhuan dúzì zuò zài jiàoshì hòumiàn.
 English: He likes to sit alone at the back of the classroom.
 
 Chinese: 书包里面有一本书。
-Pinyin: shū bāo lǐ miàn yǒu yī běn shū.
+Pinyin: shūbāo lǐmiàn yǒu yī běn shū.
 English: There is a book inside the backpack.
 
 Chinese: 餐厅里面有很多客人。
-Pinyin: cān tīng lǐ miàn yǒu hěn duō kè rén.
+Pinyin: cāntīng lǐmiàn yǒu hěn duō kèrén.
 English: There are many customers inside the restaurant.
 
 Chinese: 袋子里面有很多水果。
-Pinyin: dài zi lǐ miàn yǒu hěn duō shuǐ guǒ.
+Pinyin: dàizi lǐmiàn yǒu hěn duō shuǐguǒ.
 English: There are many fruits inside the bag.
 
 Chinese: 她房间里面有一张大床。
@@ -1007,23 +1007,23 @@ Pinyin: Xiāngzi lǐmiàn yǒu yīxiē yīfu.
 English: There are some clothes inside the box.
 
 Chinese: 今天天气很好。
-Pinyin: jīn tiān tiān qì hěn hǎo.
+Pinyin: jīntiān tiānqì hěn hǎo.
 English: Today the weather is very nice.
 
 Chinese: 我今天有很多工作要做。
-Pinyin: wǒ jīn tiān yǒu hěn duō gōng zuò yào zuò.
+Pinyin: wǒ jīntiān yǒu hěn duō gōngzuò yào zuò.
 English: I have a lot of work to do today.
 
 Chinese: 今天是星期几？
-Pinyin: jīn tiān shì xīng qī jǐ?
+Pinyin: jīntiān shì xīng qī jǐ?
 English: What day is it today?
 
 Chinese: 今天晚上我要去看电影。
-Pinyin: jīn tiān wǎn shàng wǒ yào qù kàn diàn yǐng.
+Pinyin: jīntiān wǎnshang wǒ yào qù kàn diànyǐng.
 English: I am going to watch a movie tonight.
 
 Chinese: 今天我吃了很多好吃的。
-Pinyin: jīn tiān wǒ chī le hěn duō hǎo chī de.
+Pinyin: jīntiān wǒ chī le hěn duō hǎo chī de.
 English: I had a lot of delicious food today.
 
 Chinese: 明天是星期三。
@@ -1159,7 +1159,7 @@ Pinyin: tā měi gè yuè dōu shōu dào gōng zī.
 English: He receives his salary every month.
 
 Chinese: 这个月的账单还没有寄到。
-Pinyin: zhège yuè de zhàng dān hái méi yǒu jì dào.
+Pinyin: zhè gè yuè de zhàng dān hái méi yǒu jì dào.
 English: The bill for this month hasn't arrived yet.
 
 Chinese: 请问你生日是几月几号？
@@ -1195,7 +1195,7 @@ Pinyin: wǒ xiǎng diǎn yī bēi kāfēi.
 English: I would like to order a cup of coffee.
 
 Chinese: 我对这个问题有一点疑问。
-Pinyin: Wǒ duì zhège wèntí yǒu yīdiǎn yíwèn.
+Pinyin: Wǒ duì zhè gè wèntí yǒu yīdiǎn yíwèn.
 English: I have a little doubt about this question.
 
 Chinese: 请给我点建议。
@@ -1211,7 +1211,7 @@ Pinyin: wǒ yào děng shí fēnzhōng.
 English: I have to wait for ten minutes.
 
 Chinese: 这个电影有一百二十分钟。
-Pinyin: zhè gè diàn yǐng yǒu yī bǎi èr shí fēnzhōng.
+Pinyin: zhè gè diànyǐng yǒu yī bǎi èrshí fēnzhōng.
 English: This movie is 120 minutes long.
 
 Chinese: 请等我五分钟。
@@ -1227,23 +1227,23 @@ Pinyin: Jīntiān zǎoshang wǒ shuìle yīgè xiǎoshí, dàn háishì chídào
 English: I slept for an hour this morning, but still arrived ten minutes late.
 
 Chinese: 现在是晚上八点。
-Pinyin: xiàn zài shì wǎn shàng bā diǎn.
+Pinyin: xiànzài shì wǎnshang bā diǎn.
 English: It is eight o'clock in the evening now.
 
 Chinese: 我现在在学校。
-Pinyin: wǒ xiàn zài zài xué xiào.
+Pinyin: wǒ xiànzài zài xuéxiào.
 English: I am now at school.
 
 Chinese: 你现在在哪里工作？
-Pinyin: nǐ xiàn zài zài nǎ lǐ gōng zuò?
+Pinyin: nǐ xiànzài zài nǎ lǐ gōng zuò?
 English: Where are you working now?
 
 Chinese: 现在我们去吃饭吧。
-Pinyin: xiàn zài wǒ men qù chī fàn ba.
+Pinyin: xiànzài wǒ men qù chī fàn ba.
 English: Let's go eat now.
 
 Chinese: 他现在很忙，不能和你聊天。
-Pinyin: tā xiàn zài hěn máng, bù néng hé nǐ liáo tiān.
+Pinyin: tā xiànzài hěn máng, bù néng hé nǐ liáo tiān.
 English: He is busy now and can't chat with you.
 
 Chinese: 早上是我最喜欢的时候。
@@ -1315,7 +1315,7 @@ Pinyin: Wǒ de érzi xǐhuan huàhuà.
 English: My son likes to draw.
 
 Chinese: 他的儿子这个月十岁了。
-Pinyin: Tā de érzi zhège yuè shí suì le.
+Pinyin: Tā de érzi zhè gè yuè shí suì le.
 English: His son is turning ten this month.
 
 Chinese: 她的儿子是个刚出生的婴儿。
@@ -1503,11 +1503,11 @@ Pinyin: wǒ de yīfu dōu xǐ hǎole.
 English: All of my clothes are washed.
 
 Chinese: 这个商店有很多不同类型的衣服。
-Pinyin: zhège shāngdiàn yǒu hěnduō bùtóng lèixíng de yīfu.
+Pinyin: zhè gè shāngdiàn yǒu hěnduō bùtóng lèixíng de yīfu.
 English: This store has many different types of clothing.
 
 Chinese: 这个杯子里有水。
-Pinyin: Zhège bēizi lǐ yǒu shuǐ.
+Pinyin: Zhè gè bēizi lǐ yǒu shuǐ.
 English: There is water in this cup.
 
 Chinese: 每天喝八杯水对身体好。
@@ -1519,7 +1519,7 @@ Pinyin: Wǒ kě le, xiǎng yào yī píng shuǐ.
 English: I'm thirsty and I want a bottle of water.
 
 Chinese: 这个河里的水很清澈。
-Pinyin: Zhège hé lǐ de shuǐ hěn qīngchè.
+Pinyin: Zhè gè hé lǐ de shuǐ hěn qīngchè.
 English: The water in this river is very clear.
 
 Chinese: 不要浪费水资源，要节约用水。
@@ -1583,7 +1583,7 @@ Pinyin: Wǒ zuì xǐhuan de shuǐguǒ shì cǎoméi.
 English: My favorite fruit is strawberries.
 
 Chinese: 这个水果摊上有好多种水果。
-Pinyin: Zhège shuǐguǒ tān shàng yǒu hǎo duō zhǒng shuǐguǒ.
+Pinyin: Zhè gè shuǐguǒ tān shàng yǒu hǎo duō zhǒng shuǐguǒ.
 English: There are many kinds of fruits at this fruit stall.
 
 Chinese: 她每天吃很多水果。
@@ -1631,7 +1631,7 @@ Pinyin: Qǐng jiè wǒ nǐ de bēizi.
 English: Please lend me your cup.
 
 Chinese: 这个杯子是红色的。
-Pinyin: Zhège bēizi shì hóngsè de.
+Pinyin: Zhè gè bēizi shì hóngsè de.
 English: This cup is red.
 
 Chinese: 杯子里有一点咖啡。
@@ -1655,7 +1655,7 @@ Pinyin: Wǒ zài yínháng qǔ le yīxiē qián.
 English: I withdrew some money from the bank.
 
 Chinese: 这个包很贵，需要很多钱。
-Pinyin: Zhège bāo hěn guì, xūyào hěn duō qián.
+Pinyin: Zhè gè bāo hěn guì, xūyào hěn duō qián.
 English: This bag is expensive, it requires a lot of money.
 
 Chinese: 我的工资足够支付我的生活费用了。
@@ -1711,7 +1711,7 @@ Pinyin: Tā měitiān wǎnshang dōu kàn diànshì.
 English: He watches TV every night.
 
 Chinese: 这个电视太大了。
-Pinyin: Zhège diànshì tài dà le.
+Pinyin: Zhè gè diànshì tài dà le.
 English: This TV is too big.
 
 Chinese: 昨晚我在电视上看了一部电影。
@@ -1779,7 +1779,7 @@ Pinyin: Tiānqì zhuǎn liáng le, jìdé chuān shàng wàitào.
 English: The weather has turned cool, remember to wear a jacket.
 
 Chinese: 这个城市的天气变化很大。
-Pinyin: Zhège chéngshì de tiānqì biànhuà hěn dà.
+Pinyin: Zhè gè chéngshì de tiānqì biànhuà hěn dà.
 English: The weather in this city changes a lot.
 
 Chinese: 这只猫很可爱。
@@ -1839,7 +1839,7 @@ Pinyin: Qǐng bǎ nàge dōngxi gěi wǒ.
 English: Please give me that thing.
 
 Chinese: 这个包里装有重要的东西。
-Pinyin: Zhège bāo lǐ zhuāngyǒu zhòngyào de dōngxi.
+Pinyin: Zhè gè bāo lǐ zhuāngyǒu zhòngyào de dōngxi.
 English: There are important things inside this bag.
 
 Chinese: 他是一个好人。
@@ -1847,7 +1847,7 @@ Pinyin: Tā shì yī gè hǎo rén.
 English: He is a good person.
 
 Chinese: 这个地方有很多人。
-Pinyin: Zhège dìfang yǒu hěnduō rén.
+Pinyin: Zhè gè dìfang yǒu hěnduō rén.
 English: There are many people in this place.
 
 Chinese: 我们是同事，不是陌生人。
@@ -1855,7 +1855,7 @@ Pinyin: Wǒmen shì tóngshì, bùshì mòshēngrén.
 English: We are colleagues, not strangers.
 
 Chinese: 这个城市的人口很多。
-Pinyin: Zhège chéngshì de rénkǒu hěnduō.
+Pinyin: Zhè gè chéngshì de rénkǒu hěnduō.
 English: This city has a large population.
 
 Chinese: 她是那个婴儿的妈妈。
@@ -1955,11 +1955,11 @@ Pinyin: Tā de zì xiě de hěn piàoliang.
 English: Her handwriting is very beautiful.
 
 Chinese: 这个字的意思是什么？
-Pinyin: Zhège zì de yìsi shì shénme?
+Pinyin: Zhè gè zì de yìsi shì shénme?
 English: What is the meaning of this character?
 
 Chinese: 这个桌子很大。
-Pinyin: Zhège zhuōzi hěn dà.
+Pinyin: Zhè gè zhuōzi hěn dà.
 English: This table is big.
 
 Chinese: 我的书在桌子上。
@@ -1995,7 +1995,7 @@ Pinyin: Qǐng bǎ yǐzi fàng zài zhuōzi pángbiān.
 English: Please place the chair next to the table.
 
 Chinese: 这个房间里有五把椅子。
-Pinyin: Zhège fángjiān lǐ yǒu wǔ bǎ yǐzi.
+Pinyin: Zhè gè fángjiān lǐ yǒu wǔ bǎ yǐzi.
 English: There are five chairs in this room.
 
 Chinese: 我谢谢你的帮助。
@@ -2043,7 +2043,7 @@ Pinyin: Nǐ chídào le, méi guānxi, wǒ kěyǐ děng nǐ.
 English: You're late, but it's okay, I can wait for you.
 
 Chinese: 这个问题很简单，没关系，慢慢来。
-Pinyin: Zhège wèntí hěn jiǎndān, méi guānxi, màn màn lái.
+Pinyin: Zhè gè wèntí hěn jiǎndān, méi guānxi, màn màn lái.
 English: This question is easy, it's okay, take your time.
 
 Chinese: 我忘了带钱包，没关系，你先付吧。
@@ -2051,7 +2051,7 @@ Pinyin: Wǒ wàng le dài qiánbāo, méi guānxi, nǐ xiān fù ba.
 English: I forgot to bring my wallet, it's okay, you can pay first.
 
 Chinese: 这个电影很无聊，没关系，我们可以换一部。
-Pinyin: Zhège diànyǐng hěn wúliáo, méi guānxi, wǒmen kěyǐ huàn yī bù.
+Pinyin: Zhè gè diànyǐng hěn wúliáo, méi guānxi, wǒmen kěyǐ huàn yī bù.
 English: This movie is boring, it's okay, we can switch to another one.
 
 Chinese: 我在看书。
@@ -2175,7 +2175,7 @@ Pinyin: Wǒmen jiàoshì wàimiàn de chuānghù shàng tiē zhe yī zhāng tōn
 English: There is a notice posted on the window outside our classroom, did you see it?
 
 Chinese: 这个小狗叫汤姆。
-Pinyin: Zhège xiǎo gǒu jiào tāng mǔ.
+Pinyin: Zhè gè xiǎo gǒu jiào tāng mǔ.
 English: This little dog is called Tom.
 
 Chinese: 我叫杰克。
@@ -2431,7 +2431,7 @@ Pinyin: Tā xǐhuan zuò huǒchē lǚxíng.
 English: He enjoys traveling by train.
 
 Chinese: 老人坐在公园里晒太阳。
-Pinyin: Lǎorén zuò zài gōngyuán lǐ shài tàiyáng.
+Pinyin: Lǎorén zuò zài gōngyuán lǐ shài tàiyang.
 English: The elderly person is sitting in the park sunbathing.
 
 Chinese: 请坐下。
@@ -2455,7 +2455,7 @@ Pinyin: Wǒmen kěyǐ zuò zài yīqǐ chīfàn.
 English: We can sit together and have a meal.
 
 Chinese: 我们住在这个房子里。
-Pinyin: Wǒmen zhù zài zhège fángzi lǐ.
+Pinyin: Wǒmen zhù zài zhè gè fángzi lǐ.
 English: We live in this house.
 
 Chinese: 她住在一个大城市里。
@@ -2643,7 +2643,7 @@ Pinyin: Tā shuō le shēng " duìbuqǐ " jiù zǒu le.
 English: He said "sorry" and then left.
 
 Chinese: 当你犯错时，应该说对不起。
-Pinyin: Dāng nǐ fàn cuò shí, yīnggāi shuō duìbuqǐ.
+Pinyin: Dāng nǐ fàncuò shí, yīnggāi shuō duìbuqǐ.
 English: You should say sorry when you make a mistake.
 
 Chinese: 对不起，我打翻了你的水杯。
@@ -2653,10 +2653,6 @@ English: Sorry, I knocked over your water glass.
 Chinese: 小朋友，撞到别人了要说对不起。
 Pinyin: Xiǎopéngyǒu, zhuàng dào biéren le yào shuō duìbuqǐ.
 English: Children, you should say sorry when you bump into someone.
-
-Chinese: 你迟到了，没关系。
-Pinyin: Nǐ chídào le, méiguānxi.
-English: You are late, it's okay.
 
 Chinese: 我弄丢了那本书，但是没关系。
 Pinyin: Wǒ nòng diū le nà běn shū, dànshì méiguānxi.
@@ -2695,7 +2691,7 @@ Pinyin: Gěi nǐ ràngzuò, nǐ jiù bù yào shuō bù kèqi le.
 English: If I give you my seat, there's no need to say "don't be polite."
 
 Chinese: 这个苹果很好吃。
-Pinyin: Zhège píngguǒ hěn hǎo chī.
+Pinyin: Zhè gè píngguǒ hěn hǎo chī.
 English: This apple tastes good.
 
 Chinese: 我的朋友人很好。
@@ -2715,7 +2711,7 @@ Pinyin: Zhè běn shū shì yī gè hěn hǎo de lǐwù.
 English: This book is a very good gift.
 
 Chinese: 这个房间很大。
-Pinyin: Zhège fángjiān hěn dà.
+Pinyin: Zhè gè fángjiān hěn dà.
 English: This room is big.
 
 Chinese: 他有一个大家庭。
@@ -2783,15 +2779,15 @@ Pinyin: Zhè běn shū duōshǎo qián?
 English: How much does this book cost?
 
 Chinese: 你能告诉我这个城市有多少人口吗？
-Pinyin: Nǐ néng gàosù wǒ zhège chéngshì yǒu duōshǎo rénkǒu ma?
+Pinyin: Nǐ néng gàosù wǒ zhè gè chéngshì yǒu duōshǎo rénkǒu ma?
 English: Can you tell me how many people live in this city?
 
 Chinese: 我不知道这个汉字怎么读，你能告诉我吗？
-Pinyin: Wǒ bù zhīdào zhège hànzì zěnme dú, nǐ néng gàosù wǒ ma?
+Pinyin: Wǒ bù zhīdào zhè gè hànzì zěnme dú, nǐ néng gàosù wǒ ma?
 English: I don't know how to pronounce this Chinese character, can you tell me?
 
 Chinese: 请问，这个酒店的客房有多少间？
-Pinyin: Qǐngwèn, zhège jiǔdiàn de kèfáng yǒu duōshǎo jiān?
+Pinyin: Qǐngwèn, zhè gè jiǔdiàn de kèfáng yǒu duōshǎo jiān?
 English: Excuse me, how many rooms does this hotel have?
 
 Chinese: 我少看了一集电视剧。
@@ -2799,7 +2795,7 @@ Pinyin: Wǒ shǎo kàn le yī jí diànshìjù.
 English: I missed one episode of the TV series.
 
 Chinese: 这个菜的味道有点儿少。
-Pinyin: Zhège cài de wèidào yǒudiǎnr shǎo.
+Pinyin: Zhè gè cài de wèidào yǒudiǎnr shǎo.
 English: This dish lacks a bit of flavor.
 
 Chinese: 今天我少穿了一件衣服。
@@ -2811,7 +2807,7 @@ Pinyin: Tā de huídá tài shǎo le.
 English: His answer was too brief.
 
 Chinese: 在这个城市里，看到野生动物的机会很少。
-Pinyin: Zài zhège chéngshì lǐ, kàndào yěshēng dòngwù de jīhuì hěn shǎo.
+Pinyin: Zài zhè gè chéngshì lǐ, kàndào yěshēng dòngwù de jīhuì hěn shǎo.
 English: In this city, there are few opportunities to see wild animals.
 
 Chinese: 今天很冷。
@@ -2823,7 +2819,7 @@ Pinyin: Wǒ de shǒu hěn lěng.
 English: My hands are cold.
 
 Chinese: 这个房间很冷。
-Pinyin: Zhège fángjiān hěn lěng.
+Pinyin: Zhè gè fángjiān hěn lěng.
 English: This room is cold.
 
 Chinese: 冬天的风很冷。
@@ -2851,7 +2847,7 @@ Pinyin: Jīntiān tiānqì hěn rè.
 English: Today's weather is hot.
 
 Chinese: 这个汤很热。
-Pinyin: Zhège tāng hěn rè.
+Pinyin: Zhè gè tāng hěn rè.
 English: This soup is hot.
 
 Chinese: 我很高兴见到你。
@@ -2887,7 +2883,7 @@ Pinyin: Tā yǒu yītóu piàoliang de chángfà.
 English: She has beautiful long hair.
 
 Chinese: 这个花园里种满了漂亮的花。
-Pinyin: Zhège huāyuán lǐ zhǒng mǎnle piàoliang de huā.
+Pinyin: Zhè gè huāyuán lǐ zhǒng mǎnle piàoliang de huā.
 English: This garden is filled with beautiful flowers.
 
 Chinese: 她的笑容非常漂亮。
@@ -2927,7 +2923,7 @@ Pinyin: Jīntiān shì sān yuè sān hào.
 English: Today is the third of March.
 
 Chinese: 这个箱子有三层。
-Pinyin: Zhège xiāngzi yǒu sān céng.
+Pinyin: Zhè gè xiāngzi yǒu sān céng.
 English: This box has three layers.
 
 Chinese: 我每天喝三杯咖啡。
@@ -2951,7 +2947,7 @@ Pinyin: Wǒ měitiān yào liànxí sān gè xiǎoshí de gāngqín.
 English: I practice the piano for three hours every day.
 
 Chinese: 他花了三分钟解决了这个问题。
-Pinyin: Tā huāle sān fēnzhōng jiějuéle zhège wèntí.
+Pinyin: Tā huāle sān fēnzhōng jiějuéle zhè gè wèntí.
 English: He solved this problem in three minutes.
 
 Chinese: 这本书有四百页。
@@ -2967,7 +2963,7 @@ Pinyin: Qǐng gěi wǒ sì jiàn yīfu.
 English: Please give me four pieces of clothing.
 
 Chinese: 这个月有四个周末。
-Pinyin: Zhège yuè yǒu sì gè zhōumò.
+Pinyin: Zhè gè yuè yǒu sì gè zhōumò.
 English: This month has four weekends.
 
 Chinese: 今天是四月四号。
@@ -2987,7 +2983,7 @@ Pinyin: Zhè tào jiājù yǒu sì bǎ yǐzi.
 English: This set of furniture has four chairs.
 
 Chinese: 这个箱子有四个拉链。
-Pinyin: Zhège xiāngzi yǒu sì gè lāliàn.
+Pinyin: Zhè gè xiāngzi yǒu sì gè lāliàn.
 English: This suitcase has four zippers.
 
 Chinese: 这辆自行车有四个刹车。
@@ -3011,7 +3007,7 @@ Pinyin: Wǒ měitiān shuì wǔ gè xiǎoshí.
 English: I sleep for five hours every day.
 
 Chinese: 这个箱子里有五只猫。
-Pinyin: Zhège xiāngzi lǐ yǒu wǔ zhī māo.
+Pinyin: Zhè gè xiāngzi lǐ yǒu wǔ zhī māo.
 English: There are five cats in this box.
 
 Chinese: 这是五条裤子。
@@ -3031,7 +3027,7 @@ Pinyin: Wǒ měi zhōu dǎ wǔ cì lánqiú.
 English: I play basketball five times a week.
 
 Chinese: 这个房间有五个人。
-Pinyin: Zhège fángjiān yǒu wǔ gè rén.
+Pinyin: Zhè gè fángjiān yǒu wǔ gè rén.
 English: There are five people in this room.
 
 Chinese: 我有六个苹果。
@@ -3071,7 +3067,7 @@ Pinyin: Wǒ jīntiān mǎi le qī gè píngguǒ.
 English: I bought seven apples today.
 
 Chinese: 这个星期有七天。
-Pinyin: Zhège xīngqī yǒu qī tiān.
+Pinyin: Zhè gè xīngqī yǒu qī tiān.
 English: This week has seven days.
 
 Chinese: 我有七本书。
@@ -3095,11 +3091,11 @@ Pinyin: Xīngqītiān shì měi zhōu de dì qī tiān.
 English: Sunday is the seventh day of each week.
 
 Chinese: 我们这个月的第七天要举行聚会。
-Pinyin: Wǒmen zhège yuè de dì qī tiān yào jǔxíng jùhuì.
+Pinyin: Wǒmen zhè gè yuè de dì qī tiān yào jǔxíng jùhuì.
 English: We will hold a party on the seventh day of this month.
 
 Chinese: 这个星座代表七月份的出生人。
-Pinyin: Zhège xīngzuò dàibiǎo qī yuèfèn de chūshēng rén.
+Pinyin: Zhè gè xīngzuò dàibiǎo qī yuèfèn de chūshēng rén.
 English: This constellation represents people born in July.
 
 Chinese: 他家里有八个人。
@@ -3115,7 +3111,7 @@ Pinyin: Bā yuè shì xiàtiān de zuìhòu yīgè yuè.
 English: August is the last month of summer.
 
 Chinese: 这个星期的星期日是八月九号。
-Pinyin: Zhège xīngqī de xīngqīrì shì bā yuè jiǔ hào.
+Pinyin: Zhè gè xīngqī de xīngqīrì shì bā yuè jiǔ hào.
 English: The Sunday of this week is August 9th.
 
 Chinese: 八点整我们开始开会。
@@ -3123,7 +3119,7 @@ Pinyin: Bā diǎn zhěng wǒmen kāishǐ kāihuì.
 English: We start the meeting at eight sharp.
 
 Chinese: 我这个月八号生日。
-Pinyin: Wǒ zhège yuè bā hào shēngrì.
+Pinyin: Wǒ zhè gè yuè bā hào shēngrì.
 English: My birthday is on the eighth of this month.
 
 Chinese: 明天是八月四号。
@@ -3147,7 +3143,7 @@ Pinyin: Wǒ yǒu jiǔ zhī qiānbǐ.
 English: I have nine pencils.
 
 Chinese: 这个房间有九个椅子。
-Pinyin: Zhège fángjiān yǒu jiǔ gè yǐzi.
+Pinyin: Zhè gè fángjiān yǒu jiǔ gè yǐzi.
 English: This room has nine chairs.
 
 Chinese: 我需要九块钱。
@@ -3171,7 +3167,7 @@ Pinyin: Wǒ yǐjīng dǎle jiǔ gè diànhuà, háishì méi rén jiē.
 English: I have already made nine calls, but no one answered.
 
 Chinese: 这个餐厅十点关门。
-Pinyin: Zhège cāntīng shí diǎn guān mén.
+Pinyin: Zhè gè cāntīng shí diǎn guān mén.
 English: This restaurant closes at 10 o'clock.
 
 Chinese: 十个学生在教室里学习。
@@ -3191,7 +3187,7 @@ Pinyin: Bàba zuòle shí gè dàngāo.
 English: Dad made ten cakes.
 
 Chinese: 这个菜谱有十道菜。
-Pinyin: Zhège càipǔ yǒu shí dào cài.
+Pinyin: Zhè gè càipǔ yǒu shí dào cài.
 English: This recipe has ten dishes.
 
 Chinese: 那个旅行团有十个人。
@@ -3231,7 +3227,7 @@ Pinyin: Jiē shàng yǒu shíyī gè dēngzhù.
 English: There are eleven lamp posts on the street.
 
 Chinese: 这个月底是十一月二十号。
-Pinyin: Zhège yuèdǐ shì shíyī yuè èrshí hào.
+Pinyin: Zhè gè yuèdǐ shì shíyī yuè èrshí hào.
 English: The end of this month is November 20th.
 
 Chinese: 我每天都十一点睡觉。
@@ -3251,7 +3247,7 @@ Pinyin: Wǒ yǒu shí'èr běn shū.
 English: I have twelve books.
 
 Chinese: 这个月有十二个星期。
-Pinyin: Zhège yuè yǒu shí'èr gè xīngqī.
+Pinyin: Zhè gè yuè yǒu shí'èr gè xīngqī.
 English: This month has twelve weeks.
 
 Chinese: 她的生日是十二月二十日。
@@ -3291,7 +3287,7 @@ Pinyin: Jīntiān yǒu liǎng gè huìyì.
 English: There are two meetings today.
 
 Chinese: 这个披萨有两种口味。
-Pinyin: Zhège pīsà yǒu liǎng zhǒng kǒuwèi.
+Pinyin: Zhè gè pīsà yǒu liǎng zhǒng kǒuwèi.
 English: This pizza has two flavors.
 
 Chinese: 我要买两本书。
@@ -3307,7 +3303,7 @@ Pinyin: Míngtiān yǒu liǎng gè kǎoshì.
 English: There are two exams tomorrow.
 
 Chinese: 这个包里有两种颜色的衣服。
-Pinyin: Zhège bāo lǐ yǒu liǎng zhǒng yánsè de yīfu.
+Pinyin: Zhè gè bāo lǐ yǒu liǎng zhǒng yánsè de yīfu.
 English: There are two colors of clothes in this bag.
 
 Chinese: 我每天喝两杯咖啡。
@@ -3416,23 +3412,23 @@ English: I don't need help.
 
 Chinese: 这个本子很漂亮。
 English: This notebook is very beautiful.
-Pinyin: zhège běnzi hěn piàoliang.
+Pinyin: zhè gè běnzi hěn piàoliang.
 
 Chinese: 这个本子很便宜。
 English: This notebook is very cheap.
-Pinyin: zhège běnzi hěn piányi.
+Pinyin: zhè gè běnzi hěn piányi.
 
 Chinese: 这个本子很贵。
 English: This notebook is very expensive.
-Pinyin: zhège běnzi hěn guì.
+Pinyin: zhè gè běnzi hěn guì.
 
 Chinese: 这个本子很大。
 English: This notebook is very big.
-Pinyin: zhège běnzi hěn dà.
+Pinyin: zhè gè běnzi hěn dà.
 
 Chinese: 这个本子很小。
 English: This notebook is very small.
-Pinyin: zhège běnzi hěn xiǎo.
+Pinyin: zhè gè běnzi hěn xiǎo.
 
 Chinese: 北边有一个大城市。
 English: There is a big city in the north.
@@ -3847,19 +3843,19 @@ Pinyin: wǒ shì yīgè bìyè dàxuéshēng.
 English: I am a college graduate.
 
 Chinese: 这个地方很漂亮。
-Pinyin: zhège dìfāng hěn piàoliang.
+Pinyin: zhè gè dìfāng hěn piàoliang.
 English: This place is very beautiful.
 
 Chinese: 这个地方很安静。
-Pinyin: zhège dìfāng hěn ānjìng.
+Pinyin: zhè gè dìfāng hěn ānjìng.
 English: This place is very quiet.
 
 Chinese: 这个地方很热闹。
-Pinyin: zhège dìfāng hěn rènao.
+Pinyin: zhè gè dìfāng hěn rènao.
 English: This place is very lively.
 
 Chinese: 这个地方很安全。
-Pinyin: zhège dìfāng hěn ānquán.
+Pinyin: zhè gè dìfāng hěn ānquán.
 English: This place is very safe.
 
 Chinese: 我们需要确定会议的地点。
@@ -3867,7 +3863,7 @@ Pinyin: wǒmen xūyào quèdìng huìyì de dìdiǎn.
 English: We need to determine the location of the meeting.
 
 Chinese: 这个事件发生在哪个地点？
-Pinyin: zhège shìjiàn fāshēng zài nǎgè dìdiǎn?
+Pinyin: zhè gè shìjiàn fāshēng zài nǎgè dìdiǎn?
 English: Where did this incident happen?
 
 Chinese: 请告诉我最近的图书馆地点。
@@ -3875,7 +3871,7 @@ Pinyin: qǐng gàosù wǒ zuìjìn de túshūguǎn dìdiǎn.
 English: Please tell me the location of the nearest library.
 
 Chinese: 这个餐厅的地点在哪里？
-Pinyin: zhège cāntīng de dìdiǎn zài nǎlǐ?
+Pinyin: zhè gè cāntīng de dìdiǎn zài nǎlǐ?
 English: Where is the location of this restaurant?
 
 Chinese: 请告诉我最近的医院地点。
@@ -3883,7 +3879,7 @@ Pinyin: qǐng gàosù wǒ zuìjìn de yīyuàn dìdiǎn.
 English: Please tell me the location of the nearest hospital.
 
 Chinese: 这个公园的地点在哪里？
-Pinyin: zhège gōngyuán de dìdiǎn zài nǎlǐ?
+Pinyin: zhè gè gōngyuán de dìdiǎn zài nǎlǐ?
 English: Where is the location of this park?
 
 Chinese: 他忘记了约定的地点，所以迟到了。
@@ -3891,7 +3887,7 @@ Pinyin: tā wàngjìle yuēdìng de dìdiǎn, suǒyǐ chídào le.
 English: He forgot the location of the appointment, so he was late.
 
 Chinese: 我们需要确定这个项目的地点。
-Pinyin: wǒmen xūyào quèdìng zhège xiàngmù de dìdiǎn.
+Pinyin: wǒmen xūyào quèdìng zhè gè xiàngmù de dìdiǎn.
 English: We need to determine the location of this project.
 
 Chinese: 学校是我每天去的地点。
@@ -3951,7 +3947,7 @@ Pinyin: wǒ xūyào yī zhāng dìtú.
 English: I need a map.
 
 Chinese: 这张地图上没有这个城市。
-Pinyin: zhè zhāng dìtú shàng méiyǒu zhège chéngshì.
+Pinyin: zhè zhāng dìtú shàng méiyǒu zhè gè chéngshì.
 English: This map does not have this city.
 
 Chinese: 我需要一张详细的地图。
@@ -4031,7 +4027,7 @@ Pinyin: diànshìjī de xìnhào bù hǎo.
 English: The TV signal is not good.
 
 Chinese: 太阳从东边升起。
-Pinyin: tài yáng cóng dōngbian shēng qǐ.
+Pinyin: tàiyang cóng dōngbian shēngqǐ.
 English: The sun rises in the east.
 
 Chinese: 我们住的公寓在东边。
@@ -4799,7 +4795,7 @@ Pinyin: Huìyì rìqī tuīchí le.
 English: The meeting date has been postponed.
 
 Chinese: 这个项目的截止日期是下周一。
-Pinyin: Zhège xiàngmù de jiézhǐ rìqī shì xià zhōuyī.
+Pinyin: Zhè gè xiàngmù de jiézhǐ rìqī shì xià zhōuyī.
 English: The deadline for this project is next Monday.
 
 Chinese: 你可以告诉我你的出生日期吗？
@@ -4875,7 +4871,7 @@ Pinyin: Nǐ kěyǐ tōngguò shàngwǎng lái gēn péngyou liáotiān.
 English: You can chat with friends online.
 
 Chinese: 你上网研究了这个问题多久了？
-Pinyin: Nǐ shàngwǎng yánjiū le zhège wèntí duō jiǔ le?
+Pinyin: Nǐ shàngwǎng yánjiū le zhè gè wèntí duō jiǔ le?
 English: How long have you been researching this issue online?
 
 Chinese: 我每天早上八点上学。
@@ -5003,7 +4999,7 @@ Pinyin: Wǒ māma gěi wǒ sòng le yī shù huā.
 English: My mom sent me a bouquet of flowers.
 
 Chinese: 你可以帮我送这个包裹吗？
-Pinyin: Nǐ kěyǐ bāng wǒ sòng zhège bāoguǒ ma?
+Pinyin: Nǐ kěyǐ bāng wǒ sòng zhè gè bāoguǒ ma?
 English: Can you help me deliver this package?
 
 Chinese: 我给你送了一份礼物。
@@ -5345,10 +5341,6 @@ English: Mr. Li is my history teacher.
 Chinese: 你可以叫他张先生。
 Pinyin: Nǐ kěyǐ jiào tā Zhāng xiānsheng.
 English: You can call him Mr. Zhang.
-
-Chinese: 你可以问问那位先生。
-Pinyin: Nǐ kěyǐ wèn wèn nà wèi xiānsheng.
-English: You can ask that gentleman.
 
 Chinese: 王先生是我的英语老师。
 Pinyin: Wáng xiānsheng shì wǒ de yīngyǔ lǎoshī.
@@ -5967,7 +5959,7 @@ Pinyin: Wǒmen yīqǐ qù ba, nàr hǎowánr jíle!
 English: Let's go together, it's so much fun over there!
 
 Chinese: 这个游戏真好玩儿，我玩了好几个小时。
-Pinyin: Zhège yóuxì zhēn hǎowánr, wǒ wán le hǎo jǐ gè xiǎoshí.
+Pinyin: Zhè gè yóuxì zhēn hǎowánr, wǒ wán le hǎo jǐ gè xiǎoshí.
 English: This game is really fun, I played for several hours.
 
 Chinese: 昨晚的派对真好玩儿，我跳了整晚的舞。
@@ -5975,7 +5967,7 @@ Pinyin: Zuówǎn de pàiduì zhēn hǎowánr, wǒ tiào le zhěng wǎn de wǔ.
 English: The party last night was so fun, I danced the whole evening.
 
 Chinese: 这个城市有好多好玩儿的地方，我们去探索吧！
-Pinyin: Zhège chéngshì yǒu hǎoduō hǎowánr de dìfāng, wǒmen qù tànsuǒ ba!
+Pinyin: Zhè gè chéngshì yǒu hǎoduō hǎowánr de dìfāng, wǒmen qù tànsuǒ ba!
 English: There are so many fun places in this city, let's go explore!
 
 Chinese: 你去过那个主题公园吗？我听说那里好玩儿得很。
@@ -6275,7 +6267,7 @@ Pinyin: Nǐ bù yīnggāi zhèyàng zuò, zhèyàng bùduì。
 English: You shouldn't do it like that, it's wrong.
 
 Chinese: 你把这个单词拼错了，不对。
-Pinyin: Nǐ bǎ zhè gè dāncí pīn cuò le, bùduì。
+Pinyin: Nǐ bǎ zhè gè dāncí pīncuò le, bùduì。
 English: You spelled this word incorrectly, that's wrong.
 
 Chinese: 你的行为不对，你应该道歉。
@@ -6427,7 +6419,7 @@ Pinyin: Zhè jiā cāntīng tígōng líng zhīfáng de cānyǐn xuǎnzé。
 English: This restaurant offers fat-free dining options.
 
 Chinese: 这个地区是零犯罪率的。
-Pinyin: Zhège dìqū shì líng fànzuìlǜ de。
+Pinyin: Zhè gè dìqū shì líng fànzuìlǜ de。
 English: This area has a zero crime rate.
 
 Chinese: 我们在五楼的工作室会面。
@@ -6551,7 +6543,7 @@ Pinyin: Nǐ yǒu qiúsài de ménpiào ma? Kěyǐ duō yào jǐ zhāng.
 English: Do you have any tickets for the ball game? I'd like to get a few more.
 
 Chinese: 这个博物馆周一免费开放，不用买门票。
-Pinyin: Zhège bówùguǎn zhōu yī miǎnfèi kāifàng, bù yòng mǎi ménpiào.
+Pinyin: Zhè gè bówùguǎn zhōu yī miǎnfèi kāifàng, bù yòng mǎi ménpiào.
 English: This museum is free of charge on Mondays, so you don't need to buy tickets.
 
 Chinese: 这张音乐会门票很贵。
@@ -6643,7 +6635,7 @@ Pinyin: Wǒ yào jièshào nǐ gěi wǒ gēge, tā shì yī gè hěn kù de nán
 English: I want to introduce you to my brother. He's a very cool guy.
 
 Chinese: 这个班上大多数都是男生。
-Pinyin: Zhège bānshàng dàduōshù dōu shì nánshēng.
+Pinyin: Zhè gè bānshàng dàduōshù dōu shì nánshēng.
 English: Most of the students in this class are boys.
 
 Chinese: 他是男的。
@@ -6659,7 +6651,7 @@ Pinyin: Zhè gè gōngzuò xūyào yī gè nán de láizuò.
 English: This job requires a male to do it.
 
 Chinese: 这个男的演员很有名。
-Pinyin: Zhège nán de yǎnyuán hěn yǒumíng.
+Pinyin: Zhè gè nán de yǎnyuán hěn yǒumíng.
 English: This male actor is very famous.
 
 Chinese: 我的房子在南边。
@@ -6855,7 +6847,7 @@ Pinyin: Wǒmen zài xībiān de dà gōngyuán wán de hěn kāixīn.
 English: We had a great time at the large park on the west side.
 
 Chinese: 太阳落山的时候，天空在西边呈现出美丽的夕阳景色。
-Pinyin: Tàiyáng luòshān de shíhou, tiānkōng zài xībiān chéngxiàn chū měilì de xīyáng jǐngsè.
+Pinyin: Tàiyang luòshān de shíhou, tiānkōng zài xībiān chéngxiàn chū měilì de xīyáng jǐngsè.
 English: When the sun sets, the western sky presents a beautiful sunset scenery.
 
 Chinese: 记得向西边的花店走，在那里你可以买到你喜欢的花。
@@ -6903,7 +6895,7 @@ Pinyin: Wǒ mèimei shì gè xiǎoxuéshēng.
 English: My younger sister is an elementary school student.
 
 Chinese: 这个学校有二百名小学生。
-Pinyin: Zhège xuéxiào yǒu èr bǎi míng xiǎoxuéshēng.
+Pinyin: Zhè gè xuéxiào yǒu èr bǎi míng xiǎoxuéshēng.
 English: This school has two hundred elementary school students.
 
 Chinese: 小学生通常早上八点上课。
@@ -7102,3 +7094,350 @@ Chinese: 我没穿衣服。
 Pinyin: Wǒ méi chuān yīfu.
 English: I am not wearing any clothes.
 
+Chinese: 我从北京来。
+Pinyin: Wǒ cóng Běijīng lái.
+English: I am from Beijing.
+
+Chinese: 你从那本书学到了什么？
+Pinyin: Nǐ cóng nà běn shū xuédào le shénme?
+English: What have you learned from that book?
+
+Chinese: 她承认自己错了。
+Pinyin: Tā chéngrèn zìjǐ cuò le.
+English: She admitted that she was wrong.
+
+Chinese: 你没有错。
+Pinyin: Nǐ méiyǒu cuò.
+English: You are not wrong.
+
+Chinese: 我需要一张新床。
+Pinyin: Wǒ xūyào yī zhāng xīn chuáng.
+English: I need a new bed.
+
+Chinese: 我的床很舒服。
+Pinyin: Wǒ de chuáng hěn shūfu.
+English: My bed is very comfortable.
+
+Chinese: 孩子们在床上跳上跳下。
+Pinyin: Háizimen zài chuáng shàng tiàoshàngtiàoxià.
+English: The children are jumping on the bed.
+
+Chinese: 你把书放在床边。
+Pinyin: Nǐ bǎ shū fàng zài chuáng biān.
+English: You put the book by the bed.
+
+Chinese: 我在床上躺了一个小时。
+Pinyin: Wǒ zài chuáng shàng tǎng le yī gè xiǎoshí.
+English: I lay on the bed for an hour.
+
+Chinese: 我的床很大。
+Pinyin: Wǒ de chuáng hěn dà.
+English: My bed is very big.
+
+Chinese: 我哥哥在我的床上睡觉。
+Pinyin: Wǒ gēgē zài wǒ de chuáng shàng shuìjiào.
+English: My brother sleeps in my bed.
+
+Chinese: 我上中文班。
+Pinyin: Wǒ shàng zhōngwén bān.
+English: I attend a Chinese class.
+
+Chinese: 这个班有二十个学生。
+Pinyin: Zhè gè bān yǒu èrshí gè xuéshēng.
+English: This class has twenty students.
+
+Chinese: 我们班赢了足球比赛。
+Pinyin: Wǒmen bān yíng le zúqiú bǐsài.
+English: Our class won the soccer match.
+
+Chinese: 我喜欢这个班的同学。
+Pinyin: Wǒ xǐhuan zhè gè bān de tóngxué.
+English: I like the classmates in this class.
+
+Chinese: 你在哪个班？
+Pinyin: Nǐ zài nǎ gè bān?
+English: Which class are you in?
+
+Chinese: 我花了半天时间整理我的房间。
+Pinyin: Wǒ huā le bàntiān shíjiān zhěnglǐ wǒ de fángjiān.
+English: I spent half a day cleaning my room.
+
+Chinese: 他们讨论了半天还是没决定。
+Pinyin: Tāmen tǎolùn le bàntiān háishi méi juédìng.
+English: They discussed for half a day but still couldn't decide.
+
+Chinese: 半天时间就过去了。
+Pinyin: Bàntiān shíjiān jiù guòqù le.
+English: Half a day has already passed.
+
+Chinese: 我们可以半天工作，半天学习。
+Pinyin: Wǒmen kěyǐ bàntiān gōngzuò, bàntiān xuéxí.
+English: We can work for half a day and study for the other half.
+
+Chinese: 我半天没吃东西了。
+Pinyin: Wǒ bàntiān méi chī dōngxi le.
+English: I haven't eaten for half a day.
+
+Chinese: 他们半天后才到达。
+Pinyin: Tāmen bàntiān hòu cái dàodá.
+English: They will arrive half a day later.
+
+Chinese: 这份工作只需要半天时间。
+Pinyin: Zhè fèn gōngzuò zhǐ xūyào bàntiān shíjiān.
+English: This job only takes half a day.
+
+Chinese: 我们半天没见到他了。
+Pinyin: Wǒmen bàntiān méi jiàndào tā le.
+English: We haven't seen him for half a day.
+
+Chinese: 半天后再试试看。
+Pinyin: Bàntiān hòu zài shìshìkàn.
+English: Let's try again after half a day.
+
+Chinese: 这个包很大。
+Pinyin: Zhè gè bāo hěn dà.
+English: This bag is very big.
+
+Chinese: 我的包很重。
+Pinyin: Wǒ de bāo hěn zhòng.
+English: My bag is very heavy.
+
+Chinese: 你的衣服和我的差很多。
+Pinyin: Nǐ de yīfu hé wǒ de chà hěn duō.
+English: Your clothes are quite different from mine.
+
+Chinese: 这首歌叫什么名字？
+Pinyin: Zhè shǒu gē jiào shénme míngzì?
+English: What's the name of this song?
+
+Chinese: 她唱了一首歌。
+Pinyin: Tā chàng le yī shǒu gē.
+English: She sang a song.
+
+Chinese: 你有车票吗？
+Pinyin: Nǐ yǒu chēpiào ma?
+English: Do you have a ticket?
+
+Chinese: 我需要买两张车票。
+Pinyin: Wǒ xūyào mǎi liǎng zhāng chēpiào.
+English: I need to buy two tickets.
+
+Chinese: 你把车票放在哪了？
+Pinyin: Nǐ bǎ chēpiào fàng zài nǎle?
+English: Where did you put the tickets?
+
+Chinese: 我们要去买巴士车票。
+Pinyin: Wǒmen yào qù mǎi bāshì chēpiào.
+English: We're going to buy bus tickets.
+
+Chinese: 请打开门。
+Pinyin: Qǐng dǎkāi mén.
+English: Please open the door.
+
+Chinese: 我怎么打开这个盒子？
+Pinyin: Wǒ zěnme dǎkāi zhè gè hézi?
+English: How do I open this box?
+
+Chinese: 你打开书，然后开始读。
+Pinyin: Nǐ dǎkāi shū, ránhòu kāishǐ dú.
+English: You open the book and then start reading.
+
+Chinese: 你能打开窗户通通风吗？
+Pinyin: Nǐ néng dǎkāi chuānghu tōngtōng fēng ma?
+English: Can you open the window for ventilation?
+
+Chinese: 不要打开冰箱，里面没吃的。
+Pinyin: Bù yào dǎkāi bīngxiāng, lǐmiàn méi chī de.
+English: Don't open the refrigerator, there's no food inside.
+
+Chinese: 昨天晚上下了点儿小雨。
+Pinyin: Zuótiān wǎnshang xià le diǎnr xiǎo yǔ.
+English: There was a light drizzle last night.
+
+Chinese: 今天会下雨吗？
+Pinyin: Jīntiān huì xiàyǔ ma?
+English: Will it rain today?
+
+Chinese: 下大雨时，记得带雨伞。
+Pinyin: Xià dà yǔ shí, jìde dài yǔsǎn.
+English: Remember to bring an umbrella when it rains heavily.
+
+Chinese: 我喜欢听下雨的声音。
+Pinyin: Wǒ xǐhuan tīng xiàyǔ de shēngyīn.
+English: I enjoy listening to the sound of rain.
+
+Chinese: 因为下雨，我们取消了野餐计划。
+Pinyin: Yīnwèi xiàyǔ, wǒmen qǔxiāo le yěcān jìhuà.
+English: We canceled the picnic plans because of the rain.
+
+Chinese: 先生，请问厕所在哪里？
+Pinyin: Xiānsheng, qǐngwèn cèsuǒ zài nǎlǐ?
+English: Sir, where is the restroom?
+
+Chinese: 这位先生是我的朋友。
+Pinyin: Zhè wèi xiānsheng shì wǒ de péngyou.
+English: This gentleman is my friend.
+
+Chinese: 先生，您想要点什么饮料？
+Pinyin: Xiānsheng, nín xiǎng yào diǎn shénme yǐnliào?
+English: Sir, what beverage would you like?
+
+Chinese: 先生，您有票吗？
+Pinyin: Xiānsheng, nín yǒu piào ma?
+English: Sir, do you have a ticket?
+
+Chinese: 我喜欢星期天，因为我不用工作。
+Pinyin: Wǒ xǐhuan xīngqītiān, yīnwèi wǒ bù yòng gōngzuò.
+English: I like Sundays because I don't have to work.
+
+Chinese: 我们星期天去动物园吧。
+Pinyin: Wǒmen xīngqītiān qù dòngwùyuán ba.
+English: Let's go to the zoo on Sunday.
+
+Chinese: 星期天我通常睡到中午。
+Pinyin: Xīngqītiān wǒ tōngcháng shuì dào zhōngwǔ.
+English: I usually sleep until noon on Sundays.
+
+Chinese: 你星期天有什么计划吗？
+Pinyin: Nǐ xīngqītiān yǒu shénme jìhuà ma?
+English: Do you have any plans for Sunday?
+
+Chinese: 商店在星期天通常关门。
+Pinyin: Shāngdiàn zài xīngqītiān tōngcháng guānmén.
+English: Shops are usually closed on Sundays.
+
+Chinese: 我们星期天去电影院吧。
+Pinyin: Wǒmen xīngqītiān qù diànyǐngyuàn ba.
+English: Let's go to the cinema on Sunday.
+
+Chinese: 这瓶水要两元。
+Pinyin: Zhè píng shuǐ yào liǎng yuán.
+English: This bottle of water costs two yuan.
+
+Chinese: 我只有五元，不够买一本书。
+Pinyin: Wǒ zhǐyǒu wǔ yuán, bùgòu mǎi yī běn shū.
+English: I only have five yuan, not enough to buy a book.
+
+Chinese: 一个苹果要一元钱。
+Pinyin: Yī gè píngguǒ yào yī yuán qián.
+English: An apple costs one yuan.
+
+Chinese: 我想换五十元的零钱。
+Pinyin: Wǒ xiǎng huàn wǔshí yuán de língqián.
+English: I want to exchange fifty yuan for smaller denominations.
+
+Chinese: 这件衣服很便宜，只要十元。
+Pinyin: Zhè jiàn yīfu hěn piányi, zhǐ yào shí yuán.
+English: This piece of clothing is very cheap, only ten yuan.
+
+Chinese: 一张电影票是五元。
+Pinyin: Yī zhāng diànyǐng piào shì wǔ yuán.
+English: One cinema ticket is five yuan.
+
+Chinese: 这件衣服是二十五元。
+Pinyin: Zhè jiàn yīfu shì èrshí wǔ yuán.
+English: This piece of clothing is twenty-five yuan.
+
+Chinese: 这件衣服是十元。
+Pinyin: Zhè jiàn yīfu shì shí yuán.
+English: This piece of clothing is ten yuan.
+
+Chinese: 我在书旁边找到五元。
+Pinyin: Wǒ zài shū pángbiān zhǎodào wǔ yuán.
+English: I found five yuan next to my book.
+
+Chinese: 最好今天不要去海滩，因为会下雨。
+Pinyin: Zuìhǎo jīntiān bù yào qù hǎitān, yīnwèi huì xiàyǔ.
+English: It's best not to go to the beach today because it will rain.
+
+Chinese: 最好你能早点儿来。
+Pinyin: Zuìhǎo nǐ néng zǎodiǎnr lái.
+English: It's best if you can come earlier.
+
+Chinese: 学一门外语，最好去那个国家。
+Pinyin: Xué yī mén wàiyǔ, zuìhǎo qù nà gè guójiā.
+English: When learning a foreign language, it's best to go to that country.
+
+Chinese: 爬山最好穿运动鞋。
+Pinyin: Páshān zuìhǎo chuān yùndòngxié.
+English: It's best to wear sports shoes for hiking.
+
+Chinese: 最好现在就吃药，不要等太久。
+Pinyin: Zuìhǎo xiànzài jiù chīyào, bù yào děng tàijiǔ.
+English: It's best to take the medicine now and not wait too long.
+
+Chinese: 最后，他们赢了比赛。
+Pinyin: Zuìhòu, tāmen yíng le bǐsài.
+English: Finally, they won the game.
+
+Chinese: 经过多年的努力，他最后成功了。
+Pinyin: Jīngguò duōnián de nǔlì, tā zuìhòu chénggōng le.
+English: After years of hard work, he finally succeeded.
+
+Chinese: 最后两分钟，她赶上了火车。
+Pinyin: Zuìhòu liǎng fēnzhōng, tā gǎn shàng le huǒchē.
+English: In the last two minutes, she caught the train.
+
+Chinese: 这本书的最后几章最精彩。
+Pinyin: Zhè běn shū de zuìhòu jǐ zhāng zuì jīngcǎi.
+English: The last few chapters of this book are the most exciting.
+
+Chinese: 最后，我想感谢我的家人。
+Pinyin: Zuìhòu, wǒ xiǎng gǎnxiè wǒ de jiārén.
+English: Finally, I want to thank my family.
+
+Chinese: 我得到了奖学金。
+Pinyin: Wǒ dédào le jiǎngxuéjīn.
+English: I got a scholarship.
+
+Chinese: 你得到了他的回复吗？
+Pinyin: Nǐ dédào le tā de huífù ma?
+English: Did you get a reply from him?
+
+Chinese: 她得到了很多生日礼物。
+Pinyin: Tā dédào le hěn duō shēngrì lǐwù.
+English: She received a lot of birthday gifts.
+
+Chinese: 我们终于得到了好消息。
+Pinyin: Wǒmen zhōngyú dédào le hǎo xiāoxī.
+English: We finally received good news.
+
+Chinese: 他努力工作，得到了上司的赞赏。
+Pinyin: Tā nǔlì gōngzuò, dédào le shàngsī de zànshǎng.
+English: He worked hard and gained appreciation from his boss.
+
+Chinese: 这是第三个选项。
+Pinyin: Zhè shì dì sān gè xuǎnxiàng.
+English: This is the third option.
+
+Chinese: 我们住在街道的第十二号房子。
+Pinyin: Wǒmen zhù zài jiēdào de dì shíèr hào fángzi.
+English: We live in the 12th house on the street.
+
+Chinese: 我的生日是五月的第三天。
+Pinyin: Wǒ de shēngrì shì wǔ yuè de dì sān tiān.
+English: My birthday is the 3rd day of May.
+
+Chinese: 这本书的第五章最难懂。
+Pinyin: Zhè běn shū de dì wǔ zhāng zuì nán dǒng.
+English: The 5th chapter of this book is the most difficult to understand.
+
+Chinese: 他是班上的第二名。
+Pinyin: Tā shì bān shàng de dì èr míng.
+English: He is the second-ranked student in the class.
+
+Chinese: 我的手机没电了。
+Pinyin: Wǒ de shǒujī méi diàn le.
+English: My phone ran out of battery.
+
+Chinese: 我房间里没有电视机。
+Pinyin: Wǒ fángjiān lǐ méiyǒu diànshìjī.
+English: I do not have a TV set in my room.
+
+Chinese: 你为什么坐在地上？
+Pinyin: Nǐ wèishénme zuò zài dìshang?
+English: Why are you sitting on the ground?
+
+Chinese: 我的小妹妹坐在地上。
+Pinyin: Wǒ de xiǎo mèimei zuò zài dìshang.
+English: My little sister is sitting on the ground.
