@@ -1135,7 +1135,7 @@ Pinyin: wǒ jīn nián èr shí wǔ suì.
 English: I am 25 years old this year.
 
 Chinese: 明年我要去旅行。
-Pinyin: míng nián wǒ yào qù lǚ xíng.
+Pinyin: míngnián wǒ yào qù lǚxíng.
 English: Next year, I want to go on a trip.
 
 Chinese: 这是去年的照片。
@@ -2531,7 +2531,7 @@ Pinyin: Gānggāng xià yǔ, xiànzài tiānqì hěn liángshuǎng.
 English: It just rained, and now the weather is cool.
 
 Chinese: 好久没有下雨了，土地都干裂了。
-Pinyin: Hǎojiǔ méiyǒu xià yǔ le, tǔdì dōu gān liè le.
+Pinyin: Hǎojiǔ méiyǒu xiàyǔ le, tǔdì dōu gānliè le.
 English: It hasn't rained for a long time, and the land has cracked.
 
 Chinese: 我爱你。
@@ -7441,3 +7441,63 @@ English: Why are you sitting on the ground?
 Chinese: 我的小妹妹坐在地上。
 Pinyin: Wǒ de xiǎo mèimei zuò zài dìshang.
 English: My little sister is sitting on the ground.
+
+Chinese: 我饿了。
+Pinyin: Wǒ è le.
+English: I'm hungry.
+
+Chinese: 你看起来很饿。
+Pinyin: Nǐ kànqǐlai hěn è.
+English: You look hungry.
+
+Chinese: 我太饿了，吃什么都行。
+Pinyin: Wǒ tài è le, chī shénme dōu xíng.
+English: I'm so hungry, anything to eat is fine.
+
+Chinese: 你应该先吃早饭，否则你会饿。
+Pinyin: Nǐ yīnggāi xiān chī zǎofàn, fǒuzé nǐ huì è.
+English: You should eat breakfast first, otherwise, you'll get hungry.
+
+Chinese: 孩子们玩了一整天，现在都饿了。
+Pinyin: Háizimen wán le yī zhěng tiān, xiànzài dōu è le.
+English: The children played all day and are now all hungry.
+
+Chinese: 放学了，我要回家了。
+Pinyin: Fàngxué le, wǒ yào huí jiā le.
+English: School is over, I'm going home.
+
+Chinese: 你通常放学后做什么？
+Pinyin: Nǐ tōngcháng fàngxué hòu zuò shénme?
+English: What do you usually do after school?
+
+Chinese: 放学后，我去上钢琴课。
+Pinyin: Fàngxué hòu, wǒ qù shàng gāngqín kè.
+English: After school, I go to piano lessons.
+
+Chinese: 你可以在我放学后接我吗？
+Pinyin: Nǐ kěyǐ zài wǒ fàngxué hòu jiē wǒ ma?
+English: Can you pick me up after school?
+
+Chinese: 放学高峰期，交通通常很拥挤。
+Pinyin: Fàngxué gāofēngqī, jiāotōng tōngcháng hěn yōngjǐ.
+English: During the after-school rush, traffic is usually congested.
+
+Chinese: 我们明天放假。
+Pinyin: Wǒmen míngtiān fàngjià.
+English: We will have a day off tomorrow.
+
+Chinese: 因为下雪，学校放假一天。
+Pinyin: Yīnwèi xiàxuě, xuéxiào fàngjià yī tiān.
+English: The school is closed for a day because of the snow.
+
+Chinese: 我们计划在放假时去旅行。
+Pinyin: Wǒmen jìhuà zài fàngjià shí qù lǚxíng.
+English: We plan to travel during the vacation.
+
+Chinese: 你放假时通常做什么？
+Pinyin: Nǐ fàngjià shí tōngcháng zuò shénme?
+English: What do you usually do during your vacation?
+
+Chinese: 因为生病，她请了三天假。
+Pinyin: Yīnwèi shēngbìng, tā qǐng le sān tiān jià.
+English: She took three days off because of illness.
