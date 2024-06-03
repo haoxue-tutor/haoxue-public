@@ -392,7 +392,7 @@ Pinyin: tiānshàng yǒu duōshao xīngxīng?
 
 Chinese: 请问，这件衣服多少钱？
 English: Excuse me, how much does this clothing cost?
-Pinyin: qǐngwèn, zhè jiàn yīfú duōshao qián?
+Pinyin: qǐngwèn, zhè jiàn yīfu duōshao qián?
 
 Chinese: 我不知道他有多少朋友。
 English: I don't know how many friends he has.
@@ -2379,7 +2379,7 @@ Pinyin: Wǒ xūyào mǎi yī běn shū.
 English: I need to buy a book.
 
 Chinese: 昨天我在商店买了衣服。
-Pinyin: Zuótiān wǒ zài shāngdiàn mǎi le yīfú.
+Pinyin: Zuótiān wǒ zài shāngdiàn mǎi le yīfu.
 English: Yesterday, I bought clothes at the store.
 
 Chinese: 他经常买新手机。
@@ -2651,7 +2651,7 @@ Pinyin: Duìbuqǐ, wǒ dǎfān le nǐ de shuǐbēi.
 English: Sorry, I knocked over your water glass.
 
 Chinese: 小朋友，撞到别人了要说对不起。
-Pinyin: Xiǎo péngyǒu, zhuàng dào biéren le yào shuō duìbuqǐ.
+Pinyin: Xiǎopéngyǒu, zhuàng dào biéren le yào shuō duìbuqǐ.
 English: Children, you should say sorry when you bump into someone.
 
 Chinese: 你迟到了，没关系。
@@ -3639,7 +3639,7 @@ Pinyin: nǐ bùyòng dǎsǎo wèishēng.
 English: You don't have to clean.
 
 Chinese: 你不用洗衣服。
-Pinyin: nǐ bùyòng xǐ yīfú.
+Pinyin: nǐ bùyòng xǐ yīfu.
 English: You don't have to do laundry.
 
 Chinese: 你不用洗碗。
@@ -4923,7 +4923,7 @@ Pinyin: Tā de shēnshang yǒu yī dào hěn cháng de bā hén.
 English: He has a long scar on his body.
 
 Chinese: 她身上穿的这件衣服很漂亮。
-Pinyin: Tā shēnshang chuān de zhè jiàn yīfú hěn piàoliang.
+Pinyin: Tā shēnshang chuān de zhè jiàn yīfu hěn piàoliang.
 English: The dress she's wearing is very beautiful.
 
 Chinese: 你可以把钱放到身上的口袋里。
@@ -5615,7 +5615,7 @@ Pinyin: Nǐ shuō de nàxiē dōngxi yīdiǎnr dōu bù yǒuyòng.
 English: Those things you said are not useful at all.
 
 Chinese: 你可以把这些有用的信息分享给别人。
-Pinyin: Nǐ kěyǐ bǎ zhèxiē yǒuyòng de xìnxī fēnxiǎng gěi biérén.
+Pinyin: Nǐ kěyǐ bǎ zhèxiē yǒuyòng de xìnxī fēnxiǎng gěi biéren.
 English: You can share this useful information with others.
 
 Chinese: 你可以把这些有用的东西扔掉。
@@ -5675,7 +5675,7 @@ Pinyin: Wǒ zàijiā chī wǔfàn.
 English: I have lunch at home.
 
 Chinese: 我在家的时候，我喜欢穿舒服的衣服。
-Pinyin: Wǒ zàijiā de shíhou, wǒ xǐhuān chuān shūfu de yīfú.
+Pinyin: Wǒ zàijiā de shíhou, wǒ xǐhuān chuān shūfu de yīfu.
 English: When I'm at home, I like to wear comfortable clothes.
 
 Chinese: 我在家的时候，我通常穿睡衣。
@@ -5791,7 +5791,7 @@ Pinyin: Zhè zhēnde shì yī cì měihǎo de jīnglì.
 English: This was truly a wonderful experience.
 
 Chinese: 我真的很喜欢这件衣服，我要买它！
-Pinyin: Wǒ zhēnde hěn xǐhuān zhè jiàn yīfú, wǒ yào mǎi tā!
+Pinyin: Wǒ zhēnde hěn xǐhuān zhè jiàn yīfu, wǒ yào mǎi tā!
 English: I really like this dress, I'm going to buy it!
 
 Chinese: 你真的太好了，帮我做了这么多。
@@ -5935,7 +5935,7 @@ Pinyin: Tā zhēn hǎokàn!
 English: She is so good-looking!
 
 Chinese: 这件衣服很适合你，你穿上真好看。
-Pinyin: Zhè jiàn yīfú hěn shìhé nǐ, nǐ chuānshang zhēn hǎokàn.
+Pinyin: Zhè jiàn yīfu hěn shìhé nǐ, nǐ chuānshang zhēn hǎokàn.
 English: This dress suits you well, you look great in it!
 
 Chinese: 你把头发剪短了，好看多了。
@@ -6218,6 +6218,10 @@ Chinese: 你有别的兴趣爱好吗？
 Pinyin: Nǐ yǒu biéde xìngqù àihào ma?
 English: Do you have any other hobbies or interests?
 
+Chinese: 这件衣服有别的颜色吗？
+Pinyin: Zhè jiàn yīfu yǒu biéde yánsè ma?
+English: Does this dress come in any other colors?
+
 Chinese: 你有别的解释吗？
 Pinyin: Nǐ yǒu biéde jiěshì ma?
 English: Do you have any other explanations?
@@ -6231,7 +6235,7 @@ Pinyin: Wǒ duì zhè gè wèntí bùdà liǎojiě。
 English: I'm not very familiar with this problem.
 
 Chinese: 这件衣服对我来说不大合适。
-Pinyin: Zhè jiàn yīfú duì wǒ láishuō bùdà héshì。
+Pinyin: Zhè jiàn yīfu duì wǒ láishuō bùdà héshì。
 English: This dress isn't quite suitable for me.
 
 Chinese: 他的声音不大好听。
@@ -7005,3 +7009,96 @@ English: You should turn right, not left.
 Chinese: 右边那家餐厅有好吃的比萨。
 Pinyin: Yòubian nà jiā cāntīng yǒu hǎochī de bǐsà.
 English: The restaurant on the right serves delicious pizza.
+
+Chinese: 今天晚饭我请客，不客气！
+Pinyin: Jīntiān wǎnfàn wǒ qǐngkè, bùkèqi!
+English: Dinner is on me tonight. Don't worry about it!
+
+Chinese: 请随便坐，不客气。
+Pinyin: Qǐng suíbiàn zuò, bùkèqi.
+English: Please sit anywhere, don't be formal.
+
+Chinese: 你想在咖啡里加什么奶？
+Pinyin: Nǐ xiǎng zài kāfēi lǐ jiā shénme nǎi?
+English: What kind of milk do you want in your coffee?
+
+Chinese: 我女儿在附近的小学上学。
+Pinyin: Wǒ nǚér zài fùjìn de xiǎoxué shàngxué.
+English: My daughter attends the elementary school nearby.
+
+Chinese: 他上小学的时候最喜欢数学课。
+Pinyin: Tā shàng xiǎoxué de shíhou zuì xǐhuān shùxuékè.
+English: He liked math class the most when he was in elementary school.
+
+Chinese: 我们在小学毕业前要参加一场考试。
+Pinyin: Wǒmen zài xiǎoxué bìyè qián yào cānjiā yī chǎng kǎoshì.
+English: We need to take an exam before graduating from elementary school.
+
+Chinese: 你上小学的时候，最喜欢的老师是谁？
+Pinyin: Nǐ shàng xiǎoxué de shíhou, zuì xǐhuān de lǎoshī shì shéi?
+English: Who was your favorite teacher when you were in elementary school?
+
+Chinese: 我们在小学里学到很多基础知识。
+Pinyin: Wǒmen zài xiǎoxué lǐ xué dào hěn duō jīchǔ zhīshi.
+English: We learned a lot of basic knowledge in elementary school.
+
+Chinese: 这里有女厕所吗？
+Pinyin: Zhèlǐ yǒu nǚ cèsuǒ ma?
+English: Is there a women's restroom here?
+
+Chinese: 这是女厕所。
+Pinyin: Zhè shì nǚ cèsuǒ.
+English: This is the women's bathroom.
+
+Chinese: 往右走两个街区就到我家了。
+Pinyin: Wǎng yòu zǒu liǎng gè jiēqū jiù dào wǒ jiā le.
+English: Go right for two blocks and you'll arrive at my house.
+
+Chinese: 我的右眼比左眼看得清楚。
+Pinyin: Wǒ de yòu yǎn bǐ zuǒ yǎn kàn de qīngchǔ.
+English: My right eye has better vision than my left one.
+
+Chinese: 新的教学楼有三层。
+Pinyin: Xīn de jiàoxuélóu yǒu sān céng.
+English: The new academic building has three floors.
+
+Chinese: 历史课在教学楼的顶层举行。
+Pinyin: Lìshǐ kè zài jiàoxuélóu de dǐngcéng jǔxíng.
+English: The history class is held on the top floor of the classroom building.
+
+Chinese: 你可以在教学楼里找到校长办公室。
+Pinyin: Nǐ kěyǐ zài jiàoxuélóu lǐ zhǎodào xiàozhǎng bàngōngshì.
+English: You can find the principal's office inside the academic building.
+
+Chinese: 学生在教学楼的前面玩耍。
+Pinyin: Xuéshēng zài jiàoxuélóu de qiánmiàn wánshuǎ.
+English: The students are playing in front of the classroom building.
+
+Chinese: 我的数学课在主教学楼。
+Pinyin: Wǒ de shùxué kè zài zhǔ jiàoxuélóu.
+English: My math class is in the main academic building.
+
+Chinese: 别人的意见不重要。
+Pinyin: Biéren de yìjiàn bù zhòngyào.
+English: Others' opinions don't matter.
+
+Chinese: 你不能总是依靠别人。
+Pinyin: Nǐ bùnéng zǒng shì yīkào biéren.
+English: You can't always rely on others.
+
+Chinese: 别人的生活看似更美好。
+Pinyin: Biéren de shēnghuó kàn sì gèng měihǎo.
+English: Others' lives seem more pleasant.
+
+Chinese: 不要跟别人比较，做最好的你。
+Pinyin: Bù yào gēn biéren bǐjiào, zuò zuìhǎo de nǐ.
+English: Don't compare yourself to others; be the best version of yourself.
+
+Chinese: 尊重别人也尊重自己。
+Pinyin: Zūnzhòng biéren yě zūnzhòng zìjǐ.
+English: Respect others and respect yourself.
+
+Chinese: 我没穿衣服。
+Pinyin: Wǒ méi chuān yīfu.
+English: I am not wearing any clothes.
+
