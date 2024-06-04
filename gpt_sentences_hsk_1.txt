@@ -615,19 +615,19 @@ Pinyin: wǒ méiyǒu kàn dào tā.
 English: I didn't see him.
 
 Chinese: 你有没有看过这部电影？
-Pinyin: nǐ yǒu méiyǒu kànguò zhè bù diànyǐng?
+Pinyin: nǐ yǒuméiyǒu kànguò zhè bù diànyǐng?
 English: Have you seen this movie?
 
 Chinese: 我有没有告诉你明天要开会？
-Pinyin: wǒ yǒu méiyǒu gàosù nǐ míngtiān yào kāihuì?
+Pinyin: wǒ yǒuméiyǒu gàosù nǐ míngtiān yào kāihuì?
 English: Did I tell you that we have a meeting tomorrow?
 
 Chinese: 你有没有吃过饺子？
-Pinyin: nǐ yǒu méiyǒu chīguò jiǎozi?
+Pinyin: nǐ yǒuméiyǒu chīguò jiǎozi?
 English: Have you ever eaten dumplings?
 
 Chinese: 她有没有回复你的邮件？
-Pinyin: tā yǒu méiyǒu huífù nǐ de yóujiàn?
+Pinyin: tā yǒuméiyǒu huífù nǐ de yóujiàn?
 English: Has she replied to your email?
 
 Chinese: 他很高。
@@ -927,8 +927,8 @@ Pinyin: Tā de chéngjì shàngshēng le.
 English: His grades have improved.
 
 Chinese: 我下车了。
-Pinyin: wǒ xià chē le.
-English: I got off the car.
+Pinyin: wǒ xiàchē le.
+English: I disembarked the car.
 
 Chinese: 请下来吃晚饭。
 Pinyin: qǐng xià lái chī wǎnfàn.
@@ -4127,7 +4127,7 @@ Pinyin: fàngjià de shíhòu, wǒmen kěyǐ qù lǚyóu huòzhě kàn diànyǐn
 English: During the holiday, we can travel or watch movies.
 
 Chinese: 房间很干净，没有任何杂物。
-Pinyin: fáng jiān hěn gānjìng, méi yǒu rènhé zá wù.
+Pinyin: fángjiān hěn gānjìng, méi yǒu rènhé záwù.
 English: The room is very clean, without any clutter.
 
 Chinese: 我们需要把房间打扫干净。
@@ -4351,7 +4351,7 @@ Pinyin: Zhè fú huà de huàjiā hěn yǒumíng.
 English: The painter of this painting is very famous.
 
 Chinese: 你有没有听说过那个很有名的作家？
-Pinyin: Nǐ yǒu méiyǒu tīngshuō guò nà gè hěn yǒumíng de zuòjiā?
+Pinyin: Nǐ yǒuméiyǒu tīngshuō guò nà gè hěn yǒumíng de zuòjiā?
 English: Have you ever heard of that famous writer?
 
 Chinese: 他的家离这里很远。
@@ -4815,7 +4815,7 @@ Pinyin: Nǐ kěyǐ bāng wǒ bǎ xíngli xiāng tái shàngchē ma?
 English: Can you help me lift the suitcase onto the car?
 
 Chinese: 最后一班车是晚上九点钟上车。
-Pinyin: Zuìhòu yī bān chē shì wǎnshang jiǔ diǎn zhōng shàngchē.
+Pinyin: Zuìhòu yī bānchē shì wǎnshang jiǔ diǎnzhōng shàngchē.
 English: The last bus departs at 9:00 p.m. sharp.
 
 Chinese: 在上车前，你必须把手机放到口袋里。
@@ -4891,11 +4891,11 @@ Pinyin: Wǒ shàngxué de shíhou, wǒ zuì xǐhuan de kēmù shì shùxué.
 English: When I was in school, my favorite subject was math.
 
 Chinese: 你上学的时候，你有没有参加过学校的乐队？
-Pinyin: Nǐ shàngxué de shíhou, nǐ yǒu méiyǒu cānjiā guò xuéxiào de yuèduì?
+Pinyin: Nǐ shàngxué de shíhou, nǐ yǒuméiyǒu cānjiā guò xuéxiào de yuèduì?
 English: When you were in school, did you ever join the school band?
 
 Chinese: 你上学的时候，你有没有遇到过困难？
-Pinyin: Nǐ shàngxué de shíhou, nǐ yǒu méiyǒu yùdào guò kùnnan?
+Pinyin: Nǐ shàngxué de shíhou, nǐ yǒuméiyǒu yùdào guò kùnnan?
 English: During your time in school, did you ever face any challenges?
 
 Chinese: 他的身上都是泥。
@@ -4907,7 +4907,7 @@ Pinyin: Wǒ shēnshang méiyǒu qián.
 English: I don't have any money on me.
 
 Chinese: 你身上有没有看到我的钥匙？
-Pinyin: Nǐ shēnshang yǒu méiyǒu kàn dào wǒ de yàoshi?
+Pinyin: Nǐ shēnshang yǒuméiyǒu kàn dào wǒ de yàoshi?
 English: Have you seen my keys on you?
 
 Chinese: 他的身上有一道很长的疤痕。
@@ -5483,7 +5483,7 @@ Pinyin: Tā shàng le yī gè yìshù xuéyuàn.
 English: He attended an art college.
 
 Chinese: 她是一所医学院的学生。
-Pinyin: Tā shì yīsuǒ yīxué yuàn de xuéshēng.
+Pinyin: Tā shì yīsuǒ yīxué yuàn de xuésheng.
 English: She is a student at a medical college.
 
 Chinese: 这是一所著名的工程学院。
@@ -5491,7 +5491,7 @@ Pinyin: Zhè shì yīsuǒ zhùmíng de gōngchéng xuéyuàn.
 English: This is a renowned engineering college.
 
 Chinese: 他是一所法学院的学生。
-Pinyin: Tā shì yīsuǒ fǎxué yuàn de xuéshēng.
+Pinyin: Tā shì yīsuǒ fǎxué yuàn de xuésheng.
 English: He is a student at a law school.
 
 Chinese: 这是一所商学院。
@@ -5503,7 +5503,7 @@ Pinyin: Nǐ kǎolǜ guò shàng yīnyuè xuéyuàn ma?
 English: Have you considered attending a music college?
 
 Chinese: 你有没有考虑过上师范学院？
-Pinyin: Nǐ yǒu méiyǒu kǎolǜ guò shàng shīfàn xuéyuàn?
+Pinyin: Nǐ yǒuméiyǒu kǎolǜ guò shàng shīfàn xuéyuàn?
 English: Have you thought about attending a teacher's college?
 
 Chinese: 你为什么选择上这所学院？
@@ -5551,7 +5551,7 @@ Pinyin: Nǐ yǒushíhou huì zuò shénme yùndòng?
 English: What kind of sports do you play sometimes?
 
 Chinese: 有些学生很聪明。
-Pinyin: Yǒuxiē xuéshēng hěn cōngming.
+Pinyin: Yǒuxiē xuésheng hěn cōngming.
 English: Some students are very smart.
 
 Chinese: 有些人喜欢夏天，有些人喜欢冬天。
@@ -6186,8 +6186,8 @@ Chinese: 你有别的建议吗？
 Pinyin: Nǐ yǒu biéde jiànyì ma?
 English: Do you have any other suggestions?
 
-Chinese: 这家餐馆有别的菜肴吗？
-Pinyin: Zhè jiā cānguǎn yǒu biéde cài yáo ma?
+Chinese: 这家饭店有别的菜吗？
+Pinyin: Zhè jiā fàndiàn yǒu biéde cài ma?
 English: Does this restaurant have any other dishes?
 
 Chinese: 我不想去别的地方。
@@ -6331,7 +6331,7 @@ Pinyin: Nǐ yào chá háishi kāfēi?
 English: Tea or coffee?
 
 Chinese: 你是老师还是学生？
-Pinyin: Nǐ shì lǎoshī háishi xuéshēng?
+Pinyin: Nǐ shì lǎoshī háishi xuésheng?
 English: Are you a teacher or a student?
 
 Chinese: 她还是很年轻。
@@ -6455,7 +6455,7 @@ Pinyin: Zhè tiáo lù hěn fánmáng, suǒyǐ lùkǒu tōngcháng huì yǒu hě
 English: This road is very busy, so there is usually a lot of traffic at the junction.
 
 Chinese: 你可以在下一个路口左转。
-Pinyin: Nǐ kěyǐ zài xià yī gè lùkǒu zuǒ zhuǎn。
+Pinyin: Nǐ kěyǐ zài xià yī gè lùkǒu zuǒzhuǎn。
 English: You can turn left at the next intersection.
 
 Chinese: 路口发生了一起车祸，导致交通堵塞。
@@ -6779,7 +6779,7 @@ Pinyin: Mén kāizhe, qǐngjìnlái zuò.
 English: The door is open, please come in and sit down.
 
 Chinese: 考试开始啦，学生们，请进。
-Pinyin: Kǎoshì kāishǐ la, xuéshēngmen, qǐngjìn.
+Pinyin: Kǎoshì kāishǐ la, xuéshengmen, qǐngjìn.
 English: The exam is starting, students, please come in.
 
 Chinese: 你好，请进来，我正有事找你。
@@ -6955,7 +6955,7 @@ Pinyin: Nǐ kěyǐ yībiān sànbù yībiān xīnshǎng měijǐng.
 English: You can enjoy the beautiful scenery while taking a walk.
 
 Chinese: 有的学生喜欢数学，有的喜欢语文。
-Pinyin: Yǒude xuéshēng xǐhuān shùxué, yǒude xǐhuān yǔwén.
+Pinyin: Yǒude xuésheng xǐhuān shùxué, yǒude xǐhuān yǔwén.
 English: Some students like math, some like language arts.
 
 Chinese: 苹果有的又大又红，有的又小又青。
@@ -6963,7 +6963,7 @@ Pinyin: Píngguǒ yǒude yòu dà yòu hóng, yǒude yòu xiǎo yòu qīng.
 English: Some apples are big and red, some are small and green.
 
 Chinese: 班上有学生有的在读书，有的在写字。
-Pinyin: Bānshàng yǒu xuéshēng yǒude zài dúshū, yǒude zài xiězì.
+Pinyin: Bānshàng yǒu xuésheng yǒude zài dúshū, yǒude zài xiězì.
 English: In the classroom, some students are reading, and some are writing.
 
 Chinese: 有的花香，有的好看。
@@ -6987,7 +6987,7 @@ Pinyin: Yòubian nà dòng huángsè dàlóu shì shìzhèngtīng.
 English: The tall yellow building on the right is the city hall.
 
 Chinese: 你应该朝右边转，不要往左边走。
-Pinyin: Nǐ yīnggāi cháo yòubian zhuǎn, bùyào wǎng zuǒbiān zǒu.
+Pinyin: Nǐ yīnggāi cháo yòubian zhuǎn, bùyào wǎng zuǒbian zǒu.
 English: You should turn right, not left.
 
 Chinese: 右边那家餐厅有好吃的比萨。
@@ -7055,7 +7055,7 @@ Pinyin: Nǐ kěyǐ zài jiàoxuélóu lǐ zhǎodào xiàozhǎng bàngōngshì.
 English: You can find the principal's office inside the academic building.
 
 Chinese: 学生在教学楼的前面玩耍。
-Pinyin: Xuéshēng zài jiàoxuélóu de qiánmiàn wánshuǎ.
+Pinyin: xuésheng zài jiàoxuélóu de qiánmiàn wánshuǎ.
 English: The students are playing in front of the classroom building.
 
 Chinese: 我的数学课在主教学楼。
@@ -7135,7 +7135,7 @@ Pinyin: Wǒ shàng zhōngwén bān.
 English: I attend a Chinese class.
 
 Chinese: 这个班有二十个学生。
-Pinyin: Zhè gè bān yǒu èrshí gè xuéshēng.
+Pinyin: Zhè gè bān yǒu èrshí gè xuésheng.
 English: This class has twenty students.
 
 Chinese: 我们班赢了足球比赛。
@@ -7891,7 +7891,7 @@ Pinyin: Nǐ zhīdào qù túshūguǎn de lù ma?
 English: Do you know the way to the library?
 
 Chinese: 你会在红绿灯路口左转。
-Pinyin: Nǐ huì zài hónglǜdēng lùkǒu zuǒ zhuǎn.
+Pinyin: Nǐ huì zài hónglǜdēng lùkǒu zuǒzhuǎn.
 English: You will turn left at the traffic light intersection.
 
 Chinese: 过了那个路口，你就会看到我们的商店。
@@ -7959,7 +7959,7 @@ Pinyin: Qùnián de xiāoshòu é bǐ qiánnián gāo.
 English: Last year's sales were higher than the year before.
 
 Chinese: 你去年有没有去过日本？
-Pinyin: Nǐ qùnián yǒu méiyǒu qùguò Rìběn?
+Pinyin: Nǐ qùnián yǒuméiyǒu qùguò Rìběn?
 English: Did you go to Japan last year?
 
 Chinese: 去年的生日派对很成功。
@@ -8297,3 +8297,123 @@ English: Put the book on one side of the bed.
 Chinese: 我一边看电视一边喝茶。
 Pinyin: Wǒ yībiān kàn diànshì yībiān hē chá.
 English: I watch TV while drinking tea.
+
+Chinese: 书在桌子下边。
+Pinyin: Shū zài zhuōzi xiàbian.
+English: The book is under the table.
+
+Chinese: 他们下车时，天已经黑了。
+Pinyin: Tāmen xiàchē shí, tiān yǐjīng hēile.
+English: By the time they got off the car, it was already dark.
+
+Chinese: 有的学生喜欢读书，有的喜欢唱歌。
+Pinyin: Yǒude xuésheng xǐhuan dúshū, yǒude xǐhuan chànggē.
+English: Some students like to read, and others like to sing.
+
+Chinese: 我的大学很有名。
+Pinyin: Wǒ de dàxué hěn yǒumíng.
+English: My university is famous.
+
+Chinese: 有些学生去图书馆了。
+Pinyin: Yǒuxiē xuéshēng qù túshūguǎn le.
+English: Some students went to the library.
+
+Chinese: 有些问题很难。
+Pinyin: Yǒuxiē wèntí hěn nán.
+English: Some questions are very difficult.
+
+Chinese: 有些人喜欢冬天，有些人喜欢夏天。
+Pinyin: Yǒuxiē rén xǐhuan dōngtiān, yǒuxiē rén xǐhuān xiàtiān.
+English: Some people like winter, and some like summer.
+
+Chinese: 有些书很贵。
+Pinyin: Yǒuxiē shū hěn guì.
+English: Some books are very expensive.
+
+Chinese: 我想再喝一杯茶。
+Pinyin: Wǒ xiǎng zài hē yī bēi chá.
+English: I'd like one more cup of tea.
+
+Chinese: 我很早就起床了。
+Pinyin: Wǒ hěn zǎo jiù qǐchuáng le.
+English: I got up early.
+
+Chinese: 你来得太早了，我还没准备好。
+Pinyin: Nǐ lái de tài zǎo le, wǒ hái méi zhǔnbèi hǎo.
+English: You came too early; I'm not ready yet.
+
+Chinese: 你怎么这么早就回来了？
+Pinyin: Nǐ zěnme zhème zǎo jiù huílai le?
+English: Why did you come back so early?
+
+Chinese: 这些书都是我的。
+Pinyin: Zhèxiē shū dōu shì wǒ de.
+English: These books are all mine.
+
+Chinese: 我不喜欢这些衣服。
+Pinyin: Wǒ bù xǐhuan zhèxiē yīfu.
+English: I don't like these clothes.
+
+Chinese: 你能拿着这些箱子吗？
+Pinyin: Nǐ néng názhe zhèxiē xiāngzi ma?
+English: Can you hold these boxes?
+
+Chinese: 这些学生都很聪明。
+Pinyin: Zhèxiē xuésheng dōu hěn cōngming.
+English: These students are all very smart.
+
+Chinese: 我吃不下这些菜了。
+Pinyin: Wǒ chī bù xià zhèxiē cài le.
+English: I can't eat all of these dishes.
+
+Chinese: 天气真的很冷。
+Pinyin: Tiānqì zhēnde hěn lěng.
+English: The weather is truly cold.
+
+Chinese: 这件衣服真的好看！
+Pinyin: Zhè jiàn yīfu zhēnde hǎokàn!
+English: This dress is really beautiful!
+
+Chinese: 我真的不知道答案。
+Pinyin: Wǒ zhēnde bù zhīdào dá'àn.
+English: I genuinely don't know the answer.
+
+Chinese: 真的，我没说谎。
+Pinyin: Zhēnde, wǒ méi shuōhuǎng.
+English: Really, I'm not lying.
+
+Chinese: 我哥哥在学院学习。
+Pinyin: Wǒ gēge zài xuéyuàn xuéxí.
+English: My brother studies at the academy.
+
+Chinese: 我的弟弟上中学。
+Pinyin: Wǒ de dìdi shàng zhōngxué.
+English: My younger brother attends middle school.
+
+Chinese: 我的车在图书馆旁边。
+Pinyin: Wǒ de chē zài túshūguǎn pángbiān.
+English: My car is next to the library.
+
+Chinese: 她在火车上唱。
+Pinyin: Tā zài huǒchē shàng chàng.
+English: She sang on the train.
+
+Chinese: 她自己在房间里唱。
+Pinyin: Tā zìjǐ zài fángjiān lǐ chàng.
+English: She sang in her room.
+
+Chinese: 我从我哥哥那里得到了这本书。
+Pinyin: Wǒ cóng wǒ gēge nàli dédào le zhè běn shū.
+English: I got this book from my older brother.
+
+Chinese: 这些工人都饿了。
+Pinyin: Zhèxiē gōngrén dōu è le.
+English: These workers are all hungry.
+
+Chinese: 你衣服很干净。
+Pinyin: Nǐ yīfu hěn gānjìng.
+English: Your clothes are very clean.
+
+Chinese: 我家在大学的东边。
+Pinyin: Wǒ jiā zài dàxué de dōngbian.
+English: My home is to the east of the university.
