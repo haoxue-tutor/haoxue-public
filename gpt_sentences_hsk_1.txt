@@ -8417,3 +8417,63 @@ English: Your clothes are very clean.
 Chinese: 我家在大学的东边。
 Pinyin: Wǒ jiā zài dàxué de dōngbian.
 English: My home is to the east of the university.
+
+Chinese: 你最喜欢的饭店地点是哪里？
+Pinyin: Nǐ zuì xǐhuan de fàndiàn dìdiǎn shì nǎlǐ?
+English: What's the location of your favorite restaurant?
+
+Chinese: 我在地图上找到了我们的学校。
+Pinyin: Wǒ zài dìtú shàng zhǎodào le wǒmen de xuéxiào.
+English: I found our school on the map.
+
+Chinese: 你有地图吗？
+Pinyin: Nǐ yǒu dìtú ma?
+English: Do you have a map?
+
+Chinese: 我在学习怎么看地图。
+Pinyin: Wǒ zài xuéxí zěnme kàn dìtú.
+English: I'm learning how to read a map.
+
+Chinese: 他的动作很快。
+Pinyin: Tā de dòngzuò hěn kuài.
+English: His actions are very quick.
+
+Chinese: 这本书真好玩儿！
+Pinyin: Zhè běn shū zhēn hǎowánr!
+English: This book is so much fun!
+
+Chinese: 你能看到我后边的人吗？
+Pinyin: Nǐ néng kàndào wǒ hòubian de rén ma?
+English: Can you see the person behind me?
+
+Chinese: 我们应该往后边走一点。
+Pinyin: Wǒmen yīnggāi wǎng hòubian zǒu yīdiǎn.
+English: We should move back a little.
+
+Chinese: 我明天会回到家。
+Pinyin: Wǒ míngtiān huì huídào jiā.
+English: I'll be back home tomorrow.
+
+Chinese: 他们会回到学校。
+Pinyin: Tāmen huì huídào xuéxiào.
+English: They will return to school.
+
+Chinese: 我喜欢买花送给我的妈妈。
+Pinyin: Wǒ xǐhuan mǎi huā sòng gěi wǒ de māma.
+English: I like to buy flowers for my mother.
+
+Chinese: 我看见一个男人走进房间。
+Pinyin: Wǒ kànjiàn yī gè nánrén zǒu jìn fángjiān.
+English: I saw a man walk into the room.
+
+Chinese: 我在听写中没有错误。
+Pinyin: Wǒ zài tīngxiě zhōng méiyǒu cuòwù.
+English: I made no mistakes in the dictation.
+
+Chinese: 请开始听写。
+Pinyin: Qǐng kāishǐ tīngxiě.
+English: Please begin the dictation.
+
+Chinese: 我在新年吃了很多好吃的东西。
+Pinyin: Wǒ zài xīnnián chīle hěn duō hǎochī de dōngxi.
+English: I ate a lot of delicious food during the New Year.
