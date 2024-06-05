@@ -1447,23 +1447,23 @@ Pinyin: bié dān xīn, yī shēng huì bāng nǐ de.
 English: Don't worry, the doctor will help you.
 
 Chinese: 他是一位先生。
-Pinyin: tā shì yī wèi xiān shēng.
+Pinyin: tā shì yī wèi xiānsheng.
 English: He is a gentleman.
 
 Chinese: 这位先生在等你。
-Pinyin: zhè wèi xiān shēng zài děng nǐ.
+Pinyin: zhè wèi xiānsheng zài děng nǐ.
 English: This gentleman is waiting for you.
 
 Chinese: 面试的时候，请叫我先生。
-Pinyin: miàn shì de shí hòu, qǐng jiào wǒ xiānshēng.
+Pinyin: miàn shì de shíhòu, qǐng jiào wǒ xiānsheng.
 English: During the interview, please call me Sir.
 
 Chinese: 那个先生是我的老师。
-Pinyin: nà gè xiān shēng shì wǒ de lǎoshī.
+Pinyin: nà gè xiānsheng shì wǒ de lǎoshī.
 English: That gentleman is my teacher.
 
 Chinese: 这家餐厅的服务员对待每位顾客都很有礼貌，非常先生。
-Pinyin: zhè jiā cān tīng de fú wù yuán duì dài měi wèi gù kè dōu hěn yǒu lǐ mào, fēi cháng xiān shēng.
+Pinyin: zhè jiā cān tīng de fú wù yuán duì dài měi wèi gù kè dōu hěn yǒu lǐ mào, fēi cháng xiānsheng.
 English: The waiter in this restaurant treats every customer very politely, very gentlemanly.
 
 Chinese: 小姐，请问洗手间在哪里？
@@ -2034,24 +2034,20 @@ Chinese: 请你帮我一个忙。
 Pinyin: Qǐng nǐ bāng wǒ yī gè máng.
 English: Please do me a favor.
 
-Chinese: 没关系，我明天再试一次。
-Pinyin: Méi guānxi, wǒ míngtiān zài shì yīcì.
-English: It's okay, I will try again tomorrow.
-
 Chinese: 你迟到了，没关系，我可以等你。
-Pinyin: Nǐ chídào le, méi guānxi, wǒ kěyǐ děng nǐ.
+Pinyin: Nǐ chídào le, méiguānxi, wǒ kěyǐ děng nǐ.
 English: You're late, but it's okay, I can wait for you.
 
 Chinese: 这个问题很简单，没关系，慢慢来。
-Pinyin: Zhè gè wèntí hěn jiǎndān, méi guānxi, màn màn lái.
+Pinyin: Zhè gè wèntí hěn jiǎndān, méiguānxi, màn màn lái.
 English: This question is easy, it's okay, take your time.
 
 Chinese: 我忘了带钱包，没关系，你先付吧。
-Pinyin: Wǒ wàng le dài qiánbāo, méi guānxi, nǐ xiān fù ba.
+Pinyin: Wǒ wàng le dài qiánbāo, méiguānxi, nǐ xiān fù ba.
 English: I forgot to bring my wallet, it's okay, you can pay first.
 
 Chinese: 这个电影很无聊，没关系，我们可以换一部。
-Pinyin: Zhè gè diànyǐng hěn wúliáo, méi guānxi, wǒmen kěyǐ huàn yī bù.
+Pinyin: Zhè gè diànyǐng hěn wúliáo, méiguānxi, wǒmen kěyǐ huàn yī bù.
 English: This movie is boring, it's okay, we can switch to another one.
 
 Chinese: 我在看书。
@@ -6099,7 +6095,7 @@ Pinyin: Wǒ kǎo de hěn hǎo.
 English: I did well on the exam.
 
 Chinese: 你什么时候考完试？
-Pinyin: Nǐ shénme shíhou kǎo wán shì?
+Pinyin: Nǐ shénme shíhou kǎowán shì?
 English: When will you finish your exams?
 
 Chinese: 你考到任何有用的信息了吗？
@@ -6273,10 +6269,6 @@ English: You shouldn't say it like that, it's not right.
 Chinese: 你不对我生气，我也没有对你生气。
 Pinyin: Nǐ bùduì wǒ shēngqì, wǒ yě méiyǒu duì nǐ shēngqì。
 English: You shouldn't be angry with me, and I'm not angry with you either.
-
-Chinese: 打扰你了，不好意思。——不客气，没关系。
-Pinyin: Dǎrǎo nǐ le, bù hǎoyìsi. —— Bù kèqi, méi guānxi。
-English: Sorry for bothering you. — Don't mention it, no problem.
 
 Chinese: 我喜欢打球。
 Pinyin: Wǒ xǐhuan dǎqiú。
@@ -8477,3 +8469,79 @@ English: Please begin the dictation.
 Chinese: 我在新年吃了很多好吃的东西。
 Pinyin: Wǒ zài xīnnián chīle hěn duō hǎochī de dōngxi.
 English: I ate a lot of delicious food during the New Year.
+
+Chinese: 我考了八十五分。
+Pinyin: Wǒ kǎo le bāshíwǔ fēn.
+English: I scored 85 points on the test.
+
+Chinese: 我考了八分。
+Pinyin: Wǒ kǎo le bā fēn.
+English: I scored 8 points on the test.
+
+Chinese: 这个问题有几分对，几分不对。
+Pinyin: Zhè gè wèntí yǒu jǐfēn duì, jǐfēn bù duì.
+English: This question is partly right and partly wrong.
+
+Chinese: 今天的风很冷。
+Pinyin: Jīntiān de fēng hěn lěng.
+English: The wind is cold today.
+
+Chinese: 我上次开车是一九九零年。
+Pinyin: Wǒ shàngcì kāichē shì yī jiǔ jiǔ líng nián.
+English: I last drove a car in nineteen ninety.
+
+Chinese: 请慢点开车。
+Pinyin: Qǐng màn diǎn kāichē.
+English: Please drive slowly.
+
+Chinese: 他走得很慢。
+Pinyin: Tā zǒu de hěn màn.
+English: He walks very slowly.
+
+Chinese: 这辆车比那辆车慢。
+Pinyin: Zhè liàng chē bǐ nà liàng chē màn.
+English: This car is slower than that car.
+
+Chinese: 她跑得很快。
+Pinyin: Tā pǎo de hěn kuài.
+English: She runs very fast.
+
+Chinese: 你为什么跑回家？
+Pinyin: Nǐ wèishénme pǎo huíjiā?
+English: Why did you run home?
+
+Chinese: 我很喜欢吃肉。
+Pinyin: Wǒ hěn xǐhuan chī ròu.
+English: I love to eat meat.
+
+Chinese: 你在树下等我。
+Pinyin: Nǐ zài shù xià děng wǒ.
+English: Wait for me under the tree.
+
+Chinese: 谢谢你开车送我回家。
+Pinyin: Xièxie nǐ kāichē sòng wǒ huíjiā.
+English: Thank you for driving me home.
+
+Chinese: 记住这个日期很重要。
+Pinyin: Jìzhu zhè gè rìqī hěn zhòngyào.
+English: It's important to remember this date.
+
+Chinese: 我喜欢听他的歌。
+Pinyin: Wǒ xǐhuan tīng tā de gē.
+English: I like listening to his songs.
+
+Chinese: 最后，我找到了我的手机。
+Pinyin: Zuìhòu, wǒ zhǎodàole wǒ de shǒujī.
+English: In the end, I found my phone.
+
+Chinese: 我在小学交了很多朋友。
+Pinyin: Wǒ zài xiǎoxué jiāo le hěn duō péngyou.
+English: I made a lot of friends in elementary school.
+
+Chinese: 我的孩子很喜欢上小学。
+Pinyin: Wǒ de háizi hěn xǐhuan shàng xiǎoxué.
+English: My child loves going to elementary school.
+
+Chinese: 我同学们都喜欢玩球。
+Pinyin: Wǒ tóngxuémen dōu xǐhuan wán qiú.
+English: My classmates like to play ball.
