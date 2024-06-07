@@ -2713,3 +2713,171 @@ English: Her job made her become a confident person.
 Chinese: 我们的计划发生了变化。
 Pinyin: Wǒmen de jìhuà fāshēng le biànhuà.
 English: Our plan underwent some changes.
+
+Chinese: 他们之间的爱情很深厚。
+Pinyin: Tāmen zhī jiān de àiqíng hěn shēnhòu.
+English: The love between them is very deep.
+
+Chinese: 他们的爱情很特别。
+Pinyin: Tāmen de àiqíng hěn tèbié.
+English: Their love is very special.
+
+Chinese: 我爱人很关心我。
+Pinyin: Wǒ àiren hěn guānxīn wǒ.
+English: My beloved cares about me a lot.
+
+Chinese: 我的爱人送我花。
+Pinyin: Wǒ de àiren sòng wǒ huā.
+English: My beloved gave me flowers.
+
+Chinese: 我的爱人让我感到幸福。
+Pinyin: Wǒ de àiren ràng wǒ gǎndào xìngfú.
+English: My beloved makes me feel happy.
+
+Chinese: 我的爱人是我最好的朋友。
+Pinyin: Wǒ de àiren shì wǒ zuìhǎo de péngyou.
+English: My beloved is my best friend.
+
+Chinese: 班长负责打扫教室。
+Pinyin: Bānzhǎng fùzé dǎsǎo jiāoshì.
+English: The class president is in charge of cleaning the classroom.
+
+Chinese: 老师让班长带领同学们上课。
+Pinyin: Lǎoshī ràng bānzhǎng dàilǐng tóngxuémen shàngkè.
+English: The teacher asked the class monitor to lead the students in class.
+
+Chinese: 班长今天缺席了。
+Pinyin: Bānzhǎng jīntiān quēxí le.
+English: The class monitor was absent today.
+
+Chinese: 新班长做了很多工作。
+Pinyin: Xīn bānzhǎng zuò le hěn duō gōngzuò.
+English: The new class president has done a lot of work.
+
+Chinese: 班长组织同学们讨论了计划。
+Pinyin: Bānzhǎng zǔzhī tóngxuémen tǎolùn le jìhuà.
+English: The class monitor organized a discussion among classmates about the plan.
+
+Chinese: 老师和班长开会讨论了考试。
+Pinyin: Lǎoshī hé bānzhǎng kāihuì tǎolùn le kǎoshì.
+English: The teacher and the class monitor held a meeting to discuss the exam.
+
+Chinese: 班长督促同学们准时上课。
+Pinyin: Bānzhǎng dūcù tóngxuémen zhǔnshí shàngkè.
+English: The class monitor urges classmates to be punctual in class.
+
+Chinese: 天啊！我忘了带钱！
+Pinyin: Tiān a! Wǒ wàng le dài qián!
+English: Oh my! I forgot to bring money!
+
+Chinese: 这件衣服真漂亮啊！
+Pinyin: Zhè jiàn yīfu zhēn piàoliang a!
+English: This dress is so beautiful!
+
+Chinese: 天啊！我考上了大学！
+Pinyin: Tiān a! Wǒ kǎoshàng le dàxué!
+English: Oh my! I got into university!
+
+Chinese: 我要去办点事儿。
+Pinyin: Wǒ yào qù bàn diǎn shìr.
+English: I need to go take care of some business.
+
+Chinese: 我们公司办了很多事儿。
+Pinyin: Wǒmen gōngsī bàn le hěn duō shìr.
+English: Our company has handled a lot of matters.
+
+Chinese: 他们打算怎么办？
+Pinyin: Tāmen dǎsuàn zěnmebàn?
+English: What do they plan to do about it?
+
+Chinese: 这件事要怎么办？
+Pinyin: Zhè jiàn shì yào zěnmebàn?
+English: How should we deal with this matter?
+
+Chinese: 她很会办，总是想出好主意。
+Pinyin: Tā hěn huì bàn, zǒngshì xiǎng chū hǎo zhǔyì.
+English: She is good at handling things and always comes up with great ideas.
+
+Chinese: 你能帮我办这事吗？
+Pinyin: Nǐ néng bāng wǒ bàn zhè shì ma?
+English: Can you help me with this matter?
+
+Chinese: 我去银行办了些事。
+Pinyin: Wǒ qù yínháng bàn le xiē shì.
+English: I went to the bank to take care of some things.
+
+Chinese: 半夜的街道上静悄悄的。
+Pinyin: Bànyè de jiēdào shàng jìngqiāoqiāo de.
+English: The streets are quiet in the middle of the night.
+
+Chinese: 我半夜忽然觉得害怕。
+Pinyin: Wǒ bànyè hūrán juéde hàipà.
+English: I suddenly felt scared in the middle of the night.
+
+Chinese: 半夜里，城市安静极了。
+Pinyin: Bànyè lǐ, chéngshì ānjìng jíle.
+English: In the middle of the night, the city is extremely quiet.
+
+Chinese: 半夜时，我听到了敲门声。
+Pinyin: Bànyè shí, wǒ tīngdào le qiāo mén shēng.
+English: In the middle of the night, I heard a knock on the door.
+
+Chinese: 半夜里，我口渴了。
+Pinyin: Bànyè lǐ, wǒ kǒukě le.
+English: In the middle of the night, I felt thirsty.
+
+Chinese: 半夜时，我听到了猫的叫声。
+Pinyin: Bànyè shí, wǒ tīngdào le māo de jiàoshēng.
+English: In the middle of the night, I heard a cat meowing.
+
+Chinese: 半夜里，我起身去喝水。
+Pinyin: Bànyè lǐ, wǒ qǐshēn qù hē shuǐ.
+English: In the middle of the night, I got up to drink some water.
+
+Chinese: 他们半夜开车去机场。
+Pinyin: Tāmen bànyè kāichē qù jīchǎng.
+English: They drove to the airport in the middle of the night.
+
+Chinese: 我吃太多了，肚子饱得不行。
+Pinyin: Wǒ chī tài duō le, dùzi bǎo de bùxíng.
+English: I ate too much; my stomach is so full.
+
+Chinese: 你什么时候觉得饱了，就说一声。
+Pinyin: Nǐ shénme shíhou juéde bǎo le, jiù shuō yīshēng.
+English: Let me know when you're full, and we'll stop eating.
+
+Chinese: 他们吃得很饱。
+Pinyin: Tāmen chī de hěn bǎo.
+English: They ate until they were full.
+
+Chinese: 你可以网上报名，很方便。
+Pinyin: Nǐ kěyǐ wǎngshàng bàomíng, hěn fāngbiàn.
+English: You can sign up online; it's very convenient.
+
+Chinese: 我每天早上读报纸。
+Pinyin: Wǒ měitiān zǎoshang dú bàozhǐ.
+English: I read the newspaper every morning.
+
+Chinese: 你可以把今天的报纸给我吗？
+Pinyin: Nǐ kěyǐ bǎ jīntiān de bàozhǐ gěi wǒ ma?
+English: Can you pass me today's newspaper?
+
+Chinese: 你能给我一份今天的报纸吗？
+Pinyin: Nǐ néng gěi wǒ yī fèn jīntiān de bàozhǐ ma?
+English: Can you give me a copy of today's newspaper?
+
+Chinese: 我从没去过中国北方。
+Pinyin: Wǒ cóngméi qù guò Zhōngguó běifāng.
+English: I've never been to the northern part of China.
+
+Chinese: 北方的冬天比南方更冷。
+Pinyin: Běifāng de dōngtiān bǐ nánfāng gèng lěng.
+English: The winters in the north are colder than in the south.
+
+Chinese: 北方的夏天白天很长，晚上很短。
+Pinyin: Běifāng de xiàtiān báitiān hěn cháng, wǎnshang hěn duǎn.
+English: In the north, the summer days are long and the nights are short.
+
+Chinese: 她背着一个大包。
+Pinyin: Tā bēizhe yī gè dà bāo.
+English: She's carrying a large bag on her back.
