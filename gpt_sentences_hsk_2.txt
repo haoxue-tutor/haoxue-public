@@ -3,7 +3,7 @@ Pinyin: Tā shì wǒmen duì de dì yī.
 English: He is the first in our team.
 
 Chinese: 她在比赛中获得了第一名。
-Pinyin: Tā zài bǐsài zhōng huòdéle dì yī míng.
+Pinyin: Tā zài bǐsài zhōng huòdé le dì yī míng.
 English: She won the first place in the competition.
 
 Chinese: 这是他们家的第一个孩子。
@@ -27,7 +27,7 @@ Pinyin: Tā měitiān duànliàn shēntǐ, yǐjīng jiǎn le wǔ gōngjīn.
 English: He exercises every day and has already lost five kilograms.
 
 Chinese: 请问，这个行李的重量限制是多少公斤？
-Pinyin: Qǐngwèn, zhège xíngli de zhòngliàng xiànzhì shì duōshǎo gōngjīn?
+Pinyin: Qǐngwèn, zhè gè xíngli de zhòngliàng xiànzhì shì duōshǎo gōngjīn?
 English: Excuse me, what is the weight limit for this luggage?
 
 Chinese: 每个箱子的运费是三十元每公斤。
@@ -35,15 +35,15 @@ Pinyin: Měi gè xiāngzi de yùnfèi shì sānshí yuán měi gōngjīn.
 English: The shipping fee for each box is thirty yuan per kilogram.
 
 Chinese: 筐装葡萄酒通常以12公斤/箱的重量出售。
-Pinyin: Kuāngzhuāng pútáojiǔ tōngcháng yǐ 12 gōngjīn / xiāng de zhòngliàng chūshòu.
+Pinyin: Kuāng zhuāng pútáojiǔ tōngcháng yǐ 12 gōngjīn / xiāng de zhòngliàng chūshòu.
 English: Bottled wines are usually sold in packs of twelve kilograms per box.
 
 Chinese: 这本书价值一百元。
-Pinyin: Zhè běn shū jiàzhí yībǎi yuán.
+Pinyin: Zhè běn shū jiàzhí yī bǎi yuán.
 English: This book is worth one hundred yuan.
 
 Chinese: 我今天花了二十元买了一杯咖啡。
-Pinyin: Wǒ jīntiān huāle èrshí yuán mǎile yī bēi kāfēi.
+Pinyin: Wǒ jīntiān huā le èrshí yuán mǎi le yī bēi kāfēi.
 English: I spent twenty yuan today to buy a cup of coffee.
 
 Chinese: 那个饭馆的菜很好吃，价格也不贵，才五十元。
@@ -51,7 +51,7 @@ Pinyin: Nàgè fànguǎn de cài hěn hǎo chī, jiàgé yě bù guì, cái wǔs
 English: The food at that restaurant is delicious, and the price is not expensive, only fifty yuan.
 
 Chinese: 这件衣服原价是两百元，现在半价出售。
-Pinyin: Zhè jiàn yīfu yuánjià shì liǎngbǎi yuán, xiànzài bànjià chūshòu.
+Pinyin: Zhè jiàn yīfu yuán jià shì liǎng bǎi yuán, xiànzài bànjià chūshòu.
 English: The original price of this clothing is two hundred yuan, but now it is half-price.
 
 Chinese: 我买了一件新衣服。
@@ -71,7 +71,7 @@ Pinyin: Nǐ xūyào chǔlǐ yī jiàn jǐnjí shìjiàn.
 English: You need to handle an urgent matter.
 
 Chinese: 他穿着一件红色的外套。
-Pinyin: Tā chuānzhe yī jiàn hóngsè de wàitào.
+Pinyin: Tā chuān zhe yī jiàn hóngsè de wàitào.
 English: He is wearing a red jacket.
 
 Chinese: 我只带了几件行李。
@@ -103,7 +103,7 @@ Pinyin: Tā fēicháng xǐhuan yīnyuè.
 English: He really likes music.
 
 Chinese: 这个菜非常好吃。
-Pinyin: Zhège cài fēicháng hào chī.
+Pinyin: zhè gè cài fēicháng hào chī.
 English: This dish is very delicious.
 
 Chinese: 她是一位非常聪明的学生。
@@ -167,7 +167,7 @@ Pinyin: Tā pǎo de zuì kuài.
 English: He runs the fastest.
 
 Chinese: 这个月我最忙。
-Pinyin: Zhège yuè wǒ zuì máng.
+Pinyin: zhè gè yuè wǒ zuì máng.
 English: I am the busiest this month.
 
 Chinese: 最后，我们成功了。
@@ -179,7 +179,7 @@ Pinyin: Tā zuì tǎoyàn chī là de shíwù.
 English: She hates eating spicy food the most.
 
 Chinese: 她是一个真好的朋友。
-Pinyin: Tā shì yīgè zhēn hǎo de péngyǒu.
+Pinyin: Tā shì yī gè zhēn hǎo de péngyǒu.
 English: She is a really good friend.
 
 Chinese: 那件事是真的。
@@ -191,7 +191,7 @@ Pinyin: Wǒ zhēn de hěn xǐhuan zhè běn shū.
 English: I really like this book.
 
 Chinese: 他是一个真正的领导者。
-Pinyin: Tā shì yīgè zhēnzhèng de lǐngdǎo zhě.
+Pinyin: Tā shì yī gè zhēnzhèng de lǐngdǎo zhě.
 English: He is a true leader.
 
 Chinese: 这是他的真实想法。
@@ -211,7 +211,7 @@ Pinyin: Tā zhèngzài dǎ diànhuà.
 English: She is making a phone call.
 
 Chinese: 学生们正在学习。
-Pinyin: xuéshengmen zhèngzài xuéxí.
+Pinyin: xuésheng men zhèngzài xuéxí.
 English: The students are studying.
 
 Chinese: 他们正在运动。
@@ -223,19 +223,19 @@ Pinyin: Tā yǐjīng chī wánle wǎnfàn.
 English: He has already finished dinner.
 
 Chinese: 她已经离开了公司。
-Pinyin: Tā yǐjīng líkāile gōngsī.
+Pinyin: Tā yǐjīng líkāi le gōngsī.
 English: She has already left the company.
 
 Chinese: 我已经看过这部电影了。
-Pinyin: Wǒ yǐjīng kànguò zhè bù diànyǐngle.
+Pinyin: Wǒ yǐjīng kàn guò zhè bù diànyǐng le.
 English: I have already watched this movie.
 
 Chinese: 他们已经结婚了。
-Pinyin: Tāmen yǐjīng jiéhūnle.
+Pinyin: Tāmen yǐjīng jiéhūn le.
 English: They have already gotten married.
 
 Chinese: 明天他们已经开会了。
-Pinyin: Míngtiān tāmen yǐjīng kāihuìle.
+Pinyin: Míngtiān tāmen yǐjīng kāihuì le.
 English: They have already had a meeting tomorrow.
 
 Chinese: 我们一起去看电影。
@@ -275,7 +275,7 @@ Pinyin: Nǐ kěyǐ zài shì yīcì.
 English: You can try again.
 
 Chinese: 老板要求我再加把劲。
-Pinyin: Lǎobǎn yāoqiú wǒ zài jiā bǎjìn.
+Pinyin: Lǎobǎn yāoqiú wǒ zài jiā bǎ jìn.
 English: The boss wants me to work harder.
 
 Chinese: 我明天就去图书馆。
@@ -287,7 +287,7 @@ Pinyin: Chī wán fàn wǒmen jiù zǒu.
 English: We will leave right after the meal.
 
 Chinese: 他一听到这个消息就哭了。
-Pinyin: Tā yī tīng dào zhège xiāoxi jiù kū le.
+Pinyin: Tā yī tīng dào zhè gè xiāoxi jiù kū le.
 English: He cried as soon as he heard the news.
 
 Chinese: 你找的书就在桌子上。
@@ -399,7 +399,7 @@ Pinyin: Cǐ fǎ bù kě xíng.
 English: This method is not feasible.
 
 Chinese: 他向老师提了一个问题。
-Pinyin: Tā xiàng lǎoshī tí le yīgè wèntí.
+Pinyin: Tā xiàng lǎoshī tí le yī gè wèntí.
 English: He asked the teacher a question.
 
 Chinese: 我们向东走了三公里。
@@ -451,7 +451,7 @@ Pinyin: Tā zài jīchǎng gōngzuò.
 English: He works at the airport.
 
 Chinese: 飞机将在一个小时后降落机场。
-Pinyin: Fēijī jiāng zài yīgè xiǎoshí hòu jiàngluò jīchǎng.
+Pinyin: Fēijī jiāng zài yī gè xiǎoshí hòu jiàngluò jīchǎng.
 English: The plane will land at the airport in one hour.
 
 Chinese: 请问机场怎么走？
@@ -467,7 +467,7 @@ Pinyin: Tā zài jiàoshì hòumiàn shuìzháo le.
 English: He fell asleep at the back of the classroom.
 
 Chinese: 教室的窗户开着。
-Pinyin: Jiàoshì de chuānghu kāizhe.
+Pinyin: Jiàoshì de chuānghu kāi zhe.
 English: The classroom window is open.
 
 Chinese: 老师走进了教室。
@@ -571,7 +571,7 @@ Pinyin: Shūbāo fàng zài jiàoshì wàimiàn le.
 English: The backpack is left outside the classroom.
 
 Chinese: 我们学校外有一个公园。
-Pinyin: Wǒmen xuéxiào wài yǒu yīgè gōngyuán.
+Pinyin: Wǒmen xuéxiào wài yǒu yī gè gōngyuán.
 English: There is a park outside our school.
 
 Chinese: 请在外面等一下。
@@ -583,7 +583,7 @@ Pinyin: Qǐng zuò zài wǒ de pángbiān.
 English: Please sit next to me.
 
 Chinese: 书桌的旁边放着一个台灯。
-Pinyin: Shūzhuō de pángbiān fàngzhe yīgè táidēng.
+Pinyin: Shūzhuō de pángbiān fàng zhe yī gè táidēng.
 English: There is a desk lamp beside the desk.
 
 Chinese: 公园旁边有一家咖啡馆。
@@ -591,15 +591,15 @@ Pinyin: Gōngyuán pángbiān yǒu yī jiā kāfēiguǎn.
 English: There is a coffee shop next to the park.
 
 Chinese: 我家旁边是一所学校。
-Pinyin: Wǒjiā pángbiān shì yī suǒ xuéxiào.
+Pinyin: Wǒ jiā pángbiān shì yī suǒ xuéxiào.
 English: There is a school next to my house.
 
 Chinese: 窗户旁边种着几株花。
-Pinyin: Chuānghù pángbiān zhòngzhe jǐ zhū huā.
+Pinyin: Chuānghù pángbiān zhòng zhe jǐ zhū huā.
 English: There are a few flowers planted beside the window.
 
 Chinese: 早上好，新的一天开始了。
-Pinyin: Zǎoshang hǎo, xīn de yītiān kāishǐ le.
+Pinyin: Zǎoshang hǎo, xīn de yī tiān kāishǐ le.
 English: Good morning, a new day has begun.
 
 Chinese: 我通常早上七点起床。
@@ -643,19 +643,19 @@ Pinyin: Qùnián de xiàtiān hěn rè.
 English: Last summer was very hot.
 
 Chinese: 他去年毕业了。
-Pinyin: Tā qùnián bìyèle.
+Pinyin: Tā qùnián bìyè le.
 English: He graduated last year.
 
 Chinese: 去年我去了日本旅行。
-Pinyin: Qùnián wǒ qùle Rìběn lǚxíng.
+Pinyin: Qùnián wǒ qù le Rìběn lǚxíng.
 English: I went to Japan for a trip last year.
 
 Chinese: 去年我换了工作。
-Pinyin: Qùnián wǒ huànle gōngzuò.
+Pinyin: Qùnián wǒ huàn le gōngzuò.
 English: I changed jobs last year.
 
 Chinese: 去年这个时候我在学习中文。
-Pinyin: Qùnián zhège shíhou wǒ zài xuéxí Zhōngwén.
+Pinyin: Qùnián zhè gè shíhou wǒ zài xuéxí Zhōngwén.
 English: This time last year, I was studying Chinese.
 
 Chinese: 今天是七月一号。
@@ -695,7 +695,7 @@ Pinyin: Shēngrì kuàilè shì chángjiàn de zhùfú yǔ.
 English: "Happy Birthday" is a common greeting.
 
 Chinese: 我们为他准备了一个惊喜生日派对。
-Pinyin: Wǒmen wèi tā zhǔnbèi le yīgè jīngxǐ shēngrì pàiduì.
+Pinyin: Wǒmen wèi tā zhǔnbèi le yī gè jīngxǐ shēngrì pàiduì.
 English: We have prepared a surprise birthday party for him.
 
 Chinese: 我哥哥是老师。
@@ -703,7 +703,7 @@ Pinyin: Wǒ gēge shì lǎoshī.
 English: My brother is a teacher.
 
 Chinese: 他没有哥哥，只有一个妹妹。
-Pinyin: Tā méiyǒu gēge, zhǐyǒu yīgè mèimei.
+Pinyin: Tā méiyǒu gēge, zhǐyǒu yī gè mèimei.
 English: He has no brothers, only a sister.
 
 Chinese: 我的哥哥比我高。
@@ -823,7 +823,7 @@ Pinyin: Zhèxiē háizi zài gōngyuán wán de hěn kāixīn.
 English: The children are having a great time playing in the park.
 
 Chinese: 孩子的笑声充满了房间。
-Pinyin: Háizi de xiàoshēng chōngmǎnle fángjiān.
+Pinyin: Háizi de xiàoshēng chōngmǎn le fángjiān.
 English: The children's laughter filled the room.
 
 Chinese: 妈妈正在给孩子讲故事。
@@ -843,7 +843,7 @@ Pinyin: Nàge nánrén hěn gāo.
 English: That man is very tall.
 
 Chinese: 男人们正在打篮球。
-Pinyin: Nánrénmen zhèngzài dǎ lánqiú.
+Pinyin: Nánrén men zhèngzài dǎ lánqiú.
 English: The men are playing basketball.
 
 Chinese: 这位男人是个医生。
@@ -899,7 +899,7 @@ Pinyin: Zhè jiā cāntīng de fúwùyuán dōu chuānzhuó zhìfú.
 English: The servers at this restaurant all wear uniforms.
 
 Chinese: 我今天中午吃了鱼。
-Pinyin: Wǒ jīntiān zhōngwǔ chīle yú.
+Pinyin: Wǒ jīntiān zhōngwǔ chī le yú.
 English: I ate fish for lunch today.
 
 Chinese: 池塘里的鱼非常多。
@@ -935,11 +935,11 @@ Pinyin: Wǒ xǐhuan chī kǎo yángròu.
 English: I like to eat roasted mutton.
 
 Chinese: 这个菜里的羊肉非常嫩。
-Pinyin: Zhège cài lǐ de yángròu fēicháng nèn.
+Pinyin: zhè gè cài lǐ de yángròu fēicháng nèn.
 English: The mutton in this dish is very tender.
 
 Chinese: 早餐我喝了一杯牛奶。
-Pinyin: Zǎocān wǒ hēle yī bēi niúnǎi.
+Pinyin: Zǎocān wǒ hē le yī bēi niúnǎi.
 English: I drank a glass of milk for breakfast.
 
 Chinese: 我对牛奶过敏。
@@ -959,7 +959,7 @@ Pinyin: Chāoshì de niúnǎi mài wán le.
 English: The supermarket has sold out of milk.
 
 Chinese: 早餐我吃了两个鸡蛋。
-Pinyin: Zǎocān wǒ chīle liǎng gè jīdàn.
+Pinyin: Zǎocān wǒ chī le liǎng gè jīdàn.
 English: I ate two eggs for breakfast.
 
 Chinese: 鸡蛋可以做成很多不同的菜。
@@ -1059,7 +1059,7 @@ Pinyin: Yúmín yòng xiǎo chuán chū hǎi bǔ yú.
 English: Fishermen go to sea to catch fish in small boats.
 
 Chinese: 昨天晚上下了一场雪。
-Pinyin: Zuótiān wǎnshang xiàle yī chǎng xuě.
+Pinyin: Zuótiān wǎnshang xià le yī chǎng xuě.
 English: It snowed last night.
 
 Chinese: 外面的雪很厚。
@@ -1075,11 +1075,11 @@ Pinyin: Xuěhuā piāoluò zài wǒ de shǒutào shàng.
 English: Snowflakes are falling on my gloves.
 
 Chinese: 这次暴风雪取消了所有的航班。
-Pinyin: Zhè cì bàofēng xuě qǔxiāole suǒyǒu de hángbān.
+Pinyin: Zhè cì bàofēng xuě qǔxiāo le suǒyǒu de hángbān.
 English: The blizzard has canceled all flights.
 
 Chinese: 我今天买了一些药。
-Pinyin: Wǒ jīntiān mǎile yīxiē yào.
+Pinyin: Wǒ jīntiān mǎi le yīxiē yào.
 English: I bought some medicine today.
 
 Chinese: 这是一种治感冒的药。
@@ -1095,7 +1095,7 @@ Pinyin: Zhè zhǒng yào yǒu fùzuòyòng ma?
 English: Does this medicine have any side effects?
 
 Chinese: 医生给你开了一种新的药。
-Pinyin: Yīshēng gěi nǐ kāile yī zhǒng xīn de yào.
+Pinyin: Yīshēng gěi nǐ kāi le yī zhǒng xīn de yào.
 English: The doctor prescribed a new medicine for you.
 
 Chinese: 这是我的手机。
@@ -1123,11 +1123,11 @@ Pinyin: Wǒ de shǒubiǎo shì hóngsè de.
 English: My watch is red.
 
 Chinese: 他正在戴着一只手表。
-Pinyin: Tā zhèngzài dàizhe yī zhī shǒubiǎo.
+Pinyin: Tā zhèngzài dài zhe yī zhī shǒubiǎo.
 English: He is wearing a watch.
 
 Chinese: 这个手表很贵。
-Pinyin: Zhège shǒubiǎo hěn guì.
+Pinyin: zhè gè shǒubiǎo hěn guì.
 English: This watch is expensive.
 
 Chinese: 她送给我一块手表。
@@ -1223,7 +1223,7 @@ Pinyin: Qǐng guānshàng mén.
 English: Please close the door.
 
 Chinese: 门被锁住了。
-Pinyin: Mén bèi suǒzhù le.
+Pinyin: Mén bèi suǒ zhù le.
 English: The door is locked.
 
 Chinese: 打开门吧。
@@ -1235,7 +1235,7 @@ Pinyin: Ménkǒu yǒu yī zhī māo.
 English: There is a cat at the door.
 
 Chinese: 这个房间没有门。
-Pinyin: Zhège fángjiān méiyǒu mén.
+Pinyin: zhè gè fángjiān méiyǒu mén.
 English: This room has no door.
 
 Chinese: 请写一篇关于夏天的题目。
@@ -1243,7 +1243,7 @@ Pinyin: Qǐng xiě yī piān guān yú xiàtiān de tímù.
 English: Please write a title about summer.
 
 Chinese: 我找不到答案去这个数学题。
-Pinyin: Wǒ zhǎo bù dào dá'àn qù zhège shùxué tí.
+Pinyin: Wǒ zhǎo bù dào dá'àn qù zhè gè shùxué tí.
 English: I can't find the answer to this math problem.
 
 Chinese: 他因为不懂题而困惑。
@@ -1255,7 +1255,7 @@ Pinyin: Zuótiān de kǎoshì de tí bù nán.
 English: The questions on yesterday's exam were not difficult.
 
 Chinese: 我做了三十分钟的数学题。
-Pinyin: Wǒ zuòle sānshí fēnzhōng de shùxué tí.
+Pinyin: Wǒ zuò le sānshí fēnzhōng de shùxué tí.
 English: I did math problems for 30 minutes.
 
 Chinese: 我明天有一节数学课。
@@ -1263,7 +1263,7 @@ Pinyin: Wǒ míngtiān yǒu yī jié shùxué kè.
 English: I have a math class tomorrow.
 
 Chinese: 这个学期我有五门课。
-Pinyin: Zhège xuéqī wǒ yǒu wǔ mén kè.
+Pinyin: zhè gè xuéqī wǒ yǒu wǔ mén kè.
 English: I have five classes this semester.
 
 Chinese: 我每周有三节英语课。
@@ -1271,7 +1271,7 @@ Pinyin: Wǒ měi zhōu yǒu sān jié yīngyǔ kè.
 English: I have three English classes every week.
 
 Chinese: 今天我上了一节历史课。
-Pinyin: Jīntiān wǒ shàngle yī jié lìshǐ kè.
+Pinyin: Jīntiān wǒ shàng le yī jié lìshǐ kè.
 English: I had a history class today.
 
 Chinese: 星期一我们有一节体育课。
@@ -1295,23 +1295,23 @@ Pinyin: Tā de xìngshì shì hé?
 English: What is her last name?
 
 Chinese: 这个人姓张，是我的朋友。
-Pinyin: Zhège rén xìng zhāng, shì wǒ de péngyǒu.
+Pinyin: zhè gè rén xìng zhāng, shì wǒ de péngyǒu.
 English: This person's last name is Zhang, he is my friend.
 
 Chinese: 这个问题很难。
-Pinyin: Zhège wèntí hěn nán.
+Pinyin: zhè gè wèntí hěn nán.
 English: This question is difficult.
 
 Chinese: 他提出了一个好问题。
-Pinyin: Tā tíchū le yīgè hǎo wèntí.
+Pinyin: Tā tíchū le yī gè hǎo wèntí.
 English: He asked a good question.
 
 Chinese: 我不知道答案是什么，所以我问了一个问题。
-Pinyin: Wǒ bù zhīdào dá'àn shì shénme, suǒyǐ wǒ wèn le yīgè wèntí.
+Pinyin: Wǒ bù zhīdào dá'àn shì shénme, suǒyǐ wǒ wèn le yī gè wèntí.
 English: I don't know what the answer is, so I asked a question.
 
 Chinese: 请你解释一下这个问题。
-Pinyin: Qǐng nǐ jiěshì yī xià zhège wèntí.
+Pinyin: Qǐng nǐ jiěshì yī xià zhè gè wèntí.
 English: Please explain this problem/question.
 
 Chinese: 他忽略了很多重要的问题。
@@ -1319,15 +1319,15 @@ Pinyin: Tā hūlüè le hěn duō zhòngyào de wèntí.
 English: He ignored many important questions.
 
 Chinese: 他今天有很多事情要做。
-Pinyin: Tā jīntiān yǒu hěnduō shìqíng yào zuò.
+Pinyin: Tā jīntiān yǒu hěn duō shìqíng yào zuò.
 English: He has a lot of things to do today.
 
 Chinese: 我们需要讨论一下这个重要的事情。
-Pinyin: Wǒmen xūyào tǎolùn yīxià zhège zhòngyào de shìqíng.
+Pinyin: Wǒmen xūyào tǎolùn yīxià zhè gè zhòngyào de shìqíng.
 English: We need to discuss this important matter.
 
 Chinese: 昨天发生了一件很不幸的事情。
-Pinyin: Zuótiān fāshēngle yī jiàn hěn bùxìng de shìqíng.
+Pinyin: Zuótiān fāshēng le yī jiàn hěn bùxìng de shìqíng.
 English: Something very unfortunate happened yesterday.
 
 Chinese: 我正在处理一些家庭事情。
@@ -1379,7 +1379,7 @@ Pinyin: Tā zhèngzài páiduì mǎi piào.
 English: He is lining up to buy tickets.
 
 Chinese: 这个词的意思是什么？
-Pinyin: Zhège cí de yìsi shì shénme?
+Pinyin: zhè gè cí de yìsi shì shénme?
 English: What is the meaning of this word?
 
 Chinese: 他的话我不太明白意思。
@@ -1395,7 +1395,7 @@ Pinyin: Nǐ yǒu shénme xiǎngfǎ, kěyǐ biǎodá nǐ de yìsi.
 English: If you have any ideas, you can express your thoughts.
 
 Chinese: 这个问题很有意思。
-Pinyin: Zhège wèntí hěn yǒuyìsi.
+Pinyin: zhè gè wèntí hěn yǒuyìsi.
 English: This question is very interesting.
 
 Chinese: 这件衣服的颜色很漂亮。
@@ -1427,7 +1427,7 @@ Pinyin: Kàn dào nǐ huí lái wǒ hěn huānyíng.
 English: I'm glad to see you back.
 
 Chinese: 学校会举办一个欢迎新生的活动。
-Pinyin: Xuéxiào huì jǔbàn yīgè huānyíng xīnshēng de huódòng.
+Pinyin: Xuéxiào huì jǔbàn yī gè huānyíng xīnshēng de huódòng.
 English: The school will organize a welcome event for new students.
 
 Chinese: 我们热烈欢迎外国朋友来中国旅游。
@@ -1435,7 +1435,7 @@ Pinyin: Wǒmen rèliè huānyíng wàiguó péngyǒu lái Zhōngguó lǚyóu.
 English: We warmly welcome foreign friends to come to China for tourism.
 
 Chinese: 这个城市以友好的方式欢迎每一位访问者。
-Pinyin: Zhège chéngshì yǐ yǒuhǎo de fāngshì huānyíng měi yī wèi fǎngwèn zhě.
+Pinyin: zhè gè chéngshì yǐ yǒuhǎo de fāngshì huānyíng měi yī wèi fǎngwèn zhě.
 English: This city welcomes every visitor in a friendly manner.
 
 Chinese: 我会写汉字。
@@ -1491,11 +1491,11 @@ Pinyin: Tā zǒulù hěn kuài.
 English: He walks fast.
 
 Chinese: 小猫走了。
-Pinyin: Xiǎo māo zǒule.
+Pinyin: Xiǎo māo zǒu le.
 English: The kitten has left.
 
 Chinese: 他走进了房间。
-Pinyin: Tā zǒu jìnle fángjiān.
+Pinyin: Tā zǒu jìn le fángjiān.
 English: He walked into the room.
 
 Chinese: 他进了房间。
@@ -1506,12 +1506,8 @@ Chinese: 我们进入了城市。
 Pinyin: Wǒmen jìnrù le chéngshì.
 English: We entered the city.
 
-Chinese: 请进。
-Pinyin: Qǐng jìn.
-English: Please come in.
-
 Chinese: 他进步了很多。
-Pinyin: Tā jìnbù le hěnduō.
+Pinyin: Tā jìnbù le hěn duō.
 English: He has made a lot of progress.
 
 Chinese: 我们要不断进取。
@@ -1519,15 +1515,15 @@ Pinyin: Wǒmen yāo bùduàn jìnqǔ.
 English: We should keep striving for progress.
 
 Chinese: 他出门去了。
-Pinyin: Tā chūmén qùle.
+Pinyin: Tā chūmén qù le.
 English: He went out.
 
 Chinese: 星星出来了。
-Pinyin: Xīngxīng chūláile.
+Pinyin: Xīngxīng chūlái le.
 English: The stars came out.
 
 Chinese: 太阳已经出来了。
-Pinyin: Tàiyáng yǐjīng chūláile.
+Pinyin: Tàiyáng yǐjīng chūlái le.
 English: The sun has come out.
 
 Chinese: 他出生在中国。
@@ -1547,11 +1543,11 @@ Pinyin: Tā měitiān zǎoshang pǎobù duànliàn.
 English: He goes for a run every morning to exercise.
 
 Chinese: 她参加了一个跑步比赛。
-Pinyin: Tā cānjiāle yīgè pǎobù bǐsài.
+Pinyin: Tā cānjiā le yī gè pǎobù bǐsài.
 English: She participated in a running race.
 
 Chinese: 昨天我太累了，没有去跑步。
-Pinyin: Zuótiān wǒ tài lèile, méiyǒu qù pǎobù.
+Pinyin: Zuótiān wǒ tài lèi le, méiyǒu qù pǎobù.
 English: I was too tired yesterday, so I didn't go for a run.
 
 Chinese: 医生建议他每天跑步来保持健康。
@@ -1563,7 +1559,7 @@ Pinyin: Wǒmen míngtiān dào Běijīng qù.
 English: We will go to Beijing tomorrow.
 
 Chinese: 他到了学校。
-Pinyin: Tā dàole xuéxiào.
+Pinyin: Tā dào le xuéxiào.
 English: He arrived at the school.
 
 Chinese: 请你到超市买一些水果。
@@ -1571,7 +1567,7 @@ Pinyin: Qǐng nǐ dào chāoshì mǎi yīxiē shuǐguǒ.
 English: Please go to the supermarket to buy some fruits.
 
 Chinese: 我家离公司很远，我每天要坐一个小时的车到达。
-Pinyin: Wǒ jiā lí gōngsī hěn yuǎn, wǒ měitiān yào zuò yīgè xiǎoshí de chē dàodá.
+Pinyin: Wǒ jiā lí gōngsī hěn yuǎn, wǒ měitiān yào zuò yī gè xiǎoshí de chē dàodá.
 English: My home is far from the company. I have to take a one-hour ride every day to get there.
 
 Chinese: 我准备明天早上5点到机场。
@@ -1591,7 +1587,7 @@ Pinyin: Wǒ xiǎng chuān zhè jiàn máoyī qù shàngbān.
 English: I want to wear this sweater to work.
 
 Chinese: 这个季节我喜欢穿长裤子。
-Pinyin: Zhège jìjié wǒ xǐhuan chuān cháng kùzi.
+Pinyin: zhè gè jìjié wǒ xǐhuan chuān cháng kùzi.
 English: I like to wear long pants in this season.
 
 Chinese: 她把外套穿在了里面。
@@ -1615,7 +1611,7 @@ Pinyin: Tā zhèngzài xǐwǎn.
 English: He is washing the dishes.
 
 Chinese: 昨天我去洗了辆车。
-Pinyin: Zuótiān wǒ qù xǐle liàngchē.
+Pinyin: Zuótiān wǒ qù xǐ le liàng chē.
 English: Yesterday I went to wash a car.
 
 Chinese: 给我一杯水。
@@ -1635,7 +1631,7 @@ Pinyin: Gěi wǒ yīdiǎn shíjiān.
 English: Give me some time.
 
 Chinese: 这个任务交给你了。
-Pinyin: Zhège rènwù jiāogěi nǐ le.
+Pinyin: zhè gè rènwù jiāogěi nǐ le.
 English: This task is given to you.
 
 Chinese: 请你帮我找一本书。
@@ -1655,7 +1651,7 @@ Pinyin: Tā zhèngzài zhǎo gōngzuò.
 English: He is looking for a job.
 
 Chinese: 我找了很久，终于找到了答案。
-Pinyin: Wǒ zhǎole hěnjiǔ, zhōngyú zhǎodàole dá'àn.
+Pinyin: Wǒ zhǎo le hěn jiǔ, zhōngyú zhǎodào le dá'àn.
 English: I searched for a long time and finally found the answer.
 
 Chinese: 我不懂中文。
@@ -1691,7 +1687,7 @@ Pinyin: Háizimen zài huāyuán lǐ xiào de hěn kāixīn.
 English: The children are laughing happily in the garden.
 
 Chinese: 妈妈笑着说：“你真是个小丑！”
-Pinyin: Māma xiàozhe shuō : " Nǐ zhēnshì gè xiǎochǒu! "
+Pinyin: Māma xiào zhe shuō : " Nǐ zhēnshì gè xiǎochǒu! "
 English: Mother chuckled and said, "You're really a clown!"
 
 Chinese: 他的玩笑总能逗人笑。
@@ -1699,7 +1695,7 @@ Pinyin: Tā de wánxiào zǒng néng dòu rén xiào.
 English: His jokes always make people laugh.
 
 Chinese: 请你回答这个问题。
-Pinyin: Qǐng nǐ huídá zhège wèntí.
+Pinyin: Qǐng nǐ huídá zhè gè wèntí.
 English: Please answer this question.
 
 Chinese: 他的回答很有说服力。
@@ -1759,7 +1755,7 @@ Pinyin: Tāmen zhèngzài zhǔnbèi xīnnián de qìngzhù huódòng.
 English: They are preparing for the New Year celebration.
 
 Chinese: 开始一天新的挑战。
-Pinyin: Kāishǐ yītiān xīn de tiǎozhàn.
+Pinyin: Kāishǐ yī tiān xīn de tiǎozhàn.
 English: Start a new challenge for the day.
 
 Chinese: 我们明天开始旅行。
@@ -1771,7 +1767,7 @@ Pinyin: Kāishǐ xuéxí Hànyǔ bù róngyì.
 English: It's not easy to start learning Chinese.
 
 Chinese: 老师开始讲课了。
-Pinyin: Lǎoshī kāishǐ jiǎngkèle.
+Pinyin: Lǎoshī kāishǐ jiǎngkè le.
 English: The teacher started the lecture.
 
 Chinese: 让我们开始！
@@ -1807,7 +1803,7 @@ Pinyin: Wǒ xūyào nǐ de bāngzhù.
 English: I need your help.
 
 Chinese: 她给了我很大的帮助。
-Pinyin: Tā gěile wǒ hěn dà de bāngzhù.
+Pinyin: Tā gěi le wǒ hěn dà de bāngzhù.
 English: She gave me a lot of help.
 
 Chinese: 我感激你的帮助。
@@ -1855,7 +1851,7 @@ Pinyin: Zhè shì wǒ sòng gěi nǐ de lǐwù.
 English: This is the gift I bought for you.
 
 Chinese: 她送了一束鲜花给我。
-Pinyin: Tā sòngle yīshùxiānhuā gěi wǒ.
+Pinyin: Tā sòng le yī shù xiānhuā gěi wǒ.
 English: She gave me a bouquet of flowers.
 
 Chinese: 我们等你回来。
@@ -1871,7 +1867,7 @@ Pinyin: Qǐng děng yīxià, wǒ mǎshàng jiù dào.
 English: Please wait a moment, I will be there soon.
 
 Chinese: 他等了好久没见到她。
-Pinyin: Tā děngle hǎojiǔ méi jiàn dào tā.
+Pinyin: Tā děng le hǎojiǔ méi jiàn dào tā.
 English: He has been waiting for her for a long time but hasn't seen her.
 
 Chinese: 她等不及要见到他。
@@ -1895,7 +1891,7 @@ Pinyin: Tā ràng wǒ gǎndào hěn kùnhuò.
 English: She made me feel very confused.
 
 Chinese: 请让我静静地思考一会儿。
-Pinyin: Qǐng ràng wǒ jìngjìng de sīkǎo yīhuìr.
+Pinyin: Qǐng ràng wǒ jìng jìng de sīkǎo yīhuìr.
 English: Please let me think quietly for a while.
 
 Chinese: 我每天早上七点起床。
@@ -1943,7 +1939,7 @@ Pinyin: Tā tiàowǔ tiào dé hěn hǎo.
 English: She dances very well.
 
 Chinese: 昨晚我去参加了一个跳舞的派对。
-Pinyin: Zuó wǎn wǒ qù cānjiā le yīgè tiàowǔ de pàiduì.
+Pinyin: Zuó wǎn wǒ qù cānjiā le yī gè tiàowǔ de pàiduì.
 English: I attended a dance party last night.
 
 Chinese: 孩子们在学校里一起跳舞。
@@ -1959,7 +1955,7 @@ Pinyin: Wǒ xǐhuan lǚyóu.
 English: I enjoy travelling.
 
 Chinese: 这个周末我们计划去旅游。
-Pinyin: Zhège zhōumò wǒmen jìhuà qù lǚyóu.
+Pinyin: zhè gè zhōumò wǒmen jìhuà qù lǚyóu.
 English: We plan to go on a trip this weekend.
 
 Chinese: 她喜欢跟朋友一起旅游。
@@ -1967,7 +1963,7 @@ Pinyin: Tā xǐhuan gēn péngyǒu yīqǐ lǚyóu.
 English: She enjoys travelling with friends.
 
 Chinese: 我们正在筹备下一个旅游计划。
-Pinyin: Wǒmen zhèngzài chóubèi xià yīgè lǚyóu jìhuà.
+Pinyin: Wǒmen zhèngzài chóubèi xià yī gè lǚyóu jìhuà.
 English: We are preparing for our next travel plan.
 
 Chinese: 旅游可以让我们放松身心。
@@ -1995,19 +1991,19 @@ Pinyin: Shàngbān de lùshàng zǒngshì dǔchē.
 English: There is always heavy traffic on the way to work.
 
 Chinese: 我因为感冒生病了。
-Pinyin: Wǒ yīnwèi gǎnmào shēngbìngle.
+Pinyin: Wǒ yīnwèi gǎnmào shēngbìng le.
 English: I got sick because of a cold.
 
 Chinese: 他生病了，不能去上学。
-Pinyin: Tā shēngbìngle, bùnéng qù shàngxué.
+Pinyin: Tā shēngbìng le, bùnéng qù shàngxué.
 English: He is sick and cannot go to school.
 
 Chinese: 我昨天起床时发现自己生病了。
-Pinyin: Wǒ zuótiān qǐchuáng shí fāxiàn zìjǐ shēngbìngle.
+Pinyin: Wǒ zuótiān qǐchuáng shí fāxiàn zìjǐ shēngbìng le.
 English: I realized that I was sick when I woke up yesterday.
 
 Chinese: 妹妹今天不舒服，可能生病了。
-Pinyin: Mèimei jīntiān bù shūfu, kěnéng shēngbìngle.
+Pinyin: Mèimei jīntiān bù shūfu, kěnéng shēngbìng le.
 English: My younger sister is not feeling well today, she might be sick.
 
 Chinese: 我的外婆生病住院了。
@@ -2063,7 +2059,7 @@ Pinyin: Māmā měi zhōu yóuyǒng liǎng cì.
 English: Mom swims twice a week.
 
 Chinese: 夏天的时候，很多人来海边游泳。
-Pinyin: Xiàtiān de shíhou, hěnduō rén lái hǎibiān yóuyǒng.
+Pinyin: Xiàtiān de shíhou, hěn duō rén lái hǎibiān yóuyǒng.
 English: Many people come to the beach to swim in the summer.
 
 Chinese: 我每次去度假都会去游泳池。
@@ -2071,7 +2067,7 @@ Pinyin: Wǒ měi cì qù dùjià dōu huì qù yóuyǒngchí.
 English: I always go to the swimming pool whenever I go on vacation.
 
 Chinese: 游泳是一项很好的运动。
-Pinyin: Yóuyǒng shì yīxiàng hěn hǎo de yùndòng.
+Pinyin: Yóuyǒng shì yī xiàng hěn hǎo de yùndòng.
 English: Swimming is a great sport.
 
 Chinese: 我喜欢踢足球。
@@ -2087,11 +2083,11 @@ Pinyin: Nǐ xiǎng bùxiǎng hé wǒmen yīqǐ tī zúqiú?
 English: Do you want to play soccer with us?
 
 Chinese: 明天下午我和朋友们要去踢足球比赛。
-Pinyin: Míngtiān xiàwǔ wǒ hé péngyǒumen yào qù tī zúqiú bǐsài.
+Pinyin: Míngtiān xiàwǔ wǒ hé péngyǒu men yào qù tī zúqiú bǐsài.
 English: Tomorrow afternoon, me and my friends are going to play soccer match.
 
 Chinese: 我梦想着成为一名职业足球运动员，所以常常踢足球训练。
-Pinyin: Wǒ mèngxiǎngzhe chéngwéi yī míng zhíyè zúqiú yùndòngyuán, suǒyǐ chángcháng tī zúqiú xùnliàn.
+Pinyin: Wǒ mèngxiǎng zhe chéngwéi yī míng zhíyè zúqiú yùndòngyuán, suǒyǐ chángcháng tī zúqiú xùnliàn.
 English: I dream of becoming a professional soccer player, so I often practice playing soccer.
 
 Chinese: 我喜欢打篮球。
@@ -2099,15 +2095,15 @@ Pinyin: Wǒ xǐhuan dǎ lánqiú.
 English: I like to play basketball.
 
 Chinese: 他每个周末都和朋友们一起打篮球。
-Pinyin: Tā měi gè zhōumò dōu hé péngyǒumen yīqǐ dǎ lánqiú.
+Pinyin: Tā měi gè zhōumò dōu hé péngyǒu men yīqǐ dǎ lánqiú.
 English: He plays basketball with his friends every weekend.
 
 Chinese: 她是我们学校篮球队的队长，经常打篮球比赛。
-Pinyin: Tā shì wǒmen xuéxiào lánqiúduì de duìzhǎng, jīngcháng dǎ lánqiú bǐsài.
+Pinyin: Tā shì wǒmen xuéxiào lánqiú duì de duìzhǎng, jīngcháng dǎ lánqiú bǐsài.
 English: She is the captain of our school's basketball team and often plays basketball matches.
 
 Chinese: 我已经连续打篮球一个小时了，太累了。
-Pinyin: Wǒ yǐjīng liánxù dǎ lánqiú yī gè xiǎoshíle, tài lèile.
+Pinyin: Wǒ yǐjīng liánxù dǎ lánqiú yī gè xiǎoshí le, tài lèi le.
 English: I have been playing basketball continuously for an hour, I'm so tired.
 
 Chinese: 打篮球是一种非常好的锻炼方式。
@@ -2119,7 +2115,7 @@ Pinyin: Wǒ yǐjīng bǎ zuòyè zuò wánle.
 English: I have already finished doing the homework.
 
 Chinese: 他吃完午饭去上课了。
-Pinyin: Tā chī wán wǔfàn qù shàngkèle.
+Pinyin: Tā chī wán wǔfàn qù shàngkè le.
 English: He finished lunch and went to class.
 
 Chinese: 我们要在明天晚上之前完成这项工作。
@@ -2131,7 +2127,7 @@ Pinyin: Zhè běn shū wǒ yǐjīng kàn wánle.
 English: I have finished reading this book.
 
 Chinese: 他昨天忘记关电视看完了一整天的节目。
-Pinyin: Tā zuótiān wàngjì guān diànshì kàn wánle yīzhěng tiān de jiémù.
+Pinyin: Tā zuótiān wàngjì guān diànshì kàn wánle yī zhěng tiān de jiémù.
 English: He forgot to turn off the TV yesterday and watched programs all day long.
 
 Chinese: 我们在学校里认识的。
@@ -2159,7 +2155,7 @@ Pinyin: Tā juéde zhè běn shū hěn yǒuqù.
 English: He thinks this book is very interesting.
 
 Chinese: 我觉得这个颜色很漂亮。
-Pinyin: Wǒ juéde zhège yánsè hěn piàoliang.
+Pinyin: Wǒ juéde zhè gè yánsè hěn piàoliang.
 English: I think this color is very beautiful.
 
 Chinese: 她觉得这件事很麻烦。
@@ -2171,7 +2167,7 @@ Pinyin: Wǒ juéde nǐ de jiànyì hěn hǎo.
 English: I think your suggestion is very good.
 
 Chinese: 他觉得这个问题很困难。
-Pinyin: Tā juéde zhège wèntí hěn kùnnán.
+Pinyin: Tā juéde zhè gè wèntí hěn kùnnán.
 English: He thinks this problem is very difficult.
 
 Chinese: 你知道他的电话号码吗？
@@ -2207,7 +2203,7 @@ Pinyin: Wǒ xīwàng nǐ néng lái cānjiā jùhuì.
 English: I hope you can come to the party.
 
 Chinese: 她的希望是成为一名医生。
-Pinyin: Tā de xīwàng shì chéngwéi yīmíng yīshēng.
+Pinyin: Tā de xīwàng shì chéngwéi yī míng yīshēng.
 English: Her hope is to become a doctor.
 
 Chinese: 我们都希望世界和平。
@@ -2219,11 +2215,11 @@ Pinyin: Tā jīntiān kěnéng huì chídào.
 English: He may be late today.
 
 Chinese: 这个计划可能会失败。
-Pinyin: Zhège jìhuà kěnéng huì shībài.
+Pinyin: zhè gè jìhuà kěnéng huì shībài.
 English: This plan may fail.
 
 Chinese: 我们可能需要更多的时间。
-Pinyin: Wǒmen kěnéng xūyào gèngduō de shíjiān.
+Pinyin: Wǒmen kěnéng xūyào gèng duō de shíjiān.
 English: We may need more time.
 
 Chinese: 这辆车可能需要修理。
@@ -2243,7 +2239,7 @@ Pinyin: Nǐ kěyǐ bāng wǒ yīxià ma?
 English: Can you help me?
 
 Chinese: 这个地方可以坐下吗？
-Pinyin: Zhège dìfang kěyǐ zuòxià ma?
+Pinyin: zhè gè dìfang kěyǐ zuòxià ma?
 English: Is it okay to sit in this place?
 
 Chinese: 我可以用你的手机打电话吗？
@@ -2279,7 +2275,7 @@ Pinyin: Zhè zhī māo de máo shì báisè de.
 English: The fur of this cat is white.
 
 Chinese: 这个房间的墙壁是白色的。
-Pinyin: Zhège fángjiān de qiángbì shì báisè de.
+Pinyin: zhè gè fángjiān de qiángbì shì báisè de.
 English: The walls of this room are white.
 
 Chinese: 冬天的雪是白色的。
@@ -2327,11 +2323,11 @@ Pinyin: Tā de fǎnyìng fēicháng kuài.
 English: His reaction is very quick.
 
 Chinese: 我想快点完成这个任务。
-Pinyin: Wǒ xiǎng kuài diǎn wánchéng zhège rènwù.
+Pinyin: Wǒ xiǎng kuài diǎn wánchéng zhè gè rènwù.
 English: I want to finish this task quickly.
 
 Chinese: 学生们都很快地理解了这个问题。
-Pinyin: xuéshengmen dōu hěn kuài de lǐjiěle zhège wèntí.
+Pinyin: xuésheng men dōu hěn kuài de lǐjiě le zhè gè wèntí.
 English: The students all quickly understood this question.
 
 Chinese: 请别开车太慢。
@@ -2343,7 +2339,7 @@ Pinyin: Tā màn màn de zǒu jìn le fángjiān.
 English: He slowly walked into the room.
 
 Chinese: 这个电梯真慢。
-Pinyin: Zhège diàntī zhēn màn.
+Pinyin: zhè gè diàntī zhēn màn.
 English: This elevator is really slow.
 
 Chinese: 他的反应很慢。
@@ -2371,7 +2367,7 @@ Pinyin: Tā zhù dé lí shìqū hěn yuǎn.
 English: He lives far from the city center.
 
 Chinese: 这个景点离酒店很远。
-Pinyin: Zhège jǐngdiǎn lí jiǔdiàn hěn yuǎn.
+Pinyin: zhè gè jǐngdiǎn lí jiǔdiàn hěn yuǎn.
 English: This attraction is far from the hotel.
 
 Chinese: 我家离学校很近。
@@ -2383,7 +2379,7 @@ Pinyin: Tāmen de jiā jiù zài jìn shān.
 English: Their house is right near the mountain.
 
 Chinese: 这个超市离我家很近。
-Pinyin: Zhège chāoshì lí wǒ jiā hěn jìn.
+Pinyin: zhè gè chāoshì lí wǒ jiā hěn jìn.
 English: This supermarket is very close to my house.
 
 Chinese: 她的办公室离这里很近。
@@ -2395,7 +2391,7 @@ Pinyin: Wǒmen xuéxiào lí huǒchēzhàn bù yuǎn.
 English: Our school is not far from the train station.
 
 Chinese: 这个蛋糕很好吃。
-Pinyin: Zhège dàngāo hěn hǎochī.
+Pinyin: zhè gè dàngāo hěn hǎochī.
 English: This cake is delicious.
 
 Chinese: 我爱吃好吃的零食。
@@ -2407,7 +2403,7 @@ Pinyin: Zhè jiā fànguǎn de cài hěn hǎochī.
 English: The dishes at this restaurant are delicious.
 
 Chinese: 这个面包有点好吃。
-Pinyin: Zhège miànbāo yǒudiǎn hǎochī.
+Pinyin: zhè gè miànbāo yǒudiǎn hǎochī.
 English: This bread is slightly delicious.
 
 Chinese: 姐姐做的饭特别好吃。
@@ -2419,11 +2415,11 @@ Pinyin: Wǒ de tóufa hěn cháng.
 English: My hair is very long.
 
 Chinese: 学生们在长椅上等。
-Pinyin: xuéshengmen zài chángyǐ shàng děng.
+Pinyin: xuésheng men zài chángyǐ shàng děng.
 English: The students are waiting on the benches.
 
 Chinese: 这只小狗的尾巴长长的。
-Pinyin: Zhè zhī xiǎo gǒu de wěiba chángcháng de.
+Pinyin: Zhè zhī xiǎo gǒu de wěiba cháng cháng de.
 English: This puppy has a long tail.
 
 Chinese: 她长得像她的妈妈。
@@ -2431,7 +2427,7 @@ Pinyin: Tā zhǎng de xiàng tā de māma.
 English: She looks like her mother.
 
 Chinese: 这条河很长，流经几个城市。
-Pinyin: Zhè tiáo hé hěn zhǎng, liújīng jǐ gè chéngshì.
+Pinyin: Zhè tiáo hé hěn zhǎng, liú jīng jǐ gè chéngshì.
 English: This river is very long, flowing through several cities.
 
 Chinese: 我买了一件新衣服。
@@ -2447,7 +2443,7 @@ Pinyin: Wǒ zài xīn jiā zhù le yī gè yuè.
 English: I've been living in my new house for a month.
 
 Chinese: 你听说过这个新电影吗？
-Pinyin: Nǐ tīngshuō guò zhège xīn diànyǐng ma?
+Pinyin: Nǐ tīngshuō guò zhè gè xīn diànyǐng ma?
 English: Have you heard of this new movie?
 
 Chinese: 我们的公司要搬到新的办公室。
@@ -2455,7 +2451,7 @@ Pinyin: Wǒmen de gōngsī yào bān dào xīn de bàngōngshì.
 English: Our company is moving to a new office.
 
 Chinese: 这个手表非常贵。
-Pinyin: Zhège shǒubiǎo fēicháng guì.
+Pinyin: zhè gè shǒubiǎo fēicháng guì.
 English: This watch is very expensive.
 
 Chinese: 那个饭馆的菜很贵。
@@ -2463,11 +2459,11 @@ Pinyin: Nàgè fànguǎn de cài hěn guì.
 English: The dishes at that restaurant are expensive.
 
 Chinese: 这个房子的租金太贵了。
-Pinyin: Zhège fángzi de zūjīn tài guìle.
+Pinyin: zhè gè fángzi de zūjīn tài guì le.
 English: The rent for this house is too expensive.
 
 Chinese: 她买了一件贵衣服。
-Pinyin: Tā mǎile yī jiàn guì yīfu.
+Pinyin: Tā mǎi le yī jiàn guì yīfu.
 English: She bought an expensive dress.
 
 Chinese: 那个品牌的手机很贵。
@@ -2475,7 +2471,7 @@ Pinyin: Nàgè pǐnpái de shǒujī hěn guì.
 English: The smartphones from that brand are expensive.
 
 Chinese: 这个商品很便宜。
-Pinyin: Zhège shāngpǐn hěn piányi.
+Pinyin: zhè gè shāngpǐn hěn piányi.
 English: This product is very cheap.
 
 Chinese: 这家餐厅的价钱很便宜。
@@ -2519,7 +2515,7 @@ Pinyin: Jīntiān tiānqì yīn.
 English: Today's weather is cloudy.
 
 Chinese: 这个房间很阴暗。
-Pinyin: Zhège fángjiān hěn yīn'àn.
+Pinyin: zhè gè fángjiān hěn yīn'àn.
 English: This room is very dim.
 
 Chinese: 我喜欢阴天。
@@ -2535,7 +2531,7 @@ Pinyin: Yīnyǐng bǎ zhěnggè fángjiān dōu fùgài le.
 English: The shadow covers the entire room.
 
 Chinese: 这个答案是错的。
-Pinyin: Zhège dá'àn shì cuò de.
+Pinyin: zhè gè dá'àn shì cuò de.
 English: This answer is wrong.
 
 Chinese: 她走错了方向。
@@ -2551,7 +2547,7 @@ Pinyin: Tā cuòguò le zuìhòu yī bān dìtiě.
 English: He missed the last subway.
 
 Chinese: 这个问题太难了，我都回答错了。
-Pinyin: Zhège wèntí tài nán le, wǒ dōu huídá cuò le.
+Pinyin: zhè gè wèntí tài nán le, wǒ dōu huídá cuò le.
 English: This question is too difficult, I answered it all wrong.
 
 Chinese: 她看到狗狗时非常快乐。
@@ -2599,7 +2595,7 @@ Pinyin: Tā kàn dào tā de péngyǒu shí fēicháng kuàilè.
 English: She was very happy when she saw her friend.
 
 Chinese: 我们全家一起度过了一个快乐的假期。
-Pinyin: Wǒmen quánjiā yīqǐ dùguòle yīgè kuàilè de jiàqī.
+Pinyin: Wǒmen quánjiā yīqǐ dùguò le yī gè kuàilè de jiàqī.
 English: My whole family had a happy vacation together.
 
 Chinese: 孩子们在公园里玩得很开心快乐。
@@ -2663,7 +2659,7 @@ Pinyin: Tāmen de jìhuà zuìzhōng biànchéng le shībài.
 English: Their plan eventually turned into a failure.
 
 Chinese: 这个房间会在一天之内变成垃圾场。
-Pinyin: Zhège fángjiān huì zài yītiān zhīnèi biànchéng lājīchǎng.
+Pinyin: zhè gè fángjiān huì zài yī tiān zhīnèi biànchéng lājī chǎng.
 English: This room will become a garbage dump within a day.
 
 Chinese: 希望你的悲伤能够变成力量。
@@ -2671,7 +2667,7 @@ Pinyin: Xīwàng nǐ de bēishāng nénggòu biànchéng lìliàng.
 English: I hope your sadness can turn into strength.
 
 Chinese: 这个演员在不同角色中变成了不同的人。
-Pinyin: Zhège yǎnyuán zài bùtóng juésè zhōng biànchéng le bùtóng de rén.
+Pinyin: zhè gè yǎnyuán zài bùtóng juésè zhōng biànchéng le bùtóng de rén.
 English: This actor becomes different people in different roles.
 
 Chinese: 我想变成一名医生。
@@ -2683,7 +2679,7 @@ Pinyin: Tā de mèngxiǎng shì biàn chéng yī wèi zuòjiā.
 English: His dream is to become a writer.
 
 Chinese: 我希望孩子能变成一个有爱心的人。
-Pinyin: Wǒ xīwàng háizi néng biàn chéng yīgè yǒu àixīn de rén.
+Pinyin: Wǒ xīwàng háizi néng biàn chéng yī gè yǒu àixīn de rén.
 English: I hope my child can become a loving person.
 
 Chinese: 时间会改变我们。
@@ -2707,7 +2703,7 @@ Pinyin: Tiānqì tūrán biàn chéng le qínglǎng.
 English: The weather suddenly turned sunny.
 
 Chinese: 她的工作让她变成了一个自信的人。
-Pinyin: Tā de gōngzuò ràng tā biàn chéng le yīgè zìxìn de rén.
+Pinyin: Tā de gōngzuò ràng tā biàn chéng le yī gè zìxìn de rén.
 English: Her job made her become a confident person.
 
 Chinese: 我们的计划发生了变化。
@@ -2743,7 +2739,7 @@ Pinyin: Bānzhǎng fùzé dǎsǎo jiāoshì.
 English: The class president is in charge of cleaning the classroom.
 
 Chinese: 老师让班长带领同学们上课。
-Pinyin: Lǎoshī ràng bānzhǎng dàilǐng tóngxuémen shàngkè.
+Pinyin: Lǎoshī ràng bānzhǎng dàilǐng tóngxué men shàngkè.
 English: The teacher asked the class monitor to lead the students in class.
 
 Chinese: 班长今天缺席了。
@@ -2755,7 +2751,7 @@ Pinyin: Xīn bānzhǎng zuò le hěn duō gōngzuò.
 English: The new class president has done a lot of work.
 
 Chinese: 班长组织同学们讨论了计划。
-Pinyin: Bānzhǎng zǔzhī tóngxuémen tǎolùn le jìhuà.
+Pinyin: Bānzhǎng zǔzhī tóngxué men tǎolùn le jìhuà.
 English: The class monitor organized a discussion among classmates about the plan.
 
 Chinese: 老师和班长开会讨论了考试。
@@ -2763,7 +2759,7 @@ Pinyin: Lǎoshī hé bānzhǎng kāihuì tǎolùn le kǎoshì.
 English: The teacher and the class monitor held a meeting to discuss the exam.
 
 Chinese: 班长督促同学们准时上课。
-Pinyin: Bānzhǎng dūcù tóngxuémen zhǔnshí shàngkè.
+Pinyin: Bānzhǎng dūcù tóngxué men zhǔnshí shàngkè.
 English: The class monitor urges classmates to be punctual in class.
 
 Chinese: 天啊！我忘了带钱！

@@ -8527,7 +8527,7 @@ Pinyin: Zhè běn shū shí kuài qián.
 English: This book is 10 yuan.
 
 Chinese: 请进房间。
-Pinyin: Qǐng jìn fángjiān.
+Pinyin: Qǐngjìn fángjiān.
 English: Please enter the room.
 
 Chinese: 他喜欢进图书馆看书。
