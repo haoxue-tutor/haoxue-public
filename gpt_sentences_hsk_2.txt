@@ -1179,23 +1179,23 @@ Pinyin: Tā duì yìshù yǒu zhe fēicháng mǐngǎn de shēntǐ.
 English: She has a very sensitive body when it comes to art.
 
 Chinese: 我每天坐公共汽车上班。
-Pinyin: Wǒ měitiān zuò gōnggòng qìchē shàngbān.
+Pinyin: Wǒ měitiān zuò gōnggòngqìchē shàngbān.
 English: I take the bus to work every day.
 
 Chinese: 这辆公共汽车已经满员了。
-Pinyin: Zhè liàng gōnggòng qìchē yǐjīng mǎnyuán le.
+Pinyin: Zhè liàng gōnggòngqìchē yǐjīng mǎnyuán le.
 English: This bus is already full.
 
 Chinese: 公共汽车是我最便宜的交通工具之一。
-Pinyin: Gōnggòng qìchē shì wǒ zuì piányi de jiāotōng gōngjù zhī yī.
+Pinyin: gōnggòngqìchē shì wǒ zuì piányi de jiāotōng gōngjù zhī yī.
 English: The bus is one of the cheapest transportation options for me.
 
 Chinese: 公共汽车站点在市中心附近。
-Pinyin: Gōnggòng qìchē zhàndiǎn zài shì zhōngxīn fùjìn.
+Pinyin: gōnggòngqìchē zhàndiǎn zài shì zhōngxīn fùjìn.
 English: The bus stop is near the city center.
 
 Chinese: 公共汽车司机很友好。
-Pinyin: Gōnggòng qìchē sījī hěn yǒuhǎo.
+Pinyin: gōnggòngqìchē sījī hěn yǒuhǎo.
 English: The bus driver is very friendly.
 
 Chinese: 这张桌子上有一份报纸。
@@ -2559,7 +2559,7 @@ Pinyin: Mèi mèi hé dì dì zài gōng yuán lǐ wán dé hěn kuài lè.
 English: The younger sister and younger brother are playing happily in the park.
 
 Chinese: 我们在生日派对上唱歌跳舞，非常快乐。
-Pinyin: Wǒ men zài shēng rì pài duì shàng chàng gē tiào wǔ, fēi cháng kuài lè.
+Pinyin: Wǒmen zài shēng rì pài duì shàng chàng gē tiào wǔ, fēi cháng kuài lè.
 English: We are singing and dancing at the birthday party, very happy.
 
 Chinese: 在圣诞节的时候，人们会感到特别快乐。
@@ -3007,7 +3007,7 @@ Pinyin: Fáng jiān bùgòu dà.
 English: The room is not big enough.
 
 Chinese: 食物不够我们吃。
-Pinyin: Shí wù bùgòu wǒ men chī.
+Pinyin: Shí wù bùgòu Wǒmen chī.
 English: There is not enough food for us.
 
 Chinese: 今天很冷，不过没有下雨。
@@ -3465,3 +3465,123 @@ English: His new watch looks great.
 Chinese: 我需要一个新表。
 Pinyin: Wǒ xūyào yī gè xīn biǎo.
 English: I need a new watch.
+
+Chinese: 他向我示意。
+Pinyin: Tā xiàng wǒ shìyì.
+English: He signaled to me.
+
+Chinese: 她示范了这个动作。
+Pinyin: Tā shìfàn le zhè gè dòngzuò.
+English: She demonstrated this movement.
+
+Chinese: 我们展示了作品。
+Pinyin: Wǒmen zhǎnshì le zuòpǐn.
+English: We showcased the work.
+
+Chinese: 他正在示范怎么做饭。
+Pinyin: Tā zhèngzài shìfàn zěnme zuòfàn.
+English: He is demonstrating how to cook.
+
+Chinese: 她给我们示范跳舞。
+Pinyin: Tā gěi wǒmen shìfàn tiàowǔ.
+English: She demonstrated dancing to us.
+
+Chinese: 老师示意让我们安静。
+Pinyin: Lǎoshī shìyì ràng wǒmen ānjìng.
+English: The teacher signaled us to be quiet.
+
+Chinese: 他展示了他的画。
+Pinyin: Tā zhǎnshì le tā de huà.
+English: He displayed his painting.
+
+Chinese: 学校展示了学生作品。
+Pinyin: Xuéxiào zhǎnshì le xuéshēng zuòpǐn.
+English: The school showcased the students' work.
+
+Chinese: 她向他示爱。
+Pinyin: Tā xiàng tā shì ài.
+English: She showed her love to him.
+
+Chinese: 他们展示了新产品。
+Pinyin: Tāmen zhǎnshì le xīn chǎnpǐn.
+English: They exhibited the new product.
+
+Chinese: 这个菜很好，不错。
+Pinyin: Zhè gè cài hěn hǎo, bùcuò.
+English: This dish is very good, not bad.
+
+Chinese: 今天的天气不错。
+Pinyin: Jīntiān de tiānqì bùcuò.
+English: The weather today is not bad.
+
+Chinese: 他的中文不错。
+Pinyin: Tā de zhōngwén bùcuò.
+English: His Chinese is not bad.
+
+Chinese: 这本书不错。
+Pinyin: Zhè běn shū bùcuò.
+English: This book is not bad.
+
+Chinese: 我觉得你的建议不错。
+Pinyin: Wǒ juéde nǐ de jiànyì bùcuò.
+English: I think your suggestion is not bad.
+
+Chinese: 这家餐馆不错。
+Pinyin: Zhè jiā cānguǎn bùcuò.
+English: This restaurant is not bad.
+
+Chinese: 我们的计划不错。
+Pinyin: Wǒmen de jìhuà bùcuò.
+English: Our plan is not bad.
+
+Chinese: 他的态度不错。
+Pinyin: Tā de tài dù bùcuò.
+English: His attitude is not bad.
+
+Chinese: 你的工作表现不错。
+Pinyin: Nǐ de gōngzuò biǎoxiàn bùcuò.
+English: Your work performance is not bad.
+
+Chinese: 这个电影不错。
+Pinyin: Zhè gè diànyǐng bùcuò.
+English: This movie is not bad.
+
+Chinese: 我坐公共汽车上班。
+Pinyin: Wǒ zuò gōnggòngqìchē shàngbān.
+English: I take the bus to work.
+
+Chinese: 公共汽车很拥挤。
+Pinyin: gōnggòngqìchē hěn yǒngjǐ.
+English: The bus is very crowded.
+
+Chinese: 你知道公共汽车站在哪儿吗？
+Pinyin: Nǐ zhīdào gōnggòngqìchē zhàn zài nǎr ma?
+English: Do you know where the bus stop is?
+
+Chinese: 公共汽车来了。
+Pinyin: gōnggòngqìchē lái le.
+English: The bus is here.
+
+Chinese: 每十分钟有一班公共汽车。
+Pinyin: Měi shí fēnzhōng yǒu yī bān gōnggòngqìchē.
+English: There is a bus every ten minutes.
+
+Chinese: 我在公共汽车上睡着了。
+Pinyin: Wǒ zài gōnggòngqìchē shàng shuìzháo le.
+English: I fell asleep on the bus.
+
+Chinese: 海边有很多公共汽车。
+Pinyin: Hǎibiān yǒu hěn duō gōnggòngqìchē.
+English: There are many buses by the seaside.
+
+Chinese: 公共汽车票多少钱？
+Pinyin: gōnggòngqìchē piào duōshǎo qián?
+English: How much is a bus ticket?
+
+Chinese: 公共汽车司机很友好。
+Pinyin: gōnggòngqìchē sījī hěn yǒuhǎo.
+English: The bus driver is very friendly.
+
+Chinese: 我们等公共汽车一起去。
+Pinyin: Wǒmen děng gōnggòngqìchē yīqǐ qù.
+English: We will wait for the bus to go together.
