@@ -79,7 +79,7 @@ Pinyin: Wǒ zhǐ dài le jǐ jiàn xíngli.
 English: I brought only a few pieces of luggage.
 
 Chinese: 别担心，一切都会好起来的。
-Pinyin: Bié dānxīn, yīqiè dōu huì hǎo qǐlái de.
+Pinyin: Bié dānxīn, yīqiè dōu huì hǎoqǐlái de.
 English: Don't worry, everything will be all right.
 
 Chinese: 别在雨中走，你会淋湿的。
@@ -307,7 +307,7 @@ Pinyin: Tā chídào le, yīnwèi tā cuòguò le gōngjiāochē.
 English: She was late because she missed the bus.
 
 Chinese: 孩子们因为高兴而跳了起来。
-Pinyin: Háizimen yīnwèi gāoxìng ér tiào le qǐlái.
+Pinyin: Háizimen yīnwèi gāoxìng ér tiào le qilai.
 English: The children jumped up because they were happy.
 
 Chinese: 因为天冷，我穿上了厚外套。
@@ -355,7 +355,7 @@ Pinyin: Wǒmen kěyǐ zǒulù qù, dànshì huì hěn màn.
 English: We can walk there, but it will be slow.
 
 Chinese: 这道菜看起来很好吃，但是太辣了。
-Pinyin: Zhè dào cài kàn qǐlái hěn hǎochī, dànshì tài là le.
+Pinyin: Zhè dào cài kàn qilai hěn hǎochī, dànshì tài là le.
 English: This dish looks very delicious, but it's too spicy.
 
 Chinese: 从这里到那里很远。
@@ -1171,7 +1171,7 @@ Pinyin: Tā shòushāng hòu, shēntǐ biàn de xūruò.
 English: After he got injured, his body became weak.
 
 Chinese: 每天锻炼身体对健康很有好处。
-Pinyin: Měitiān duànliàn shēntǐ duì jiànkāng hěn yǒu hǎochù.
+Pinyin: Měitiān duànliàn shēntǐ duì jiànkāng hěn yǒu hǎochu.
 English: Exercising every day is very beneficial to your health.
 
 Chinese: 她对艺术有着非常敏感的身体。
@@ -1187,7 +1187,7 @@ Pinyin: Zhè liàng gōnggòng qìchē yǐjīng mǎnyuán le.
 English: This bus is already full.
 
 Chinese: 公共汽车是我最便宜的交通工具之一。
-Pinyin: Gōnggòng qìchē shì wǒ zuì piányí de jiāotōng gōngjù zhī yī.
+Pinyin: Gōnggòng qìchē shì wǒ zuì piányi de jiāotōng gōngjù zhī yī.
 English: The bus is one of the cheapest transportation options for me.
 
 Chinese: 公共汽车站点在市中心附近。
@@ -2671,15 +2671,15 @@ Pinyin: zhè gè yǎnyuán zài bùtóng juésè zhōng biànchéng le bùtóng 
 English: This actor becomes different people in different roles.
 
 Chinese: 我想变成一名医生。
-Pinyin: Wǒ xiǎng biàn chéng yī míng yīshēng.
+Pinyin: Wǒ xiǎng biànchéng yī míng yīshēng.
 English: I want to become a doctor.
 
 Chinese: 他的梦想是变成一位作家。
-Pinyin: Tā de mèngxiǎng shì biàn chéng yī wèi zuòjiā.
+Pinyin: Tā de mèngxiǎng shì biànchéng yī wèi zuòjiā.
 English: His dream is to become a writer.
 
 Chinese: 我希望孩子能变成一个有爱心的人。
-Pinyin: Wǒ xīwàng háizi néng biàn chéng yī gè yǒu àixīn de rén.
+Pinyin: Wǒ xīwàng háizi néng biànchéng yī gè yǒu àixīn de rén.
 English: I hope my child can become a loving person.
 
 Chinese: 时间会改变我们。
@@ -2687,23 +2687,23 @@ Pinyin: Shíjiān huì gǎibiàn wǒmen.
 English: Time will change us.
 
 Chinese: 她很快就变成了一位优秀的演员。
-Pinyin: Tā hěn kuài jiù biàn chéng le yī wèi yōuxiù de yǎnyuán.
+Pinyin: Tā hěn kuài jiù biànchéng le yī wèi yōuxiù de yǎnyuán.
 English: She quickly became an excellent actress.
 
 Chinese: 糖变成了糖浆。
-Pinyin: Táng biàn chéng le tángjiāng.
+Pinyin: Táng biànchéng le tángjiāng.
 English: The sugar turned into syrup.
 
 Chinese: 悲伤逐渐变成了笑声。
-Pinyin: Bēishāng zhújiàn biàn chéng le xiào shēng.
+Pinyin: Bēishāng zhújiàn biànchéng le xiào shēng.
 English: Sadness gradually turned into laughter.
 
 Chinese: 天气突然变成了晴朗。
-Pinyin: Tiānqì tūrán biàn chéng le qínglǎng.
+Pinyin: Tiānqì tūrán biànchéng le qínglǎng.
 English: The weather suddenly turned sunny.
 
 Chinese: 她的工作让她变成了一个自信的人。
-Pinyin: Tā de gōngzuò ràng tā biàn chéng le yī gè zìxìn de rén.
+Pinyin: Tā de gōngzuò ràng tā biànchéng le yī gè zìxìn de rén.
 English: Her job made her become a confident person.
 
 Chinese: 我们的计划发生了变化。
@@ -3111,7 +3111,7 @@ Pinyin: Zhè gè chéngshì bùrú nàgè chéngshì ānjìng.
 English: This city is not as quiet as that city.
 
 Chinese: 钢笔不如铅笔便宜。
-Pinyin: Gāngbǐ bùrú qiānbǐ piányí.
+Pinyin: Gāngbǐ bùrú qiānbǐ piányi.
 English: Fountain pens are not as cheap as pencils.
 
 Chinese: 这个菜不如那道菜好吃。
@@ -3375,7 +3375,7 @@ Pinyin: Tā de huà bùyídìng duì.
 English: What he says is not always right.
 
 Chinese: 便宜不一定好。
-Pinyin: Piányí bùyídìng hǎo.
+Pinyin: piányi bùyídìng hǎo.
 English: Cheap is not always good.
 
 Chinese: 她不一定在家。
@@ -3385,3 +3385,83 @@ English: She might not be at home.
 Chinese: 我不一定同意。
 Pinyin: Wǒ bùyídìng tóngyì.
 English: I may not agree.
+
+Chinese: 毛毛虫变成蝴蝶。
+Pinyin: Máomáochóng biànchéng húdié.
+English: The caterpillar turned into a butterfly.
+
+Chinese: 雨变成雪了。
+Pinyin: Yǔ biànchéng xuě le.
+English: The rain turned into snow.
+
+Chinese: 水变成冰了。
+Pinyin: Shuǐ biànchéng bīng le.
+English: The water turned into ice.
+
+Chinese: 小树变成大树。
+Pinyin: Xiǎoshù biànchéng dà shù.
+English: The small tree turned into a big tree.
+
+Chinese: 他变成了老师。
+Pinyin: Tā biànchéng le lǎoshī.
+English: He became a teacher.
+
+Chinese: 她变成了妈妈。
+Pinyin: Tā biànchéng le māma.
+English: She became a mother.
+
+Chinese: 夏天变成秋天。
+Pinyin: Xiàtiān biànchéng qiūtiān.
+English: Summer turned into autumn.
+
+Chinese: 生气变成快乐。
+Pinyin: Shēngqì biànchéng kuàilè.
+English: Anger turned into happiness.
+
+Chinese: 小鸟变成大鸟。
+Pinyin: Xiǎoniǎo biànchéng dà niǎo.
+English: The little bird turned into a big bird.
+
+Chinese: 小河变成大河。
+Pinyin: Xiǎohé biànchéng dàhé.
+English: The small river turned into a big river.
+
+Chinese: 这个表很漂亮。
+Pinyin: Zhè gè biǎo hěn piàoliàng.
+English: This watch is very beautiful.
+
+Chinese: 他送给我一块表。
+Pinyin: Tā sòng gěi wǒ yí kuài biǎo.
+English: He gave me a watch.
+
+Chinese: 我忘记戴表了。
+Pinyin: Wǒ wàngjì dài biǎo le.
+English: I forgot to wear my watch.
+
+Chinese: 那块表很贵。
+Pinyin: Nà kuài biǎo hěn guì.
+English: That watch is very expensive.
+
+Chinese: 这个表走得很准。
+Pinyin: Zhè gè biǎo zǒu de hěn zhǔn.
+English: This watch keeps good time.
+
+Chinese: 她喜欢那块表。
+Pinyin: Tā xǐhuān nà kuài biǎo.
+English: She likes that watch.
+
+Chinese: 请问这块表多少钱？
+Pinyin: Qǐng wèn zhè kuài biǎo duōshǎo qián?
+English: How much is this watch, please?
+
+Chinese: 你的表停了。
+Pinyin: Nǐ de biǎo tíng le.
+English: Your watch has stopped.
+
+Chinese: 他的新表很好看。
+Pinyin: Tā de xīn biǎo hěn hǎokàn.
+English: His new watch looks great.
+
+Chinese: 我需要一个新表。
+Pinyin: Wǒ xūyào yī gè xīn biǎo.
+English: I need a new watch.

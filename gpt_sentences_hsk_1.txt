@@ -8671,7 +8671,7 @@ Pinyin: Tā jìn le fángjiān.
 English: He entered the room.
 
 Chinese: 她每天听写一个小时。
-Pinyin: Tā měitiān tīngxiě yí gè xiǎoshí.
+Pinyin: Tā měitiān tīngxiě yī gè xiǎoshí.
 English: She does dictation for one hour every day.
 
 Chinese: 他在准备听写考试。
