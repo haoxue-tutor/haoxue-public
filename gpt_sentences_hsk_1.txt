@@ -2162,14 +2162,6 @@ Chinese: 我们教室外面的窗户上贴着一张通知，你看见了吗？
 Pinyin: Wǒmen jiàoshì wàimiàn de chuānghu shàng tiē zhe yī zhāng tōngzhī, nǐ kànjiàn le ma?
 English: There is a notice posted on the window outside our classroom, did you see it?
 
-Chinese: 这个小狗叫汤姆。
-Pinyin: Zhè gè xiǎo gǒu jiào tāng mǔ.
-English: This little dog is called Tom.
-
-Chinese: 我叫杰克。
-Pinyin: Wǒ jiào jié kè.
-English: My name is Jack.
-
 Chinese: 他们叫我去开会。
 Pinyin: Tāmen jiào wǒ qù kāihuì.
 English: They asked me to attend the meeting.
