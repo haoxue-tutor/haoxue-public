@@ -1143,7 +1143,7 @@ Pinyin: zhè shì qù nián de zhào piàn.
 English: This is a photo from last year.
 
 Chinese: 她已经三年没回来了。
-Pinyin: tā yǐ jīng sān nián méi huí lái le.
+Pinyin: tā yǐjīng sān nián méi huílái le.
 English: She hasn't come back for three years.
 
 Chinese: 今天是十月一日。
@@ -6255,7 +6255,7 @@ Pinyin: Nǐ zài gànshénme ne? Wǒ zài zuò zuòyè.
 English: What are you up to? I'm doing homework.
 
 Chinese: 你在干什么呢？为什么不回答我？
-Pinyin: Nǐ zài gànshénme ne? Wèishénme bù huí dá wǒ?
+Pinyin: Nǐ zài gànshénme ne? Wèishénme bù huídá wǒ?
 English: What are you doing? Why aren't you answering me?
 
 Chinese: 你在干什么呢？我能帮忙吗？
@@ -8661,3 +8661,39 @@ English: There are many cars on the road.
 Chinese: 忘记了也没关系。
 Pinyin: Wàngjì le yě méiguānxi.
 English: It's okay if you forgot.
+
+Chinese: 他会回电话。
+Pinyin: Tā huì huí diànhuà.
+English: He will return the call.
+
+Chinese: 他进了房间。
+Pinyin: Tā jìn le fángjiān.
+English: He entered the room.
+
+Chinese: 她每天听写一个小时。
+Pinyin: Tā měitiān tīngxiě yí gè xiǎoshí.
+English: She does dictation for one hour every day.
+
+Chinese: 他在准备听写考试。
+Pinyin: Tā zài zhǔnbèi tīngxiě kǎoshì.
+English: He is preparing for the dictation test.
+
+Chinese: 老师让我们听写。
+Pinyin: Lǎoshī ràng wǒmen tīngxiě.
+English: The teacher asked us to do dictation.
+
+Chinese: 我们唱起来吧。
+Pinyin: Wǒmen chàng qilai ba.
+English: Let's start singing.
+
+Chinese: 他跑起来了。
+Pinyin: Tā pǎo qilai le.
+English: He started running.
+
+Chinese: 车开起来了。
+Pinyin: Chē kāi qilai le.
+English: The car started moving.
+
+Chinese: 她笑起来了。
+Pinyin: Tā xiào qilai le.
+English: She started laughing.

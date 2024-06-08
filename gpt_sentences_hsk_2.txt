@@ -103,7 +103,7 @@ Pinyin: Tā fēicháng xǐhuan yīnyuè.
 English: He really likes music.
 
 Chinese: 这个菜非常好吃。
-Pinyin: zhè gè cài fēicháng hào chī.
+Pinyin: Zhè gè cài fēicháng hào chī.
 English: This dish is very delicious.
 
 Chinese: 她是一位非常聪明的学生。
@@ -2877,3 +2877,511 @@ English: In the north, the summer days are long and the nights are short.
 Chinese: 她背着一个大包。
 Pinyin: Tā bēizhe yī gè dà bāo.
 English: She's carrying a large bag on her back.
+
+Chinese: 我喜欢很多运动，比如游泳。
+Pinyin: Wǒ xǐhuān hěn duō yùndòng, bǐrú yóuyǒng.
+English: I like many sports, for example, swimming.
+
+Chinese: 我会做很多菜，比如炒饭。
+Pinyin: Wǒ huì zuò hěn duō cài, bǐrú chǎofàn.
+English: I can cook many dishes, for example, fried rice.
+
+Chinese: 她喜欢旅游，比如去海滩。
+Pinyin: Tā xǐhuān lǚyóu, bǐrú qù hǎitān.
+English: She likes traveling, for example, going to the beach.
+
+Chinese: 他会很多乐器，比如钢琴。
+Pinyin: Tā huì hěn duō yuèqì, bǐrú gāngqín.
+English: He can play many instruments, for example, the piano.
+
+Chinese: 这里有很多树，比如松树。
+Pinyin: Zhèlǐ yǒu hěn duō shù, bǐrú sōngshù.
+English: There are many trees here, for example, pine trees.
+
+Chinese: 比如说，我们可以去公园。
+Pinyin: Bǐrúshuō, wǒmen kěyǐ qù gōngyuán.
+English: For example, we can go to the park.
+
+Chinese: 我的笔记很好。
+Pinyin: Wǒ de bǐjì hěn hǎo.
+English: My notes are very good.
+
+Chinese: 请把笔记借给我。
+Pinyin: Qǐng bǎ bǐjì jiè gěi wǒ.
+English: Please lend me your notes.
+
+Chinese: 我忘记带笔记了。
+Pinyin: Wǒ wàngjì dài bǐjì le.
+English: I forgot to bring my notes.
+
+Chinese: 他在课堂上记笔记。
+Pinyin: Tā zài kètáng shàng jì bǐjì.
+English: He takes notes in class.
+
+Chinese: 这些笔记很重要。
+Pinyin: Zhèxiē bǐjì hěn zhòngyào.
+English: These notes are very important.
+
+Chinese: 我买了一个新的笔记本。
+Pinyin: Wǒ mǎi le yī gè xīn de bǐjìběn.
+English: I bought a new notebook.
+
+Chinese: 这个笔记本很贵。
+Pinyin: Zhè gè bǐjìběn hěn guì.
+English: This notebook is very expensive.
+
+Chinese: 她忘记带笔记本了。
+Pinyin: Tā wàngjì dài bǐjìběn le.
+English: She forgot to bring the notebook.
+
+Chinese: 笔记本在桌子上。
+Pinyin: Bǐjìběn zài zhuōzi shàng.
+English: The notebook is on the table.
+
+Chinese: 你可以借我你的笔记本吗？
+Pinyin: Nǐ kěyǐ jiè wǒ nǐ de bǐjìběn ma?
+English: Can you lend me your notebook?
+
+Chinese: 我们必须早起。
+Pinyin: Wǒmen bìxū zǎoqǐ.
+English: We must get up early.
+
+Chinese: 你必须努力学习。
+Pinyin: Nǐ bìxū nǔlì xuéxí.
+English: You must study hard.
+
+Chinese: 他必须去医院。
+Pinyin: Tā bìxū qù yīyuàn.
+English: He must go to the hospital.
+
+Chinese: 这件事必须做。
+Pinyin: Zhè jiàn shì bìxū zuò.
+English: This matter must be done.
+
+Chinese: 你们必须参加会议。
+Pinyin: Nǐmen bìxū cānjiā huìyì.
+English: You must attend the meeting.
+
+Chinese: 小猫跳上了我的背。
+Pinyin: Xiǎomāo tiào shàng le wǒ de bèi.
+English: The kitten jumped onto my back.
+
+Chinese: 他背对着我们。
+Pinyin: Tā bèi duì zhe wǒmen.
+English: He has his back to us.
+
+Chinese: 她不但聪明，而且努力。
+Pinyin: Tā bùdàn cōngmíng, érqiě nǔlì.
+English: She is not only smart but also hardworking.
+
+Chinese: 这道菜不但好吃，还很健康。
+Pinyin: Zhè dào cài bùdàn hǎochī, hái hěn jiànkāng.
+English: This dish is not only delicious but also healthy.
+
+Chinese: 他不但会唱歌，还会跳舞。
+Pinyin: Tā bùdàn huì chànggē, hái huì tiàowǔ.
+English: He not only can sing but also can dance.
+
+Chinese: 这本书不但有趣，而且很有用。
+Pinyin: Zhè běn shū bùdàn yǒuqù, érqiě hěn yǒuyòng.
+English: This book is not only interesting but also very useful.
+
+Chinese: 今天不但温暖，而且阳光明媚。
+Pinyin: Jīntiān bùdàn wēnnuǎn, érqiě yángguāng míngmèi.
+English: Today is not only warm but also sunny.
+
+Chinese: 这个菜不够辣。
+Pinyin: Zhè gè cài bùgòu là.
+English: This dish is not spicy enough.
+
+Chinese: 钱不够买票。
+Pinyin: Qián bùgòu mǎi piào.
+English: There is not enough money to buy the ticket.
+
+Chinese: 时间不够用。
+Pinyin: Shí jiān bùgòu yòng.
+English: There is not enough time.
+
+Chinese: 房间不够大。
+Pinyin: Fáng jiān bùgòu dà.
+English: The room is not big enough.
+
+Chinese: 食物不够我们吃。
+Pinyin: Shí wù bùgòu wǒ men chī.
+English: There is not enough food for us.
+
+Chinese: 今天很冷，不过没有下雨。
+Pinyin: Jīntiān hěn lěng, bùguò méiyǒu xiàyǔ.
+English: Today is cold, but it's not raining.
+
+Chinese: 他很聪明，不过很懒。
+Pinyin: Tā hěn cōngming, bùguò hěn lǎn.
+English: He is smart, but lazy.
+
+Chinese: 我喜欢这个颜色，不过有点贵。
+Pinyin: Wǒ xǐhuan zhège yánsè, bùguò yǒudiǎn guì.
+English: I like this color, but it's a bit expensive.
+
+Chinese: 她想去，不过没有时间。
+Pinyin: Tā xiǎng qù, bùguò méiyǒu shíjiān.
+English: She wants to go, but she doesn't have time.
+
+Chinese: 这饭很好吃，不过有点咸。
+Pinyin: Zhè fàn hěn hǎochī, bùguò yǒudiǎn xián.
+English: This meal is delicious, but a bit salty.
+
+Chinese: 不好意思，请问厕所在哪？
+Pinyin: Bùhǎoyìsi, qǐngwèn cèsuǒ zài nǎ?
+English: Excuse me, where is the bathroom?
+
+Chinese: 不好意思，我不明白。
+Pinyin: Bùhǎoyìsi, wǒ bù míngbái.
+English: Sorry, I don't understand.
+
+Chinese: 不好意思，可以帮我一下吗？
+Pinyin: Bùhǎoyìsi, kě yǐ bāng wǒ yíxià ma?
+English: Sorry, can you help me for a moment?
+
+Chinese: 天不久就会黑了。
+Pinyin: Tiān bùjiǔ jiù huì hēi le.
+English: It will get dark soon.
+
+Chinese: 他不久就回来了。
+Pinyin: Tā bùjiǔ jiù huílái le.
+English: He came back soon.
+
+Chinese: 我们不久会见面。
+Pinyin: Wǒmen bùjiǔ huì jiànmiàn.
+English: We will meet soon.
+
+Chinese: 车不久就来了。
+Pinyin: Chē bùjiǔ jiù lái le.
+English: The bus arrived soon.
+
+Chinese: 春天不久就要来了。
+Pinyin: Chūntiān bùjiǔ jiù yào lái le.
+English: Spring will come soon.
+
+Chinese: 他对工作很不满。
+Pinyin: Tā duì gōngzuò hěn bùmǎn.
+English: He is very dissatisfied with his job.
+
+Chinese: 她对结果不满。
+Pinyin: Tā duì jiéguǒ bùmǎn.
+English: She is dissatisfied with the result.
+
+Chinese: 我们都对服务不满。
+Pinyin: Wǒmen dōu duì fúwù bùmǎn.
+English: We are all dissatisfied with the service.
+
+Chinese: 顾客对价格不满。
+Pinyin: Gùkè duì jiàgé bùmǎn.
+English: The customer is dissatisfied with the price.
+
+Chinese: 孩子们对食物不满。
+Pinyin: Háizimen duì shíwù bùmǎn.
+English: The children are dissatisfied with the food.
+
+Chinese: 他不如我高。
+Pinyin: Tā bùrú wǒ gāo.
+English: He is not as tall as me.
+
+Chinese: 这本书不如那本书好。
+Pinyin: Zhè běn shū bùrú nà běn shū hǎo.
+English: This book is not as good as that book.
+
+Chinese: 运动不如休息舒服。
+Pinyin: Yùndòng bùrú xiūxí shūfú.
+English: Exercise is not as comfortable as resting.
+
+Chinese: 这张椅子不如那张椅子舒适。
+Pinyin: Zhè zhāng yǐzi bùrú nà zhāng yǐzi shūshì.
+English: This chair is not as comfortable as that chair.
+
+Chinese: 那个网站不如这个网站快。
+Pinyin: Nàgè wǎngzhàn bùrú zhège wǎngzhàn kuài.
+English: That website is not as fast as this website.
+
+Chinese: 我的中文不如你的好。
+Pinyin: Wǒ de zhōngwén bùrú nǐ de hǎo.
+English: My Chinese is not as good as yours.
+
+Chinese: 这个城市不如那个城市安静。
+Pinyin: Zhè gè chéngshì bùrú nàgè chéngshì ānjìng.
+English: This city is not as quiet as that city.
+
+Chinese: 钢笔不如铅笔便宜。
+Pinyin: Gāngbǐ bùrú qiānbǐ piányí.
+English: Fountain pens are not as cheap as pencils.
+
+Chinese: 这个菜不如那道菜好吃。
+Pinyin: Zhè gè cài bùrú nà dào cài hǎochī.
+English: This dish is not as tasty as that dish.
+
+Chinese: 这部电影不如那部电影有趣。
+Pinyin: Zhè bù diànyǐng bùrú nà bù diànyǐng yǒuqù.
+English: This movie is not as interesting as that movie.
+
+Chinese: 这家店的客人不少。
+Pinyin: Zhè jiā diàn de kèrén bùshǎo.
+English: There are many customers in this store.
+
+Chinese: 这本书的页数不少。
+Pinyin: Zhè běn shū de yè shù bùshǎo.
+English: This book has a lot of pages.
+
+Chinese: 我家的植物不少。
+Pinyin: Wǒ jiā de zhíwù bùshǎo.
+English: There are many plants in my house.
+
+Chinese: 餐厅的菜品不少。
+Pinyin: Cāntīng de càipǐn bùshǎo.
+English: The restaurant has a variety of dishes.
+
+Chinese: 这条街上的商店不少。
+Pinyin: Zhè tiáo jiēshàng de shāngdiàn bùshǎo.
+English: There are many shops on this street.
+
+Chinese: 我的朋友不少。
+Pinyin: Wǒ de péngyǒu bùshǎo.
+English: I have many friends.
+
+Chinese: 这个城市的景点不少。
+Pinyin: Zhège chéngshì de jǐngdiǎn bùshǎo.
+English: There are many attractions in this city.
+
+Chinese: 这些饼干的口味不少。
+Pinyin: Zhèxiē bǐnggān de kǒuwèi bùshǎo.
+English: These cookies have various flavors.
+
+Chinese: 这个公园的游客不少。
+Pinyin: Zhè gè gōngyuán de yóukè bùshǎo.
+English: There are many tourists in this park.
+
+Chinese: 这所学校的学生不少。
+Pinyin: Zhè suǒ xuéxiào de xuéshēng bùshǎo.
+English: There are many students in this school.
+
+Chinese: 这个玩具不行。
+Pinyin: Zhège wánjù bùxíng.
+English: This toy is not working.
+
+Chinese: 我不能吃辣的食物，吃了会不行。
+Pinyin: Wǒ bùnéng chī là de shíwù, chī le huì bùxíng.
+English: I can't eat spicy food, it will not be okay.
+
+Chinese: 这个答案不行。
+Pinyin: Zhège dá'àn bùxíng.
+English: This answer is not acceptable.
+
+Chinese: 他弟弟太小，不行去看电影。
+Pinyin: Tā dìdi tài xiǎo, bùxíng qù kàn diànyǐng.
+English: His younger brother is too small, can't go to watch a movie.
+
+Chinese: 明天的计划不行了，要改一下。
+Pinyin: Míngtiān de jìhuà bùxíngle, yào gǎi yíxià.
+English: Tomorrow's plan is not feasible, it needs to be changed.
+
+Chinese: 这辆自行车不行了，需要修理。
+Pinyin: Zhè liàng zìxíngchē bùxíngle, xūyào xiūlǐ.
+English: This bicycle is not working, it needs to be repaired.
+
+Chinese: 孩子的画不行，要再润色一下。
+Pinyin: Háizi de huà bùxíng, yào zài rùnsè yíxià.
+English: The child's painting is not good, needs some touch-up.
+
+Chinese: 火车晚点了，我们不行赶得上飞机。
+Pinyin: Huǒchē wǎndiǎn le, wǒmen bù xíng gǎn dé shàng fēijī.
+English: The train is delayed, we can't catch the plane.
+
+Chinese: 这本书不行，太难了。
+Pinyin: Zhè běn shū bùxíng, tài nán le.
+English: This book is not suitable, it's too difficult.
+
+Chinese: 这是一支红笔。
+Pinyin: Zhè shì yī zhī hóng bǐ.
+English: This is a red pen.
+
+Chinese: 我需要一支笔。
+Pinyin: Wǒ xūyào yī zhī bǐ.
+English: I need a pen.
+
+Chinese: 这支笔很好写。
+Pinyin: Zhè zhī bǐ hěn hǎo xiě.
+English: This pen writes well.
+
+Chinese: 请借我一支笔。
+Pinyin: Qǐng jiè wǒ yī zhī bǐ.
+English: Please lend me a pen.
+
+Chinese: 这是我的笔。
+Pinyin: Zhè shì wǒ de bǐ.
+English: This is my pen.
+
+Chinese: 他有很多不同颜色的笔。
+Pinyin: Tā yǒu hěn duō bùtóng yánsè de bǐ.
+English: He has many pens of different colors.
+
+Chinese: 请用笔写下来。
+Pinyin: Qǐng yòng bǐ xiě xiàlái.
+English: Please write it down with a pen.
+
+Chinese: 这支笔是黑色的。
+Pinyin: Zhè zhī bǐ shì hēisè de.
+English: This pen is black.
+
+Chinese: 我找不到我的笔。
+Pinyin: Wǒ zhǎo bù dào wǒ de bǐ.
+English: I can't find my pen.
+
+Chinese: 我的笔在书包里。
+Pinyin: Wǒ de bǐ zài shūbāo lǐ.
+English: My pen is in the school bag.
+
+Chinese: 他拥有许多爱好，比如画画和玩游戏。
+Pinyin: Tā yǒngyǒu xǔduō àihào, bǐrú huà huà hé wán yóuxì.
+English: He has many hobbies, such as painting and playing games.
+
+Chinese: 我们可以做许多事情，比如散步或者看电影。
+Pinyin: Wǒmen kěyǐ zuò xǔduō shìqíng, bǐrú sànbù huòzhě kàn diànyǐng.
+English: We can do many things, such as taking a walk or watching a movie.
+
+Chinese: 他喜欢参加各种活动，比如跳舞和唱歌。
+Pinyin: Tā xǐhuān cānjiā gèzhǒng huódòng, bǐrú tiàowǔ hé chànggē.
+English: He likes to participate in various activities, such as dancing and singing.
+
+Chinese: 我要看菜单。
+Pinyin: Wǒ yào kàn càidān.
+English: I want to see the menu.
+
+Chinese: 这是菜单。
+Pinyin: Zhè shì càidān.
+English: This is the menu.
+
+Chinese: 我想点菜。
+Pinyin: Wǒ xiǎng diǎn cài.
+English: I want to order dishes.
+
+Chinese: 请给我菜单。
+Pinyin: Qǐng gěi wǒ càidān.
+English: Please give me the menu.
+
+Chinese: 这个菜单有中文和英文。
+Pinyin: Zhège càidān yǒu zhōngwén hé yīngwén.
+English: This menu has Chinese and English.
+
+Chinese: 你能帮我翻菜单吗？
+Pinyin: Nǐ néng bāng wǒ fān càidān ma?
+English: Can you help me translate the menu?
+
+Chinese: 我们去参观动物园。
+Pinyin: Wǒmen qù cānguān dòngwùyuán.
+English: We are going to visit the zoo.
+
+Chinese: 明天我要参观博物馆。
+Pinyin: Míngtiān wǒ yào cānguān bówùguǎn.
+English: Tomorrow I will visit the museum.
+
+Chinese: 你喜欢参观历史古迹吗？
+Pinyin: Nǐ xǐhuān cānguān lìshǐ gǔjì ma?
+English: Do you like to visit historical sites?
+
+Chinese: 小朋友很喜欢参观海洋生物。
+Pinyin: Xiǎopéngyǒu hěn xǐhuān cānguān hǎiyáng shēngwù.
+English: Kids love to visit marine life.
+
+Chinese: 我们可以参观工厂吗？
+Pinyin: Wǒmen kěyǐ cānguān gōngchǎng ma?
+English: Can we visit the factory?
+
+Chinese: 周末我们一起去参观古城。
+Pinyin: Zhōumò wǒmen yīqǐ qù cānguān gǔchéng.
+English: Let's go visit the ancient city together on the weekend.
+
+Chinese: 参观花园需要门票吗？
+Pinyin: Cānguān huāyuán xūyào ménpiào ma?
+English: Do we need tickets to visit the garden?
+
+Chinese: 我们准备明天早上去参观山区。
+Pinyin: Wǒmen zhǔnbèi míngtiān zǎoshang qù cānguān shānqū.
+English: We are planning to visit the mountain area tomorrow morning.
+
+Chinese: 请跟着导游参观博物馆。
+Pinyin: Qǐng gēnzhe dǎoyóu cānguān bówùguǎn.
+English: Please follow the guide to visit the museum.
+
+Chinese: 他们正在参观科技展览。
+Pinyin: Tāmen zhèngzài cānguān kējì zhǎnlǎn.
+English: They are currently visiting the science and technology exhibition.
+
+Chinese: 狗在草地上跑。
+Pinyin: Gǒu zài cǎodì shàng pǎo.
+English: The dog is running on the grass.
+ 
+Chinese: 孩子们在草地上玩耍。
+Pinyin: Háizi men zài cǎodì shàng wánshuǎ.
+English: The children are playing on the grass.
+
+Chinese: 我喜欢在草地上野餐。
+Pinyin: Wǒ xǐhuān zài cǎodì shàng yěcān.
+English: I enjoy having a picnic on the grass.
+
+Chinese: 太阳下草地变得很暖和。
+Pinyin: Tàiyáng xià cǎodì biàn dé hěn nuǎnhuo.
+English: The grass becomes warm under the sun.
+
+Chinese: 草地上有很多漂亮的花儿。
+Pinyin: Cǎodì shàng yǒu hěn duō piàoliang de huār.
+English: There are many beautiful flowers on the grass.
+
+Chinese: 跑步是在草地上运动。
+Pinyin: Pǎobù shì zài cǎodì shàng yùndòng.
+English: Running is a sport on the grass.
+
+Chinese: 老鼠在草地里寻找食物。
+Pinyin: Lǎoshǔ zài cǎodì lǐ xúnzhǎo shíwù.
+English: The mouse is looking for food in the grass.
+
+Chinese: 我们在草地上放了一个帐篷。
+Pinyin: Wǒmen zài cǎodì shàng fàng le yī gè zhàngpeng.
+English: We put up a tent on the grass.
+
+Chinese: 在草地上踢足球是很有趣的。
+Pinyin: Zài cǎodì shàng tī zúqiú shì hěn yǒuqù de.
+English: Playing soccer on the grass is very fun.
+
+Chinese: 草地上有很多小动物。
+Pinyin: Cǎodì shàng yǒu hěn duō xiǎo dòngwù.
+English: There are many small animals on the grass.
+
+Chinese: 天气预报不一定准。
+Pinyin: Tiānqì yùbào bùyídìng zhǔn.
+English: The weather forecast is not always accurate.
+
+Chinese: 狗不一定友好。
+Pinyin: Gǒu bùyídìng yǒu hǎo.
+English: Dogs are not always friendly.
+
+Chinese: 明天不一定下雨。
+Pinyin: Míngtiān bùyídìng xiàyǔ.
+English: It may not rain tomorrow.
+
+Chinese: 成功不一定容易。
+Pinyin: Chénggōng bùyídìng róngyì.
+English: Success is not always easy.
+
+Chinese: 他的话不一定对。
+Pinyin: Tā de huà bùyídìng duì.
+English: What he says is not always right.
+
+Chinese: 便宜不一定好。
+Pinyin: Piányí bùyídìng hǎo.
+English: Cheap is not always good.
+
+Chinese: 她不一定在家。
+Pinyin: Tā bùyídìng zài jiā.
+English: She might not be at home.
+
+Chinese: 我不一定同意。
+Pinyin: Wǒ bùyídìng tóngyì.
+English: I may not agree.
