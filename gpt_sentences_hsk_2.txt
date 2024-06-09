@@ -3334,10 +3334,6 @@ Chinese: 草地上有很多漂亮的花儿。
 Pinyin: Cǎodì shàng yǒu hěn duō piàoliang de huār.
 English: There are many beautiful flowers on the grass.
 
-Chinese: 跑步是在草地上运动。
-Pinyin: Pǎobù shì zài cǎodì shàng yùndòng.
-English: Running is a sport on the grass.
-
 Chinese: 老鼠在草地里寻找食物。
 Pinyin: Lǎoshǔ zài cǎodì lǐ xúnzhǎo shíwù.
 English: The mouse is looking for food in the grass.

@@ -248,7 +248,7 @@ Pinyin: tā yòu gāo yòu shuài.
 
 Chinese: 昨天是又冷又下雨的一天。
 English: Yesterday was a cold and rainy day.
-Pinyin: zuótiān shì yòu lěng yòu xià yǔ de yī tiān.
+Pinyin: zuótiān shì yòu lěng yòu xiàyǔ de yī tiān.
 
 Chinese: 我又饿又累。
 English: I am both hungry and tired.
@@ -939,7 +939,7 @@ Pinyin: māma xià lóutī shuāi shāng le.
 English: Mom fell down the stairs and got injured.
 
 Chinese: 快下雨了。
-Pinyin: kuài xià yǔ le.
+Pinyin: kuài xiàyǔ le.
 English: It's going to rain soon.
 
 Chinese: 上班开车时要系好安全带，下班时要关好门窗。
@@ -1015,7 +1015,7 @@ Pinyin: wǒ jīntiān yǒu hěn duō gōngzuò yào zuò.
 English: I have a lot of work to do today.
 
 Chinese: 今天是星期几？
-Pinyin: jīntiān shì xīng qī jǐ?
+Pinyin: jīntiān shì xīngqījǐ?
 English: What day is it today?
 
 Chinese: 今天晚上我要去看电影。
@@ -1035,7 +1035,7 @@ Pinyin: Wǒmen míngtiān qù lǚxíng.
 English: We are going on a trip tomorrow.
 
 Chinese: 明天会下雨。
-Pinyin: Míngtiān huì xià yǔ.
+Pinyin: Míngtiān huì xiàyǔ.
 English: It will rain tomorrow.
 
 Chinese: 明天是我的生日。
@@ -1763,7 +1763,7 @@ Pinyin: Wǒmen yīnggāi guānzhù tiānqì yùbào.
 English: We should pay attention to the weather forecast.
 
 Chinese: 明天的天气可能会下雨。
-Pinyin: Míngtiān de tiānqì kěnéng huì xià yǔ.
+Pinyin: Míngtiān de tiānqì kěnéng huì xiàyǔ.
 English: It may rain tomorrow.
 
 Chinese: 天气转凉了，记得穿上外套。
@@ -1807,7 +1807,7 @@ Pinyin: Wǒ xǐhuan yǎng gǒu.
 English: I like to raise dogs.
 
 Chinese: 她的家里有一只小狗。
-Pinyin: Tā de jiālǐ yǒu yī zhǐ xiǎo gǒu.
+Pinyin: Tā de jiālǐ yǒu yī zhǐ xiǎogǒu.
 English: There is a small dog in her house.
 
 Chinese: 我怕狗。
@@ -2143,7 +2143,7 @@ Pinyin: Bàogào hái méiyǒu xiě wán.
 English: The report is not written yet.
 
 Chinese: 我看见一只小狗在公园里跑。
-Pinyin: Wǒ kànjiàn yī zhī xiǎo gǒu zài gōngyuán lǐ pǎo.
+Pinyin: Wǒ kànjiàn yī zhī xiǎogǒu zài gōngyuán lǐ pǎo.
 English: I saw a little dog running in the park.
 
 Chinese: 小明昨天晚上没看见妈妈回家。
@@ -2366,10 +2366,6 @@ Chinese: 她要去超市买食物。
 Pinyin: Tā yào qù chāoshì mǎi shíwù.
 English: She is going to the supermarket to buy food.
 
-Chinese: 请开门。
-Pinyin: Qǐng kāimén.
-English: Please open the door.
-
 Chinese: 他开车很快。
 Pinyin: Tā kāichē hěn kuài.
 English: He drives fast.
@@ -2405,10 +2401,6 @@ English: He enjoys traveling by train.
 Chinese: 老人坐在公园里晒太阳。
 Pinyin: Lǎorén zuò zài gōngyuán lǐ shài tàiyang.
 English: The elderly person is sitting in the park sunbathing.
-
-Chinese: 请坐下。
-Pinyin: Qǐngzuò xià.
-English: Please sit down.
 
 Chinese: 他坐在椅子上。
 Pinyin: Tā zuò zài yǐzi shàng.
@@ -2487,19 +2479,19 @@ Pinyin: Tā duì gōngzuò chōngmǎn rèqíng hé dònglì.
 English: He is enthusiastic and motivated about his work.
 
 Chinese: 外面正在下雨。
-Pinyin: Wàimiàn zhèngzài xià yǔ.
+Pinyin: Wàimiàn zhèngzài xiàyǔ.
 English: It is raining outside.
 
 Chinese: 昨天下了一场大雨。
-Pinyin: Zuótiān xià le yī chǎng dà yǔ.
+Pinyin: Zuótiān xià le yī chǎng dàyǔ.
 English: There was a heavy rain yesterday.
 
 Chinese: 我希望明天不会下雨。
-Pinyin: Wǒ xīwàng míngtiān bù huì xià yǔ.
+Pinyin: Wǒ xīwàng míngtiān bù huì xiàyǔ.
 English: I hope it won't rain tomorrow.
 
 Chinese: 刚刚下雨，现在天气很凉爽。
-Pinyin: Gānggang xià yǔ, xiànzài tiānqì hěn liángshuǎng.
+Pinyin: Gānggang xiàyǔ, xiànzài tiānqì hěn liángshuǎng.
 English: It just rained, and now the weather is cool.
 
 Chinese: 好久没有下雨了，土地都干裂了。
@@ -2707,7 +2699,7 @@ Pinyin: Zhè shì yī gè xiǎo háizi.
 English: This is a little child.
 
 Chinese: 我喜欢小狗。
-Pinyin: Wǒ xǐhuan xiǎo gǒu.
+Pinyin: Wǒ xǐhuan xiǎogǒu.
 English: I like small dogs.
 
 Chinese: 他有一个小姐姐。
@@ -3159,7 +3151,7 @@ Pinyin: Wǒmen xūyào shí běn shū lái gōngyìng túshūguǎn.
 English: We need ten books to supply the library.
 
 Chinese: 小狗有十个兄弟姐妹。
-Pinyin: Xiǎo gǒu yǒu shí gè xiōngdì jiěmèi.
+Pinyin: xiǎogǒu yǒu shí gè xiōngdì jiěmèi.
 English: The puppy has ten siblings.
 
 Chinese: 今晚十点有一个重要会议。
@@ -5079,7 +5071,7 @@ Pinyin: Wǒ tīngxiě le shí gè jùzi.
 English: I transcribed ten sentences.
 
 Chinese: 外边下雨了，我要去拿雨伞。
-Pinyin: Wàibian xià yǔ le, wǒ yào qù ná yǔsǎn.
+Pinyin: Wàibian xiàyǔ le, wǒ yào qù ná yǔsǎn.
 English: It's raining outside, I need to get an umbrella.
 
 Chinese: 外边太冷了，我要关窗户。
@@ -6811,7 +6803,7 @@ Pinyin: Huǒchē yī dào zhàn, chéngkè men jiù gǎnjǐn xiàchē.
 English: As soon as the train arrived at the station, the passengers hurriedly disembarked.
 
 Chinese: 因为下雨，我没能在汽车站下车。
-Pinyin: Yīnwèi xià yǔ, wǒ méi néng zài qìchē zhàn xiàchē.
+Pinyin: Yīnwèi xiàyǔ, wǒ méi néng zài qìchē zhàn xiàchē.
 English: Because of the rain, I couldn't get off at the bus station.
 
 Chinese: 司机宣布危险过去了，乘客们可以下车了。
@@ -7175,15 +7167,19 @@ Pinyin: Bù yào dǎkāi bīngxiāng, lǐmiàn méi chī de.
 English: Don't open the refrigerator, there's no food inside.
 
 Chinese: 昨天晚上下了点儿小雨。
-Pinyin: Zuótiān wǎnshang xià le diǎnr xiǎo yǔ.
+Pinyin: Zuótiān wǎnshang xià le diǎnr xiǎoyǔ.
 English: There was a light drizzle last night.
 
 Chinese: 今天会下雨吗？
 Pinyin: Jīntiān huì xiàyǔ ma?
 English: Will it rain today?
 
+Chinese: 昨天晚上有雨。
+Pinyin: Zuótiān wǎnshàng yǒu yǔ.
+English: There was rain last night.
+
 Chinese: 下大雨时，记得带雨伞。
-Pinyin: Xià dà yǔ shí, jìde dài yǔsǎn.
+Pinyin: Xià dàyǔ shí, jìde dài yǔsǎn.
 English: Remember to bring an umbrella when it rains heavily.
 
 Chinese: 我喜欢听下雨的声音。
@@ -7903,7 +7899,7 @@ Pinyin: Shàngbān lùshang jiāotōng hěn yōngjǐ.
 English: The traffic is very congested during the commute to work.
 
 Chinese: 因为下大雨，所以我上班迟到了。
-Pinyin: Yīnwèi xià dà yǔ, suǒyǐ wǒ shàngbān chídào le.
+Pinyin: Yīnwèi xià dàyǔ, suǒyǐ wǒ shàngbān chídào le.
 English: Because of the heavy rain, I was late for work.
 
 Chinese: 你可以灵活地安排你的上班时间吗？
