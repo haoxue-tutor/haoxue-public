@@ -60,7 +60,7 @@ Pinyin: tā měitiān duàn liàn shēn tǐ.
 
 Chinese: 我们每天学习中文。
 English: We study Chinese every day.
-Pinyin: wǒ men měitiān xué xí zhōngwén.
+Pinyin: wǒmen měitiān xué xí zhōngwén.
 
 Chinese: 这个孩子每天都很开心。
 English: This child is happy every day.
@@ -136,7 +136,7 @@ Pinyin: tā shì wǒ de péngyou.
 
 Chinese: 今天是星期一。
 English: Today is Monday.
-Pinyin: jīntiān shì xīngqī yī.
+Pinyin: jīntiān shì xīngqīyī.
 
 Chinese: 这个是我的书。
 English: This is my book.
@@ -491,7 +491,7 @@ Pinyin: Zhè běn shū yǒu liǎng bǎi yè.
 English: This book has two hundred pages.
 
 Chinese: 到车站还有两站地。
-Pinyin: Dào chēzhàn hái yǒu liǎng zhàn dì.
+Pinyin: Dào chēzhàn háiyǒu liǎng zhàn dì.
 English: There are two more stops to the train station.
 
 Chinese: 我需要你的两个签名。
@@ -831,7 +831,7 @@ Pinyin: wǒ zhù de dìfang yǒu hěn duō shāngdiàn.
 English: There are many stores where I live.
 
 Chinese: 我们去医院看病。
-Pinyin: wǒmen qù yīyuàn kàn bìng.
+Pinyin: wǒmen qù yīyuàn kànbìng.
 English: We go to the hospital to see a doctor.
 
 Chinese: 这家医院的设施很现代化。
@@ -1167,7 +1167,7 @@ Pinyin: qǐngwèn nǐ shēng rì shì jǐ yuè jǐ hào?
 English: May I ask on which month and day is your birthday?
 
 Chinese: 星期一是工作日。
-Pinyin: Xīngqī yī shì gōngzuò rì.
+Pinyin: Xīngqīyī shì gōngzuò rì.
 English: Monday is a workday.
 
 Chinese: 周末是星期六和星期天。
@@ -1235,15 +1235,15 @@ Pinyin: wǒ xiànzài zài xuéxiào.
 English: I am now at school.
 
 Chinese: 你现在在哪里工作？
-Pinyin: nǐ xiànzài zài nǎ lǐ gōng zuò?
+Pinyin: nǐ xiànzài zài nǎ lǐ gōngzuò?
 English: Where are you working now?
 
 Chinese: 现在我们去吃饭吧。
-Pinyin: xiànzài wǒ men qù chī fàn ba.
+Pinyin: xiànzài wǒmen qù chīfàn ba.
 English: Let's go eat now.
 
 Chinese: 他现在很忙，不能和你聊天。
-Pinyin: tā xiànzài hěn máng, bù néng hé nǐ liáo tiān.
+Pinyin: tā xiànzài hěn máng, bùnéng hé nǐ liáotiān.
 English: He is busy now and can't chat with you.
 
 Chinese: 早上是我最喜欢的时候。
@@ -1327,7 +1327,7 @@ Pinyin: Nǚ'ér hěn piàoliang.
 English: The daughter is very beautiful.
 
 Chinese: 她是我妈妈的女儿。
-Pinyin: tā shì wǒ mā mā de nǚ'ér.
+Pinyin: tā shì wǒ māmā de nǚ'ér.
 English: She is my mother's daughter.
 
 Chinese: 我有一个女儿和一个儿子。
@@ -1335,11 +1335,11 @@ Pinyin: wǒ yǒu yī gè nǚ'ér hé yī gè érzi.
 English: I have a daughter and a son.
 
 Chinese: 她是独生女儿。
-Pinyin: tā shì dú shēng nǚ'ér.
+Pinyin: tā shì dúshēng nǚ'ér.
 English: She is the only daughter.
 
 Chinese: 我的女儿非常聪明。
-Pinyin: wǒ de nǚ'ér fēi cháng cōng míng.
+Pinyin: wǒ de nǚ'ér fēicháng cōngmíng.
 English: My daughter is very smart.
 
 Chinese: 我喜欢我的老师。
@@ -1419,23 +1419,23 @@ Pinyin: péngyou zhījiān yīnggāi hùxiāng bāngzhù.
 English: Friends should help each other.
 
 Chinese: 他是一位医生。
-Pinyin: tā shì yī wèi yī shēng.
+Pinyin: tā shì yī wèi yīshēng.
 English: He is a doctor.
 
 Chinese: 我弟弟想成为一名医生。
-Pinyin: wǒ dì dì xiǎng chéng wéi yī míng yī shēng.
+Pinyin: wǒ dìdì xiǎng chéngwéi yī míng yīshēng.
 English: My younger brother wants to become a doctor.
 
 Chinese: 医生每天都在救助病人的生命。
-Pinyin: yī shēng měitiān dōu zài jiù zhù bìng rén de shēng mìng.
+Pinyin: yīshēng měitiān dōu zài jiù zhù bìngrén de shēngmìng.
 English: Doctors save lives every day.
 
 Chinese: 我们应该尊重医生的工作。
-Pinyin: wǒ men yīng gāi zūn zhòng yī shēng de gōng zuò.
+Pinyin: wǒmen yīnggāi zūnzhòng yīshēng de gōngzuò.
 English: We should respect the work of doctors.
 
 Chinese: 别担心，医生会帮你的。
-Pinyin: bié dān xīn, yī shēng huì bāng nǐ de.
+Pinyin: bié dān xīn, yīshēng huì bāng nǐ de.
 English: Don't worry, the doctor will help you.
 
 Chinese: 他是一位先生。
@@ -1447,7 +1447,7 @@ Pinyin: zhè wèi xiānsheng zài děng nǐ.
 English: This gentleman is waiting for you.
 
 Chinese: 面试的时候，请叫我先生。
-Pinyin: miàn shì de shíhou, qǐng jiào wǒ xiānsheng.
+Pinyin: miànshì de shíhou, qǐng jiào wǒ xiānsheng.
 English: During the interview, please call me Sir.
 
 Chinese: 那个先生是我的老师。
@@ -1455,7 +1455,7 @@ Pinyin: nà gè xiānsheng shì wǒ de lǎoshī.
 English: That gentleman is my teacher.
 
 Chinese: 这家餐厅的服务员对待每位顾客都很有礼貌，非常先生。
-Pinyin: zhè jiā cān tīng de fú wù yuán duì dài měi wèi gù kè dōu hěn yǒu lǐ mào, fēi cháng xiānsheng.
+Pinyin: zhè jiā cāntīng de fúwùyuán duìdài měi wèi gùkè dōu hěn yǒulǐmào, fēicháng xiānsheng.
 English: The waiter in this restaurant treats every customer very politely, very gentlemanly.
 
 Chinese: 小姐，请问洗手间在哪里？
@@ -1507,7 +1507,7 @@ Pinyin: Měitiān hē bā bēi shuǐ duì shēntǐ hǎo.
 English: Drinking eight glasses of water every day is good for your health.
 
 Chinese: 我渴了，想要一瓶水。
-Pinyin: Wǒ kě le, xiǎng yào yī píng shuǐ.
+Pinyin: Wǒ kě le, xiǎngyào yī píng shuǐ.
 English: I'm thirsty and I want a bottle of water.
 
 Chinese: 这个河里的水很清澈。
@@ -2631,7 +2631,7 @@ Pinyin: Tiānqì yùbào shuō jīntiān huì xiàyǔ, méiguānxi, wǒmen kěy�
 English: The weather forecast says it will rain today, no problem, we can go for a picnic another day.
 
 Chinese: 你把我的笔弄坏了，没关系，我还有别的。
-Pinyin: Nǐ bǎ wǒ de bǐ nòng huài le, méiguānxi, wǒ hái yǒu biéde.
+Pinyin: Nǐ bǎ wǒ de bǐ nòng huài le, méiguānxi, wǒ háiyǒu biéde.
 English: You broke my pen, it's all right, I have others.
 
 Chinese: 你帮了大忙，不客气是不行的。
@@ -5267,7 +5267,7 @@ Pinyin: Lǎoshī, wǒ kěyǐ zài xiàkè hòu gēn nǐ tán tán ma?
 English: Teacher, can I talk to you after class?
 
 Chinese: 下课后，我要去图书馆还书。
-Pinyin: Xiàkè hòu, wǒ yào qù túshūguǎn huán shū.
+Pinyin: Xiàkè hòu, wǒ yào qù túshūguǎn huánshū.
 English: After class, I need to return books to the library.
 
 Chinese: 你通常下课后做什么？
@@ -5935,7 +5935,7 @@ Pinyin: Hòubian liǎng zhāng shì zhè běn shū zuì jīngcǎi de bùfen。
 English: The last two chapters are the most exciting part of the book.
 
 Chinese: 后边还有更多精彩的表演呢，不要走！
-Pinyin: Hòubian hái yǒu gèng duō jīngcǎi de biǎoyǎn ne, bùyào zǒu!
+Pinyin: Hòubian háiyǒu gèng duō jīngcǎi de biǎoyǎn ne, bùyào zǒu!
 English: There are more wonderful performances coming up, don't leave!
 
 Chinese: 后边那栋大楼是市政府。
@@ -7199,7 +7199,7 @@ Pinyin: Zhè wèi xiānsheng shì wǒ de péngyou.
 English: This gentleman is my friend.
 
 Chinese: 先生，您想要点什么饮料？
-Pinyin: Xiānsheng, nín xiǎng yào diǎn shénme yǐnliào?
+Pinyin: Xiānsheng, nín xiǎngyào diǎn shénme yǐnliào?
 English: Sir, what beverage would you like?
 
 Chinese: 先生，您有票吗？
@@ -8047,7 +8047,7 @@ Pinyin: Nǐ tīngdào xīnwén le ma?
 English: Have you heard the news?
 
 Chinese: 我听到一声巨响。
-Pinyin: Wǒ tīngdào yī shēng jùxiǎng.
+Pinyin: Wǒ tīngdào yīshēng jùxiǎng.
 English: I heard a loud bang.
 
 Chinese: 你听到门铃响了吗？
@@ -8685,3 +8685,103 @@ English: The car started moving.
 Chinese: 她笑起来了。
 Pinyin: Tā xiào qilai le.
 English: She started laughing.
+
+Chinese: 这个小孩病得很重。
+Pinyin: Zhè gè xiǎohái bìng dehěn zhòng.
+English: This child is very sick.
+
+Chinese: 我妈妈病了。
+Pinyin: Wǒ māma bìng le.
+English: My mom is sick.
+
+Chinese: 他病好了。
+Pinyin: Tā bìng hǎo le.
+English: He has recovered from his illness.
+
+Chinese: 我看着书。
+Pinyin: Wǒ kàn zhe shū.
+English: I am looking at the book.
+
+Chinese: 他看着我。
+Pinyin: Tā kàn zhe wǒ.
+English: He is looking at me.
+
+Chinese: 她看着窗外。
+Pinyin: Tā kàn zhe chuāng wài.
+English: She is looking out of the window.
+
+Chinese: 孩子看着电视。
+Pinyin: Háizi kàn zhe diànshì.
+English: The child is watching TV.
+
+Chinese: 爸爸看着报纸。
+Pinyin: Bàba kàn zhe bàozhǐ.
+English: Dad is reading the newspaper.
+
+Chinese: 我看着手机。
+Pinyin: Wǒ kàn zhe shǒujī.
+English: I am looking at the phone.
+
+Chinese: 他们看着地图。
+Pinyin: Tā men kàn zhe dìtú.
+English: They are looking at the map.
+
+Chinese: 她看着镜子。
+Pinyin: Tā kàn zhe jìngzi.
+English: She is looking in the mirror.
+
+Chinese: 我看着画。
+Pinyin: Wǒ kàn zhe huà.
+English: I am looking at the painting.
+
+Chinese: 他看着星星。
+Pinyin: Tā kàn zhe xīngxing.
+English: He is looking at the stars.
+
+Chinese: 我不饿。
+Pinyin: Wǒ bù è.
+English: I am not hungry.
+
+Chinese: 他不高兴。
+Pinyin: Tā bù gāoxìng.
+English: He is not happy.
+
+Chinese: 这不是我的书。
+Pinyin: Zhè bù shì wǒ de shū.
+English: This is not my book.
+
+Chinese: 她不喜欢苹果。
+Pinyin: Tā bù xǐhuān píngguǒ.
+English: She does not like apples.
+
+Chinese: 他不会游泳。
+Pinyin: Tā bù huì yóuyǒng.
+English: He cannot swim.
+
+Chinese: 我不明白。
+Pinyin: Wǒ bù míngbai.
+English: I do not understand.
+
+Chinese: 这个孩子不哭。
+Pinyin: Zhè gè háizi bù kū.
+English: This child is not crying.
+
+Chinese: 我们不说谎。
+Pinyin: Wǒmen bù shuōhuǎng.
+English: We do not telllies.
+
+Chinese: 我还不会说汉语。
+Pinyin: Wǒ hái bù huì shuō hànyǔ.
+English: I still can't speak Chinese.
+
+Chinese: 他还在这里。
+Pinyin: Tā hái zài zhèlǐ.
+English: He is still here.
+
+Chinese: 今天还下雨。
+Pinyin: Jīntiān hái xiàyǔ.
+English: It's still raining today.
+
+Chinese: 他还没回家。
+Pinyin: Tā hái méi huíjiā.
+English: He hasn't gone home yet.
